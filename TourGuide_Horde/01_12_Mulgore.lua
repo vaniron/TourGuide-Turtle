@@ -71,7 +71,6 @@ A Swoop Hunting |QID|761| |N|(npc:2947) in {Bloodhoof Village} (48.69, 59.40)|
 T Rite of Vision (1) |QID|767| |N|(npc:3054) in {Bloodhoof Village} (47.77, 57.58)|
 A Rite of Vision (2) |QID|771| |N|(npc:3054) in {Bloodhoof Village} (47.77, 57.58)|
 A Mazzranache |QID|766| |N|(npc:3055) in {Bloodhoof Village} (47.05, 57.07)|
---A Kyle's Gone Missing! |QID|11129| |N|Ahab Wheathoof. North of town, by the bridge (48.2, 53.3)|
 N As you go.. |AYG|743| |QID|766.2| |N|Kill any (npc:3035) until you find (item:4805) and (npc:2969) until you find (item:4807)| |W| |NPC|3035, 2969, 2958, 2956|
 N (item:4809) |QID|771.2| |N|Collect 2 (item:4809) from the ground near the base of the trees (50.27, 66.53)| |Z|1412| |W|
 N (item:4808) |QID|771.1| |N|Collect 2 (item:4808) from {Winterhoof Water Well}<br/><b>Collect 2 (item:4809) from the ground (53.48, 66.26)| |W|
@@ -95,7 +94,6 @@ R Bloodhoof Village |QID|754| |N|Travel to {Bloodhoof Village} (47.47, 60.26)|
 T Dangers of the Windfury |QID|743| |N|(npc:2985) in {Bloodhoof Village} (47.33, 61.94)|
 T Poison Water |QID|748| |N|(npc:2948) in {Bloodhoof Village} (48.50, 60.46)|
 A Winterhoof Cleansing |QID|754| |N|(npc:2948) in {Bloodhoof Village} (48.50, 60.46)|
---C Kyle's Gone Missing! |QID|11129| |N|Find the dog running around the village (48, 58) and feed him the [Tender Strider Meat]| |U|33009| |W|
 T Swoop Hunting |QID|761| |N|(npc:2947) in {Bloodhoof Village} (48.69, 59.40)|
 T Rite of Vision (2) |QID|771| |N|(npc:3054) in {Bloodhoof Village} (47.77, 57.58)|
 A Rite of Vision (3) |QID|772| |N|(npc:3054) in {Bloodhoof Village} (47.77, 57.58)|
@@ -113,7 +111,6 @@ R Bloodhoof Village |QID|756| |N|Travel to {Bloodhoof Village} (48.50, 60.46)|
 T Winterhoof Cleansing |QID|754| |N|(npc:2948) in {Bloodhoof Village} (48.50, 60.46)|
 A Thunderhorn Totem |QID|756| |N|(npc:2948) in {Bloodhoof Village} (48.50, 60.46)|
 U (item:4823) |QID|773| |N|Use (item:4823)| |U|4823|
---T Kyle's Gone Missing! |QID|11129| |N|Ahab Wheathoof. North of town, by the bridge (48.2, 53.3)|
 
 C Dwarven Digging |QID|746| |N|Kill (npc:2989) for 5 (item:4702), then break them using (item:4702) next to the forge in {Bael'dun Digsite} (31.21, 49.87)| |U|4702| |W| |OBJ|209|
 T Rite of Vision (3) |QID|772| |N|Follow the vision, or just run to the cave where you'll find Seer Wiserunner he's leading you to (32.7, 36)|
