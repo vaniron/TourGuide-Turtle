@@ -57,12 +57,12 @@ A In Favor of the Light |C|Priest| |QID|5626| |R|Human|
 T Grape Manifest |N|Upstairs in the abbey| |QID|3905|
 A Rest and Relaxation |N|Along the road south out of the valley| |QID|2158|
 
-T Report to Goldshire |N|Follow the road south to Goldshire| |QID|54|
+T Report to Goldshire |N|Follow the road south to Goldshire, Marhsall Dughan| |QID|54|
 A The Fargodeep Mine |QID|62|
-A Gold Dust Exchange |QID|47|
+A Gold Dust Exchange |N| Remmy Two Times| |QID|47|
 T Rest and Relaxation |QID|2158|
 h Goldshire
-A Kobold Candles |QID|60|
+A Kobold Candles |N| William Pestle| |QID|60|
 T In Favor of the Light |C|Priest| |QID|5626| |R|Human|
 A Garments of the Light |C|Priest| |QID|5625| |R|Human|
 C Garments of the Light |N|Southeast shore of Crystal Lake (48.2, 68.0)| |C|Priest| |QID|5625| |R|Human|
@@ -93,13 +93,13 @@ C The Fargodeep Mine |QID|62|
 H Goldshire |SZ|Lion's Pride Inn|
 T Note to William |QID|107|
 A Collecting Kelp |QID|112|
+T Kobold Candles |QID|60|
 T Gold Dust Exchange |N|Back in Goldshire| |QID|47|
 A A Fishy Peril |QID|40|
 T A Fishy Peril |QID|40|
 A Further Concerns |QID|35|
 T The Fargodeep Mine |QID|62|
 A The Jasperlode Mine |QID|76|
-T Kobold Candles |QID|60|
 A Shipment to Stormwind |QID|61|
 
 C Collecting Kelp |N|To the east around the Crystal Lake| |QID|112|
@@ -109,7 +109,7 @@ A Find the Lost Guards |QID|37|
 A Protect the Frontier |QID|52|
 
 A Red Linen Goods |N|To the northeast at Eastvale Logging Camp (79.5, 68.7)| |QID|83|
-A A Bundle of Trouble |QID|5545|
+A A Bundle of Trouble |N| Supervisor Raelen| |QID|5545|
 
 N Kill any bears you find
 C The Jasperlode Mine |N|To the northwest (60.5, 50.1). You only need to run in halfway or so, then hightail it out!| |QID|76|
@@ -123,14 +123,12 @@ C A Bundle of Trouble |N|North of the camp| |QID|5545|
 C Protect the Frontier |QID|52|
 
 T A Bundle of Trouble |QID|5545|
-T Report to Thomas |N|Back down by the bridge| |QID|71|
+T Report to Thomas |N|Back down by the bridge (73.8,72.2)| |QID|71|
 A Deliver Thomas' Report |QID|39|
 T Protect the Frontier |QID|52|
 
 C Princess Must Die!|N|At the Brackwell Pumpkin Patch (69,79)| |QID|88|
 C Red Linen Goods |QID|83|
-
-T Red Linen Goods |QID|83|
 
 H Goldshire |SZ|Lion's Pride Inn|
 A Speak with Jennea |C|Mage| |QID|1860| |R|Human|
@@ -141,14 +139,14 @@ A The Escape |QID|114|
 T Deliver Thomas' Report |QID|39|
 T The Jasperlode Mine |QID|76|
 A Westbrook Garrison Needs Help! |QID|239|
-A Elmore's Task |QID|1097|
+A Elmore's Task |N| Smith Argus (41.6,65.6)| |QID|1097|
 A A Warrior's Training |C|Warrior| |QID|1638| |R|Human|
 
-T The Escape |N|Back at the Maclure Vineyards| |QID|114|
-T Goldtooth |N|Back at the Stonefield Farm| |QID|87|
+T The Escape |N|Back at the Maclure Vineyards (43.0,89.6)| |QID|114|
+T Goldtooth |N|Back at the Stonefield Farm (34.6,84.2)| |QID|87|
 T Princess Must Die! |QID|88|
 
-T Westbrook Garrison Needs Help! |N|Follow the road west until you're almost to Westfall| |QID|239|
+T Westbrook Garrison Needs Help! |N|Follow the road west until you're almost to Westfall (24.2,74.6)| |QID|239|
 A Riverpaw Gnoll Bounty |QID|11|
 C Riverpaw Gnoll Bounty |QID|11|
 T Riverpaw Gnoll Bounty |QID|11|
@@ -159,14 +157,14 @@ T Furlbrow's Deed |O| |QID|184|
 A Report to Gryan Stoutmantle |QID|109|
 A Westfall Stew |QID|38|
 T Westfall Stew |N|Follow the road south to Saldean's Farm (56.41, 30.53)| |Z|Westfall| |QID|38|
-T Report to Gryan Stoutmantle |N|South at Sentinel Hill, in front of the tower| |QID|109|
+T Report to Gryan Stoutmantle |N|South at Sentinel Hill, in front of the tower (56.2,47.6)| |QID|109|
 A A Swift Message |N|Inside the tower| |R|Human| |QID|6181|
-T A Swift Message |R|Human| |QID|6181|
+T A Swift Message |N| Flight point dude| |R|Human| |QID|6181|
 A Continue to Stormwind |R|Human| |QID|6281|
 
 F Stormwind City
 T Shipment to Stormwind |N|In the Trade District (56,64)| |Z|Stormwind City| |QID|61|
-A Wine Shop Advert |N|In front of the Apothecary. He won't have a '!' because this is a "Low Level" quest... but hey, free EXP| |QID|332|
+A Wine Shop Advert |N|In front of the Apothecary. He won't have a '!' because this is a "Low Level" quest... but hey, free EXP (57.0,63.6)| |QID|332|
 A Harlan Needs a Resupply |N|North of Weller's Arsenal (55.10, 56.22)| |Z|Stormwind City| |QID|333|
 h Stormwind City
 T Wine Shop Advert |N|Outside the Trade District along the Canals (52.41, 67.65)| |Z|Stormwind City| |QID|332|
