@@ -21,6 +21,7 @@ A Hallowed Letter |C|Priest| |QID|3103| |R|Human|
 A Tainted Letter |C|Warlock| |QID|3105| |R|Human|
 
 A Investigate Echo Ridge |QID|15|
+
 A Brotherhood of Thieves |QID|18|
 
 T Consecrated Letter |C|Paladin| |QID|3101| |R|Human|
