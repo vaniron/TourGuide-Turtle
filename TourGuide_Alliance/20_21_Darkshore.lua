@@ -1,7 +1,6 @@
 TourGuide:RegisterGuide("Darkshore (20-21)", "Ashenvale (22-24)", "Alliance", function()
 return [[
 H Auberdine
-A Journey to Astranaar |N|On the dock| |QID|1133|
 T Onu |N|South at Grove of the Ancients| |QID|948|
 A The Master's Glaive |QID|944|
 C The Master's Glaive |N|Southwest from Grove of the Ancients| |QID|944|
@@ -15,6 +14,12 @@ C Therylune's Escape |QID|945|
 T The Absent Minded Prospector (Part 1) |N|West from The Twilight Camp at Remtravel's Excavation| |QID|729|
 A The Absent Minded Prospector (Part 2) |N|Pain in the ass escort around the excavation. You might want to just abandon this (and skip the follow-up quests in the upcoming guides).| |QID|731|
 C The Absent Minded Prospector (Part 2) |QID|731|
+
+A Beached Sea Creature |N|Goto (31.27,87.39)| |QID|4733|
+A Beached Sea Turtle |N|Goto (31.24,85.63)| |QID|4732|
+A Beached Sea Turtle |N|Goto (31.24,85.63)| |QID|4731|
+A Beached Sea Creature |N|Goto (32.66,80.81)| |QID|4730|
+
 C WANTED: Murkdeep! |N|Follow the shore north to the murloc camp (36.56, 76.65). Clear the camp, after that there's 3 waves of murlocs. Murkdeep is in the last wave.| |QID|4740|
 
 T Return to Onu |N|Back at Grove of the Ancients| |QID|950|

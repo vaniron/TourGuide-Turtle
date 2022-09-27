@@ -2,6 +2,10 @@ TourGuide:RegisterGuide("Wetlands (25-27)", "Redridge Mountains (27-28)", "Allia
 return [[
 F Auberdine |QID|741|
 T WANTED: Murkdeep! |T| |QID|4740|
+T Beached Sea Creature |T| |QID|4733|
+T Beached Sea Turtle |T| |QID|4732|
+T Beached Sea Turtle |T| |QID|4731|
+T Beached Sea Creature |T| |QID|4730|
 T The Absent Minded Prospector (Part 2) |T| |QID|731|
 A The Absent Minded Prospector (Part 3) |T| |QID|741|
 F Darnassus |QID|741|
