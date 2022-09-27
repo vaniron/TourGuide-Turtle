@@ -95,8 +95,7 @@ C The Totem of Infliction |N|Ghoul fangs only seem to drop in the catacombs. If 
 T Sven's Camp |N|Camp to the west (8,34)| |QID|230|
 A The Shadowy Figure |QID|262|
 
-R Stranglethorn Vale |N|Take the road east towards Darkshire, but head south at the fork in the center of the zone.| |QID|158|
-F Darkshire |N|There is a flight point at the Rebel Camp along the north edge of STV (38.1, 3.8)| |Z|Stranglethorn Vale|
+R Darkshire 
 T The Totem of Infliction |T| |QID|101|
 T The Shadowy Figure |T| |QID|262|
 A The Shadowy Search Continues |T| |QID|265|
