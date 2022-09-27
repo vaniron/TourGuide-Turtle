@@ -39,7 +39,7 @@ T Bingles' Missing Supplies |N|Remember Bingles at the shore?| |QID|2038|
 
 F City of Ironforge |R|Human, Dwarf, Gnome|
 R City of Ironforge |R|Night Elf, Draenei|
-F Grab flight point |R|Night Elf, Draenei|
+f Grab flight point |R|Night Elf, Draenei|
 T Report to Ironforge |N|Hall of Explorers. Skip the follow-up.| |QID|301|
 ]]
 end)

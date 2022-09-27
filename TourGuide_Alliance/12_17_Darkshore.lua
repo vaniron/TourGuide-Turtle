@@ -1,7 +1,7 @@
 
 TourGuide:RegisterGuide("Darkshore (12-17)", "Loch Modan (17-18)", "Alliance", function()
 return [[
-b Auberdine |N|Take the boat from Menethil Harbor or fly from Teldrassil|
+b Auberdine |N|Take the boat from Stormwind Harbor or fly from Teldrassil|
 
 A Washed Ashore (Part 1) |QID|3524|
 T Flight to Auberdine |R|Night Elf| |QID|6342|
@@ -88,11 +88,9 @@ A Beached Sea Creature (Part 2) |N|Further south down the shore (36.05, 70.78)| 
 T Grove of the Ancients |N|East at Grove of the Ancients (43,76), of course| |R|Night Elf| |QID|952|
 C Buzzbox 525 |QID|1003| |N|Head south across the road from the Grove of the Ancients, kill Grizzled Thistle Bears|
 T Buzzbox 525 |QID|1003| |N|Back on the road, near the path to the digsite, opposite the white bear Grimclaw (41.42, 80.59).|
-A Beached Sea Creature (Part 3) |N|On the shore northwest of the dig site (32.75, 80.69)| |QID|4730|
 
 H Auberdine
 T Beached Sea Creature (Part 2) |QID|4728|
-T Beached Sea Creature (Part 3) |QID|4730|
 T Beached Sea Turtle (Part 1) |QID|4725|
 T Beached Sea Turtle (Part 2) |QID|4722|
 A Fruit of the Sea |N|On the shore below the flightpath| |QID|1138|

@@ -4,21 +4,30 @@ R Stormwind City |N|Use the Deeprun Tram|
 T Stormpike's Order |QID|1338|
 f Grab flight point |R|Dwarf, Night Elf, Gnome, Draenei|
 
+A Redridge Rendezvous |N| SI:7| |QID|2281| |C|Rogue|
+
 R Redridge Mountains
 A Encroaching Gnolls |QID|244|
 T Encroaching Gnolls |QID|244| |N|Follow the road east until you are at the bridge|
 A Assessing the Threat |QID|246|
 A The Lost Tools |QID|125|
 A Hilary's Necklace |N|On the dock| |QID|3741|
+A The Price of Shoes |N|Verner Osgood| |QID|118|
 A Selling Fish |N|Man next to the shed| |QID|127|
 A A Free Lunch |N|Inside the inn| |QID|129|
 A Redridge Goulash |N|West of Lakeshire, inside the big house| |QID|92|
+
+T Redridge Rendezvous |N|(28.06,52.04)| |C|Rogue|
+A Alther's Mill |QID|2282| |C|Rogue|
 
 K Great Goretusks |N|West of the lake, need [Great Goretusk Snout] x5 for "Redridge Goulash"| |L|2296 5|
 C Hilary's Necklace |N|Glinting Mud, underwater| |QID|3741|
 C The Lost Tools |N|Box is east of the bridge, underwater| |QID|125|
 C Selling Fish |N|Kill the murlocks| |QID|127|
 K Murlocs |N|Need [Murloc Fin] x8 for later| |L|1468 8|
+
+N Get lock picking to 95 (45.84,37.31)| |C| Rogue|
+C Alther's Mill| |N|goto Redridge Mountains (51.98,45.22)| |QID|2282| |C| Rogue|
 
 T The Lost Tools |QID|125|
 A The Everstill Bridge |QID|89|
