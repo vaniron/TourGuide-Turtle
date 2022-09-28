@@ -19,7 +19,7 @@ C Howling in the Hills |QID|126| |N|Kill Yowler in Redridge Canyons, he patrol's
 C Blackrock Menace |QID|20| |N|Collect 10 [Battleworn Axe] which drop from Orcs found along the Northern road or at their encampment at (29.2, 11.6)|
 C Blackrock Bounty |QID|128| |N|Kill 15 [Blackrock Champion] which are found in Render's Rock (31, 14)|
 A Missing In Action |QID|219| |N|Corporal Keeshan in Render's Rock (28.36, 12.74)|
-C Missing In Action |QID|219| |N|This is an escort quest where you must protect (npc:349) through the cave. He is a strong NPC who you should let tank but also be sure to pull the mobs to him instead of him charging into them to prevent any unwanted adds. He is an elite warrior so will help taunt any mobs off you, skip this quest if its too hard (33.41, 48.52)|
+C Missing In Action |QID|219| |N|This is an escort quest where you must protect him through the cave. He is a strong NPC who you should let tank but also be sure to pull the mobs to him instead of him charging into them to prevent any unwanted adds. He is an elite warrior so will help taunt any mobs off you, skip this quest if its too hard (33.41, 48.52)|
 
 T Missing In Action |QID|219| |N|Marshal Marris in Lakeshire (33.4, 48.9)|
 T Blackrock Menace |QID|20| |N|Marshal Marris in Lakeshire (33.4, 48.9)|
