@@ -21,7 +21,7 @@ T Culling the Threat |QID|1054| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)|
 
 R Silverwind Refuge |QID|1016| |N|Travel to Silverwind Refuge (49.81, 67.20)|
 A Elemental Bracers |QID|1016| |N|[Sentinel Velene Starstrike] in Silverwind Refuge (49.81, 67.20)|
-K Befouled Water Elemental |QID|1016| |N|Kill Befouled Water Elemental until you collect 5 bracers in Mystral Lake (49.4, 71.1)| |W| |L|12220 5|
+K Befouled Water Elemental |QID|1016| |N|Kill Befouled Water Elemental until you collect 5 bracers in Mystral Lake (49.4, 71.1)| |L|12220 5|
 C Elemental Bracers |QID|1016| |N|Use the [Divining Scroll] after collect 5 bracers| |U|5456|
 T Elemental Bracers |QID|1016| |N|turn in Silverwind Refuge (49.81, 67.20)|
 
