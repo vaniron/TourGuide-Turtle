@@ -56,7 +56,7 @@ T The Troll Cave |QID|182| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.7
 A The Stolen Journal |QID|218| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
 T Beginnings |QID|1599| |N|Alamar Grimm in Coldridge Valley (28.70, 66.17)| |C|Warlock|
 C The Stolen Journal |QID|218| |N|Go to the cave and kill Grik'nir the Cold and collect Stolen Journal (26.76, 79.75) (27.56, 80.92) (29.12, 78.84) (30.49, 80.10)|
-T The Stolen Journal |QID|218| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)| 
+T The Stolen Journal |QID|218| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
 A Senir's Observations (1) |QID|282| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
 
 T A Refugee's Quandary |QID|3361| |N|Felix Whindlebolt in Coldridge Valley (28.80, 68.99) (28.56, 67.74)|
@@ -174,8 +174,8 @@ A Ironband's Compound |QID|1681| |N|Tormus Deepforge in The Great Forge (48.74, 
 R Ironband's Compound |QID|1681| |N|Travel to Ironband's Compound (57.32, 51.83) (74.79, 56.02) (77.95, 62.21)| |C|Warrior|
 C Ironband's Compound |QID|1681| |N|Collect Umbral Ore from the Ironband lockbox in Ironband's Compound (77.95, 62.21)| |C|Warrior|
 
-R The Great Forge |QID|2238| |N|Travel to The Great Forge<br/><b>You can die on purpose and resurrect to get there quicker (47.20, 42.18) (51.48, 39.74) (53.87, 34.44) (48.65, 43.07)|  |C|Warrior, Hunter, Rogue|
-R The Great Forge |QID|2238| |N|Travel to The Great Forge<br/><b>You can die on purpose and resurrect to get there quicker (47.20, 42.18) (51.48, 39.74) (53.87, 34.44) (48.65, 43.07)|  |C|Warlock, Mage|
+R The Great Forge |QID|2238| |N|Travel to The Great Forge.You can die on purpose and resurrect to get there quicker (47.20, 42.18) (51.48, 39.74) (53.87, 34.44) (48.65, 43.07)|  |C|Warrior, Hunter, Rogue|
+R The Great Forge |QID|2238| |N|Travel to The Great Forge.You can die on purpose and resurrect to get there quicker (47.20, 42.18) (51.48, 39.74) (53.87, 34.44) (48.65, 43.07)|  |C|Warlock, Mage|
 T Ironband's Compound |QID|1681| |N|Tormus Deepforge in The Great Forge (48.65, 43.07)|  |C|Warrior|
 T Training the Beast |QID|6086| |N|Belia Thundergranite in Hall of Arms (70.93, 85.66)| |C|Hunter|
 T Road to Salvation |QID|2218| |N|Hulfdan Blackbeard in The Forlorn Cavern (51.88, 14.66)| |C|Rogue|
@@ -191,7 +191,7 @@ T Onin's Report |QID|2239| |N|Hulfdan Blackbeard in The Forlorn Cavern (51.89, 1
 A The Slaughtered Lamb |QID|1715| |N|Lago Blackwrench, in The Forlorn Cavern (47.64, 9.76)|  |C|Warlock|
 
 R Deeprun Tram |QID|6661| |N|In the Dwarven District (76.31,51.13)|  |C|Warlock|
-A Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side<br/><br/>Take the tram to get to the Ironforge side| |C|Warlock|
+A Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side.Take the tram to get to the Ironforge side| |C|Warlock|
 C Deeprun Rat Roundup |QID|6661| |N|Capture 5 rats by using the Rat Catcher's Flute. Lead the rats back to Monty. Don't forget to turn in the flute when you're finished| |U|17117| |C|Warlock|
 T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side| |C|Warlock|
 
