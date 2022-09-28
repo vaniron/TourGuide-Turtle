@@ -35,7 +35,7 @@ N As you go... |AYG|1009| |QID|1008| |N|Kill any nagas around The Zoram Strand a
 C The Ancient Statuette |QID|1007| |N|Collect the [Ancient Statuette] laying on the ground in The Zoram Strand (14.2, 20.6)|
 T The Ancient Statuette |QID|1007| |N|Talen in The Zoram Strand (14.81, 31.25)|
 A Ruuzel |QID|1009| |N|Talen in The Zoram Strand (14.81, 31.25)|
-C Ruuzel |QID|1009| |N|Kill Ruuzel collect the [Ring of Zoram]<br/><b>She patrols clockwise around the small island with two bodyguards<br/><b>Or there is a rare that drops the same(7, 14)|
+C Ruuzel |QID|1009| |N|Kill Ruuzel collect the [Ring of Zoram] She patrols clockwise around the small island with two bodyguards, Or there is a rare that drops the same(7, 14)|
 C The Zoram Strand |QID|1008| |N|Kill any nagas which surround The Zoram Strand until you've collected 20 [Wrathtail Head] (15, 24)|
 T Ruuzel |QID|1009| |N|Talen in The Zoram Strand (14.81, 31.25)|
 
