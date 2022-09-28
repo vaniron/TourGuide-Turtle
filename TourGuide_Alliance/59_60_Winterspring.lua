@@ -1,7 +1,5 @@
-local Guide = DugisGuideViewer:RegisterModule("DugisGuide_Leveling_Alliance_En_59_60_Winterspring")
-function Guide:Initialize()
-	function Guide:Load()DugisGuideViewer:RegisterGuide("|cffffd200Azeroth 50-60|r", "1452(59-60)#1452(59-60)#1452(59-60)", "1944(58-62)#1944(58-62)#1944(58-62)", "Alliance", nil, "L", nil, function()
-return [[
+TourGuide:RegisterGuide("Wintersrping (59-60)",nil, "Alliance",function()
+return[[
 
 R Nighthaven |TID|6844| |N|Travel to {Nighthaven} (44.88, 35.58)| |Z|1450| |O|
 T Umber, Archivist |QID|6844| |N|(npc:11939) in {Nighthaven} (44.88, 35.58)| |Z|1450| |O| |NPC|11939|
@@ -15,7 +13,7 @@ T Toxic Horrors |QID|5086| |N|(npc:9298) in {Frostfire Hot Springs} (31.28, 45.1
 A Winterfall Runners |QID|5087| |N|(npc:9298) in {Frostfire Hot Springs} (31.28, 45.17)| |Z|1452| |PRE|5086| |NPC|9298|
 C Winterfall Runners |QID|5087| |N|Find (npc:10916) along the road and kill them to collect (item:12829) (30.67, 42.62) (40.23, 40.80) (48.10, 39.05) (53.39, 34.42)| |Z|1452| |PRE|5086| |NPC|10916|
 
-R Everlook |QID|4809| |N|Travel to {Everlook} (60.89, 37.64)| |Z|1452| 
+R Everlook |QID|4809| |N|Travel to {Everlook} (60.89, 37.64)| |Z|1452|
 T Are We There, Yeti? |QID|5163| |N|(npc:10305) in {Everlook} (60.89, 37.64)| |Z|1452| |O| |NPC|10305|
 T Felnok Steelspring |QID|4808| |N|(npc:10468) in {Everlook} (61.62, 38.60)| |Z|1452| |O| |NPC|10468|
 A Chillwind Horns |QID|4809| |N|(npc:10468) in {Everlook} (61.62, 38.60)| |Z|1452| |PRE|4808| |NPC|10468|
@@ -67,11 +65,7 @@ T Wildkin of Elune |QID|4902| |N|(npc:3516) in {Cenarion Enclave} (34.75, 9.08)|
 R Flame Crest |QID|4810| |N|Travel to {Flame Crest} (65.23, 23.95)| |Z|1428| |PRE|4809|
 T Return to Tinkee |QID|4810| |N|(npc:10267) in {Flame Crest} (65.23, 23.95)| |Z|1428| |PRE|4809| |NPC|10267|
 
-N Guide Complete
+N Guide Complete DING!
 
 ]]
-end, {image = "winterspring.tga", description = [[]]})	end
-	
-	function Guide:Unload()
-	end
-end
+end)

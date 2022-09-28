@@ -63,11 +63,11 @@ A Cleansing the Eye |QID|293| |N|(npc:1217) in {Deepwater Tavern} (10.60, 60.61)
 R Menethil Keep |TID|474| |N|Travel to {Menethil Keep} (9.90, 57.45)| |Z|1437|
 T Defeat Nek'rosh |QID|474| |N|(npc:2104) in {Menethil Keep} (9.90, 57.45)| |Z|1437| |PRE|465| |NPC|2104|
 
-N Guide Complete |N|Tick to continue to the next guide| 
+N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end, {image = "wetlands.tga", description = [[]]})	end
-	
+
 	function Guide:Unload()
 	end
 end

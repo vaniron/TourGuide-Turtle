@@ -1,36 +1,25 @@
-local Guide = DugisGuideViewer:RegisterModule("DugisGuide_Leveling_Alliance_En_29_30_Ashenvale")
-function Guide:Initialize()
-	function Guide:Load()DugisGuideViewer:RegisterGuide("|cffffd200Azeroth 20-30|r", "1440(29-30)#1440(29-30)#1440(29-30)", "1437(30-31)#1437(30-31)#1437(30-31)", "Alliance", nil, "L", nil, function()
-return [[
+TourGuide:RegisterGuide("Ashenvale (29-30)", "Wetlands (30-31)", "Alliance",function()
+return[[
 
 R Deepwater Tavern |QID|324| |N|Travel to {Deepwater Tavern} in {Wetlands} (10.60, 60.55)| |Z|1437|
-T The Doomed Fleet |QID|270| |N|(npc:1217) in {Deepwater Tavern} (10.60, 60.55)| |Z|1437| |O|
-A Lightforge Iron |QID|321| |N|(npc:1217) in {Deepwater Tavern} (10.60, 60.55)| |Z|1437| |PRE|270|
+T The Doomed Fleet |QID|270| |N|Glorin Steelbrow in {Deepwater Tavern} (10.60, 60.55)| |Z|1437| |O|
+A Lightforge Iron |QID|321| |N|Glorin Steelbrow in {Deepwater Tavern} (10.60, 60.55)| |Z|1437| |PRE|270|
 T Lightforge Iron |QID|321| |N|Waterlogged chest in {Menethil Bay} (12.13, 64.18)| |Z|1437| |PRE|270|
 A The Lost Ingots |QID|324| |N|Waterlogged chest in {Menethil Bay} (12.13, 64.18)| |Z|1437| |PRE|270|
 C The Lost Ingots |QID|324| |N|Kill (npc:1418) and collect 5 (item:2702) in {Baradin Bay} (9.64, 66.60)| |Z|1437| |W| |PRE|270| |NPC|1418|
-T The Lost Ingots |QID|324| |N|(npc:1217) in {Deepwater Tavern} (10.59, 60.59)| |Z|1437| |PRE|270| |NPC|1217|
-A Blessed Arm |QID|322| |N|(npc:1217) in {Deepwater Tavern} (10.59, 60.59)| |Z|1437| |PRE|270| |NPC|1217|
+T The Lost Ingots |QID|324| |N|Glorin Steelbrow in {Deepwater Tavern} (10.59, 60.59)| |Z|1437| |PRE|270| |NPC|1217|
+A Blessed Arm |QID|322| |N|Glorin Steelbrow in {Deepwater Tavern} (10.59, 60.59)| |Z|1437| |PRE|270| |NPC|1217|
 
-R Astranaar |QID|4581| |N|Travel to {Astranaar}, take the boat to {Auberdine} then fly to {Astranaar} (34.66, 48.85)| |Z|1440| |NPC|3845|
-A Kayneth Stillwind |QID|4581| |N|(npc:3845) in {Astranaar} (34.66, 48.85)| |Z|1440| |NPC|3845|
-h Astranaar |QID|1021| |N|Speak to (npc:6738) and set hearth in {Astranaar} (36.96, 49.24)| |Z|1440|
-A Raene's Cleansing (1) |QID|991| |N|(npc:3691) in {Astranaar} (36.59, 49.59)| |Z|1440| |NPC|3691|
+R Astranaar |QID|4581| |N|Travel to {Astranaar}, take the boat to Auberdine from Stormwind then fly to Astranaar (34.66, 48.85)| |Z|1440| |NPC|3845|
+A Kayneth Stillwind |QID|4581| |N|Shindrell Swiftfire in {Astranaar} (34.66, 48.85)| |Z|1440| |NPC|3845|
+h Astranaar |QID|1021| |N|Speak to Innkeeper Kimlya and set hearth in {Astranaar} (36.96, 49.24)| |Z|1440|
+
 T The Ruins of Stardust |QID|1034| |N|(npc:3894) in {Astranaar} (37.36, 51.78)| |Z|1440| |O| |NPC|3894|
 A Fallen Sky Lake |QID|1035| |N|(npc:3894) in {Astranaar} (37.36, 51.78)| |Z|1440| |PRE|1034| |NPC|3894|
 
 R The Shrine of Aessina |OID|1021| |N|Travel to {The Shrine of Aessina} (22.2, 52.8)| |Z|1440|
 A The Howling Vale |QID|1022| |N|(npc:3880) in {The Shrine of Aessina} (22.2, 52.8)| |Z|1440| |NPC|3880|
 A Vile Satyr! Dryads in Danger! |QID|1021| |N|(npc:3901) in {The Shrine of Aessina} (21.6, 53.2)| |Z|1440| |NPC|3901|
-
-R Lake Falathim |QID|1023| |N|Travel to {Lake Falathim} (20.32, 42.39)| |Z|1440|
-T Raene's Cleansing (1) |QID|991| |N|(npc:3891) in {Lake Falathim} (20.32, 42.39)| |Z|1440| |NPC|3891|
-A Raene's Cleansing (2) |QID|1023| |N|(npc:3891) in {Lake Falathim} (20.32, 42.39)| |Z|1440| |NPC|3891|
-C Raene's Cleansing (2) |QID|1023| |N|Kill the (npc:3742), (npc:3737) or (npc:3739) at the nearby lake until you've collected the (item:5463) (19, 43)| |W| |NPC|3742, 3737, 3739|
-
-R Astranaar |QID|1024| |N|Travel to {Astranaar} (36.59, 49.59)| |Z|1440|
-T Raene's Cleansing (2) |QID|1023| |N|(npc:3691) in {Astranaar} (36.59, 49.59)| |Z|1440| |NPC|3691|
-A Raene's Cleansing (3) |QID|1024| |N|(npc:3691) in {Astranaar} (36.59, 49.59)| |Z|1440| |NPC|3691|
 
 R Moonwell |QID|1026| |N|Travel to {Moonwell} (48, 47) (53.49, 46.30)| |Z|1440|
 T Raene's Cleansing (3) |QID|1024| |N|(npc:3916) in {Moonwell} (53.49, 46.30)| |Z|1440| |NPC|3916|
@@ -39,13 +28,13 @@ A Raene's Cleansing (4) |QID|1026| |N|(npc:3916) in {Moonwell} (53.49, 46.30)| |
 R Night Run |QID|1140| |N|Travel to {Night Run} (58.26, 59.71) (64.88, 43.75)| |O|
 N Free the Highborne soul in Night Run |QID|1140.1| |N|Click on the Circle of Imprisonment on the ground in {Night Run} (66.61, 56.96)| |Z|1440| |O|
 
-K (npc:3834) |QID|1026| |N|Kill (npc:3834) until you collect a (item:5475) (55.13, 34.22) (55.82, 33.61)| |W| |L|5475| |NPC|3834|
+K Crazed Ancient |QID|1026| |N|Kill Crazed Ancient until you collect a (item:5475) (55.82, 33.61)| |L|5475|
 C Raene's Cleansing |QID|1026| |N|Collect (item:5464) from the worn chest in {Nightsong Woods} (54.41, 35.37)| |Z|1440|
 
 R The Howling Vale |QID|1022| |N|Travel to {The Howling Vale} (53.89, 32.41) (52.80, 34.79) (52.99, 37.60)| |Z|1440|
 C The Howling Vale |QID|1022| |N|Click on Tome of Mel'Thandris in {The Howling Vale} (50.48, 39.16)| |Z|1440|
 
-R Moonwell |OID|1027| |N|Travel to {Moonwell} (53.39, 37.53) (57.82, 42.74) (61.04, 47.57) (60.22, 52.67) (52.54, 54.05) (51.15, 45.24) (53.51, 46.22)| |Z|1440|
+R Moonwell |OID|1027| |N|Travel to {Moonwell}  (53.51, 46.22)| |Z|1440|
 T Raene's Cleansing |QID|1026| |N|(npc:3916) in {Moonwell} (53.51, 46.22)| |Z|1440| |NPC|3916|
 A Raene's Cleansing |QID|1027| |N|(npc:3916) in {Moonwell} (53.51, 46.22)| |Z|1440| |NPC|3916|
 
@@ -121,11 +110,7 @@ N (item:5520) |QID|1038.1| |N|Collect (item:5520) from Velinde's Locker in {Trad
 T Velinde's Effects |QID|1038| |N|(npc:8026) in {Darnassus} (61.83, 39.11)| |Z|1457| |NPC|8026|
 A The Barrens Port |QID|1039| |N|(npc:8026) in {Darnassus} (61.83, 39.11)| |Z|1457| |NPC|8026|
 
-N Guide Complete |N|Tick to continue to the next guide| 
+N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
-end, {image = "ashenvale.tga", description = [[]]})	end
-	
-	function Guide:Unload()
-	end
-end
+end)
