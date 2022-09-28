@@ -26,7 +26,7 @@ R Cathedral of Light |TID|1649| |N|Travel to {Cathedral of Light} (39.85, 29.91)
 T The Tome of Valor |QID|1649| |N| in {Cathedral of Light} (39.85, 29.91)| |PRE|1649| |C|Paladin| |Z|1453| |NPC|6171|
 A The Tome of Valor |QID|1650| |N| in {Cathedral of Light} (39.85, 29.91)| |PRE|1649| |C|Paladin| |Z|1453| |NPC|6171|
 
-R The Dagger Hills |QID|1651| |N|Travel to {The Dagger Hills} (38.49, 82.62)| |PRE|1649| |Z|1436|
+R The Dagger Hills |QID|1651| |N|Travel to {The Dagger Hills} (38.49, 82.62)| |PRE|1649| |Z|1436| |C|Paladin|
 T The Tome of Valor |QID|1650| |N| in {The Dagger Hills} (38.49, 82.62) (39.92, 86.68) (41.48, 88.85)| |PRE|1649| |C|Paladin| |Z|1436|
 A The Tome of Valor |QID|1651| |N| in {The Dagger Hills} (41.27, 89.08)| |PRE|1649| |C|Paladin| |Z|1436| |NPC|6182|
 C The Tome of Valor |QID|1651| |N|Defend  from the Defias attack in {The Dagger Hills}<br/><br/>Up to 4 level 17  will attack you at the same time, be ready to use cooldowns and potions if you have any (42.21, 88.67)| |PRE|1649| |C|Paladin| |Z|1436| |NPC|6180, 6182|
