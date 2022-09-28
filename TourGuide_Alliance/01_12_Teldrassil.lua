@@ -1,7 +1,5 @@
-local Guide = DugisGuideViewer:RegisterModule("DugisGuide_Leveling_Alliance_En_01_12_Teldrassil")
-function Guide:Initialize()
-	function Guide:Load()DugisGuideViewer:RegisterGuide("|cffffd200Azeroth  1-20|r", "1438(1-12 Night Elf)#1438(1-12 Night Elf)#1438(1-12 Night Elf)", "1439(12-17)#1439(12-17)#1439(12-17)", "Alliance", nil, "L", nil, function()
-return [[
+TourGuide:RegisterGuide("Teldrassil (1-12)", "Darkshore (12-17)", "Alliance",function()
+return[[
 
 A The Balance of Nature (1) |QID|456| |N|(npc:2079) in {Shadowglen} (58.69, 44.35)| |NPC|2079|
 C The Balance of Nature (1) |QID|456| |N|Kill 7 (npc:2031) and 4 (npc:1984) in {Shadowglen} (61, 43)| |W| |NPC|2031, 1984|
@@ -43,8 +41,8 @@ A Iverron's Antidote (1) |QID|3521| |N|(npc:8583) in {Shadowglen} (60.84, 41.98)
 N 4 (item:10641) |QID|3521.2| |N|Collect 4 (item:10641) found around the edge of the pond in {Shadowglen} (57, 37)| |W|
 N 7 (item:10639) |QID|3521.1| |N|Collect 7 (item:10639) found around the bottom of trees or dropped from (npc:1989) in {Shadowglen} (57, 37)| |W| |NPC|1989|
 
-R Shadowthread Cave |QID|917| |N|Enter {Shadowthread Cave} (56.80, 31.65)| 
-C Webwood Egg |QID|917| |N|Follow the path inside {Shadowthread Cave} and and collect (item:5167) near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)| 
+R Shadowthread Cave |QID|917| |N|Enter {Shadowthread Cave} (56.80, 31.65)|
+C Webwood Egg |QID|917| |N|Follow the path inside {Shadowthread Cave} and and collect (item:5167) near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|
 N (item:10640) |QID|3521.3| |N|Collect (item:10640) from (npc:1986) in {Shadowglen} cave (57.31, 34.25)| |NPC|1986|
 
 T Webwood Egg |QID|917| |N|(npc:2082) in {Aldrassil} (57.81, 41.63)| |NPC|2082|
@@ -73,7 +71,7 @@ A The Emerald Dreamcatcher |QID|2438| |N|(npc:3567) at the top of the tower in {
 A Twisted Hatred |QID|932| |N|(npc:3567) at the top of the tower in {Dolanaar} (55.5, 56.9)| |NPC|3567|
 
 N As you go... |AYG|929| |QID|488| |N|Kill these scarce mobs as you go, it takes a long time to complete<b>(npc:2042) for 3 (item:3409)<br/><b>(npc:1995) for 3 (item:3411) <br/><b>(npc:1998) for 3 (item:3412)| |NPC|2042, 1995, 1998|
-R Lake Al'Ameth |QID|918| |N|Travel to {Lake Al'Ameth} (60.91, 68.45)| 
+R Lake Al'Ameth |QID|918| |N|Travel to {Lake Al'Ameth} (60.91, 68.45)|
 T Denalan's Earth |QID|997| |N|(npc:2080) in {Lake Al'Ameth} (60.91, 68.45)| |NPC|2080|
 A Timberling Seeds |QID|918| |N|(npc:2080) in {Lake Al'Ameth} (60.91, 68.45)| |NPC|2080|
 A Timberling Sprouts |QID|919| |N|(npc:2080) in {Lake Al'Ameth} (60.91, 68.45)| |NPC|2080|
@@ -109,7 +107,7 @@ K (npc:7234) |QID|2459.2| |N|Kill (npc:7234) north of {Starbreeze Village} and c
 C Ferocitas the Dream Eater |QID|2459.1| |N|Kill 7 (npc:7235) north of {Starbreeze Village} (69.8, 53.0)| |W|
 
 R Fel Rock |QID|932| |N|Travel to {Fel Rock} cave north of {Dolanaar} (53.74, 53.62) (54.61, 52.62)|
-C Twisted Hatred |QID|932| |N|Kill (npc:2038) and collect (item:5221) in {Fel Rock} (51.27, 50.77)| 
+C Twisted Hatred |QID|932| |N|Kill (npc:2038) and collect (item:5221) in {Fel Rock} (51.27, 50.77)|
 
 R Dolanaar |TID|932| |N|Exit to {Dolanaar} (54.61, 52.62) (55.5, 56.9)|
 T Twisted Hatred |QID|932| |N|(npc:3567) at the top of the tower in {Dolanaar} (55.5, 56.9)| |NPC|3567|
@@ -178,7 +176,7 @@ T Training the Beast |QID|6103| |N|(npc:4146) in {Cenarion Enclave} (40.39, 8.60
 
 T Heeding the Call |QID|5923| |N|(npc:4217) in {Cenarion Enclave} (35.38, 8.42)| |C|Druid| |Z|1457| |NPC|4217|
 A Moonglade |QID|5921| |N|(npc:4217) in {Cenarion Enclave} (35.38, 8.42)| |C|Druid| |Z|1457| |NPC|4217|
-R Nighthaven |QID|5929| |N|Use (spell:18960) to get to {Nighthaven} in {Moonglade} (56.23, 30.60)| |C|Druid| |Z|1456| 
+R Nighthaven |QID|5929| |N|Use (spell:18960) to get to {Nighthaven} in {Moonglade} (56.23, 30.60)| |C|Druid| |Z|1456|
 T Moonglade |QID|5921| |N|(npc:11802) in {Nighthaven} (56.24, 30.64)| |C|Druid| |Z|1450| |NPC|11802|
 A Great Bear Spirit |QID|5929| |N|(npc:11802) in {Nighthaven} (56.24, 30.64)| |C|Druid| |Z|1450| |NPC|11802|
 N (npc:11956) |QID|5929.1| |N|Speak to (npc:11956) in {Moonglade} (39.09, 27.54)| |C|Druid| |C|Druid| |Z|1450| |NPC|11956|
@@ -272,12 +270,7 @@ A Smith Mathiel |QID|1692| |N|(npc:4088) in {Darnassus} (57.31, 34.62)| |C|Warri
 T Smith Mathiel |QID|1692| |N|(npc:6142) in {Darnassus} (59.44, 45.36)| |C|Warrior| |Z|1457| |NPC|6142|
 T Weapons of Elunite |QID|1693| |N|(npc:6142) in {Darnassus} (59.44, 45.36)| |C|Warrior| |Z|1457| |E| |NPC|6142|
 
-N Guide Complete |N|Continue to (guide:"1439(12-17)#1439(12-17)#1439(12-17)")| 
+N Guide Complete |N|Continue to (guide:Darkshore (12-17)")|
 
 ]]
-end, {image = "teldrassil.tga", description = [[]]})	end
-	
-	function Guide:Unload()
-	end
-end
-
+end)

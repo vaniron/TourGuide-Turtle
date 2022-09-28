@@ -1,6 +1,5 @@
-TourGuide:RegisterGuide("Thousand Needles (25-26)", "Ashenvale (26-28)", "Horde", function()
+TourGuide:RegisterGuide("Dun Morogh (1-11)", "Wsetfall (12-17)", "Alliance", function()
 return [[
-
 A Dwarven Outfitters |QID|179| |N|(npc:658) in {Coldridge Valley} (29.92, 71.23)| |NPC|658|
 C Dwarven Outfitters |QID|179| |N|Collect 8 pieces of (item:750) dropped by (npc:704) and (npc:705) (30, 73)| |W| |NPC|704, 705|
 T Dwarven Outfitters |QID|179| |N|(npc:658) in {Coldridge Valley} (29.92, 71.23)| |NPC|658|
@@ -132,7 +131,7 @@ C Frostmane Hold |QID|287| |N|Go inside the cave to explore Frostmane Hold and k
 R Gnomeregan |QID|412| |N|Travel to {Gnomeregan} (24.90, 50.94) (25.05, 42.90)|
 C Operation Recombobulation |QID|412| |N|Kill (npc:1211) and collect 8 (item:3083) and 8 (item:3084) in {Gnomeregan} (25.05, 42.90)| |W| |NPC|1211|
 
-R Kharanos |QID|291| |N|Travel to {Kharanos}<br/><b>You can die on purpose and resurrect to get there quicker (46.66, 53.83)| 
+R Kharanos |QID|291| |N|Travel to {Kharanos}<br/><b>You can die on purpose and resurrect to get there quicker (46.66, 53.83)|
 T Frostmane Hold |QID|287| |N|(npc:1252) in {Kharanos} (46.66, 53.83)| |NPC|1252|
 A The Reports |QID|291| |N|(npc:1252) in {Kharanos} (46.66, 53.83)| |NPC|1252|
 T Operation Recombobulation |QID|412| |N|(npc:1269) in {Kharanos} (45.8, 49.2)| |NPC|1269|
@@ -140,7 +139,7 @@ T Operation Recombobulation |QID|412| |N|(npc:1269) in {Kharanos} (45.8, 49.2)| 
 R Steelgrill's Depot |TID|320| |N|Travel to {Steelgrill's Depot} (49.49, 48.37)|
 T Return to Bellowfiz |QID|320| |N|(npc:1378) in {Steelgrill's Depot} (49.49, 48.37)| |NPC|1378|
 
-R Gol'Bolar Quarry |QID|433| |N|Travel to {Gol'Bolar Quarry} (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| 
+R Gol'Bolar Quarry |QID|433| |N|Travel to {Gol'Bolar Quarry} (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)|
 A The Public Servant |QID|433| |N|(npc:1977) in {Gol'Bolar Quarry} (68.70, 56.02)| |NPC|1977|
 A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at {Gol'Bolar Quarry} (69.1, 56.3)|
 C The Public Servant |QID|433| |N|Kill 10 (npc:1117) around the {Gol'Bolar Quarry} (70.58, 56.69)| |W| |NPC|1117|
@@ -148,7 +147,7 @@ C Those Blasted Troggs! |QID|432| |N|Kill 6 (npc:1115) around the {Gol'Bolar Qua
 T The Public Servant |QID|433| |N|(npc:1977) in {Gol'Bolar Quarry} (68.70, 56.02)| |NPC|1977|
 T Those Blasted Troggs! |QID|432| |N|(npc:1254) in {Gol'Bolar Quarry} (69.12, 56.30)| |NPC|1254|
 
-R Thunderbrew Distillery |QID|1679| |N|Travel to {Thunderbrew Distillery}<br/><b>Level 10 required<br/><b>You can die on purpose and resurrect to get there quicker (47.35, 52.64)| 
+R Thunderbrew Distillery |QID|1679| |N|Travel to {Thunderbrew Distillery}<br/><b>Level 10 required<br/><b>You can die on purpose and resurrect to get there quicker (47.35, 52.64)|
 A Speak with Bink |QID|1879| |N|(npc:1228) in {Thunderbrew Distillery} (47.36, 51.92)| |Z|1426| |C|Mage| |NPC|1228|
 A Road to Salvation |QID|2218| |N|(npc:1234) in {Thunderbrew Distillery} (47.59, 52.46)| |C|Rogue| |NPC|1234|
 A Taming the Beast (1) |QID|6064| |N|(npc:1231) in {Kharanos} (45.82, 53.03)| |C|Hunter| |NPC|1231|
@@ -186,7 +185,7 @@ R Gnomeregan |QID|2239| |N|Travel to {Gnomeregan} (25.18, 44.44)| |C|Rogue|
 T Simple Subterfugin' |QID|2238| |N|(npc:6886) in {Gnomeregan} (25.18, 44.44)| |C|Rogue| |NPC|6886|
 A Onin's Report |QID|2239| |N|(npc:6886) in {Gnomeregan} (25.18, 44.44)| |C|Rogue| |NPC|6886|
 
-R The Forlorn Cavern |TID|2239| |N|The Forlorn Cavern} (51.89, 14.85)| |C|Rogue| |Z|1455| 
+R The Forlorn Cavern |TID|2239| |N|The Forlorn Cavern} (51.89, 14.85)| |C|Rogue| |Z|1455|
 T Onin's Report |QID|2239| |N|(npc:5165) in {The Forlorn Cavern} (51.89, 14.85)| |C|Rogue| |Z|1455| |NPC|5165|
 
 A The Slaughtered Lamb |QID|1715| |N|(npc:6120), in {The Forlorn Cavern} (47.64, 9.76)| |Z|1455| |C|Warlock| |NPC|6120|
@@ -203,7 +202,7 @@ A Surena Caledon |QID|1688| |N|(npc:6122) in {The Slaughtered Lamb} (25.32, 78.4
 R Brackwell Pumpkin Patch |QID|1688| |N|Travel to {Brackwell Pumpkin Patch} (71.02, 80.76)| |Z|1429| |C|Warlock|
 C Surena Caledon |QID|1688| |N|Kill (npc:881) and collect (item:6810) in {Brackwell Pumpkin Patch}<br/><br/>She is guarded by 2 other enemies, you will need to pull them away (71.02, 80.76)| |Z|1429| |C|Warlock| |NPC|881|
 
-R The Slaughtered Lamb |QID|1689| |N|Travel to {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453| 
+R The Slaughtered Lamb |QID|1689| |N|Travel to {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453|
 T Surena Caledon |QID|1688| |N|(npc:6122) in {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453| |NPC|6122|
 A The Binding |QID|1689| |N|(npc:6122) in {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453| |NPC|6122|
 C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use (item:6928) to summon and kill a (npc:5676) in {The Slaughtered Lamb} (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|1453| |NPC|5676|
@@ -211,8 +210,8 @@ T The Binding |QID|1689| |N|(npc:6122) in {The Slaughtered Lamb} (25.30, 78.60)|
 
 T Speak with Bink |QID|1879| |N|(npc:5144) in {Hall of Mysteries} (27.23, 8.33)| |Z|1455| |C|Mage| |NPC|5144|
 A Mage-tastic Gizmonitor |QID|1880| |N|(npc:5144) in {Hall of Mysteries} (27.23, 8.33)| |Z|1455| |C|Mage| |NPC|5144|
-R Gnomeregan |QID|1880| |N|Travel to {Gnomeregan} (27.69, 36.42)| |Z|1426| |C|Mage| 
-C Mage-tastic Gizmonitor |QID|1880| |N|Collect (item:7226) from Blink toolbox in {Gnomeregan} (27.69, 36.42)| |Z|1426| |C|Mage| 
+R Gnomeregan |QID|1880| |N|Travel to {Gnomeregan} (27.69, 36.42)| |Z|1426| |C|Mage|
+C Mage-tastic Gizmonitor |QID|1880| |N|Collect (item:7226) from Blink toolbox in {Gnomeregan} (27.69, 36.42)| |Z|1426| |C|Mage|
 T Mage-tastic Gizmonitor |QID|1880| |N|(npc:5144) in {Hall of Mysteries} (27.24, 8.31)| |Z|1455| |C|Mage| |NPC|5144|
 
 R North Gate Pass |QID|417| |N|Travel to {North Gate Pass} (80.96, 42.95)|
@@ -225,7 +224,7 @@ T A Pilot's Revenge |QID|417| |N|(npc:1960) in {North Gate Outpost} (83.90, 39.1
 T Shimmer Stout |QID|413| |N|(npc:1959) in {South Gate Outpost} (79.06, 51.55) (82.30, 53.40) (86.29, 48.86)| |NPC|1959|
 A Stout to Kadrell |QID|414| |N|(npc:1959) in {South Gate Outpost} (86.29, 48.86)| |NPC|1959|
 
-R Valley of Kings |QID|224| |N|Travel to {Valley of Kings} (16.75, 58.94) (21.85, 73.43)| |Z|1432| 
+R Valley of Kings |QID|224| |N|Travel to {Valley of Kings} (16.75, 58.94) (21.85, 73.43)| |Z|1432|
 A In Defense of the King's Lands (1) |QID|224| |N|(npc:1089) in {Valley of Kings} (21.85, 73.43)| |Z|1432| |NPC|1089|
 A The Trogg Threat |QID|267| |N|(npc:1092) in {Valley of Kings} (23.23, 73.66)| |Z|1432| |NPC|1092|
 C In Defense of the King's Lands (1) |QID|224| |N|Kill 10 (npc:1161) and 10 (npc:1162) which can be found in the area west of Thelsammar (29, 53)| |Z|1432| |W| |NPC|1161, 1162|
@@ -259,11 +258,6 @@ A Return to Brock |QID|6392| |N|(npc:1573) in {The Great Forge} (55.48, 47.87)| 
 R Thelsamar |TID|6392| |N|Travel to {Thelsamar} (37.07, 47.79)| |Z|1432|
 T Return to Brock |QID|6392| |N|(npc:1681) in {Thelsamar} (37.07, 47.79)| |Z|1432| |NPC|1681|
 
-N Guide Complete |N|Tick to continue to the next guide| 
-
+N Guide Complete |N|Tick to continue to the next guide|
 ]]
-end, {image = "dunmorogh.tga", description = [[]]})	end
-	
-	function Guide:Unload()
-	end
-end
+end)

@@ -1,6 +1,4 @@
-local Guide = DugisGuideViewer:RegisterModule("DugisGuide_Leveling_Alliance_En_01_12_Elwynn_Forest")
-function Guide:Initialize()
-	function Guide:Load()DugisGuideViewer:RegisterGuide("|cffffd200Azeroth  1-20|r", "1429(1-12 Human)#1429(1-12 Human)#1429(1-12 Human)", "1436(12-17)#1436(12-17)#1436(12-17)", "Alliance", nil, "L", nil, function()
+TourGuide:RegisterGuide("Elwynn Forest (1-12)", "Westfall (12-17)", "Alliance", function()
 return [[
 
 A A Threat Within |QID|783| |N|(npc:823) in {Northshire Valley} (48.18, 42.93)| |NPC|823|
@@ -37,10 +35,10 @@ C The Stolen Tome |QID|1598| |N|Collect (item:6785) from the ground near the ten
 C Brotherhood of Thieves |QID|18| |N|Kill the (npc:38) which surround the area to the Southeast across the river to collect 12 (item:752) in {Northshire Vineyards} (54, 45)| |W| |NPC|38|
 T The Stolen Tome |QID|1598| |N|(npc:459) in {Northshire Valley} (49.87, 42.65)| |C|Warlock| |NPC|459|
 
-R Northshire Valley |QID|15| |N|Travel to {Northshire Valley} (51.63, 36.76)| 
+R Northshire Valley |QID|15| |N|Travel to {Northshire Valley} (51.63, 36.76)|
 C Investigate Echo Ridge |QID|15| |N|Kill 10 (npc:257) which can be found in the mine in {Northshire Valley} (51.63, 36.76)| |W| |NPC|257|
 
-R Northshire Valley |QID|3904| |N|Travel to {Northshire Valley} (47.75, 41.97)| 
+R Northshire Valley |QID|3904| |N|Travel to {Northshire Valley} (47.75, 41.97)|
 T Brotherhood of Thieves |QID|18| |N|(npc:823) in {Northshire Valley} (48.18, 42.93)| |NPC|823|
 A Bounty on Garrick Padfoot |QID|6| |N|(npc:823) in {Northshire Valley} (48.18, 42.93)| |NPC|823|
 A Milly Osworth |QID|3903| |N|(npc:823) in {Northshire Valley} (48.18, 42.93)| |NPC|823|
@@ -80,9 +78,9 @@ A Young Lovers |QID|106| |N|(npc:251) in {The Maclure Vineyards} (43.12, 89.55)|
 T Lost Necklace |QID|85| |N|(npc:247) in {The Maclure Vineyards} (43.12, 85.77)| |NPC|247|
 A Pie for Billy |QID|86| |N|(npc:247) in {The Maclure Vineyards} (43.12, 85.77)| |NPC|247|
 
-C Pie for Billy |QID|86| |N|Kill any of the boars surrounding Elywnn Forest to collect 4 (item:769). (npc:524) are easily found around to the south of {Goldshire} (47, 81)| |W| |NPC|524| 
+C Pie for Billy |QID|86| |N|Kill any of the boars surrounding Elywnn Forest to collect 4 (item:769). (npc:524) are easily found around to the south of {Goldshire} (47, 81)| |W| |NPC|524|
 
-R The Stonefield Farm |QID|84| |N|Travel to {The Stonefield Farm} (34.5, 84.3)| 
+R The Stonefield Farm |QID|84| |N|Travel to {The Stonefield Farm} (34.5, 84.3)|
 T Pie for Billy |QID|86| |N|(npc:246) in {The Stonefield Farm} (34.5, 84.3)| |NPC|246|
 A Back to Billy |QID|84| |N|(npc:246) in {The Stonefield Farm} (34.5, 84.3)| |NPC|246|
 A Princess Must Die! |QID|88| |N|(npc:244) in {The Stonefield Farm} (34.61, 84.43)| |NPC|244|
@@ -125,7 +123,7 @@ T Further Concerns |QID|35| |N|(npc:261) in {Elwynn Forest} (73.89, 72.18)| |NPC
 A Find the Lost Guards |QID|37| |N|(npc:261) in {Elwynn Forest} (61.79, 54.04) (73.89, 72.18)| |NPC|261|
 A Protect the Frontier |QID|52| |N|(npc:261) in {Elwynn Forest} (73.89, 72.18)| |NPC|261|
 
-R Eastvale Logging Camp |QID|83| |N|Travel to {Eastvale Logging Camp} (79.47, 68.75)| 
+R Eastvale Logging Camp |QID|83| |N|Travel to {Eastvale Logging Camp} (79.47, 68.75)|
 A Red Linen Goods |QID|83| |N|(npc:278) in {Eastvale Logging Camp} (79.47, 68.75)| |NPC|278|
 A A Bundle of Trouble |QID|5545| |N|(npc:10616) in {Eastvale Logging Camp} (81.45, 66.19)| |NPC|10616|
 
@@ -169,7 +167,7 @@ T Goldtooth |QID|87| |N|(npc:246) in {The Stonefield Farm} (34.5, 84.3)| |NPC|24
 
 N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10| |PL|10|
 
-R Goldshire |QID|1860| |N|Travel or (item:6948) to {Goldshire} (43.28, 66.22)| 
+R Goldshire |QID|1860| |N|Travel or (item:6948) to {Goldshire} (43.28, 66.22)|
 A Speak with Jennea |QID|1860| |N|(npc:328) in {Goldshire} (43.28, 66.22)| |C|Mage| |NPC|328|
 A A Warrior's Training |QID|1638| |N|(npc:913) in {Goldshire} (41.1, 65.8)| |C|Warrior| |NPC|913|
 A Seek out SI: 7 |QID|2205| |N|(npc:917) in {Goldshire} (43.8, 65.9)| |C|Rogue| |NPC|917|
@@ -180,7 +178,7 @@ T Westbrook Garrison Needs Help! |QID|239| |N|(npc:963) in {Westbrook Garrison} 
 A Riverpaw Gnoll Bounty |QID|11| |N|(npc:963) in {Westbrook Garrison} (24.26, 74.54)| |NPC|963|
 A Wanted: "Hogger" |QID|176| |N|Wanted Poster in {Westbrook Garrison} (24.47, 74.74)|
 
-R The Jansen Stead |QID|109| |N|Travel to {The Jansen Stead} (60.00, 19.37)| |Z|1436| 
+R The Jansen Stead |QID|109| |N|Travel to {The Jansen Stead} (60.00, 19.37)| |Z|1436|
 T Furlbrow's Deed |QID|184| |N|(npc:237) in {The Jansen Stead} (60.00, 19.37)| |Z|1436| |O| |NPC|237|
 A The Forgotten Heirloom |QID|64| |N|(npc:237) in {The Jansen Stead} (60.00, 19.37)| |Z|1436| |NPC|237|
 A Westfall Stew (1) |QID|36| |N|(npc:238) in {The Jansen Stead} (59.92, 19.45)| |Z|1436| |NPC|238|
@@ -226,7 +224,7 @@ R Jerod's Landing |QID|2206| |N|Travel to {Jerod's Landing} (48.08, 87.30)| |C|R
 C Snatch and Grab |QID|2206| |N|Find the (npc:6846) use (spell:921) to get (item:7675) in {Jerod's Landing} (48.08, 87.30)| |C|Rogue| |NPC|6846|
 T Snatch and Grab |QID|2206| |N|(npc:332) in {SI:7} (75.81, 59.84)| |C|Rogue| |Z|1453| |NPC|332|
 
-R The Slaughtered Lamb |QID|1689| |N|Travel to {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453| 
+R The Slaughtered Lamb |QID|1689| |N|Travel to {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453|
 T Surena Caledon |QID|1688| |N|(npc:6122) in {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453| |NPC|6122|
 A The Binding |QID|1689| |N|(npc:6122) in {The Slaughtered Lamb} (25.25, 78.54)| |C|Warlock| |Z|1453| |NPC|6122|
 C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use (item:6928) to summon and kill a (npc:5676) in {The Slaughtered Lamb} (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|1453| |NPC|5676|
@@ -249,7 +247,7 @@ T The Collector |QID|123| |N|(npc:240) in {Goldshire} (42.12, 65.96)| |O| |NPC|2
 T Wanted: "Hogger" |QID|176| |N|(npc:240) in {Goldshire} (42.12, 65.96)| |NPC|240|
 A Manhunt |QID|147| |N|(npc:240) in {Goldshire} (42.12, 65.96)| |NPC|240|
 
-R Brackwell Pumpkin Patch |QID|147| |N|Travel to {Brackwell Pumpkin Patch} (71.01, 80.55)| 
+R Brackwell Pumpkin Patch |QID|147| |N|Travel to {Brackwell Pumpkin Patch} (71.01, 80.55)|
 C Manhunt |QID|147| |N|Kill (npc:473) in {Brackwell Pumpkin Patch}, you will need to pull the enemies around her first otherwise it is difficult to solo (71.01, 80.55)| |NPC|473|
 C Princess Must Die! |QID|88| |N|Kill (npc:330) who patrols the area and loot the (item:1006). She is a level 9 mob who is surrounded by two guards which are level 7 so grouping with another is recommended, you can skip it if you're unable to complete (69, 78)| |NPC|330|
 A Bounty on Murlocs |QID|46| |N|(npc:261) in {Elwynn Forest} (73.89, 72.18)| |NPC|261|
@@ -288,7 +286,7 @@ R City of Ironforge |QID|433| |N|Go through the portal to exit to {City of Ironf
 f City of Ironforge |QID|433| |N|Speak to (npc:1573) and grab flight path for {City of Ironforge} (55.55, 47.76)| |Z|1455| |NPC|1573|
 
 R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|1426|
-R Gol'Bolar Quarry |QID|433| |N|Travel to {Gol'Bolar Quarry} (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|1426| 
+R Gol'Bolar Quarry |QID|433| |N|Travel to {Gol'Bolar Quarry} (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|1426|
 A The Public Servant |QID|433| |N|(npc:1977) in {Gol'Bolar Quarry} (68.70, 56.02)| |Z|1426| |NPC|1977|
 A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at {Gol'Bolar Quarry} (69.1, 56.3)| |Z|1426|
 C The Public Servant |QID|433| |N|Kill 10 (npc:1117) around the {Gol'Bolar Quarry} (70.58, 56.69)| |Z|1426| |W| |NPC|1117|
@@ -297,7 +295,7 @@ T The Public Servant |QID|433| |N|(npc:1977) in {Gol'Bolar Quarry} (68.70, 56.02
 T Those Blasted Troggs! |QID|432| |N|(npc:1254) in {Gol'Bolar Quarry} (69.12, 56.30)| |Z|1426| |NPC|1254|
 
 R Loch Modan |QID|224| |N|Travel to {Loch Modan} (81.13, 52.98) (82.26, 53.41) (84.42, 51.06) (86.22, 51.32)| |Z|1426| |REACH|
-R Loch Modan |QID|224| |N|Travel to {Loch Modan} (19.76, 62.87)| |Z|1432| 
+R Loch Modan |QID|224| |N|Travel to {Loch Modan} (19.76, 62.87)| |Z|1432|
 A In Defense of the King's Lands (1) |QID|224| |N|(npc:1089) in {Valley of Kings} (22.00, 73.10)| |Z|1432| |NPC|1089|
 A The Trogg Threat |QID|267| |N|(npc:1092) in {Valley of Kings} (23.21, 73.59)| |Z|1432| |NPC|1092|
 
@@ -305,7 +303,7 @@ R Stonesplinter Valley |QID|224| |N|Travel to {Stonesplinter Valley} (28.46, 66.
 C In Defense of the King's Lands (1) |QID|224| |N|Kill 10 (npc:1161) and 10 (npc:1162) in {Stonesplinter Valley} (31, 70.5) (28, 53)| |Z|1432| |W| |NPC|1161, 1162|
 C The Trogg Threat |QID|267| |N|Kill (npc:1162) and (npc:1161) to collect 8 (item:2536) in {Stonesplinter Valley} (33, 72)| |Z|1432| |W| |NPC|1162, 1161|
 
-R Valley of Kings |OID|237| |N|Travel to {Valley of Kings} (29.62, 67.58) (23.21, 73.59)| |Z|1432| 
+R Valley of Kings |OID|237| |N|Travel to {Valley of Kings} (29.62, 67.58) (23.21, 73.59)| |Z|1432|
 T The Trogg Threat |QID|267| |N|(npc:1092) in {Valley of Kings} (23.21, 73.59)| |Z|1432| |NPC|1092|
 T In Defense of the King's Lands (1) |QID|224| |N|(npc:1089) in {Valley of Kings} (22.00, 73.10)| |Z|1432| |NPC|1089|
 A In Defense of the King's Lands (2) |QID|237| |N|(npc:1091) in {Valley of Kings} (23.52, 76.37)| |Z|1432| |NPC|1091|
@@ -325,27 +323,14 @@ T Stormpike's Delivery |QID|353| |N|(npc:1343), in {Algaz Station} (24.78, 18.45
 T Mountaineer Stormpike's Task |QID|1339| |N|(npc:1343), in {Algaz Station} (24.78, 18.45)| |Z|1432| |NPC|1343|
 A Stormpike's Order |QID|1338| |N|(npc:1343), in {Algaz Station} (24.78, 18.45)| |Z|1432| |NPC|1343|
 
-C Thelsamar Blood Sausages |QID|418| |N|Kill any Bears, Spiders and Boars for 3 (item:3172), 3 (item:3173) and 3 (item:3174) (32.42, 29.97) (37.28, 36.91) (27.30, 28.24)| |Z|1432| |LOOP| |NPC|1186, 1195, 1190| 
+C Thelsamar Blood Sausages |QID|418| |N|Kill any Bears, Spiders and Boars for 3 (item:3172), 3 (item:3173) and 3 (item:3174) (32.42, 29.97) (37.28, 36.91) (27.30, 28.24)| |Z|1432| |LOOP| |NPC|1186, 1195, 1190|
 
-R Thelsamar |TID|418| |N|Travel to {Thelsamar} (32.91, 49.53)| |Z|1432| 
+R Thelsamar |TID|418| |N|Travel to {Thelsamar} (32.91, 49.53)| |Z|1432|
 T Thelsamar Blood Sausages |QID|418| |N|(npc:1963), in {Stoutlager Inn} (34.83, 49.12)| |Z|1432| |NPC|1963|
 T A Rat Catching|QID|416| |N|(npc:1340) in {Thelsamar}, he patrols (32.91, 49.53)| |Z|1432| |NPC|1340|
 A Ironband's Excavation |QID|436| |N|(npc:1105) in {Thelsamar} (37.25, 47.71)| |Z|1432| |NPC|1105|
 
-N Guide Complete |N|Tick to continue to the next guide| 
+N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
-end, {image = "elwynnforest.tga", description = [[]]})	end
-	
-	function Guide:Unload()
-	end
-end
-
---R Stormwind City |QID|332| |N|Travel to {Stormwind City} (56.54, 52.64)| |Z|1436|
---A Wine Shop Advert |QID|332| |N|Renato Gallina (63.9, 73.6)| |Z|1453|
---A Harlan Needs a Resupply |QID|333| |N|Harlan Bagley (62.5, 67.8)| |Z|1453|
---h Stormwind City |QID|334| |N|Innkeeper Allison (60.5, 75.2)| |Z|1453| 
---T Wine Shop Advert |QID|332| |N|Suzetta Gallina (60.2, 76.8)| |Z|1453|
---T Harlan Needs a Resupply |QID|333| |N|Rema Schneider (58, 67.5)| |Z|1453|
---A Package for Thurman |QID|334| |N|Rema Schneider (58, 67.5)| |Z|1453|
---T Package for Thurman |QID|334| |N|Thurman Schneider (52.5, 83.6)| |Z|1453|
+end)
