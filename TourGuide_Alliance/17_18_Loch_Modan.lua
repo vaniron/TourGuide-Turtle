@@ -1,8 +1,8 @@
 TourGuide:RegisterGuide("Loch Modan (17-18)", "Redridge Mountains (18-20)", "Alliance", function()
 return [[
-R Menethil Harbor |QID|307| |N|Travel to Menethil Harbor (9.6, 59.6)| |Z|1437| |R|Night Elf|
-f Wetlands |QID|307| |N|Speak to  and grab flight path for Menethil Harbor (9.6, 59.6)| |Z|1437| |R|Night Elf|
-R Algaz Station |QID|307| |N|Follow the road to Algaz Station in Loch Modan | |Z|1437| |R|Night Elf|
+R Menethil Harbor |QID|307| |N|Travel to Menethil Harbor (9.6, 59.6)|  |R|Night Elf|
+f Wetlands |QID|307| |N|Speak to  and grab flight path for Menethil Harbor (9.6, 59.6)|  |R|Night Elf|
+R Algaz Station |QID|307| |N|Follow the road to Algaz Station in Loch Modan |  |R|Night Elf|
 R Algaz Station |QID|307| |N|Travel to Algaz Station in Loch Modan (24.67, 18.25)|
 A Filthy Paws |QID|307| |N| in Algaz Station (24.67, 18.25)|
 A Stormpike's Order |QID|1338| |N| in Algaz Station (24.67, 18.25)|
@@ -19,15 +19,15 @@ T Ironband's Excavation |QID|436| |N| in Ironband's Excavation Site (64.83, 66.5
 A Gathering Idols |QID|297| |N| in Ironband's Excavation Site (64.83, 66.59)|
 A Excavation Progress Report |QID|298| |N| in Ironband's Excavation Site (65.86, 65.67)|
 T Gathering Idols |QID|297| |N| in Ironband's Excavation Site (64.83, 66.59)|
-C Gathering Idols |QID|297| |N|Travel to the Excavation Site and kill any ,  or  to collect 8  (68, 63)| |W| |NPC|1393, 1165, 1167|
+C Gathering Idols |QID|297| |N|Travel to the Excavation Site and kill any ,  or  to collect 8  (68, 63)|
 
 R The Farstrider Lodge |QID|385| |N|East of Excavation site (83.8, 62.4)|
 A Crocolisk Hunting |QID|385| |N|  Farstrider Lodge (81.84, 61.77)|
 A A Hunter's Boast |QID|257| |N|  Farstrider Lodge (83.43, 65.30)|
-C A Hunter's Boast |QID|257| |N|Kill 6  within 15 mins, found spread along the Southeast corner of Loch Modan (76, 72)| |W|
+C A Hunter's Boast |QID|257| |N|Kill 6  within 15 mins, found spread along the Southeast corner of Loch Modan (76, 72)|
 T A Hunter's Boast |QID|257| |N|  Farstrider Lodge (83.43, 65.30)|
 A A Hunter's Challenge |QID|258| |N|  Farstrider Lodge (83.43, 65.30)|
-C A Hunter's Challenge |QID|258| |N|Kill 5  found spread throughout the central eastern area (65, 39)| |W|
+C A Hunter's Challenge |QID|258| |N|Kill 5  found spread throughout the central eastern area (65, 39)|
 T A Hunter's Challenge |QID|258| |N|  Farstrider Lodge (83.43, 65.30)|
 A Vyrin's Revenge (1) |QID|271| |N|  Farstrider Lodge (81.76, 64.15)|
 A Bingles' Missing Supplies |QID|2038| |N| in The Loch (63.44, 47.78)|
@@ -36,7 +36,7 @@ N Bingles's Blastencapper |QID|2038.4| |N|Collect  from Bingles's Blastencapper 
 N Bingles's tool bucket |QID|2038.3| |N|Collect  from the tool bucket in Loch Modan (51.79, 23.93)|
 N Bingles's tool bucket |QID|2038.2| |N|Collect  from Bingle's Toolbucket in Loch Modan (48.35, 20.39)|
 N Bingles's tool bucket |QID|2038.1| |N|Collect  from Bingle's Toolbucket near the camp fire in Loch Modan (48.69, 29.99)|
-C In Defense of the King's Lands (2) |QID|237| |N|Kill 10  and 10  in Valley of Kings (48.35, 20.39)| |Z|1432| |O|
+C In Defense of the King's Lands (2) |QID|237| |N|Kill 10  and 10  in Valley of Kings (48.35, 20.39)|  |O|
 R Loch Modan |QID|2038| |N|Travel to Loch Modan|
 C Crocolisk Hunting |QID|385| |N|Kill  found in the the lake until you've collected 5 pieces of  and 6  (57, 38)|
 
@@ -54,18 +54,18 @@ R The Farstrider Lodge |QID|531| |N|Travel to The Farstrider Lodge (81.84, 61.77
 T Crocolisk Hunting |QID|385| |N| in The Farstrider Lodge (81.84, 61.77)|
 T Bingles' Missing Supplies |QID|2038| |N| in The Loch (63.44, 47.78)|
 
-R Valley of Kings |TID|237| |N|Travel to Valley of Kings (23.52, 76.37)| |Z|1432|
-T In Defense of the King's Lands (2) |QID|237| |N| in Valley of Kings (23.52, 76.37)| |Z|1432| |O|
+R Valley of Kings |TID|237| |N|Travel to Valley of Kings (23.52, 76.37)|
+T In Defense of the King's Lands (2) |QID|237| |N| in Valley of Kings (23.52, 76.37)|  |O|
 
-R City of Ironforge |TID|301| |N|Travel to City of Ironforge (55.60, 47.94)| |Z|1455|
-N  |QID|967| |N|Store  to the bank (35.48, 60.70)| |Z|1455| |L|5354| |O|
-N  |QID|952| |N|Store  to the bank (35.48, 60.70)| |Z|1455| |L|5390| |O|
-N  |QID|986| |N|Store  to the bank (35.48, 60.70)| |Z|1455| |L|5386| |O|
-f The Great Forge |TID|301| |N|Speak to  and grab flight path for The Great Forge (55.60, 47.94)| |Z|1455|
-A Speak with Shoni |QID|2041| |N| in Ironforge (69.4, 50.6)| |Z|1455|
-T Report to Ironforge |QID|301| |N| in The Library (74.31, 12.16)| |Z|1455|
+R City of Ironforge |TID|301| |N|Travel to City of Ironforge (55.60, 47.94)|
+N  |QID|967| |N|Store  to the bank (35.48, 60.70)|  |L|5354| |O|
+N  |QID|952| |N|Store  to the bank (35.48, 60.70)|  |L|5390| |O|
+N  |QID|986| |N|Store  to the bank (35.48, 60.70)|  |L|5386| |O|
+f The Great Forge |TID|301| |N|Speak to  and grab flight path for The Great Forge (55.60, 47.94)|
+A Speak with Shoni |QID|2041| |N| in Ironforge (69.4, 50.6)|
+T Report to Ironforge |QID|301| |N| in The Library (74.31, 12.16)|
 
-N Guide Complete |N|Tick to continue to the next guide|
+N Guide Complete |N|Tick to continue to the next guide 18_20Redridge_Mountains|
 
 ]]
 end)
