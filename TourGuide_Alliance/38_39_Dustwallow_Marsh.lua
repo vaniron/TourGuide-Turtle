@@ -1,38 +1,38 @@
-TourGuide:RegisterGuide("Dustwallow Marsh (38-39)", "Stranglethorn (39-40)", "Alliance", function()
+TourGuide:RegisterGuide("Dustwallow Marsh (38-39)", "Stranglethorn (39-40)", "Alliance",function()
+
 return [[
 
-R Mage Quarter |QID|1260| |N|Travel to Mage Quarter in Stormwind City (41.49, 89.45)|
-A Morgan Stern |QID|1260| |N|Angus Stern in Mage Quarter (41.49, 89.45)|
+R Mage Quarter |QID|1260| |N|Travel to Mage Quarter in Stormwind City (41.49, 89.45)| |Z|Stormwind City|
+A Morgan Stern |QID|1260| |N|Angus Stern in Mage Quarter (41.49, 89.45)| |Z|Stormwind City|
 
-R Gadgetzan |TID|1112| |N|Travel to Gadgetzan (51.6, 25.4)|
-N Kravel's Parts |QID|1112| |N|Withdraw Kravel's Parts from the bank.  Tick this step (52.30, 28.89)|  |L|5800| |OO|
-N Fuel Regulator Blueprints |QID|1182| |N|Withdraw Fuel Regulator Blueprints from the bank.  Tick this step (52.30, 28.89)|  |L|5852| |OO|
-N Sample Elven Gem |QID|669| |N|Store Sample Elven Gem to the bank (35.48, 60.70)|  |L|4502| |O|
+R Gadgetzan |TID|1112| |N|Travel to Gadgetzan (51.6, 25.4)| |Z|Tanaris|
+N Kravel's Parts |QID|1112| |N|Withdraw Kravel's Parts from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|5800| |OO|
+N Fuel Regulator Blueprints |QID|1182| |N|Withdraw Fuel Regulator Blueprints from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|5852| |OO|
+N Sample Elven Gem |QID|669| |N|Store Sample Elven Gem to the bank (35.48, 60.70)| |Z|Ironforge| |L|4502| |O|
+N Tomes of Alterac |QID|542| |N|Store Tomes of Alterac to the bank (35.48, 60.70)| |Z|Ironforge| |L|3660| |O|
+N Ensorcelled Parchment |QID|554| |N|Store Ensorcelled Parchment to the bank (35.48, 60.70)| |Z|Ironforge| |L|3706| |O|
 
-N Tomes of Alterac |QID|542| |N|Store Tomes of Alterac to the bank (35.48, 60.70)|  |L|3660| |O|
-N Ensorcelled Parchment |QID|554| |N|Store Ensorcelled Parchment to the bank (35.48, 60.70)|  |L|3706| |O|
-
-T Parts for Kravel |QID|1112| |N|Kravel Koalbeard in Mirage Raceway (77.81, 77.22)|  |O|
-A Delivery to the Gnomes |QID|1114| |N|Kravel Koalbeard in Mirage Raceway (77.81, 77.22)|  |PRE|1112|
-T Delivery to the Gnomes |QID|1114| |N|Fizzle Brassbolts in Mirage Raceway (78.04, 77.13)|  |PRE|1112|
-A The Rumormonger |QID|1115| |N|Kravel Koalbeard in Mirage Raceway (77.86, 77.22)|  |PRE|1112|
-T Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.16, 77.11)|  |O|
-T Goblin Sponsorship |QID|1183| |N|Pozzik in Mirage Raceway (80.17, 75.86)|  |O|
-A The Eighteenth Pilot |QID|1186| |N|Pozzik in Mirage Raceway (80.17, 75.86)|  |PRE|1183|
-T The Eighteenth Pilot |QID|1186| |N|Razzeric in Mirage Raceway (80.32, 76.07)|  |PRE|1183|
-A Razzeric's Tweaking |QID|1187| |N|Razzeric in Mirage Raceway (80.32, 76.07)|  |PRE|1183|
+T Parts for Kravel |QID|1112| |N|Kravel Koalbeard in Mirage Raceway (77.81, 77.22)| |Z|Thousand Needles| |O|
+A Delivery to the Gnomes |QID|1114| |N|Kravel Koalbeard in Mirage Raceway (77.81, 77.22)| |Z|Thousand Needles| |PRE|1112|
+T Delivery to the Gnomes |QID|1114| |N|Fizzle Brassbolts in Mirage Raceway (78.04, 77.13)| |Z|Thousand Needles| |PRE|1112|
+A The Rumormonger |QID|1115| |N|Kravel Koalbeard in Mirage Raceway (77.86, 77.22)| |Z|Thousand Needles| |PRE|1112|
+T Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.16, 77.11)| |Z|Thousand Needles| |O|
+T Goblin Sponsorship |QID|1183| |N|Pozzik in Mirage Raceway (80.17, 75.86)| |Z|Thousand Needles| |O|
+A The Eighteenth Pilot |QID|1186| |N|Pozzik in Mirage Raceway (80.17, 75.86)| |Z|Thousand Needles| |PRE|1183|
+T The Eighteenth Pilot |QID|1186| |N|Razzeric in Mirage Raceway (80.32, 76.07)| |Z|Thousand Needles| |PRE|1183|
+A Razzeric's Tweaking |QID|1187| |N|Razzeric in Mirage Raceway (80.32, 76.07)| |Z|Thousand Needles| |PRE|1183|
 
 R Theramore Isle |QID|1282| |N|Travel to Theramore Isle (66.14, 46.04)|
 h Theramore Isle |QID|1282| |N|Speak to Innkeeper Janene and set hearth at Theramore Isle (66.6, 45.2)|
-A They Call Him Smiling Jim |QID|1282| |N|Guard Byron in Theramore Isle (66.14, 46.04)|  |OID|1301, 1253|
+A They Call Him Smiling Jim |QID|1282| |N|Guard Byron in Theramore Isle (66.14, 46.04)|
 T Morgan Stern |QID|1260| |N|Morgan Stern in Theramore Isle (66.35, 45.44)|
 A Mudrock Soup and Bugs |QID|1204| |N|Morgan Stern in Theramore Isle (66.36, 45.39)| |PRE|1260|
 
 R Foothold Citadel |QID|1282| |N|Travel to Foothold Citadel (67.90, 47.95)|
-T They Call Him Smiling Jim |QID|1282| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|  |OID|1301, 1253|
+T They Call Him Smiling Jim |QID|1282| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 A Inspecting the Ruins |QID|11123| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 
-C Mudrock Soup and Bugs |QID|1204| |N|Kill Mudrock Tortoise or Mudrock Spikeshell and collect 8 Forked Mudrock Tongue in Theramore Isle.  This quest have a low drop rate and the turtles are scarce try to get 4 Forked Mudrock Tongue and complete this later (64.71, 41.39) (64.71, 41.39) (64.25, 39.05) (63.00, 36.58) (61.72, 27.53) (61.73, 21.48)| |L|5883 4|
+C Mudrock Soup and Bugs |QID|1204| |N|Kill Mudrock Tortoise or Mudrock Spikeshell and collect 8 Forked Mudrock Tongue in Theramore Isle. This quest have a low drop rate and the turtles are scarce try to get 4 Forked Mudrock Tongue and complete this later (64.71, 41.39) (64.71, 41.39) (64.25, 39.05) (63.00, 36.58) (61.72, 27.53) (61.73, 21.48)| |L|5883 4|
 
 R Swamplight Manor |QID|1218| |N|Travel to Swamplight Manor (55.43, 26.27)|
 A Marsh Frog Legs |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.27)|
@@ -62,7 +62,7 @@ A Captain Vimes |QID|1220| |N|Theramore Lieutenant in Theramore Isle (65.06, 47.
 R Foothold Citadel |QID|1259| |N|Travel to Foothold Citadel (67.90, 47.95)|
 T Captain Vimes |QID|1220| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 T Lieutenant Paval Reethe |QID|1252| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
-A Lieutenant Paval Reethe |QID|1259| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.57)|
+A Lieutenant Paval Reethe |QID|1259| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.57)| |Z|Dustwallow Marsh|
 T The Black Shield (1) |QID|1253| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 A The Black Shield (2)|QID|1319| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 T Suspicious Hoofprints |QID|1284| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
@@ -72,14 +72,14 @@ T The Black Shield (2) |QID|1319| |N|Caz Twosprocket in Theramore Isle (64.75, 5
 A The Black Shield (3) |QID|1320| |N|Caz Twosprocket in Theramore Isle (64.75, 50.41)|
 
 R Foothold Citadel |QID|1286| |N|Travel to Foothold Citadel (67.90, 47.95)|
-T The Black Shield (3) |QID|1320| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)|
-T Daelin's Men |QID|1285| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)|
-A The Deserters |QID|1286| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)|
+T The Black Shield (3) |QID|1320| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
+T Daelin's Men |QID|1285| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
+A The Deserters |QID|1286| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
 
 R Swamplight Manor |TID|1206| |N|Travel to Swamplight Manor (55.42, 26.28)|
 T Jarl Needs Eyes |QID|1206| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.42, 26.28)|
 
-C Mudrock Soup and Bugs |QID|1204| |N|Kill Mudrock Tortoise or Mudrock Spikeshell and collect 8 Forked Mudrock Tongue in Theramore Isle.  This quest have a low drop rate and the turtles are scarce try to get 4 Forked Mudrock Tongue and complete this later (63.00, 36.58) (61.72, 27.53) (61.73, 21.48)|
+C Mudrock Soup and Bugs |QID|1204| |N|Kill Mudrock Tortoise or Mudrock Spikeshell and collect 8 Forked Mudrock Tongue in Theramore Isle. This quest have a low drop rate and the turtles are scarce try to get 4 Forked Mudrock Tongue and complete this later (63.00, 36.58) (61.72, 27.53) (61.73, 21.48)|
 C Hungry! |QID|1177| |N|Kill Murlocs and collect 8 Mirefin Head in Dreadmurk Shore (57.53, 16.47)|
 A Stinky's Escape |QID|1222| |N|\Stinky\ Ignatz in Dustwallow Marsh (46.91, 17.52)|
 C Stinky's Escape |QID|1222| |N|Escort \Stinky\ Ignatz until quest is complete (47.38, 20.76) (48.52, 21.85) (49.38, 22.48) (49.86, 22.51) (48.94, 24.80)|

@@ -1,4 +1,5 @@
-TourGuide:RegisterGuide("Elwynn Forest (1-12)", "Westfall (12-17)", "Alliance", function()
+TourGuide:RegisterGuide("Elwynn Forest (1-12)", "Westfall (12-17)", "Alliance",function()
+
 return [[
 
 A A Threat Within |QID|783| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
@@ -9,7 +10,7 @@ T Eagan Peltskinner |QID|5261| |N|Eagan Peltskinner in Northshire Valley (48.92,
 A Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 
 C Kobold Camp Cleanup |QID|7| |N|Kill 10 Kobold Vermin which can be found around the mine in Northshire Valley (49, 35)|
-C Wolves Across the Border |QID|33| |N|Kill Young Wolf and Timber Wolf to collect 8 pieces of Tough Wolf Meat (46, 35)|
+C Wolves Across the Border |QID|33| |N|Kill Young Wolf and Timber Wolf to collect 8 pieces of Tough Wolf Meat (47, 38) (46, 35)|
 
 T Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 A Brotherhood of Thieves |QID|18| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
@@ -62,16 +63,16 @@ A Report to Goldshire |QID|54| |N|Marshal McBride in Northshire Abbey (48.91, 41
 T Grape Manifest |QID|3905| |N|Brother Neals in Northshire Abbey (49.46, 41.56)|
 A Rest and Relaxation |QID|2158| |N|Falkhaan Isenstrider in Northshire Valley (45.51, 47.72)|
 
-R Goldshire |QID|62| |N|Travel to Goldshire (42.14, 65.90)|
+R Goldshire |QID|62| |N|Travel to Goldshire (42.14, 65.90)| |Z|Elwynn Forest|
 T Report to Goldshire |QID|54| |N| Marshal Dughan in Goldshire (42.14, 65.90)|
 A The Fargodeep Mine |QID|62| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
-A Gold Dust Exchange |QID|47| |N|Remy "Two Times" in Goldshire (42.19, 67.05)|
+A Gold Dust Exchange |QID|47| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 A Kobold Candles |QID|60| |N|William Pestle in Goldshire (43.43, 66.05)|
 T Rest and Relaxation |QID|2158| |N|Innkeeper Farley in Goldshire (43.78, 65.86)|
 h Goldshire |QID|60| |N|Innkeeper Farley in Goldshire (43.78, 65.86)|
 
 R The Stonefield Farm |QID|85| |N|Travel to The Stonefield Farm (34.5, 84.3)|
-A Lost Necklace |QID|85| |N|"Auntie" Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
+A Lost Necklace |QID|85| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 
 R The Maclure Vineyards |QID|106| |N|Travel to The Maclure Vineyards (43.12, 89.55)|
 A Young Lovers |QID|106| |N|Maybell Maclure in The Maclure Vineyards (43.12, 89.55)|
@@ -81,8 +82,8 @@ A Pie for Billy |QID|86| |N|Billy Maclure in The Maclure Vineyards (43.12, 85.77
 C Pie for Billy |QID|86| |N|Kill any of the boars surrounding Elywnn Forest to collect 4 Chunk of Boar Meat. Rockhide Boar are easily found around to the south of Goldshire (47, 81)|
 
 R The Stonefield Farm |QID|84| |N|Travel to The Stonefield Farm (34.5, 84.3)|
-T Pie for Billy |QID|86| |N|"Auntie" Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
-A Back to Billy |QID|84| |N|"Auntie" Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
+T Pie for Billy |QID|86| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
+A Back to Billy |QID|84| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 A Princess Must Die! |QID|88| |N|Ma Stonefield in The Stonefield Farm (34.61, 84.43)|
 T Young Lovers |QID|106| |N|Tommy Joe Stonefield in The Stonefield Farm (29.86, 85.90)|
 A Speak with Gramma |QID|111| |N|Tommy Joe Stonefield in The Stonefield Farm (29.86, 85.90)|
@@ -100,8 +101,8 @@ C Gold Dust Exchange |QID|47| |N|Kill the Kobolds surrounding the Fargodeep Mine
 C Kobold Candles |QID|60| |N|Kill the Kobolds surrounding the in Fargodeep Mine to collect 8 Large Candle (39, 80)|
 
 R Goldshire |QID|112| |N|Travel or Hearthstone to Goldshire (43.43, 66.05)| |U|6948|
-T Gold Dust Exchange |QID|47| |N|Remy "Two Times" in Goldshire (42.19, 67.05)|
-A A Fishy Peril |QID|40| |N|Remy "Two Times" in Goldshire (42.19, 67.05)|
+T Gold Dust Exchange |QID|47| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
+A A Fishy Peril |QID|40| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 T A Fishy Peril |QID|40| |N| Marshal Dughan in Goldshire (42.14, 65.90)|
 A Further Concerns |QID|35| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
 T The Fargodeep Mine |QID|62| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
@@ -127,19 +128,19 @@ R Eastvale Logging Camp |QID|83| |N|Travel to Eastvale Logging Camp (79.47, 68.7
 A Red Linen Goods |QID|83| |N|Sara Timberlain in Eastvale Logging Camp (79.47, 68.75)|
 A A Bundle of Trouble |QID|5545| |N|Supervisor Raelen in Eastvale Logging Camp (81.45, 66.19)|
 
-N As you go... |AYG|45| |QID|5545| |N|Collect 8 Bundle of Wood near the base of the trees and kill 8 Prowler and 5 Young Forest Bear|
+N As you go... |AYG|45| |QID|5545| |N|Collect 8 Bundle of Wood near the base of the trees and kill 8 Prowler and 5 Young Forest Bear| |EQID|52|
 T Find the Lost Guards |QID|37| |N|A Half-eaten Body in Stone Cairn Lake (72.7, 60.5)|
 A Discover Rolf's Fate |QID|45| |N|A Half-eaten Body in Stone Cairn Lake (72.7, 60.5)|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse in Stone Cairn Lake (79.8, 55.6)|
 A Report to Thomas |QID|71| |N|Rolf's corpse in Stone Cairn Lake (79.8, 55.6)|
 
-C A Bundle of Trouble |QID|5545| |N|Collect 8 Bundle of Wood near the base of the trees in Stone Cairn Lake (80.25, 60.11)|
+C A Bundle of Trouble |QID|5545| |N|Collect 8 Bundle of Wood near the base of the trees in Stone Cairn Lake (80.25, 60.11)| |OBJ|1248|
 C Protect the Frontier |QID|52| |N|Kill 8 Prowler and 5 Young Forest Bear which can both be found to the east around Eastvale Logging Camp as well as in the southern area across the bridge (81, 62) (83, 78)|
 
 R Eastvale Logging Camp |QID|39| |N|Travel to Eastvale Logging Camp (81.45, 66.19)|
 T A Bundle of Trouble |QID|5545| |N|Supervisor Raelen in Eastvale Logging Camp (81.45, 66.19)|
 
-C Red Linen Goods |QID|83| |N|Kill the Defias Bandit in the area to collect 6 Red Linen Bandana (69.99, 80.31)|
+C Red Linen Goods |QID|83| |N|Kill the Defias Bandit in the area to collect 6 Red Linen Bandana (90.09, 80.19) (69.99, 80.31)|
 K Defias Bandit |QID|184| |N|Keep killing Defias Bandit until you find Westfall Deed to begin a quest (69.99, 80.31)| |L|1972|
 A Furlbrow's Deed |QID|184| |N|Use Westfall Deed to accept quest| |U|1972| |O|
 
@@ -147,7 +148,7 @@ R Stone Cairn Lake |QID|46| |N|Travel to Stone Cairn Lake (79.68, 55.48)|
 T Report to Thomas |QID|71| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 A Deliver Thomas' Report |QID|39| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 T Protect the Frontier |QID|52| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
-A Report to Gryan Stoutmantle |QID|109| |N|Guard Thomas in Elwynn Forest (73.96, 72.16)|
+A Report to Gryan Stoutmantle |QID|109| |N|Guard Thomas in Elwynn Forest (73.96, 72.16)| |Z|Elwynn Forest|
 
 R Eastvale Logging Camp |TID|83| |N|Travel to Eastvale Logging Camp (79.47, 68.75)|
 T Red Linen Goods |QID|83| |N|Sara Timberlain in Eastvale Logging Camp (79.47, 68.75)|
@@ -163,9 +164,9 @@ A Elmore's Task |QID|1097| |N|Smith Argus in Goldshire (42.01, 65.60)|
 
 R The Maclure Vineyards |TID|87| |N|Travel to The Maclure Vineyards (43.12, 89.55)|
 T The Escape |QID|114| |N|Maybell Maclure in The Maclure Vineyards (43.12, 89.55)|
-T Goldtooth |QID|87| |N|"Auntie" Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
+T Goldtooth |QID|87| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 
-N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10|
+N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10| |PL|10|
 
 R Goldshire |QID|1860| |N|Travel or Hearthstone to Goldshire (43.28, 66.22)|
 A Speak with Jennea |QID|1860| |N|Zaldimar Wefhellt in Goldshire (43.28, 66.22)| |C|Mage|
@@ -178,60 +179,60 @@ T Westbrook Garrison Needs Help! |QID|239| |N|Deputy Rainer in Westbrook Garriso
 A Riverpaw Gnoll Bounty |QID|11| |N|Deputy Rainer in Westbrook Garrison (24.26, 74.54)|
 A Wanted: "Hogger" |QID|176| |N|Wanted Poster in Westbrook Garrison (24.47, 74.74)|
 
-R The Jansen Stead |QID|109| |N|Travel to The Jansen Stead (60.00, 19.37)|
-T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)|  |O|
-A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)|
-A Westfall Stew (1) |QID|36| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)|
-A Poor Old Blanchy |QID|151| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)|
-T Westfall Stew (1) |QID|36| |N|Salma Saldean in Saldean's Farm (56.40, 30.55)|
-A Westfall Stew (2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.40, 30.51)|
-A Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.23, 30.89)|
-A The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (56.09, 31.55)|
-C Poor Old Blanchy |QID|151| |N|Start collecting Handful of Oats from Sack of Oats on the ground in Saldean's Farm. Try to get 3-4 Handful of Oats and tick this step to complete later (56.9, 19,3)|  |L|1528 4|
+R The Jansen Stead |QID|109| |N|Travel to The Jansen Stead (60.00, 19.37)| |Z|Westfall|
+T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall| |O|
+A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall|
+A Westfall Stew (1) |QID|36| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
+A Poor Old Blanchy |QID|151| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
+T Westfall Stew (1) |QID|36| |N|Salma Saldean in Saldean's Farm (56.40, 30.55)| |Z|Westfall|
+A Westfall Stew (2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.40, 30.51)| |Z|Westfall|
+A Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.23, 30.89)| |Z|Westfall|
+A The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (56.09, 31.55)| |Z|Westfall|
+C Poor Old Blanchy |QID|151| |N|Start collecting Handful of Oats from Sack of Oats on the ground in Saldean's Farm. Try to get 3-4 Handful of Oats and tick this step to complete later (56.9, 19,3)| |Z|Westfall| |L|1528 4|
 
-R Sentinel Hill |QID|6181| |N|Travel to Sentinel Hill (56.3, 47.6)|  |REACH|
-T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (56.3, 47.6)|  |O|
-A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |R|Human|
-T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human|
-A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human|
-f Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)|
+R Sentinel Hill |QID|6181| |N|Travel to Sentinel Hill (56.3, 47.6)| |Z|Westfall| |REACH|
+T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (56.3, 47.6)| |Z|Westfall| |O|
+A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |R|Human| |Z|Westfall|
+T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
+A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
+f Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 
-R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)|  |R|Human|
-T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)|  |R|Human|
-T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)|  |R|Human|
-A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)|  |R|Human|
-T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)|  |R|Human|
-A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)|  |R|Human|
-T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder in The Slaughtered Lamb (29.29, 73.99) (25.32, 78.47)| |C|Warlock|  |QID|1688|
-A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock|
+R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City| |R|Human|
+T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City| |R|Human|
+T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City| |R|Human|
+A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City| |R|Human|
+T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City| |R|Human|
+A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City| |R|Human|
+T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder in The Slaughtered Lamb (29.29, 73.99) (25.32, 78.47)| |C|Warlock| |Z|Stormwind City| |QID|1688|
+A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock| |Z|Stormwind City|
 
 R Brackwell Pumpkin Patch |QID|1688| |N|Travel to Brackwell Pumpkin Patch (71.02, 80.76)| |C|Warlock|
 C Surena Caledon |QID|1688| |N|Kill Surena Caledon and collect Surena's Choker in Brackwell Pumpkin Patch. She is guarded by 2 other enemies, you will need to pull them away (71.02, 80.76)| |C|Warlock|
-T Seek out SI: 7 |QID|2205| |N|Master Mathias Shaw in SI:7 (75.88, 59.83)| |C|Rogue|
-A Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (76.47, 60.13)| |C|Rogue|
+T Seek out SI: 7 |QID|2205| |N|Master Mathias Shaw in SI:7 (75.88, 59.83)| |C|Rogue| |Z|Stormwind City|
+A Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (76.47, 60.13)| |C|Rogue| |Z|Stormwind City|
 
-T A Warrior's Training |QID|1638| |N|Harry Burlguard in Old Town (74.24, 37.26)| |C|Warrior|
-A Bartleby the Drunk |QID|1639| |N|Harry Burlguard in Old Town (74.24, 37.26)| |C|Warrior|
-T Bartleby the Drunk |QID|1639| |N|in Old Town (73.79, 36.31)| |C|Warrior|
-A Beat Bartleby |QID|1640| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior|
-C Beat Bartleby |QID|1640| |N|Beat Bartleby, then talk to him in Old Town (73.79, 36.31)| |C|Warrior|
-T Beat Bartleby |QID|1640| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior|
-A Bartleby's Mug |QID|1665| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior|
-T Bartleby's Mug |QID|1665| |N|Harry Burlguard in Old Town (74.15, 37.25)| |C|Warrior|
-A Marshal Haggard |QID|1666| |N|Harry Burlguard in Old Town (74.06, 37.40)| |C|Warrior|
+T A Warrior's Training |QID|1638| |N|Harry Burlguard in Old Town (74.24, 37.26)| |C|Warrior| |Z|Stormwind City|
+A Bartleby the Drunk |QID|1639| |N|Harry Burlguard in Old Town (74.24, 37.26)| |C|Warrior| |Z|Stormwind City|
+T Bartleby the Drunk |QID|1639| |N|in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
+A Beat Bartleby |QID|1640| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
+C Beat Bartleby |QID|1640| |N|Beat Bartleby, then talk to him in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
+T Beat Bartleby |QID|1640| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
+A Bartleby's Mug |QID|1665| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
+T Bartleby's Mug |QID|1665| |N|Harry Burlguard in Old Town (74.15, 37.25)| |C|Warrior| |Z|Stormwind City|
+A Marshal Haggard |QID|1666| |N|Harry Burlguard in Old Town (74.06, 37.40)| |C|Warrior| |Z|Stormwind City|
 
 R Jerod's Landing |QID|2206| |N|Travel to Jerod's Landing (48.08, 87.30)| |C|Rogue|
-C Snatch and Grab |QID|2206| |N|Find the Defias Dockmaster use Pick Pocket to get Defias Shipping Schedule in Jerod's Landing (48.08, 87.30)| |C|Rogue|
-T Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (75.81, 59.84)| |C|Rogue|
+C Snatch and Grab |QID|2206| |N|Find the Defias Dockmaster use (spell:921) to get Defias Shipping Schedule in Jerod's Landing (48.08, 87.30)| |C|Rogue|
+T Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (75.81, 59.84)| |C|Rogue| |Z|Stormwind City|
 
-R The Slaughtered Lamb |QID|1689| |N|Travel to The Slaughtered Lamb (25.25, 78.54)| |C|Warlock|
-T Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock|
-A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock|
-C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock|
-T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock|
+R The Slaughtered Lamb |QID|1689| |N|Travel to The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
+T Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
+A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
+T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
 
-R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)|  |R|Human|
-T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |R|Human|
+R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |Z|Westfall| |R|Human|
+T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |R|Human| |Z|Westfall|
 
 R Forest's Edge |QID|11| |N|Travel to Forest's Edge (63.96, 26.68) (25, 86)|
 C Riverpaw Gnoll Bounty |QID|11| |N|Collect 8 Painted Gnoll Armband from the Riverpaw Outrunner and Riverpaw Runt which can be found to the South (25, 86)|
@@ -269,66 +270,66 @@ T Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 R The Stonefield Farm |TID|88| |N|Travel to The Stonefield Farm (34.61, 84.43)|
 T Princess Must Die! |QID|88| |N|Ma Stonefield in The Stonefield Farm (34.61, 84.43)|
 
-R Three Corners |QID|244| |N|Travel to Three Corners in (map:1433) (15.36, 71.44)|
-A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.36, 71.44)|
-T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Lakeshire (30.74, 60.06)|
-f Lakeshire |TID|1097| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)|
+R Three Corners |QID|244| |N|Travel to Three Corners in (map:1433) (15.36, 71.44)| |Z|Redridge Mountains|
+A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.36, 71.44)| |Z|Redridge Mountains|
+T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Lakeshire (30.74, 60.06)| |Z|Redridge Mountains|
+f Lakeshire |TID|1097| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains|
 
-R Dwarven District |TID|1097| |N|Travel to Dwarven District in Stormwind City (51.75, 12.03)|
-T Elmore's Task |QID|1097| |N|Grimand Elmore in Dwarven District (51.75, 12.03)|
-A Stormpike's Delivery |QID|353| |N|Grimand Elmore in Dwarven District (51.75, 12.03)|
-R Deeprun Tram |QID|6661| |N|In the Dwarven District (70.3, 29.5)|
+R Dwarven District |TID|1097| |N|Travel to Dwarven District in Stormwind City (51.75, 12.03)| |Z|Stormwind City|
+T Elmore's Task |QID|1097| |N|Grimand Elmore in Dwarven District (51.75, 12.03)| |Z|Stormwind City|
+A Stormpike's Delivery |QID|353| |N|Grimand Elmore in Dwarven District (51.75, 12.03)| |Z|Stormwind City|
+R Deeprun Tram |QID|6661| |N|In the Dwarven District (70.3, 29.5)| |Z|Stormwind City|
 A Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side. Take the tram to get to the Ironforge side|
 C Deeprun Rat Roundup |QID|6661| |N|Capture 5 Deeprun Rat by using the Rat Catcher's Flute. Lead the rats back to Monty. Don't forget to turn in the flute when you're finished| |U|17117|
 T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side|
 
 R City of Ironforge |QID|433| |N|Go through the portal to exit to City of Ironforge|
-f City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)|
+f City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
 
-R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)|
-R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (68.65, 55.95)|
-A The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)|
-A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at Gol'Bolar Quarry (69.1, 56.3)|
-C The Public Servant |QID|433| |N|Kill 10 Rockjaw Bonesnapper around the Gol'Bolar Quarry (70.58, 56.69)|
-C Those Blasted Troggs! |QID|432| |N|Kill 6 Rockjaw Skullthumper around the Gol'Bolar Quarry (70.58, 56.69)|
-T The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)|
-T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.12, 56.30)|
+R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Dun Morogh|
+R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|Dun Morogh|
+A The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
+A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at Gol'Bolar Quarry (69.1, 56.3)| |Z|Dun Morogh|
+C The Public Servant |QID|433| |N|Kill 10 Rockjaw Bonesnapper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
+C Those Blasted Troggs! |QID|432| |N|Kill 6 Rockjaw Skullthumper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
+T The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
+T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.12, 56.30)| |Z|Dun Morogh|
 
-R Loch Modan |QID|224| |N|Travel to Loch Modan (86.22, 51.32)|  |REACH|
-R Loch Modan |QID|224| |N|Travel to Loch Modan (19.76, 62.87)|
-A In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)|
-A The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.21, 73.59)|
+R Loch Modan |QID|224| |N|Travel to Loch Modan (81.13, 52.98) (82.26, 53.41) (84.42, 51.06) (86.22, 51.32)| |Z|Dun Morogh| |REACH|
+R Loch Modan |QID|224| |N|Travel to Loch Modan (19.76, 62.87)| |Z|Loch Modan|
+A In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
+A The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.21, 73.59)| |Z|Loch Modan|
 
-R Stonesplinter Valley |QID|224| |N|Travel to Stonesplinter Valley (28.46, 66.00) (30.92, 70.58)|
-C In Defense of the King's Lands (1) |QID|224| |N|Kill 10 Stonesplinter Trogg and 10 Stonesplinter Scout in Stonesplinter Valley (31, 70.5) (28, 53)|
-C The Trogg Threat |QID|267| |N|Kill Stonesplinter Scout and Stonesplinter Trogg to collect 8 Trogg Stone Tooth in Stonesplinter Valley (33, 72)|
+R Stonesplinter Valley |QID|224| |N|Travel to Stonesplinter Valley (28.46, 66.00) (30.92, 70.58)| |Z|Loch Modan|
+C In Defense of the King's Lands (1) |QID|224| |N|Kill 10 Stonesplinter Trogg and 10 Stonesplinter Scout in Stonesplinter Valley (31, 70.5) (28, 53)| |Z|Loch Modan|
+C The Trogg Threat |QID|267| |N|Kill Stonesplinter Scout and Stonesplinter Trogg to collect 8 Trogg Stone Tooth in Stonesplinter Valley (33, 72)| |Z|Loch Modan|
 
-R Valley of Kings |OID|237| |N|Travel to Valley of Kings (29.62, 67.58) (23.21, 73.59)|
-T The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.21, 73.59)|
-T In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)|
-A In Defense of the King's Lands (2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)|
+R Valley of Kings |OID|237| |N|Travel to Valley of Kings (29.62, 67.58) (23.21, 73.59)| |Z|Loch Modan|
+T The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.21, 73.59)| |Z|Loch Modan|
+T In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
+A In Defense of the King's Lands (2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
 
-R Thelsamar |QID|416| |N|Travel to Thelsamar (33.90, 50.98)|
-f Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)|
-A Rat Catching |QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)|
-A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)|
-A Thelsamar Blood Sausages |QID|418| |N|in Stoutlager Inn (34.88, 49.13)|
-h Stoutlager Inn |QID|416| |N|Speak to Innkeeper Hearthstove and set hearth to Stoutlager Inn (35.50, 48.42)|
+R Thelsamar |QID|416| |N|Travel to Thelsamar (25.27, 67.41) (28.17, 64.71) (33.90, 50.98)| |Z|Loch Modan|
+f Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|
+A Rat Catching |QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
+A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
+A Thelsamar Blood Sausages |QID|418| |N|in Stoutlager Inn (34.88, 49.13)| |Z|Loch Modan|
+h Stoutlager Inn |QID|416| |N|Speak to Innkeeper Hearthstove and set hearth to Stoutlager Inn (35.50, 48.42)| |Z|Loch Modan|
 
 N As you go... |AYG|1338| |QID|418| |N|Kill any Bears, Spiders and Wolves for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor| |OID|1338|
-C Rat Catching |QID|416| |N|Kill any of the Tunnel Rat enemies collect 12 Tunnel Rat Ear in Silver Stream Mine (29, 43)|
+C Rat Catching |QID|416| |N|Kill any of the Tunnel Rat enemies collect 12 Tunnel Rat Ear in Silver Stream Mine (29, 43)| |Z|Loch Modan|
 
-R Algaz Station |QID|1338| |N|Travel to Algaz Station (24.78, 18.45)|
-T Stormpike's Delivery |QID|353| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)|
-T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)|
-A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)|
+R Algaz Station |QID|1338| |N|Travel to Algaz Station (24.78, 18.45)| |Z|Loch Modan|
+T Stormpike's Delivery |QID|353| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
+T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
+A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
 
-C Thelsamar Blood Sausages |QID|418| |N|Kill any Bears, Spiders and Boars for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor (32.42, 29.97) (37.28, 36.91) (27.30, 28.24)|
+C Thelsamar Blood Sausages |QID|418| |N|Kill any Bears, Spiders and Boars for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor (32.42, 29.97) (37.28, 36.91) (27.30, 28.24)| |Z|Loch Modan|
 
-R Thelsamar |TID|418| |N|Travel to Thelsamar (32.91, 49.53)|
-T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove, in Stoutlager Inn (34.83, 49.12)|
-T A Rat Catching|QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)|
-A Ironband's Excavation |QID|436| |N|Jern Hornhelm in Thelsamar (37.25, 47.71)|
+R Thelsamar |TID|418| |N|Travel to Thelsamar (32.91, 49.53)| |Z|Loch Modan|
+T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove, in Stoutlager Inn (34.83, 49.12)| |Z|Loch Modan|
+T A Rat Catching|QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
+A Ironband's Excavation |QID|436| |N|Jern Hornhelm in Thelsamar (37.25, 47.71)| |Z|Loch Modan|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

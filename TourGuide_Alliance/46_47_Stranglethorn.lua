@@ -1,7 +1,7 @@
 TourGuide:RegisterGuide("Stranglethorn (46-47)" "Searing Gorge (46-47)" "Alliance", function()
 return [[
 
-R Booty Bay |QID|348| |N|Travel to Booty Bay (27.78, 77.07)|  
+R Booty Bay |QID|348| |N|Travel to Booty Bay (27.78, 77.07)|
 T Deliver to MacKinley |QID|2874| |N|Sea Wolf MacKinley in Booty Bay (27.78, 77.07)|  |O|
 N Drawing Kit |QID|3461| |N|Store Drawing Kit to the bank (26.57, 76.56)|  |L|10445| |O|
 N Standard Issue Flare Gun |QID|3451| |N|Store Standard Issue Flare Gun to the bank (26.57, 76.56)|  |L|10444| |O|
@@ -62,8 +62,6 @@ N Green Hills of Stranglethorn - Page 25 |QID|342.1| |N|You should have most of 
 N Green Hills of Stranglethorn - Page 26 |QID|342.2| |N|You should have most of the Chapters for 'The Green Hills of Stranglethorn' by now, but you still need Green Hills of Stranglethorn - Page 26. Try to purchase from the auction house Auctioneer O\'reely in Booty Bay, sell extras or trade with other players in general chat. Tick this step to skip (26.6, 76.4)| |L|2750|
 N Green Hills of Stranglethorn - Page 27 |QID|342.3| |N|You should have most of the Chapters for 'The Green Hills of Stranglethorn' by now, but you still need Green Hills of Stranglethorn - Page 27. Try to purchase from the auction house Auctioneer O\'reely in Booty Bay, sell extras or trade with other players in general chat. Tick this step to skip (26.6, 76.4)| |L|2751|
 
---A Cracking Maury's Foot |QID|613| |N|\Sea Wolf\ MacKinley in Booty Bay (27.78, 77.15)|
---A Zanzil's Mixture and a Fool's Stout |QID|1119| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.11, 77.26)|
 A Whiskey Slim's Lost Grog |QID|580| |N|Whiskey Slim in The Salty Sailor Tavern (27.12, 77.43)|
 
 R Mistvale Valley |QID|348| |N|Travel to Mistvale Valley (33.69, 65.08)|

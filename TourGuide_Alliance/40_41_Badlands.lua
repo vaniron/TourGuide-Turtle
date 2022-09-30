@@ -1,11 +1,11 @@
-TourGuide:RegisterGuide("Stranglethorn (39-40)", "Badlands (40-41)", "Alliance", function()
+TourGuide:RegisterGuide("Badlands (40-41)", "Swamp of Sorrows (41-42)", "Alliance", function()
 return [[
 
 A The Tome of Nobility |QID|4486| |N|Brandur Ironhammer in Hall of Mysteries (23.32, 6.33)|  |C|Paladin| |R|Dwarf|
 T The Tome of Nobility |QID|4486| |N|Duthorian Rall in Cathedral of Light (39.83, 29.83)|  |C|Paladin| |R|Dwarf|
 A The Tome of Nobility |QID|4485| |N|Arthur the Faithful in Cathedral of Light (38.67, 32.91)|  |C|Paladin| |R|Human|
 T The Tome of Nobility |QID|4485| |N|Duthorian Rall in Cathedral of Light (39.86, 29.78)|  |C|Paladin| |R|Human|
-N (spell:13819) |N|Speak to Arthur the Faithful and train (spell:13819) (38.67, 32.91)|  |C|Paladin|  |BUFF|136103|
+N Summon Warhorse |N|Speak to Arthur the Faithful and train Summon Warhorse (38.67, 32.91)|  |C|Paladin|  |BUFF|136103|
 
 R City of Ironforge |QID|713| |N|Travel to City of Ironforge (24, 70)|
 B [Frost Oil] |QID|713| |N|Buy Frost Oil from Auction House.  Skip this if not available.  Don't buy if this is your first character and you still need to purchase a mount (24, 70)| |L|3829|

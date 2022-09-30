@@ -1,16 +1,17 @@
-TourGuide:RegisterGuide("Teldrassil (1-12)", "Darkshore (12-17)", "Alliance",function()
-return[[
+TourGuide:RegisterGuide("Teldrassil (1-12", "Darkshore (12-17)", "Alliance",function()
+
+return [[
 
 A The Balance of Nature (1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 C The Balance of Nature (1) |QID|456| |N|Kill 7 Young Nightsaber and 4 Young Thistle Boar in Shadowglen (61, 43)|
 T The Balance of Nature (1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 A The Balance of Nature (2) |QID|457| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 
-A Encrypted Sigil |QID|3118| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|  |C|Rogue|
-A Etched Sigil |QID|3117| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|  |C|Hunter|
-A Hallowed Sigil |QID|3119| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|  |C|Priest|
-A Simple Sigil |QID|3116| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|  |C|Warrior|
-A Verdant Sigil |QID|3120| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|  |C|Druid|
+A Encrypted Sigil |QID|3118| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A Etched Sigil |QID|3117| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A Hallowed Sigil |QID|3119| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A Simple Sigil |QID|3116| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A Verdant Sigil |QID|3120| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 
 T Encrypted Sigil |QID|3118| |N|Frahun Shadewhisper in Aldrassil (59.62, 38.69)| |C|Rogue|
 T Etched Sigil |QID|3117| |N|Ayanna Everstride in Aldrassil (58.6, 40.5)| |C|Hunter|
@@ -23,7 +24,7 @@ A The Woodland Protector (1) |QID|458| |N|Melithar Staghelm in Aldrassil (59.90,
 A A Good Friend |QID|4495| |N|Dirania Silvershine in Shadowglen (60.83, 42.01)|
 T The Woodland Protector (1) |QID|458| |N|Tarindrella in Shadowglen (57.75, 45.21)|
 A The Woodland Protector (2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
-C The Woodland Protector (2) |QID|459| |N|Kill Grell located in Shadowglen and collect 8 Fel Moss (56.4, 41.6)|
+C The Woodland Protector (2) |QID|459| |N|Kill Grell located in Shadowglen and collect 8 Fel Moss (56, 45.9) (61.2, 45.9) (56.4, 41.6)|
 T The Woodland Protector (2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
 A Webwood Venom |QID|916| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 
@@ -42,18 +43,18 @@ N 4 Moonpetal Lily |QID|3521.2| |N|Collect 4 Moonpetal Lily found around the edg
 N 7 Hyacinth Mushroom |QID|3521.1| |N|Collect 7 Hyacinth Mushroom found around the bottom of trees or dropped from Grellkin in Shadowglen (57, 37)|
 
 R Shadowthread Cave |QID|917| |N|Enter Shadowthread Cave (56.80, 31.65)|
-C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and and collect Webwood Egg near the giant spider  (56.65, 26.48)|
+C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and and collect Webwood Egg near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|
 N Webwood Ichor |QID|3521.3| |N|Collect Webwood Ichor from Webwood Spider in Shadowglen cave (57.31, 34.25)|
 
 T Webwood Egg |QID|917| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 A Tenaron's Summons |QID|920| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 
-T Tenaron's Summons |QID|920| |N|Go up the path to the top of the tree to find Tenaron Stormgrip in Aldrassil  (59.09, 39.39)|
+T Tenaron's Summons |QID|920| |N|Go up the path to the top of the tree to find Tenaron Stormgrip in Aldrassil (58.19, 39.04) (59.09, 39.39)|
 A Crown of the Earth (1) |QID|921| |N|Tenaron Stormgrip in Aldrassil (59.09, 39.39)|
 T Iverron's Antidote (1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 A Iverron's Antidote (2) |QID|3522| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 C Crown of the Earth (1) |QID|921| |N|Use the Crystal Phial at the moonwell in Shadowglen (59.9, 33.1)| |U|5185|
-T Iverron's Antidote (2) |QID|3522| |N|Iverron in Shadowglen<br/><br/>Note: You've got 5 minutes to reach Iverron and turn in the quest. Watch the timer (54.60, 32.98)|
+T Iverron's Antidote (2) |QID|3522| |N|Iverron in Shadowglen. Note: You've got 5 minutes to reach Iverron and turn in the quest. Watch the timer (54.60, 32.98)|
 T Crown of the Earth (1) |QID|921| |N|Tenaron Stormgrip in Aldrassil (58.19, 39.04) (59.09, 39.39)|
 A Crown of the Earth (2) |QID|928| |N|Tenaron Stormgrip in Aldrassil (59.09, 39.39)|
 
@@ -89,7 +90,7 @@ A The Relics of Wakening |QID|483| |N|Athridas Bearmantle in Dolanaar (55.95, 57
 T The Emerald Dreamcatcher |QID|2438| |N|Tallonkai Swiftroot in Dolanaar (55.5, 56.9)|
 A Ferocitas the Dream Eater |QID|2459| |N|Tallonkai Swiftroot in Dolanaar (55.5, 56.9)|
 
-C Timberling Seeds |QID|918| |N|Kill Timberling and collect 8 Timberling Seed around Lake Al'Ameth  (56, 65)|
+C Timberling Seeds |QID|918| |N|Kill Timberling and collect 8 Timberling Seed around Lake Al'Ameth (59, 72) (56, 65)|
 C Timberling Sprouts |QID|919| |N|Collect 12 Timberling Sprout from the ground around Lake Al'Ameth (59, 71)|
 K Nightsaber |QID|488.1| |N|Kill Nightsaber for 3 Nightsaber Fang (63.02, 60.45)|
 T Timberling Seeds |QID|918| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
@@ -128,9 +129,9 @@ R Ban'ethil Barrow Den |QID|483| |N|Travel to Ban'ethil Barrow Den (44.28, 58.08
 N Rune of Nesting |QID|483.4| |N|Head down into the Ban'ethil Barrow Den at the first set of bridges take the left bridge and collect Rune of Nesting from the chest (44.40, 60.62)|
 N Black Feather Quill |QID|483.2| |N|Collect Black Feather Quill from the chest across the other bridge (43.76, 61.20)|
 A The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
-N Raven Claw Talisman |QID|483.1| |N|Collect Raven Claw Talisman from the chest  (45.71, 57.33)|
+N Raven Claw Talisman |QID|483.1| |N|Collect Raven Claw Talisman from the chest (45.51, 58.96) (46.22, 58.21) (45.71, 57.33)|
 N Sapphire of Sky |QID|483.3| |N|Collect Sapphire of Sky from the small chest (44.65, 62.50)|
-C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm, the item only drop froms shaman and very low drop rate<br/><br/>The quest chain will reward Sleeping Robes and Brushwood Blade, consider skipping this quest and the follow up if the rewards is useless for your character (44, 59)|
+C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm, the item only drop froms shaman and very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade, consider skipping this quest and the follow up if the rewards is useless for your character (44, 59)|
 T The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 A Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 C Druid of the Claw |QID|2561| |N|Kill Rageclaw and then use the Voodoo Charm on the body (44.9, 61.5)| |U|8149|
@@ -142,7 +143,7 @@ A Crown of the Earth (5) |QID|7383| |N|Corithras Moonrage in Dolanaar (56.20, 61
 T The Relics of Wakening |QID|483| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 A Ursal the Mauler |QID|486| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 T Seek Redemption! |QID|489| |N|Zenn Foulhoof in Teldrassil (60.41, 56.26)|
-N Train (spell:2366) |QID|6121| |N|Highly recommend as a Druid that you train (spell:2366) from Malorne Bladeleaf, you will need it to gather 5 Earthroot for your level 14 class quest<br/><br/>Note: You need level 15 (spell:2366) to gather Earthroot, so level up as you go<br/><br/>Tick this step (57.6, 60.6)| |C|Druid|
+N Train (spell:2366) |QID|6121| |N|Highly recommend as a Druid that you train (spell:2366) from Malorne Bladeleaf, you will need it to gather 5 Earthroot for your level 14 class quest. Note: You need level 15 (spell:2366) to gather Earthroot, so level up as you go. Tick this step (57.6, 60.6)| |C|Druid| |Z|Teldrassil|
 
 N Level 10 Required |N|Grind to level 10 so you can pick up class quests before heading to Darnassus| |PL|10|
 A The Apple Falls |QID|2241| |N|Jannok Breezesong in Dolanaar, level 10 required (56.36, 60.17)| |C|Rogue|
@@ -163,34 +164,34 @@ T Taming the Beast (3) |QID|6102| |N|Dazalar in Dolanaar (56.68, 59.50)| |C|Hunt
 A Training the Beast |QID|6103| |N|Dazalar in Dolanaar (56.41, 58.57)| |C|Hunter|
 
 R Darnassus |QID|923| |N|Travel to Darnassus (27, 55)|
-A Nessa Shadowsong |QID|6344| |N|Mydrannul in Warrior's Terrace (70.5, 43.8)| |R|Night Elf|  |OID|6341|
-T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)|
-A Tumors |QID|923| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)|
+A Nessa Shadowsong |QID|6344| |N|Mydrannul in Warrior's Terrace (70.5, 43.8)| |R|Night Elf| |Z|Darnassus| |OID|6341|
+T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
+A Tumors |QID|923| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
 
-T The Apple Falls |QID|2241| |N|Syurna down in the tunnel in Cenarion Enclave  (36.86, 21.88)| |C|Rogue|
-A Destiny Calls |QID|2242| |N|Syurna down in the tunnel in Cenarion Enclave (36.86, 21.88)| |C|Rogue|
+T The Apple Falls |QID|2241| |N|Syurna down in the tunnel in Cenarion Enclave (32.63, 16.16) (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
+A Destiny Calls |QID|2242| |N|Syurna down in the tunnel in Cenarion Enclave (36.86, 21.88)| |C|Rogue| |Z|Darnassus|
 
-A The Temple of the Moon |QID|2519| |N|Sister Aquinne in The Temple Gardens (29, 45.5)|   |OID|2518|
+A The Temple of the Moon |QID|2519| |N|Sister Aquinne in The Temple Gardens (29, 45.5)| |Z|Darnassus|
 
-T Training the Beast |QID|6103| |N|Jocaste in Cenarion Enclave (40.39, 8.60)| |C|Hunter|
+T Training the Beast |QID|6103| |N|Jocaste in Cenarion Enclave (40.39, 8.60)| |C|Hunter| |Z|Darnassus|
 
-T Heeding the Call |QID|5923| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid|
-A Moonglade |QID|5921| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid|
-R Nighthaven |QID|5929| |N|Use (spell:18960) to get to Nighthaven in Moonglade (56.23, 30.60)| |C|Druid|
-T Moonglade |QID|5921| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid|
-A Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid|
-N Great Bear Spirit |QID|5929.1| |N|Speak to Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |C|Druid|
-T Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid|
-A Back to Darnassus |QID|5931| |N|Dendrite Starblaze in Nighthaven (56.20, 30.64)| |C|Druid|
-F Rut'theran Village |TID|5931| |N|Speak to Silva Fil\'naveth and fly to Rut'theran Village (58.33, 93.89)| |C|Druid|
-T Back to Darnassus |QID|5931| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid|
-A Body and Heart |QID|6001| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid|
+T Heeding the Call |QID|5923| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid| |Z|Darnassus|
+A Moonglade |QID|5921| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42)| |C|Druid| |Z|Darnassus|
+R Nighthaven |QID|5929| |N|Use (spell:18960) to get to Nighthaven in Moonglade (56.23, 30.60)| |C|Druid| |Z|Thunder Bluff|
+T Moonglade |QID|5921| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
+A Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
+N Great Bear Spirit |QID|5929.1| |N|Speak to Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |C|Druid| |Z|Moonglade|
+T Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
+A Back to Darnassus |QID|5931| |N|Dendrite Starblaze in Nighthaven (56.20, 30.64)| |C|Druid| |Z|Moonglade|
+F Rut'theran Village |TID|5931| |N|Speak to Silva Fil'naveth and fly to Rut'theran Village (58.33, 93.89)| |C|Druid|
+T Back to Darnassus |QID|5931| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
+A Body and Heart |QID|6001| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
 
-T Elanaria |QID|1684| |N|Elanaria in Darnassus (57.30, 34.57)| |C|Warrior|
-A Vorlus Vilehoof |QID|1683| |N|Elanaria in Darnassus (57.30, 34.57)| |C|Warrior|
+T Elanaria |QID|1684| |N|Elanaria in Darnassus (57.30, 34.57)| |C|Warrior| |Z|Darnassus|
+A Vorlus Vilehoof |QID|1683| |N|Elanaria in Darnassus (57.30, 34.57)| |C|Warrior| |Z|Darnassus|
 
-T The Temple of the Moon |QID|2519| |N|Priestess A\'moora in Temple of the Moon (36.55, 86.11)|   |OID|2518|
-A Tears of the Moon |QID|2518| |N|Priestess A\'moora in Temple of the Moon (36.55, 86.11)|
+T The Temple of the Moon |QID|2519| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
+A Tears of the Moon |QID|2518| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
 
 R Teldrassil |QID|923| |N|Travel to Teldrassil (38.0, 54.7)| |REACH|
 C Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler, consider skipping (x) this quest if the quest rewards Defender Axe or Thornroot Club is useless for your character (38.8, 78.9)|
@@ -199,7 +200,7 @@ K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof an
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
 C Tumors |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler collect 5 Mossy Tumor in Wellspring River (43.65, 34.46)|
 C Crown of the Earth (5) |QID|7383| |N|Use Amethyst Phial at the moonwell (38, 34)| |U|18152|
-K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.5, 26)<br/><b>He is a rare npc skip the quest if you can't find him| |L|5179|
+K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.7, 36.8) and (42.5, 26)<br/><b>He is a rare npc skip the quest if you can't find him| |L|5179|
 A The Moss-twined Heart |QID|927| |N|Use Moss-twined Heart to accept the quest| |O| |U|927|
 
 R The Oracle Glade |QID|937| |N|Travel to The Oracle Glade (38.3, 34.4)|
@@ -207,7 +208,7 @@ A The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Gla
 A Mist |QID|938| |N|Mist north west of The Oracle Glade (31.54, 31.61)|
 A The Shimmering Frond |QID|931| |N|Strange Fronded Plant in The Oracle Glade (34.8, 28.9)|
 
-C Mist |QID|938| |N|Escort Mist to Sentinel Arynia Cloudsbreak at the moon well near the Oracle Tree  (38.3, 34.4)|
+C Mist |QID|938| |N|Escort Mist to Sentinel Arynia Cloudsbreak at the moon well near the Oracle Tree (31.4, 31.6) (38.3, 34.4)|
 C The Enchanted Glade |QID|937| |N|Kill Bloodfeather mobs and collect 6 Bloodfeather Belt in The Oracle Glade (35, 38)|
 
 T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
@@ -217,16 +218,16 @@ A Teldrassil |QID|940| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3,
 C Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnerets north of The Oracle Glade (39.28, 25.70)|
 C Destiny Calls |QID|2242| |N|Find Sethir the Ancient north of the The Oracle Glade and use the (spell:921) ability on him from behind while stealth to get a book from him (37.21, 23.24)| |C|Rogue| |PRE|2241|
 
-R Cenarion Enclave |QID|2498| |N|Travel to Darnassus (36.88, 21.97)|
-T Destiny Calls |QID|2242| |N|Syurna in Cenarion Enclave (36.88, 21.97)|  |PRE|2241| |C|Rogue|
-T Vorlus Vilehoof |QID|1683| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior|
-A The Shade of Elura |QID|1686| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior|
-T Tumors |QID|923| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)|
-A Return to Denalan |QID|2498| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)|
-T Tears of the Moon |QID|2518| |N|Priestess A\'moora in Temple of the Moon (36.55, 86.11)|
-A Sathrah's Sacrifice |QID|2520| |N|Priestess A\'moora in Temple of the Moon (36.55, 86.11)|
-C Sathrah's Sacrifice |QID|2520| |N|Use Sathrah's Sacrifice at the fountain inside the temple (39, 86.5)| |U|8155|
-T Sathrah's Sacrifice |QID|2520| |N|Priestess A\'moora in Temple of the Moon (36.55, 86.11)|
+R Cenarion Enclave |QID|2498| |N|Travel to Darnassus (36.88, 21.97)| |Z|Darnassus|
+T Destiny Calls |QID|2242| |N|Syurna in Cenarion Enclave (36.88, 21.97)| |Z|Darnassus| |PRE|2241| |C|Rogue|
+T Vorlus Vilehoof |QID|1683| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
+A The Shade of Elura |QID|1686| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
+T Tumors |QID|923| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
+A Return to Denalan |QID|2498| |N|Rellian Greenspyre in Cenarion Enclave (38.26, 21.27)| |Z|Darnassus|
+T Tears of the Moon |QID|2518| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
+A Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
+C Sathrah's Sacrifice |QID|2520| |N|Use Sathrah's Sacrifice at the fountain inside the temple (39, 86.5)| |U|8155| |Z|Darnassus|
+T Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
 
 R Dolanaar |QID|935| |N|Travel to Dolanaar (40.5, 54.7) (55.95, 57.28)|
 T Ursal the Mauler |QID|486| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
@@ -237,39 +238,40 @@ T Return to Denalan |QID|2498| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T The Glowing Fruit |QID|930| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T The Shimmering Frond |QID|931| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
-T The Moss-twined Heart |QID|927| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|  |O|
+T The Moss-twined Heart |QID|927| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
-C Oakenscowl |QID|2499| |N|Kill Oakenscowl and collect Gargantuan Tumor in Lake Al'Ameth<br/><br/>This is a group quest but can be soloed for good XP but you can safely skip this quest if it's too hard (53.55, 74.99)|
+C Oakenscowl |QID|2499| |N|Kill Oakenscowl and collect Gargantuan Tumor in Lake Al'Ameth. This is a group quest but can be soloed for good XP but you can safely skip this quest if it's too hard (53.55, 74.99)|
 T Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
 R Darnassus |QID|952| |N|Travel to Darnassus (27, 55)|
-T Crown of the Earth (6) |QID|935| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)|
-T Teldrassil |QID|940| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)|
-A Grove of the Ancients |QID|952| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)|
+T Crown of the Earth (6) |QID|935| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
+T Teldrassil |QID|940| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
+A Grove of the Ancients |QID|952| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
 
-R Rut'theran Village |QID|6341| |N|Run thru the portal west of the bank (30.5, 41.4)|  |R|Night Elf|
-T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|  |R|Night Elf| |OID|6341|
-A The Bounty of Teldrassil |QID|6341| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|  |R|Night Elf|
-T The Bounty of Teldrassil |QID|6341| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|  |R|Night Elf|
-A Flight to Auberdine |QID|6342| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|  |R|Night Elf|
+R Rut'theran Village |QID|6341| |N|Run thru the portal west of the bank (30.5, 41.4)| |Z|Darnassus| |R|Night Elf|
+T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|
+A The Bounty of Teldrassil |QID|6341| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|
+T The Bounty of Teldrassil |QID|6341| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|
+A Flight to Auberdine |QID|6342| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|
 
 F Auberdine |QID|6342| |N|Speak to Vesprystus in Rut'theran Village and fly to Auberdine (58.39, 94.00)|
-T Flight to Auberdine |QID|6342| |N|Laird in Auberdine (36.77, 44.32)|  |R|Night Elf|
-C Body and Heart |QID|6001| |N|Use the Cenarion Lunardust on the on the Moonkin Stone of Auberdine to summon Turak Runetotem (43.48, 45.95)| |C|Druid|
+T Flight to Auberdine |QID|6342| |N|Laird in Auberdine (36.77, 44.32)|
+C Body and Heart |QID|6001| |N|Use the Cenarion Lunardust on the on the Moonkin Stone of Auberdine to summon Turak Runetotem (43.48, 45.95)| |C|Druid| |Z|Darkshore|
 
-K Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |C|Warrior|
-N Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |C|Warrior|
-C The Shade of Elura |QID|1686| |N|Bring 8 Elunite Ore and the Elura's Medallion to Elanaria in The Long Wash (32.00, 46.34)| |C|Warrior|
+K Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |C|Warrior| |Z|Darkshore|
+N Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |C|Warrior| |Z|Darkshore|
+C The Shade of Elura |QID|1686| |N|Bring 8 Elunite Ore and the Elura's Medallion to Elanaria in The Long Wash (32.00, 46.34)| |C|Warrior| |Z|Darkshore|
 
-R Cenarion Enclave |TID|6001| |N|Travel to Cenarion Enclave (34.90, 8.25)| |C|Druid|
-T Body and Heart |QID|6001| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid|
+R Cenarion Enclave |TID|6001| |N|Travel to Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
+T Body and Heart |QID|6001| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
 
-R Darnassus |TID|1693| |N|Travel to Darnassus (57.31, 34.62)| |C|Warrior|
-T The Shade of Elura |QID|1686| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior|
-A Smith Mathiel |QID|1692| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior|
-T Smith Mathiel |QID|1692| |N|Mathiel in Darnassus (59.44, 45.36)| |C|Warrior|
-T Weapons of Elunite |QID|1693| |N|Mathiel in Darnassus (59.44, 45.36)| |C|Warrior|  |E|
+R Darnassus |TID|1693| |N|Travel to Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
+T The Shade of Elura |QID|1686| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
+A Smith Mathiel |QID|1692| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
+T Smith Mathiel |QID|1692| |N|Mathiel in Darnassus (59.44, 45.36)| |C|Warrior| |Z|Darnassus|
+T Weapons of Elunite |QID|1693| |N|Mathiel in Darnassus (59.44, 45.36)| |C|Warrior| |Z|Darnassus|
 
-N Guide Complete |N|Continue to (guide:"Darkshore (12-17)")|
+N Guide Complete |N|Continue to (guide:"1439(12-17)#1439(12-17)#1439(12-17)")|
+
 ]]
 end)
