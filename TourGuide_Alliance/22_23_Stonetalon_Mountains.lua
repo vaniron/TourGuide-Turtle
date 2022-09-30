@@ -2,8 +2,8 @@ TourGuide:RegisterGuide("Stonetalon Mountains (22-23)", "Darkshore (23-24)", "Al
 
 return [[
 
-R Ratchet |QID|1483| |N|Travel to Ratchet (62.95, 37.23)| |Z|The Barrens|
-A Ziz Fizziks |QID|1483| |N|Sputtervalve in Ratchet (62.95, 37.23)| |Z|The Barrens|
+R Ratchet |QID|1483| |N|Travel to Ratchet only if you have flight point or want to make the run(62.95, 37.23)| |Z|The Barrens| |O|
+A Ziz Fizziks |QID|1483| |N|Sputtervalve in Ratchet (62.95, 37.23)| |Z|The Barrens| |O|
 
 R Astranaar |QID|1070| |N|Travel to Astranaar (34.5, 48)| |Z|Ashenvale|
 A On Guard in Stonetalon (1) |QID|1070| |N|Sentinel Thenysil in Astranaar (34.92, 49.77)| |Z|Ashenvale|
