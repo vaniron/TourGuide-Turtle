@@ -13,10 +13,9 @@ A Water Pouch Bounty |QID|1707| |N|Spigot Operator Luglunket in Gadgetzan (52.46
 A Wastewander Justice |QID|1690| |N|Chief Engineer Bilgewhizzle in Gadgetzan (52.44, 28.50)|
 A Gadgetzan Water Survey |QID|992| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.49)|
 h Gadgetzan |QID|1190| |N|Speak to Innkeeper Fizzgrimble and set hearth in Gadgetzan (52.49, 27.91)|
---A Divino-matic Rod |QID|2768| |N|Chief Engineer Bilgewhizzle in Gadgetzan (52.44, 28.48)|
 N Goblin Rumors |QID|1117| |N|Withdraw Goblin Rumors from the bank. Tick this step (52.30, 28.89)|  |L|5804| |OO|
 N Seaforium Booster |QID|1187| |N|Withdraw Seaforium Booster from the bank. Tick this step (52.30, 28.89)|  |L|5862| |OO|
-N Encrusted Tail Fin |QID|1107| |N|Withdraw Encrusted Tail Fin from the bank. Tick this step (52.30, 28.89)|  |L|5796| |OO| 
+N Encrusted Tail Fin |QID|1107| |N|Withdraw Encrusted Tail Fin from the bank. Tick this step (52.30, 28.89)|  |L|5796| |OO|
 N Leftwitch's Package |QID|1467| |N|Store Leftwitch's Package to the bank (52.30, 28.89)|  |L|6253| |O|
 N Letter of Commendation |QID|1052| |N|Store Letter of Commendation to the bank (52.30, 28.89)|  |L|5539| |O|
 N A Carefully-packed Crate |QID|3022| |N|Store A Carefully-packed Crate to the bank (52.30, 28.89)|  |L|9507| |O|
