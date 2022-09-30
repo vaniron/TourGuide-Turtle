@@ -1,8 +1,8 @@
 TourGuide:RegisterGuide("Stonetalon Mountains (22-23)", "Darkshore (23-24)", "Alliance",function()
 return[[
 
-R Ratchet |QID|1483| |N|Travel to Ratchet (62.95, 37.23)|
-A Ziz Fizziks |QID|1483| |N| in Ratchet (62.95, 37.23)|
+R Ratchet |QID|1483| |N|Travel to Ratchet (62.95, 37.23)| |O|
+A Ziz Fizziks |QID|1483| |N| in Ratchet (62.95, 37.23)| |O|
 
 R Astranaar |QID|1070| |N|Travel to Astranaar (34.5, 48)|
 A On Guard in Stonetalon (1) |QID|1070| |N|Sentinel Thenysil in Astranaar (34.92, 49.77)|
@@ -31,7 +31,7 @@ C Pridewings of Stonetalon |QID|1134| |N|Kill Pridewings and collect 12 [Pridewi
 
 R Stonetalon Peak |TID|1056| |N|Travel to Stonetalon Peak (37.10, 8.10)|
 T Journey to Stonetalon Peak |QID|1056| |N|Keeper Albagorm in Stonetalon Peak (37.10, 8.10)|
-f Stonetalon Peak |TID|1134| |N|Grab flight path for Stonetalon Peak (36.46, 7.20)|  
+f Stonetalon Peak |TID|1134| |N|Grab flight path for Stonetalon Peak (36.46, 7.20)|
 
 ]]
 end)
