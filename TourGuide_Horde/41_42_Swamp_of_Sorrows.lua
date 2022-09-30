@@ -1,62 +1,73 @@
-TourGuide:RegisterGuide("Swamp of Sorrows (41-42)", "Stranglethorn Vale (42-43)", "Horde", function()
+TourGuide:RegisterGuide("Swamp of Sorrows (41-42)", "Stranglethorn (42-43)", "Horde",function()
+
+
 return [[
-R Swamp of Sorrows
 
-K Dreaming Whelp |N|Just clear the area, will return later (15,56)| |L|5803|
-K Mire Lord |N|Inside cave (6,31)| |L|6081|
-C Dream Dust in the Swamp |N|Kill Scalebane Dragons along the east and northern shores of the big lake| |QID|1116|
+T The Rumormonger |QID|1115| |N|Krazek in The Salty Sailor Tavern (26.95, 77.22)| |Z|Stranglethorn Vale| |O| 
+A Dream Dust in the Swamp |QID|1116| |N|Krazek in The Salty Sailor Tavern (26.95, 77.22)| |Z|Stranglethorn Vale| |PRE|1116| 
 
-K Noboru the Cudgel |L|6196|
-A Noboru the Cudgel |U|6196| |QID|1392|
-T Noboru the Cudgel |QID|1392|
-A Draenethyst Crystals |QID|1389|
+R Duskwood |QID|1372| |N|Travel north to Duskwood (41.7, 0.3)| |Z|Stranglethorn Vale|
+A Nothing But The Truth (1) |QID|1372| |N|Deathstalker Zraedus in Beggar's Haunt (87.7, 35.7)| |Z|Duskwood| 
+T Nothing But The Truth (1) |QID|1372| |N|Apothecary Faustin in Beggar's Haunt (87.5, 35.4)| |Z|Duskwood| 
 
-R Stonard |N|(45,54)|
-h Stonard
-A Lack of Surplus (Part 1) |T| |QID|698|
-A Fresh Meat |T| |QID|1430|
-N Stable Pet |N|At (97.39,35.85)| |C|Hunter|
-T Report to Helgrum |T| |QID|1420|
-A Pool of Tears |T| |QID|1424|
+R Swamp of Sorrows |QID|1389| |N|Travel east through Deadwind Pass to Swamp of Sorrows (63.8, 40.7)| |Z|1430|
+R The Harborage |QID|1389| |N|Travel to The Harborage (25.99, 31.44)| 
+A Draenethyst Crystals |QID|1389| |N|Magtoor in The Harborage (25.99, 31.44)| 
 
-P Bite (Rank 6) |C|Hunter| |N|Tame a Deathstrike Tarauntula (56,61)|
-N Abandon Pet |C|Hunter|
-P Claw (Rank 6) |C|Hunter| |N|Tame a Silt Crawler (80.47,93.89)|
-H Stonard |C|Hunter|
-N Abandon Pet |C|Hunter| |N|Get original pet back|
+R Stonard |QID|698| |N|Travel to Stonard (46, 54.7)|
+f Stonard |QID|698| |N|Speak to Breyk and grab flight path for Stonard (46, 54.7)| 
+h Stonard |QID|698| |N|Speak to Innkeeper Karakul set hearth in Stonard (45.1, 56.5)| 
+A Lack of Surplus |QID|698| |N|Dar in Stonard (44.8, 57.0)| 
+T Report to Helgrum |QID|1420| |N|Helgrum the Swift in Stonard (47.9, 55.1)| 
+A Pool of Tears |QID|1424| |N|Fel'zerul in Stonard (47.9, 54.9)| 
 
-C Pool of Tears |N|Artifacts in the water around the big lake (65,54)| |QID|1424|
-C Lack of Surplus (Part 1) |N|Just north-east of Stonard| |QID|698|
-N Nothing But the Truth (Part 2) |N|Kill any Shadow Panthers you see| |QID|1383|
-T Lack of Surplus (Part 1) |QID|698|
-A Lack of Surplus (Part 2) |QID|699|
-C Lack of Surplus (Part 2) |N|Sawtooth Snappers to the north east (81,20)| |QID|699|
+C Lack of Surplus |QID|698| |N|Kill Sawtooth Crocolisk for 8 Unprepared Sawtooth Flank (51.42, 58.24) (57.70, 54.35) (57.32, 46.45) (53.54, 41.79) (47.71, 35.45)|  
+R Pool of Tears |QID|1424| |N|Travel to Pool of Tears (66.47, 59.14)|
+C Pool of Tears |QID|1424| |N|Collect 10 Atal'ai Artifact in and around Pool of Tears, quite hard to spot look for objects like plate, urn, sack in each waypoint (66.47, 59.14) (65.40, 55.41) (65.89, 47.04) (68.27, 43.12) (73.76, 42.29) (75.51, 60.15) (74.21, 61.62)(73.58, 64.66) (71.52, 59.42)|  |OBJ|653, 652, 651|
 
-A Galen's Escape |N|An escort quest, skip if you'd like| |QID|1393|
-C Galen's Escape |QID|1393| |O|
-C Draenethyst Crystals |QID|1389|
-C Ongeku |N|Found at (65.1, 22.0)| |QID|1373|
-T Galen's Escape |QID|1393| |O|
+R Misty Reed Post |TID|1427| |N|Travel to Misty Reed Post (81.4, 80.9)|
+T Lack of Surplus |QID|698| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)| 
+A Lack of Surplus (2) |QID|699| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)| 
+C Lack of Surplus (2) |QID|699| |N|Kill Sawtooth Snapper and collect 6 Sawtooth Snapper Claw in The Forbidding Sea (82.21, 99.30)|  
+T Lack of Surplus (2) |QID|699| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)| 
+A Threat From the Sea |QID|1422| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)| 
+T Threat From the Sea |QID|1422| |N|Katar in Misty Reed Post (83.7, 80.5)| 
+A Threat From the Sea (2) |QID|1426| |N|Katar in Misty Reed Post (83.7, 80.5)| 
+C Threat From the Sea (2) |QID|1426| |N|Kill 10 Marsh Murloc, 10 Marsh Inkspewer and 10 Marsh Flesheater found along the East coast (84, 87.3) (90, 73) (94, 57)|  
+T Threat From the Sea (2) |QID|1426| |N|Katar in Misty Reed Post (83.7, 80.5)| 
+A Threat From the Sea (3) |QID|1427| |N|Katar in Misty Reed Post (83.7, 80.5)| 
+T Threat From the Sea (3) |QID|1427| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)| 
 
-T Draenethyst Crystals |N|Back at The Harborage (26.0,31.6)| |QID|1389|
+R Fallow Sanctuary |QID|1393| |N|Travel Fallow Sanctuary (65.40, 18.29)| |Z|Swamp of Sorrows|
+A Galen's Escape |QID|1393| |N|Galen Goodward in Fallow Sanctuary. Clear the area then accept the quest (65.40, 18.29)| |Z|Swamp of Sorrows| 
 
-T Pool of Tears |T| |QID|1424|
-A The Atal'ai Exile |T| |QID|1429|
+N As you go.. |AYG|1393| |QID|1389| |N|Collect 6 Draenethyst Crystal in Fallow Sanctuary, it is a large blue crystal on the ground| |OBJ|219|
+C Galen's Escape |QID|1393| |N|Escort Galen Goodward until quest is complete (64.69, 25.17) (52.62, 29.83)| |Z|Swamp of Sorrows| 
+R Fallow Sanctuary |QID|1393| |N|Travel to Fallow Sanctuary (62, 24)|
+C Draenethyst Crystals |QID|1389| |N|Loot 6 Draenethyst Crystal which are scattered around the Fallow Sanctuary (62, 24)|  |OBJ|219|
 
-T Lack of Surplus (Part 2) |QID|699|
-A Threat From the Sea (Part 1) |QID|1422|
-T Threat From the Sea (Part 1) |QID|1422|
-A Threat From the Sea (Part 2) |QID|1426|
+T Galen's Escape |QID|1393| |N|Galen's Strongbox in The Shifting Mire (47.86, 39.79)| |Z|Swamp of Sorrows| |OBJ|10|
+K Noboru the Cudgel |QID|1392| |N|Kill Noboru the Cudgel and collect Noboru's Cudgel, he patrols around in The Shifting Mire (46.76, 38.63)| |L|6196|  
+A Noboru the Cudgel |QID|1392| |N|Use Noboru's Cudgel to begin the quest| |U|6196| |O|
 
-C Threat From the Sea (Part 2) |N|Head to the shoreline| |QID|1426|
-C Fresh Meat |N|Monstrous Crawlers on the shoreline| |QID|1430|
-N Nothing But the Truth (Part 2) |N|Get remaining Hearts| |QID|1383| |Q|Nothing But the Truth| |QO|Shadow Panther Heart: 5/5|
+R The Harborage |TID|1392| |N|Travel to The Harborage (25.99, 31.44)| 
+T Noboru the Cudgel |QID|1392| |N|Magtoor in The Harborage (25.99, 31.44)| |O| 
+T Draenethyst Crystals |QID|1389| |N|Magtoor in The Harborage (25.99, 31.44)| 
 
-T Threat From the Sea (Part 2) |QID|1426|
-A Threat From the Sea (Part 3) |QID|1427|
-T Threat From the Sea (Part 3) |QID|1427|
-H Stonard
+C Dream Dust in the Swamp |QID|1116| |N|Kill Dreaming Whelp and Adolescent Whelp and collect 10 Speck of Dream Dust near Itharius's Cave (12.67, 67.10)| |Z|Swamp of Sorrows|  |PRE|1116| 
 
-T Fresh Meat |T| |QID|1430|
+R Stonard |OID|1429| |N|Travel or Hearthstone to Stonard (47.9, 54.9)| |U|6948|
+T Pool of Tears |QID|1424| |N|Fel'zerul in Stonard (47.9, 54.9)| 
+A The Atal'ai Exile |QID|1429| |N|Fel'zerul in Stonard (47.9, 54.9)| 
+
+N Guide Complete |N|Tick to continue to the next guide| 
+
 ]]
+end, image = "swampofsorrows.tga", description = [[]])	end
+	
+	function Guide:Unload()
 end)
+
+
+
+

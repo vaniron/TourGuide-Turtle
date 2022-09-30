@@ -1,93 +1,101 @@
-TourGuide:RegisterGuide("Hillsbrad Foothills (29-30)", "Arathi Highlands (30)", "Horde", function()
+TourGuide:RegisterGuide("Hillsbrad Foothills (29-30)", "Arathi Highlands (30-30)", "Horde",function()
+
+
 return [[
 
-N Grind to 30... |LV|30| |C|Warrior|
+R Undercity |QID|493| |N|Travel to Undercity (61.9, 68.1)| |Z|Tirisfal|
+f Undercity |QID|493| |N|Speak to Michael Garrett and grab flight path for Undercity (63.5, 48.7)| |Z|Undercity| |R|Orc, Troll, Tauren| 
+N Kodo Skin Scroll |N|Store Kodo Skin Scroll at the bank (66.0, 45.2)| |Z|Undercity| |L| |Z|5838| |O| 
 
-F Orgrimmar
-h Orgrimmar
+R Tirisfal Glades |QID|493| |N|Exit through the sewers to Tirisfal Glades (15.2, 32.4)| |Z|Undercity|
+R Silverpine Forest |QID|493| |N|Travel to Silverpine Forest (50, 79.3)| |Z|Tirisfal|
+A Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Renferrel in The Sepulcher (42.9, 40.9)| |Z|Silverpine Forest| 
+f The Sepulcher |QID|494| |N|Speak to Karos Razok flight path for The Sepulcher (45.61, 42.60)| |Z|Silverpine Forest| |OID|1536|  
 
-A The Islander |QUD|1718| |C|Warrior| |LV|30| |Z|Orgimmar| |N|(80.39, 32.38)|
-N Liferoot |C|Warrior| |LV|30| |L|3357 8| |N|Acquire 8 Liferoot somehow.|
-N Thundering Charm |C|Warrior| |L|4480 8| |N|Can be skipped if you want farm them yourself.|
-N Cresting Charm |C|Warrior| |L|4481 8| |N|Can be skipped if you want farm them yourself.|
-N Burning |C|Warrior| |L|4479 8| |N|Can be skipped if you want farm them yourself.|
-f Ratchet |C|Warrior|
-T The Islander |QID|1718| |C|Warrior| |LV|30| |Z|The Barrens| |N|(68.61, 49.16)|
-A The Affray |QID|1719| |C|Warrior| |LV|30| |Z|The Barrens|
-C The Affray |QID|1719| |C|Warrior| |LV|30| |Z|The Barrens|
-T The Affray |QID|1719| |C|Warrior| |LV|30| |Z|The Barrens|
-A The WindWatcher |QID|1791| |C|Warrior| |LV|30|
+R Hillsbrad Foothills |QID|494| |N|Travel down through Silverpine then east to Hillsbrad Foothills (71.3, 80.5)| |Z|Silverpine Forest|
+A Time To Strike |QID|494| |N|Deathstalker Lesh in Southpoint Tower (20.8, 47.4)| 
 
-D Die |N|Take Rez Sickness| |C|Warrior| |N|Hearth if possible|
-F Orgrimmar |C|Warrior|
-h Orgrimmar |C|Warrior|
+R Tarren Mill |QID|1361| |N|Travel to Tarren Mill (62.3, 20.3)|
+T Time To Strike |QID|494| |N|High Executor Darthalia in Tarren Mill (62.3, 20.3)| 
+T Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Lydon in Tarren Mill (61.5, 19.2)| 
+T Journey to Tarren Mill |QID|1065| |N|Apothecary Lydon in Tarren Mill (61.4, 19.2)| |Z|Hillsbrad Foothills| |O| 
+A Blood of Innocents |QID|1066| |N|Apothecary Lydon in Tarren Mill (61.42, 19.04)| |Z|Hillsbrad Foothills| |PRE|1063| 
+f Tarren Mill |QID|1361| |N|Speak to Zarise and grab flight path for Tarren Mill (60.2, 18.7)| |OID|1536| 
+A Elixir of Suffering |QID|496| |N|Apothecary Lydon in Tarren Mill (61.49, 19.18)| 
+A Elixir of Pain |QID|501| |N|Apothecary Lydon in Tarren Mill (61.49, 19.18)| 
+A Elixir of Agony |QID|509| |N|Apothecary Lydon in Tarren Mill (61.49, 19.18)| 
+A Battle of Hillsbrad (1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.30, 20.18)| 
+A Helcular's Revenge (1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.81, 19.65)| 
+A Dangerous! |QID|567| |N|Click item Dangerous! in Tarren Mill (62.50, 19.85)|
+A Soothing Turtle Bisque |QID|7321| |N|Christoph Jeffcoat in Tarren Mill<br/><b>Requires cooking profession to accept quest (62.38, 19.07)| 
+B Soothing Spices |QID|7321.2| |N|Buy 1 Soothing Spices from Christoph Jeffcoat in Tarren Mill (62.36, 19.01)| 
 
-R Hillsbrad Foothills |N|Take the zeppelin outside Orgrimmar to Undercity. Run down thru Silverpine.|
-A Time To Strike |QID|494| |N|At Southpoint Tower (20.82, 47.31) just as you enter the zone.|
+R Durnholde Keep |QID|496| |N|Travel to Durnholde Keep (83.67, 34.61)|
+K Forest Moss Creeper |QID|496.2| |N|Kill Forest Moss Creeper until you find Creeper Ichor in Durnholde Keep (83.67, 34.61)| 
+C Blood of Innocents |QID|1066| |N|Kill Syndicate Watchman, Syndicate Shadow Mage and collect 5 Vial of Innocent Blood in Durnholde Keep, low drop rate (76.39, 46.69) (78.91, 42.83)| |Z|Hillsbrad Foothills|  
 
-A Elixir of Suffering |QID|496|
-T Time To Strike |QID|494| |N|Follow the road east then north to Tarren Mill (62.33, 20.28).|
-A Battle of Hillsbrad |QID|527|
-A Helcular's Revenge |QID|552|
-A Dangerous! |QID|567|
+R Nethander Stead |QID|509| |N|Travel to Nethander Stead (88.58, 40.84) (64.04, 60.15)|
+C Elixir of Agony |QID|509| |N|Collect Mudsnout Blossoms from the ground in Nethander Stead (64.04, 60.15)| 
+K Elder Gray Bear |QID|496.1| |N|Kill Elder Gray Bear and collect 10 Gray Bear Tongue in Durnholde Keep (83.31, 35.82)| 
 
-T The WindWatcher |QID|1791| |C|Warrior| |N|(79.29, 6.99)|
+R Hillsbrad Foothills |QID|496.1| |N|Travel to Hillsbrad Foothills (55.2, 54)|
+K Snapjaw |QID|7321.1| |N|Kill Snapjaw along the river and collect 10 Turtle Meat in Hillsbrad Foothills (55.2, 54) (58.8, 45) (67, 35.4) (68, 32.2) (67.81, 20.62)| 
 
-A Cyclonian |QID|1712| |C|Warrior| |N|This quest involves killing NPCs level 33-34, return to this quest when you feel comfortable.|
-A Essence of the Exile |QID|1714| |C|Warrior| |N|This quest involves killing NPCs level 38-39, return to this quest when you feel comfortable or purchase the required items from someone. Ideally working your way towards Hammerfall while completing this.|
+R Tarren Mill |QID|499| |N|Travel to Tarren Mill (61.47, 19.20)|
+T Blood of Innocents |QID|1066| |N|Apothecary Lydon in Tarren Mill (61.42, 19.04)| |Z|Hillsbrad Foothills| |PRE|1063| 
+A Return to Thunder Bluff |QID|1067| |N|Apothecary Lydon in Tarren Mill (61.45, 19.09)| |Z|Hillsbrad Foothills| |PRE|1063| 
+T Elixir of Suffering |QID|496| |N|Apothecary Lydon in Tarren Mill (61.47, 19.20)| 
+A Elixir of Suffering |QID|499| |N|Apothecary Lydon in Tarren Mill (61.47, 19.20)| 
+T Elixir of Suffering |QID|499| |N|Umpi in Tarren Mill (61.47, 19.20)| 
+T Elixir of Agony |QID|509| |N|Apothecary Lydon in Tarren Mill (61.47, 19.20)| 
+T Soothing Turtle Bisque |QID|7321| |N|Christoph Jeffcoat in Tarren Mill (62.31, 19.10)| 
 
-F Undercity |C|Warrior|
-F Grom'gol Base Camp |C|Warrior| |N|Take zeppelin to Grom'Gol|
-f Flight Path |C|Warrior|
+R Darrow Hill |QID|552| |N|Travel to Darrow Hill (46.0, 32.6)|
+C Helcular's Revenge (1) |QID|552| |N|Kill Cave Yeti until you collect Helcular's Rod in Darrow Hill (46.0, 32.6)|  
 
-K Bloodscalp Scout |QID|1712| |Q|Cyclonian| |C|Warrior| |QO|Bloodscalp Tusk: 30/30| |N|Bloodscalp trolls (29.8, 21.6) (34.0, 16.8).| |Z|Stranglethorn Vale|
+R Hillsbrad Fields |QID|501| |N|Travel to Hillsbrad Fields (45.83, 34.30)|
+C Elixir of Pain |QID|501| |N|Kill Starving Mountain Lion and collect 10 Mountain Lion Blood in Hillsbrad Fields (45.83, 34.30) (53.56, 31.56) (39.20, 38.57)|  
 
-R Grom'gol |C|Warrior| |N|Take the zepplin inside Grom'gol to Undercity.|
-F Hillsbrad Foothills |C|Warrior|
-R The Arathi Highlands |C|Warrior|
+R Tarren Mill |QID|502| |N|Travel to Tarren Mill (61.47, 19.15)|
+T Elixir of Pain |QID|501| |N|Apothecary Lydon in Tarren Mill (61.47, 19.15)| 
+A Elixir of Pain |QID|502| |N|Apothecary Lydon in Tarren Mill (61.47, 19.15)| 
+T Helcular's Revenge (1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)| 
+A Helcular's Revenge (2) |QID|553| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)| 
 
-C Essence of the Exile |QID|1714| |C|Warrior| |Z|Arathi Highlands|
-f Hammerfall |C|Warrior|
-F Tarren Mill |C|Warrior|
+R Darrow Hill |QID|553| |N|Travel to Darrow Hill (46.27, 31.91)|
+N Charge Flame of Azel |QID|553.1| |N|Click Item Flame of Azel in Darrow Hill (46.27, 31.91) (43.85, 27.93)|
+N Charge Flame of Veraz |QID|553.2| |N|Click Item Flame of Veraz in Darrow Hill (43.94, 26.62)|
 
-T Essence of the Exile |QID|1714| |C|Warrior|
-T Cyclonian |QID|1712| |C|Warrior|
+R Hillsbrad Fields |QID|527| |N|Travel to Hillsbrad Fields (46.36, 31.95) (32.68, 35.51)|
+T Elixir of Pain |QID|502| |N|Stanley in Hillsbrad Fields (32.68, 35.51)| 
+K Farmer Ray |QID|527.3| |N|Kill Farmer Ray in Hillsbrad Fields (32.63, 35.57)| 
+K Citizen Wilkes |QID|567.2| |N|Kill Citizen Wilkes in Hillsbrad Fields (32.56, 35.78)| 
+K Clerk Horrace Whitesteed |QID|567.1| |N|Kill Clerk Horrace Whitesteed in Hillsbrad Fields (29.44, 43.03)| 
+K Farmer Kalaba |QID|567.4| |N|Kill Farmer Kalaba in Hillsbrad Fields (36.32, 47.13)| 
+K Farmer Getz |QID|527.4| |N|Kill Farmer Getz in Hillsbrad Fields (36.05, 40.74)| 
+C Battle of Hillsbrad (1) |QID|527| |N|Kill 6 Hillsbrad Farmer and 6 Hillsbrad Farmhand in Hillsbrad Fields (32.05, 38.46)|  
 
-A The Summoning |QID|1713| |C|Warrior|
-T The Summoning |QID|1713| |C|Warrior| |N|This quest involves killing a level 40 elite wind elemental. Bring friends or skip until ready.|
+R Azurelode Mine |QID|567| |N|Travel to Azurelode Mine (26.44, 58.68)|
+K Miner Hackett |QID|567.3| |N|Kill Miner Hackett in Azurelode Mine<br/><b>Take the lower entrance and hug the right side wall to reach Miner Hackett (26.44, 58.68) (30.49, 58.35)| 
 
-A Whirlwind Weapon |QID|1792| |C|Warrior|
-T Whirlwind Weapon |QID|1792| |C|Warrior| |N|Get the Whirlwind Axe as a reward.|
+R Tarren Mill |TID|567| |N|Travel to Tarren Mill (26.44, 58.68) (62.39, 20.33)|
+T Battle of Hillsbrad (1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)| 
+T Dangerous! |QID|567| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)| 
+N Level 30 Required |OID|1361| |N|You should be close to level 30, grind nearby mobs to reach level 30| |PL|30|
+A Regthar Deathgate |QID|1361| |N|Krusk in Tarren Mill (63.17, 20.70)| 
+A The Hammer May Fall |QID|676| |N|Tallow in Tarren Mill (61.9, 19.7)| 
 
-C Elixir of Suffering |QID|496|
-T Elixir of Suffering |QID|496|
-A Elixir of Suffering (Part 2)
-T Elixir of Suffering (Part 2)
-A Elixir of Pain |QID|501|
-A Soothing Turtle Bisque |QID|7321| |N|Requires cooking|
-B [Soothing Spices] |L|3713|
-T Soothing Turtle Bisque |QID|7321|
+N Guide Complete |N|Tick to continue to the next guide| 
 
-C Helcular's Revenge |QID|552| |N|Go to the yeti cave (46, 32)|
-C Elixir of Pain |QID|501|
+]]
+end, image = "hillsbrad.tga", description = [[]])	end
+	
+	function Guide:Unload()
+	end
+end
 
-T Elixir of Pain |QID|501|
-A Elixir of Pain (Part 2) |QID|502|
-T Helcular's Revenge |QID|552|
-A Helcular's Revenge (Part 2) |QID|553|
+end)
 
-N Flame of Azel |QID|553| |Q|Helcular's Revenge| |QO|Flame of Azel charged|
-N Flame of Veraz |QID|553| |Q|Helcular's Revenge| |QO|Flame of Veraz charged|
-T Elixir of Pain (Part 2) |QID|502|
 
-C Battle of Hillsbrad |QID|527|
-C Dangerous! |QID|567| |N|Farmer Ray (33,35) Citizen Wilkes (33,38) Farmer Getz (37,39) Farmer Kalaba (35,47) Clerk Horrace Whitesteed (31,42) Miner Hackett (27,59)|
-D Die |N|Take Rez Sickness|
 
-T Battle of Hillsbrad |QID|527| |S| |N|Skip follow-up quest|
-T Dangerous! |QID|567|
 
-A Regthar Deathgate |QID|1361|
-
-R The Arathi Highlands
-]] end)
