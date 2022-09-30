@@ -33,7 +33,7 @@ T A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.59, 
 A Martek the Exiled |QID|1106| |N|Fizzle Brassbolts in Mirage Raceway (78.04, 77.08)|
 A Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.07)|
 
-N Level 32 |N|Make sure you are at least level 32, otherwise keep grinding in The Shimmering Flats (88, 75)|  |PL|32|
+N Level 32 |N|Make sure you are at least level 32, otherwise keep grinding in The Shimmering Flats (88, 75)| 
 
 R Gadgetzan |N|Run South to Gadgetzan (51.6, 25.5)| |Z|Tanaris|
 f Gadgetzan |N|Speak to Bulkrek Ragefist and grab flight path for Bulkrek Ragefist (51.6, 25.5)| |Z|Tanaris|

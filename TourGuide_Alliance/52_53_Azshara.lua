@@ -5,7 +5,7 @@ return [[
 R Gadgetzan |TID|4504| |N|Travel to Gadgetzan (51.59, 26.77)| |Z|Tanaris| |O|
 T Super Sticky |QID|4504| |N|Tran'rek in Gadgetzan (51.59, 26.77)| |Z|Tanaris| |O|
 
-N Level 52 Required |N|Grind any mobs in Tanaris until you reach level 52| |PL|52|
+N Level 52 Required |N|Grind any mobs in Tanaris until you reach level 52|
 
 R Rut'theran Village |QID|978| |N|Travel to Rut'theran Village in Teldrassil (55.49, 92.05)| |Z|Teldrassil|
 A Moontouched Wildkin |QID|978| |N|Erelas Ambersky in Rut'theran Village (55.49, 92.05)| |Z|Teldrassil|

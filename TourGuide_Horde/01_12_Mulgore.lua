@@ -211,7 +211,7 @@ T The Demon Scarred Cloak |QID|770| |N|Skorn Whitecloud in Bloodhoof Village (46
 T Wildmane Cleansing |QID|760| |N|Mull Thunderhorn in Bloodhoof Village (48.46, 60.46)|
 N Demon Scarred Cloak |N|You can destroy Demon Scarred Cloak as you no longer need this, unless you want to wear it for armor| |L|4854| |O|
 
-N Guide Complete
+N Guide Complete |N|Tick to continue to the next guide| 
 
 ]]
 end)

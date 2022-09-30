@@ -81,7 +81,7 @@ K Miner Hackett |QID|567.3| |N|Kill Miner Hackett in Azurelode Mine<br/><b>Take 
 R Tarren Mill |TID|567| |N|Travel to Tarren Mill (26.44, 58.68) (62.39, 20.33)|
 T Battle of Hillsbrad (1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)|
 T Dangerous! |QID|567| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)|
-N Level 30 Required |OID|1361| |N|You should be close to level 30, grind nearby mobs to reach level 30| |PL|30|
+N Level 30 Required |OID|1361| |N|You should be close to level 30, grind nearby mobs to reach level 30| 
 A Regthar Deathgate |QID|1361| |N|Krusk in Tarren Mill (63.17, 20.70)|
 A The Hammer May Fall |QID|676| |N|Tallow in Tarren Mill (61.9, 19.7)|
 

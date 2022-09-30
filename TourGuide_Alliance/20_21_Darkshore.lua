@@ -2,7 +2,7 @@ TourGuide:RegisterGuide("Darkshore (20-21)", "Ashenvale (21-22)", "Alliance",fun
 
 return [[
 
-N Level 20 Required |N|You need to be at least level 20 to continue, keep grinding until you reach level 20| |PL|20|
+N Level 20 Required |N|You need to be at least level 20 to continue, keep grinding until you reach level 20|
 
 A Gakin's Summons |QID|1685| |N|Remen Marcot in Lion's Pride Inn<br/><b>Warlock quest line that will reward you with (spell:712) and Small Soul Pouch (4.50, 66.21)| |C|Warlock| |Z|Elwynn Forest|
 

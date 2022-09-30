@@ -166,8 +166,7 @@ R The Maclure Vineyards |TID|87| |N|Travel to The Maclure Vineyards (43.12, 89.5
 T The Escape |QID|114| |N|Maybell Maclure in The Maclure Vineyards (43.12, 89.55)|
 T Goldtooth |QID|87| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 
-N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10| |PL|10|
-
+N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10| 
 R Goldshire |QID|1860| |N|Travel or Hearthstone to Goldshire (43.28, 66.22)|
 A Speak with Jennea |QID|1860| |N|Zaldimar Wefhellt in Goldshire (43.28, 66.22)| |C|Mage|
 A A Warrior's Training |QID|1638| |N|Lyria Du Lac in Goldshire (41.1, 65.8)| |C|Warrior|

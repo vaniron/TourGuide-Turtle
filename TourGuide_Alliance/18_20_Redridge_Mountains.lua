@@ -93,7 +93,7 @@ R Lakeshire |TID|89| |N|Travel to Lakeshire (32.18, 48.84)| |REACH|
 T The Everstill Bridge |QID|89| |N|Foreman Oslow in Lakeshire (32.18, 48.84)|
 T A Baying of Gnolls |QID|124| |N|Verner Osgood in Lakeshire (31.03, 47.42)| |Z|Redridge Mountains|
 A Howling in the Hills |QID|126| |N|Verner Osgood in Lakeshire (31.03, 47.42)| |Z|Redridge Mountains|
-N Level 20 Required |N|You need to be at least level to accept 'Murloc Poachers' quest. Grind Black Dragon Whelp until you reach level 20 (34.3, 73.4)| |PL|20|
+N Level 20 Required |N|You need to be at least level to accept 'Murloc Poachers' quest. Grind Black Dragon Whelp until you reach level 20 (34.3, 73.4)|
 A Murloc Poachers |QID|150| |N|Dockmaster Baren in Lakeshire (27.68, 47.38)|
 C Murloc Poachers |QID|150| |N|Kill Murloc Scout for 8 Murloc Fin you can find them throughout the lake in Redridge Mountains (40, 48)|
 T Murloc Poachers |QID|150| |N|Dockmaster Baren in Lakeshire (27.68, 47.38)|

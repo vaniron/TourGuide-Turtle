@@ -62,7 +62,7 @@ A Lazy Peons |QID|5441| |N|Foreman Thazz'ril in Valley of Trials (44.56, 68.65)|
 C Lazy Peons |QID|5441| |N|Use Foreman's Blackjack to wake 5 Lazy Peon in the Valley of Trials (41.29, 72.70) (42.35, 73.20) (44.71, 72.75) (45.09, 69.07) (47.52, 69.34) (45.68, 65.66) (47.13, 65.42)| |U|16114|
 T Lazy Peons |QID|5441| |N|Foreman Thazz'ril in Valley of Trials (44.56, 68.65)|
 A Thazz'ril's Pick |QID|6394| |N|Foreman Thazz'ril in Valley of Trials (44.56, 68.65)|
-N Level 4 Required |QID|823| |N|Kill any nearby enemies until you're level 4 so you can pick up the Shaman quest (52.3, 43.2)| |PL|4| |C|Shaman|
+N Level 4 Required |QID|823| |N|Kill any nearby enemies until you're level 4 so you can pick up the Shaman quest (52.3, 43.2)|  |C|Shaman|
 A Call of Earth |QID|1516| |N|Canaga Earthcaller in Valley of Trials (42.42, 69.16)| |Z|Durotar| |C|Shaman|
 
 R Burning Blade Coven |QID|794| |N|Travel to Burning Blade Coven (44.46, 60.40) (45.33, 56.47)|
@@ -94,7 +94,7 @@ A Zalazane |QID|826| |N|Master Gadrin in Sen'jin Village (55.93, 74.76)|
 A A Solvent Spirit |QID|818| |N|Master Vornal in Sen'jin Village (55.95, 74.46)|
 A Practical Prey |QID|817| |N|Vel'rin Fang in Sen'jin Village (55.93, 73.95)|
 
-N Level 6 Required |QID|823| |N|Kill any nearby enemies until you're level 6 so you can pick up all the quests at Razor Hill (52.3, 43.2)| |PL|6|
+N Level 6 Required |QID|823| |N|Kill any nearby enemies until you're level 6 so you can pick up all the quests at Razor Hill (52.3, 43.2)|
 R Razor Hill |QID|806| |N|Follow the road north to Razor Hill (52.3, 43.2)|
 T Report to Orgnil |QID|823| |N|Orgnil Soulscar in Razor Hill (52.28, 43.22)|
 A Dark Storms |QID|806| |N|Orgnil Soulscar in Razor Hill (52.28, 43.22)|
@@ -168,7 +168,7 @@ T Winds in the Desert |QID|834| |N|Rezlak in Durotar (46.39, 23.03)|
 A Securing the Lines |QID|835| |N|Rezlak in Durotar (46.39, 23.03)|
 A Need for a Cure |QID|812| |N|Rhinag in Durotar (41.57, 18.64)|
 
-N Level 10 Required |N|Make sure you are at least level 10 otherwise keep grinding| |PL|10|
+N Level 10 Required |N|Make sure you are at least level 10 otherwise keep grinding|
 
 R Razor Hill |QID|6062| |N|Travel to Razor Hill (51.92, 43.45)| |C|Hunter|
 A Taming the Beast (1) |QID|6062| |N|Thotar in Razor Hill (51.92, 43.45)| |C|Hunter|

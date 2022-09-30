@@ -97,7 +97,7 @@ N Abandon Quest |QID|338| |N|Abandon The Green Hills of Stranglethorn and Chapte
 R Booty Bay |TID|628| |N|Travel or Hearthstone to Booty Bay (28.29, 77.60)| |U|6948|
 T Excelsior |QID|628| |N|Drizzlik in Booty Bay (28.29, 77.60)|
 
-N Level 40 Required |N|Grind to Level 40 so you can get (spell:13819) ability| |C|Paladin| |PL|40|
+N Level 40 Required |N|Grind to Level 40 so you can get (spell:13819) ability| |C|Paladin|
 A The Tome of Nobility |QID|4486| |N|Brandur Ironhammer in Hall of Mysteries (23.32, 6.33)|  |C|Paladin| |R|Dwarf|
 T The Tome of Nobility |QID|4486| |N|Duthorian Rall in Cathedral of Light (39.83, 29.83)|  |C|Paladin| |R|Dwarf|
 A The Tome of Nobility |QID|4485| |N|Arthur the Faithful in Cathedral of Light (38.67, 32.91)|  |C|Paladin| |R|Human|
