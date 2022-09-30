@@ -5,8 +5,8 @@ R Ratchet |QID|1483| |N|Travel to Ratchet (62.95, 37.23)| |O|
 A Ziz Fizziks |QID|1483| |N| in Ratchet (62.95, 37.23)| |O|
 
 R Astranaar |QID|1070| |N|Travel to Astranaar (34.5, 48)|
-A On Guard in Stonetalon (1) |QID|1070| |N|Sentinel Thenysil in Astranaar (34.92, 49.77)|
-A Journey to Stonetalon Peak |QID|1056| |N|Faldreas Goeth'Shael in Astranaar (35.78, 49.16)|
+A On Guard in Stonetalon (1) |QID|1070| |N|Sentinel Thenysil in Astranaar (34.92, 49.77)|  |Z|63|
+A Journey to Stonetalon Peak |QID|1056| |N|Faldreas Goeth'Shael in Astranaar (35.78, 49.16)| |Z|63|
 
 R The Talondeep Path |QID|1093| |N|Travel to The Talondeep Path (42.08, 57.83)|
 R Windshear Crag |QID|1093| |N|Travel to Windshear Crag (59.00, 62.50)|
