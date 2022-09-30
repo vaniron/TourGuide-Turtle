@@ -1,7 +1,7 @@
-TourGuide:RegisterGuide("Loch Modan (17-18)", "Redridge Mountains (18-20)", "Alliance", function()
+TourGuide:RegisterGuide("Darkshore (12-17)", "Loch Modan (17-18)", "Alliance", function()
 return [[
 
-T The Tome of Divinity (2) |QID|1646| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf| 
+T The Tome of Divinity (2) |QID|1646| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf|
 A The Tome of Divinity (3) |QID|1647| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf|
 T The Tome of Divinity (3) |QID|1647| |N|John Turner in Ironforge, he patrol around the outer ring of Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf|
 A The Tome of Divinity (4) |QID|1648| |N|John Turner in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf|
