@@ -69,7 +69,7 @@ C Threat of the Winterfall |QID|5082.1| |N|Kill 8 Winterfall Pathfinder and 8 Wi
 C Threat of the Winterfall |QID|5082.3| |N|Kill 8 Winterfall Pathfinder and 8 Winterfall Totemic in Timbermaw Post. There's not much Winterfall Den Watcher around this area, you can kill lots of them east of Everlook later (30.76, 36.53)| |Z|Winterspring|
 
 R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |REACH|
-T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980| 
+T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980|
 T Winterfall Firewater |QID|5083| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring|
 A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring|
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring|
@@ -114,5 +114,4 @@ A Toxic Horrors |QID|5086| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45
 N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
-end, image = "winterspring.tga", description = [[]])	end
 end)

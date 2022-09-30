@@ -99,7 +99,7 @@ N Abandon Quest |QID|341| |N|Abandon The Green Hills of Stranglethorn and Chapte
 N Abandon Quest |QID|342| |N|Abandon The Green Hills of Stranglethorn and Chapter quest if you're unable to complete it now. You can complete this later| |O|
 
 R Booty Bay |TID|609| |N|Travel or Hearthstone to Booty Bay (27.1, 77.3)| |U|6948|
-T Zanzil's Secret |QID|621| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.1, 77.3)| 
+T Zanzil's Secret |QID|621| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.1, 77.3)|
 T Up to Snuff |QID|587| |N|Deeg in Booty Bay (27.0, 77.3)|
 T The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
 T Akiris by the Bundle (1) |QID|617| |N|Privateer Bloads in Booty Bay (26.7, 76.4)|
@@ -117,7 +117,4 @@ N Encrusted Tail Fin |QID|1107| |N|Store Encrusted Tail Fin to the bank (26.57, 
 N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
-end, image = "capeofstranglethorn.tga", description = [[]])	end
-
-	function Guide:Unload()
 end)
