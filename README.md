@@ -1,6 +1,5 @@
-* Updated for classic 1.12 servers with sources from other sources.
-
 # TourGuideVanilla
+*Updated for classic 1.12 servers with sources from other sources*  
 *Tekkub's TourGuide Addon backported for WoW 1.12*
 
 Highly Recommended Downloads: [**pfQuest**](https://gitlab.com/shagu/pfQuest#downloads) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
