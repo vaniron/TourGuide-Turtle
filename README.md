@@ -1,13 +1,11 @@
 # TourGuideVanilla
+*Updated for classic 1.12 servers with sources from other sources*  
 *Tekkub's TourGuide Addon backported for WoW 1.12*
-
-[**Download Latest Version**](https://github.com/cralor/TourGuideVanilla/releases/latest)
 
 Highly Recommended Downloads: [**pfQuest**](https://gitlab.com/shagu/pfQuest#downloads) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
 
 Optional Downloads: [TourGuide_Professions](https://github.com/cralor/TourGuide_Professions/releases/latest)
 
-https://wow.gamepedia.com/TourGuide/Guide_Creation
 
 **Features**
 * Automatic detection of objective completion
