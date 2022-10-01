@@ -7,8 +7,8 @@ T The Rumormonger |QID|1115| |N|Krazek in The Salty Sailor Tavern (26.95, 77.22)
 A Dream Dust in the Swamp |QID|1116| |N|Krazek in The Salty Sailor Tavern (26.95, 77.22)| |Z|Stranglethorn Vale| |PRE|1116|
 
 R Duskwood |QID|1372| |N|Travel north to Duskwood (41.7, 0.3)| |Z|Stranglethorn Vale|
-A Nothing But The Truth (1) |QID|1372| |N|Deathstalker Zraedus in Beggar's Haunt (87.7, 35.7)| |Z|Duskwood|
-T Nothing But The Truth (1) |QID|1372| |N|Apothecary Faustin in Beggar's Haunt (87.5, 35.4)| |Z|Duskwood|
+A Nothing But The Truth (Part 1) |QID|1372| |N|Deathstalker Zraedus in Beggar's Haunt (87.7, 35.7)| |Z|Duskwood|
+T Nothing But The Truth (Part 1) |QID|1372| |N|Apothecary Faustin in Beggar's Haunt (87.5, 35.4)| |Z|Duskwood|
 
 R Swamp of Sorrows |QID|1389| |N|Travel east through Deadwind Pass to Swamp of Sorrows (63.8, 40.7)| |Z|1430|
 R The Harborage |QID|1389| |N|Travel to The Harborage (25.99, 31.44)|
@@ -27,16 +27,16 @@ C Pool of Tears |QID|1424| |N|Collect 10 Atal'ai Artifact in and around Pool of 
 
 R Misty Reed Post |TID|1427| |N|Travel to Misty Reed Post (81.4, 80.9)|
 T Lack of Surplus |QID|698| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
-A Lack of Surplus (2) |QID|699| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
-C Lack of Surplus (2) |QID|699| |N|Kill Sawtooth Snapper and collect 6 Sawtooth Snapper Claw in The Forbidding Sea (82.21, 99.30)|
-T Lack of Surplus (2) |QID|699| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
+A Lack of Surplus (Part 2) |QID|699| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
+C Lack of Surplus (Part 2) |QID|699| |N|Kill Sawtooth Snapper and collect 6 Sawtooth Snapper Claw in The Forbidding Sea (82.21, 99.30)|
+T Lack of Surplus (Part 2) |QID|699| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
 A Threat From the Sea |QID|1422| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
 T Threat From the Sea |QID|1422| |N|Katar in Misty Reed Post (83.7, 80.5)|
-A Threat From the Sea (2) |QID|1426| |N|Katar in Misty Reed Post (83.7, 80.5)|
-C Threat From the Sea (2) |QID|1426| |N|Kill 10 Marsh Murloc, 10 Marsh Inkspewer and 10 Marsh Flesheater found along the East coast (84, 87.3) (90, 73) (94, 57)|
-T Threat From the Sea (2) |QID|1426| |N|Katar in Misty Reed Post (83.7, 80.5)|
-A Threat From the Sea (3) |QID|1427| |N|Katar in Misty Reed Post (83.7, 80.5)|
-T Threat From the Sea (3) |QID|1427| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
+A Threat From the Sea (Part 2) |QID|1426| |N|Katar in Misty Reed Post (83.7, 80.5)|
+C Threat From the Sea (Part 2) |QID|1426| |N|Kill 10 Marsh Murloc, 10 Marsh Inkspewer and 10 Marsh Flesheater found along the East coast (84, 87.3) (90, 73) (94, 57)|
+T Threat From the Sea (Part 2) |QID|1426| |N|Katar in Misty Reed Post (83.7, 80.5)|
+A Threat From the Sea (Part 3) |QID|1427| |N|Katar in Misty Reed Post (83.7, 80.5)|
+T Threat From the Sea (Part 3) |QID|1427| |N|Tok'Kar in Misty Reed Post (81.4, 80.9)|
 
 R Fallow Sanctuary |QID|1393| |N|Travel Fallow Sanctuary (65.40, 18.29)| |Z|Swamp of Sorrows|
 A Galen's Escape |QID|1393| |N|Galen Goodward in Fallow Sanctuary. Clear the area then accept the quest (65.40, 18.29)| |Z|Swamp of Sorrows|

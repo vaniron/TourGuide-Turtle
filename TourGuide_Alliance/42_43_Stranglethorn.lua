@@ -8,24 +8,24 @@ A Zanzil's Secret |QID|621| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.1,
 h Booty Bay |QID|617| |N|Speak to Innkeeper Skindle and set hearth at The Salty Sailor Tavern (27.1, 77.3)|
 A Akiris by the Bundle |QID|617| |N|Privateer Bloads in Booty Bay (26.7, 76.4)|
 A Scaring Shaky |QID|606| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
-A The Bloodsail Buccaneers (1) |QID|595| |N|First Mate Crazz in Booty Bay (28.08, 76.19)|
-T The Bloodsail Buccaneers (3) |QID|599| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
+A The Bloodsail Buccaneers (Part 1) |QID|595| |N|First Mate Crazz in Booty Bay (28.08, 76.19)|
+T The Bloodsail Buccaneers (Part 3) |QID|599| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
 
-T The Bloodsail Buccaneers (1) |QID|595| |N|Bloodsail Correspondence in Southern Savage Coast, it's a parchment on top of a barrel (27.29, 69.51)| |OBJ|183|
-A The Bloodsail Buccaneers (2) |QID|597| |N|Bloodsail Correspondence in Southern Savage Coast (27.29, 69.51)| |OBJ|183|
+T The Bloodsail Buccaneers (Part 1) |QID|595| |N|Bloodsail Correspondence in Southern Savage Coast, it's a parchment on top of a barrel (27.29, 69.51)| |OBJ|183|
+A The Bloodsail Buccaneers (Part 2) |QID|597| |N|Bloodsail Correspondence in Southern Savage Coast (27.29, 69.51)| |OBJ|183|
 C Scaring Shaky |QID|606| |N|Kill Elder Mistvale Gorilla and collect 5 Mistvale Giblets in Mistvale Valley (33.03, 65.66)|
 
-T The Bloodsail Buccaneers (2) |QID|597| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
-A The Bloodsail Buccaneers (3) |QID|599| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
-T The Bloodsail Buccaneers (3) |QID|599| |N|Fleet Master Seahorn in Booty Bay (27.17, 76.98)|
-A The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
+T The Bloodsail Buccaneers (Part 2) |QID|597| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
+A The Bloodsail Buccaneers (Part 3) |QID|599| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
+T The Bloodsail Buccaneers (Part 3) |QID|599| |N|Fleet Master Seahorn in Booty Bay (27.17, 76.98)|
+A The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
 T Scaring Shaky |QID|606| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
 A Return to MacKinley |QID|607| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
 A Up to Snuff |QID|587| |N|Deeg in Booty Bay (27.0, 77.3)|
 T Singing Blue Shards |QID|605| |N|Crank Fizzlebub, in The Salty Sailor Tavern (27.11, 77.21)| |O|
 A Venture Company Mining |QID|600| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.1, 77.3)| |PRE|605|
-T The Bloodsail Buccaneers (3) |QID|599| |N|At Fleet Master Seahorn on the 2nd Floor of the Inn (27.1, 77)|
-A The Bloodsail Buccaneers (4) |QID|604| |N|At Fleet Master Seahorn (27.1, 77)|
+T The Bloodsail Buccaneers (Part 3) |QID|599| |N|At Fleet Master Seahorn on the 2nd Floor of the Inn (27.1, 77)|
+A The Bloodsail Buccaneers (Part 4) |QID|604| |N|At Fleet Master Seahorn (27.1, 77)|
 T Return to MacKinley |QID|607| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
 A Voodoo Dues |QID|609| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
 A Stoley's Debt |QID|2872| |N|\Sea Wolf\ MacKinley in Booty Bay (27.8, 77.1)|
@@ -34,13 +34,13 @@ A Keep An Eye Out |QID|576| |N|Dizzy One-Eye in Booty Bay (28.6, 75.8)|
 R Wild Shore |QID|587| |N|Travel to Wild Shore (30.85, 72.37) (32.93, 74.27)| |Z|Stranglethorn Vale|
 N Bloodsail Charts |QID|604.2| |N|Collect Bloodsail Charts on top the table in Wild Shore (26.9, 82.5)| |Z|Stranglethorn Vale|
 N Bloodsail Orders |QID|604.3| |N|Collect Bloodsail Orders on top of the crate in Wild Shore (27.8, 83.1)| |Z|Stranglethorn Vale|
-C The Bloodsail Buccaneers (3) |QID|604| |N|Kill 10 Bloodsail Swashbuckler in Wild Shore (30.31, 80.75)|
+C The Bloodsail Buccaneers (Part 3) |QID|604| |N|Kill 10 Bloodsail Swashbuckler in Wild Shore (30.31, 80.75)|
 C Up to Snuff |QID|587| |N|Kill Bloodsail pirates and collect 15 Snuff in Wild Shore (30, 80)|
 C Keep An Eye Out |QID|576| |N|The Pirates should have dropped Dizzy's Eye by now, or else keep killing pirates until you find one (30, 80)|
 
 R Booty Bay |TID|576| |N|Travel or Hearthstone to Booty Bay (27.1, 77.3)| |U|6948|
 T Up to Snuff |QID|587| |N|Deeg in Booty Bay (27.0, 77.3)|
-T The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
+T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
 T Keep An Eye Out |QID|576| |N|Dizzy One-Eye in Booty Bay (28.6, 75.8)|
 
 N Green Hills of Stranglethorn - Page 1 |QID|339.1| |N|You should have most of the Chapters for 'The Green Hills of Stranglethorn' by now, but you still need Green Hills of Stranglethorn - Page 1. Try to purchase from the auction house Auctioneer O'reely in Booty Bay, sell extras or trade with other players in general chat. Tick this step to skip (26.6, 76.4)| |L|2725|
@@ -74,9 +74,9 @@ K Chucky \Ten Thumbs\ |QID|609.3| |N|Kill Maury \Club Foot\ Wilkins and collect 
 C Zanzil's Secret |QID|621| |N|Kill Zanzil Hunter and Zanzil Zombie at the Ruins of Aboraz for 12 Zanzil's Mixture (40, 57)|
 
 R Stranglethorn Vale |QID|197| |N|Travel to Nesingwary's Expedition (35.7, 10.8)| |O|
-C Raptor Mastery (4) |QID|197| |N|Kill Tethis and loot Talon of Tethis (28, 44)| |O|
+C Raptor Mastery (Part 4) |QID|197| |N|Kill Tethis and loot Talon of Tethis (28, 44)| |O|
 
-T Raptor Mastery (4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |O|
+T Raptor Mastery (Part 4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |O|
 A Big Game Hunter |QID|208| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |PRE|197|
 C Big Game Hunter |QID|208| |N|Kill King Bangalash and loot the Head of Bangalash (38, 35)| |PRE|197|
 
@@ -101,9 +101,9 @@ N Abandon Quest |QID|342| |N|Abandon The Green Hills of Stranglethorn and Chapte
 R Booty Bay |TID|609| |N|Travel or Hearthstone to Booty Bay (27.1, 77.3)| |U|6948|
 T Zanzil's Secret |QID|621| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.1, 77.3)|
 T Up to Snuff |QID|587| |N|Deeg in Booty Bay (27.0, 77.3)|
-T The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
-T Akiris by the Bundle (1) |QID|617| |N|Privateer Bloads in Booty Bay (26.7, 76.4)|
-A Akiris by the Bundle (2) |QID|623| |N|Privateer Bloads in Booty Bay (26.7, 76.4)|
+T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.1, 77.0)|
+T Akiris by the Bundle (Part 1) |QID|617| |N|Privateer Bloads in Booty Bay (26.7, 76.4)|
+A Akiris by the Bundle (Part 2) |QID|623| |N|Privateer Bloads in Booty Bay (26.7, 76.4)|
 T Voodoo Dues |QID|609| |N|\Sea Wolf\ MacKinley in Booty Bay - Skip follow up (27.8, 77.1)|
 A Stoley's Debt |QID|2872| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
 T Keep An Eye Out |QID|576| |N|Dizzy One-Eye in Booty Bay (28.6, 75.8)|

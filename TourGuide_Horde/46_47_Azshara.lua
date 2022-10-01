@@ -14,7 +14,7 @@ T Spiritual Unrest |QID|5535| |N|Loh'atu in Talrendis Point (11.37, 78.14)| |Z|A
 T A Land Filled with Hatred |QID|5536| |N|Loh'atu in Talrendis Point (11.37, 78.14)| |Z|Azshara| 
 
 R Valormok |QID|3568| |N|North of the road, on the mountain's edge (21,52)|
-T Betrayed (1) |QID|3504| |N|Ag'tor Bloodfist in Valormok (22.28, 51.48)| |Z|Azshara| 
+T Betrayed (Part 1) |QID|3504| |N|Ag'tor Bloodfist in Valormok (22.28, 51.48)| |Z|Azshara| 
 f Valormok |OID|232| |N|Speak to Kroum grab flight path for Valormok (21.97, 49.65)| |Z|Azshara| 
 A Stealing Knowledge |QID|3517| |N|Jediga in Valormok (22.54, 51.38)| |Z|Azshara| 
 

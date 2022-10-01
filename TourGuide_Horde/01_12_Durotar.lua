@@ -3,14 +3,14 @@ TourGuide:RegisterGuide("Durotar (1-12)", "The Barrens (12-20)", "Horde",functio
 return [[
 
 A Your Place In The World |QID|4641| |N|Kaltunk in Valley of Trials (43.29, 68.61)|
-A Vile Familiars (1) |QID|1485| |N|Ruzan in Valley of Trials (42.61, 68.79)| |C|Warlock|
+A Vile Familiars (Part 1) |QID|1485| |N|Ruzan in Valley of Trials (42.61, 68.79)| |C|Warlock|
 T Your Place In The World |QID|4641| |N|Gornek in The Den (42.08, 68.35)|
 A Cutting Teeth |QID|788| |N|Gornek in The Den (42.08, 68.35)|
 C Cutting Teeth |QID|788| |N|Kill 10 Mottled Boar in the Valley of Trials (44.5, 66.1)|
-C Vile Familiars (1) |QID|1485| |N|Kill Vile Familiar and collect 6 Vile Familiar Head in Valley of Trials (44.99, 56.94)|  |C|Warlock|
-T Vile Familiars (1) |QID|1485| |N|Ruzan in Valley of Trials (42.61, 69.00)| |C|Warlock|
-A Vile Familiars (2) |QID|1499| |N|Ruzan in Valley of Trials (42.61, 69.00)| |C|Warlock|
-T Vile Familiars (2) |QID|1499| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)| |C|Warlock|
+C Vile Familiars (Part 1) |QID|1485| |N|Kill Vile Familiar and collect 6 Vile Familiar Head in Valley of Trials (44.99, 56.94)|  |C|Warlock|
+T Vile Familiars (Part 1) |QID|1485| |N|Ruzan in Valley of Trials (42.61, 69.00)| |C|Warlock|
+A Vile Familiars (Part 2) |QID|1499| |N|Ruzan in Valley of Trials (42.61, 69.00)| |C|Warlock|
+T Vile Familiars (Part 2) |QID|1499| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)| |C|Warlock|
 T Cutting Teeth |QID|788| |N|Gornek in The Den (42.08, 68.35)|
 A Sting of the Scorpid |QID|789| |N|Gornek in The Den (42.08, 68.35)|
 
@@ -42,12 +42,12 @@ T Tainted Parchment |QID|3090| |N|Nartok (40.6, 68.4)| |C|Warlock|
 
 A Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar in Valley of Trials (42.74, 67.32)|
 N As you go.. .|AYG|790| |QID|4402| |N|Collect 10 Cactus Apple from the Cactus Plants in the Valley and kill Scorpid Worker for 8 Scorpid Worker Tail (46, 63)| |OBJ|3451|
-A Sarkoth (1) |QID|790| |N|Hana'zua in Valley of Trials (40.68, 62.59)|
-C Sarkoth (1) |QID|790| |N|Kill Sarkoth and collect Sarkoth's Mangled Claw (40.6, 67.1)|
+A Sarkoth (Part 1) |QID|790| |N|Hana'zua in Valley of Trials (40.68, 62.59)|
+C Sarkoth (Part 1) |QID|790| |N|Kill Sarkoth and collect Sarkoth's Mangled Claw (40.6, 67.1)|
 C Sting of the Scorpid |QID|789| |N|Kill Scorpid Worker and collect 10 Scorpid Worker Tail in Valley of Trials (40.8, 62.1)|
-T Sarkoth (1) |QID|790| |N|Hana'zua in Valley of Trials (40.68, 62.59)|
-A Sarkoth (2) |QID|804| |N|Hana'zua in Valley of Trials (40.68, 62.59)|
-T Sarkoth (2) |QID|804| |N|Gornek in The Den (42.08, 68.35)|
+T Sarkoth (Part 1) |QID|790| |N|Hana'zua in Valley of Trials (40.68, 62.59)|
+A Sarkoth (Part 2) |QID|804| |N|Hana'zua in Valley of Trials (40.68, 62.59)|
+T Sarkoth (Part 2) |QID|804| |N|Gornek in The Den (42.08, 68.35)|
 
 R Valley of Trials |QID|792| |N|Travel to Valley of Trials (45, 56)| |OID|1485|
 C Vile Familiars |QID|792| |N|Kill 12 Vile Familiar near the cave in Valley of Trials (45, 56)| |OID|1485|
@@ -109,14 +109,14 @@ N As you go... |AYG|784| |QID|791| |N|Collect 8 Canvas Scraps from Kul Tiras Sai
 K Lieutenant Benedict |QID|784.3| |N|Kill Lieutenant Benedict upstairs in Tiragarde Keep (59.14, 58.26)|
 C Vanquish the Betrayers |QID|784| |N|Kill 10 Kul Tiras Sailor and 8 Kul Tiras Marine in Tiragarde Keep (59.4, 58.3)|
 N Aged Envelope |QID|830| |N|Collect Aged Envelope from Benedict's Chest upstair (59.3, 57.7)| |L|4881|
-A The Admiral's Orders (1) |QID|830| |N|Use Aged Envelope to accept the quest (59.3, 57.7)| |U|4881|
+A The Admiral's Orders (Part 1) |QID|830| |N|Use Aged Envelope to accept the quest (59.3, 57.7)| |U|4881|
 C Carry Your Weight |QID|791| |N|Kill Kul Tiras Sailor and Kul Tiras Marine and collect 8 Canvas Scraps Tiragarde Keep (57, 55)|
 
 R Razor Hill |QID|831| |N|Travel to Razor Hill (51.90, 43.48)|
 T Vanquish the Betrayers |QID|784| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
 A From The Wreckage.... |QID|825| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
-T The Admiral's Orders (1) |QID|830| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
-A The Admiral's Orders (2) |QID|831| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
+T The Admiral's Orders (Part 1) |QID|830| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
+A The Admiral's Orders (Part 2) |QID|831| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
 T Carry Your Weight |QID|791| |N|Furl Scornbrow in Durotar (50.61, 43.95) (49.85, 40.43)|
 
 R Razormane Grounds |QID|837| |N|Travel to Razormane Grounds (47.23, 49.09)|
@@ -171,22 +171,22 @@ A Need for a Cure |QID|812| |N|Rhinag in Durotar (41.57, 18.64)|
 N Level 10 Required |N|Make sure you are at least level 10 otherwise keep grinding|
 
 R Razor Hill |QID|6062| |N|Travel to Razor Hill (51.92, 43.45)| |C|Hunter|
-A Taming the Beast (1) |QID|6062| |N|Thotar in Razor Hill (51.92, 43.45)| |C|Hunter|
-C Taming the Beast (1) |QID|6062| |N|Use the Taming Rod to tame a Dire Mottled Boar (51.86, 45.96)|  |C|Hunter| |U|15917|
-T Taming the Beast (1) |QID|6062| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
-A Taming the Beast (2) |QID|6083| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
-C Taming the Beast (2) |QID|6083| |N|Use the Taming Rod to tame a Surf Crawler in Echo Isles (62.01, 79.27)|  |C|Hunter|
-T Taming the Beast (2) |QID|6083| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
-A Taming the Beast (3) |QID|6082| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
-C Taming the Beast (3) |QID|6082| |N|Use the Taming Rod to tame an Armored Scorpid (54.80, 36.94)|  |C|Hunter|
-T Taming the Beast (3) |QID|6082| |N|Thotar in Razor Hill (51.87, 43.49)| |C|Hunter|
+A Taming the Beast (Part 1) |QID|6062| |N|Thotar in Razor Hill (51.92, 43.45)| |C|Hunter|
+C Taming the Beast (Part 1) |QID|6062| |N|Use the Taming Rod to tame a Dire Mottled Boar (51.86, 45.96)|  |C|Hunter| |U|15917|
+T Taming the Beast (Part 1) |QID|6062| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
+A Taming the Beast (Part 2) |QID|6083| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
+C Taming the Beast (Part 2) |QID|6083| |N|Use the Taming Rod to tame a Surf Crawler in Echo Isles (62.01, 79.27)|  |C|Hunter|
+T Taming the Beast (Part 2) |QID|6083| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
+A Taming the Beast (Part 3) |QID|6082| |N|Thotar in Razor Hill (51.86, 43.49)| |C|Hunter|
+C Taming the Beast (Part 3) |QID|6082| |N|Use the Taming Rod to tame an Armored Scorpid (54.80, 36.94)|  |C|Hunter|
+T Taming the Beast (Part 3) |QID|6082| |N|Thotar in Razor Hill (51.87, 43.49)| |C|Hunter|
 A Training the Beast |QID|6081| |N|Thotar in Razor Hill (52.01, 43.48)| |C|Hunter|
 A Gan'rul's Summons |QID|1506| |N|Ophek in Razor Hill (54.21, 41.04)| |C|Warlock|
 
 R Orgrimmar |QID|5726| |N|Travel to Orgrimmar (33, 37)| |Z|Orgrimmar|
 A Speak with Un'thuwa |QID|1883| |N|Uthel'nay in Valley of Spirits (38.86, 86.28)| |Z|Orgrimmar|
-T The Admiral's Orders (2) |QID|831| |N|Nazgrel in Grommash Hold (32.40, 36.03)| |Z|Orgrimmar|
-A Hidden Enemies (1) |QID|5726| |N|Thrall in Grommash Hold (32.00, 37.86)| |Z|Orgrimmar|
+T The Admiral's Orders (Part 2) |QID|831| |N|Nazgrel in Grommash Hold (32.40, 36.03)| |Z|Orgrimmar|
+A Hidden Enemies (Part 1) |QID|5726| |N|Thrall in Grommash Hold (32.00, 37.86)| |Z|Orgrimmar|
 A Finding the Antidote |QID|813| |N|Kor'ghan in Cleft of Shadow (47.00, 53.56)| |Z|Orgrimmar|
 T Training the Beast |QID|6081| |N|Ormak Grimshot in Valley of Honor (66.07, 18.59)| |C|Hunter| |Z|Orgrimmar|
 
@@ -230,15 +230,15 @@ A Skull Rock |QID|827| |N|Margoz in Durotar (56.38, 20.15)|
 R Skull Rock |QID|827| |N|Travel to Skull Rock (55.10, 9.91)|
 C Creature of the Void |QID|1501| |N|Follow the path around the right side of the cave and collect Tablet of Verga from the chest in Skull Rock (52.83, 7.84) (51.41, 8.50) (51.61, 9.71)| |C|Warlock|
 C Skull Rock |QID|827| |N|Kill Burning Blade Apprentice, Burning Blade Fanatic and collect 6 Searing Collar in Skull Rock (54.06, 8.86)|
-C Hidden Enemies (1) |QID|5726| |N|Kill Burning Blade Apprentice until you find Lieutenant's Insignia in Skull Rock (54.06, 8.86)|
+C Hidden Enemies (Part 1) |QID|5726| |N|Kill Burning Blade Apprentice until you find Lieutenant's Insignia in Skull Rock (54.06, 8.86)|
 K Gazz'uz |QID|832| |N|Kill Gazz'uz to collect Eye of Burning Shadow to start a quest. Use the Faintly Glowing Skull on him to help if you still have this. (52.6, 8.8)(51.5, 9.7).  Skip this if you fail| |U|4945| |L|4903|
 A Burning Shadows |QID|832| |N|Use Eye of Burning Shadow to accept quest| |Z|Orgrimmar| |U|4903| |O|
 T Skull Rock |QID|827| |N|Margoz in Durotar (56.35, 20.05)|
 A Neeru Fireblade |QID|829| |N|Margoz in Durotar (56.35, 20.05)|
 
 R Grommash Hold |TID|5726| |N|Travel to Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
-T Hidden Enemies (1) |QID|5726| |N|Thrall in Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
-A Hidden Enemies (2) |QID|5727| |N|Thrall in Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
+T Hidden Enemies (Part 1) |QID|5726| |N|Thrall in Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
+A Hidden Enemies (Part 2) |QID|5727| |N|Thrall in Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
 T Neeru Fireblade |QID|829| |N|Neeru Fireblade in Cleft of Shadow (49.56, 50.46)| |Z|Orgrimmar|
 A Ak'Zeloth |QID|809| |N|Neeru Fireblade in Cleft of Shadow (49.56, 50.46)| |Z|Orgrimmar|
 T Creature of the Void |QID|1501| |N|Gan'rul Bloodeye in Cleft of Shadow (48.26, 45.41)| |C|Warlock|
@@ -246,9 +246,9 @@ A The Binding |QID|1504| |N|Gan'rul Bloodeye in Cleft of Shadow (48.26, 45.41)| 
 C The Binding |QID|1504| |N|Using the Glyphs of Summoning summon on the purple summoning circle and subdue a Summoned Voidwalker in Cleft of Shadow (45.60, 0.07)| |U|7464| |C|Warlock|
 T The Binding |QID|1504| |N|Gan'rul Bloodeye in Cleft of Shadow (48.26, 45.41)| |C|Warlock|
 
-C Hidden Enemies (2) |QID|5727| |N|Talk to Neeru Fireblade in Cleft of Shadow (49.56, 50.46)| |Z|Orgrimmar|
+C Hidden Enemies (Part 2) |QID|5727| |N|Talk to Neeru Fireblade in Cleft of Shadow (49.56, 50.46)| |Z|Orgrimmar|
 T Burning Shadows |QID|832| |N|Neeru Fireblade in Cleft of Shadow (49.56, 50.46)| |Z|Orgrimmar|
-T Hidden Enemies (2) |QID|5727| |N|Thrall in Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
+T Hidden Enemies (Part 2) |QID|5727| |N|Thrall in Grommash Hold (31.98, 37.83)| |Z|Orgrimmar|
 N Lieutenant's Insignia |N|Destroy Lieutenant's Insignia, it is not used for anything else. Tick this step| |L|14544| |O|
 
 R Razor Hill |QID|840| |N|Travel to Razor Hill (50.89, 43.58)|

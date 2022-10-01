@@ -12,8 +12,8 @@ h The Salty Sailor Tavern |QID|610| |N|Speak to Innkeeper Skindle The Salty Sail
 T Back to Booty Bay |QID|1118| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.23)|  |O|
 A Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)|
 A The Captain's Chest |QID|614| |N|Captain Hecklebury Smotts in Booty Bay (26.70, 73.61)|
-T The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.18, 77.03)|  |O|
-A The Bloodsail Buccaneers (5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.20, 76.91)|  |PRE|604|
+T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.18, 77.03)|  |O|
+A The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.20, 76.91)|  |PRE|604|
 
 R Southern Savage Coast |QID|610| |N|Travel to Southern Savage Coast (29.63, 72.36) (27.42, 69.43)|  |PRE|603|
 C "Pretty Boy" Duncan |QID|610| |N|Kill \Pretty Boy\ Duncan and collect Catelyn's Blade in Southern Savage Coast (27.42, 69.43)|  |PRE|603|
@@ -22,13 +22,13 @@ R Wild Shore |QID|614| |N|Travel to Wild Shore (33.77, 74.85)|
 N As you go... |AYG|614| |QID|594| |N|Look for a Half Burried Bottle (green) along the beach and check it for Carefully Folded Note to start quest| |OBJ|228| |L|4098|
 C The Captain's Chest |QID|614| |N|Kill Gorlash and collect Smotts' Chest in The Crystal Shore. Gorlash is a level 47 Elite and you might need help to kill him otherwise it is safe to skip (33.77, 74.85) (39.19, 60.70) (36.95, 69.73)|
 N Carefully Folded Note |QID|594| |N|Look for a Half Burried Bottle (green) along the beach and check it for Carefully Folded Note to start quest (34.6, 73.0) (33.9, 76.7) (39.73, 77.39)| |OBJ|228| |L|4098|
-A Message in a Bottle (1) |QID|594| |N|Use Carefully Folded Note to accept quest| |U|4098|
+A Message in a Bottle (Part 1) |QID|594| |N|Use Carefully Folded Note to accept quest| |U|4098|
 
 R Jaguero Isle |TID|594| |N|Travel to Jaguero Isle (38.51, 80.58)|
-T Message in a Bottle (1) |QID|594| |N|Crank Fizzlebub in Jaguero Isle (38.51, 80.58)|
-A Message in a Bottle (2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.51, 80.58)|
-C Message in a Bottle (2) |QID|630| |N|Kill King Mukla and collect Shackle Key in Jaguero Isle. This is a group quest and hard to solo, safe to skip (40.98, 83.95)|
-T Message in a Bottle (2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.52, 80.61)|  |O|
+T Message in a Bottle (Part 1) |QID|594| |N|Crank Fizzlebub in Jaguero Isle (38.51, 80.58)|
+A Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.51, 80.58)|
+C Message in a Bottle (Part 2) |QID|630| |N|Kill King Mukla and collect Shackle Key in Jaguero Isle. This is a group quest and hard to solo, safe to skip (40.98, 83.95)|
+T Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.52, 80.61)|  |O|
 N As you go... |AYG|608| |QID|624| |N|Check the bottom floor of each ship for Cortello's Riddle or in the captain's room, it can spawn in one of the three ship<br/><b>Collect 15 Snuff from any pirates| |L|4056| |OBJ|164|
 K Captain Stillwater |QID|608.1| |N|Kill Captain Stillwater in the middle floor of the ship in Wild Shore (32.82, 88.33)|  |PRE|604|
 K Fleet Master Firallon |QID|608.3| |N|Kill Garr Salthoof in the middle floor of the ship in Wild Shore (30.17, 89.40) (30.63, 90.57)|  |PRE|604|
@@ -42,7 +42,7 @@ R Booty Bay |QID|611| |N|Travel to Booty Bay (27.27, 77.52)|
 T "Pretty Boy" Duncan |QID|610| |N|Catelyn the Blade in The Salty Sailor Tavern (27.27, 77.52)|  |PRE|603|
 A The Curse of the Tides |QID|611| |N|Catelyn the Blade in The Salty Sailor Tavern (27.27, 77.52)|  |PRE|603|
 T Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)|
-T The Bloodsail Buccaneers (5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.19, 76.99)|  |PRE|604|
+T The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.19, 76.99)|  |PRE|604|
 T The Captain's Chest |QID|614| |N|Captain Hecklebury Smotts in Booty Bay (26.69, 73.62)|
 A Stranglethorn Fever |QID|348| |N|Fin Fizracket in Booty Bay (27.63, 76.75)|
 
@@ -70,10 +70,10 @@ T Stranglethorn Fever |QID|349| |N|Witch Doctor Unbagwa in Spirit Den, this will
 C Stranglethorn Fever |QID|348| |N|Survive the wave of attack until Mokk the Savage spawn, kill him for Heart of Mokk in Spirit Den (35.17, 60.54)|
 
 R Stranglethorn Vale |QID|197| |N|Travel to Nesingwary's Expedition (35.7, 10.8)| |O|
-C Raptor Mastery (4) |QID|197| |N|Kill Tethis and loot Talon of Tethis (28, 44)| |O| |W|
+C Raptor Mastery (Part 4) |QID|197| |N|Kill Tethis and loot Talon of Tethis (28, 44)| |O| |W|
 C The Curse of the Tides |QID|611| |N|Click on the Altar of Tides and Gazban will spawn, kill him and collect Stone of the Tides in The Vile Reef (24.90, 23.56)|  |PRE|603|
 
-T Raptor Mastery (4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |O|
+T Raptor Mastery (Part 4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |O|
 A Big Game Hunter |QID|208| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |PRE|197|
 C Big Game Hunter |QID|208| |N|Kill King Bangalash and loot the Head of Bangalash (38, 35)| |PRE|197|
 

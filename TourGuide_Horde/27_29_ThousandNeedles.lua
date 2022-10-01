@@ -49,12 +49,12 @@ T Cry of the Thunderhawk |QID|913| |N|Jorn Skyseer in Camp Taurajo (44.89, 59.15
 
 R Freewind Post |QID|1197| |N|Travel to Freewind Post (46.1, 51.5)|
 h Freewind Post |QID|1197| |N|Speak to Innkeeper Abeqwa and set hearth for Freewind Post (46.1, 51.5)|
-T The Sacred Flame (2) |QID|1196| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |O|
-A The Sacred Flame (3) |QID|1197| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |PRE|1197|
+T The Sacred Flame (Part 2) |QID|1196| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |O|
+A The Sacred Flame (Part 3) |QID|1197| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |PRE|1197|
 A Serpent Wild |QID|4865| |N|Hagar Lightninghoof in Freewind Post (44.71, 50.26)|
 
 R Splithoof Hold |QID|1197| |N|Travel to Splithoof Hold cave (44.03, 37.40)|
-C The Sacred Flame (3) |QID|1197| |N|Go into the cave and click on the Ancient Brazier in Splithoof Hold (44.03, 37.40) (41.79, 33.46) (41.96, 31.60)| |PRE|1197|
+C The Sacred Flame (Part 3) |QID|1197| |N|Go into the cave and click on the Ancient Brazier in Splithoof Hold (44.03, 37.40) (41.79, 33.46) (41.96, 31.60)| |PRE|1197|
 K Galak Messenger |QID|4881| |N|Find and kill the patroling Galak Messenger to start new quest in Darkcloud Pinnacle (38.6, 31.5) (29.5, 34.6) (18.9, 27.1)| |L|12564|
 A Assassination Plot |QID|4881| |N|Use Assassination Note to accept quest| |O|
 
@@ -80,7 +80,7 @@ A Arikara |QID|5088| |N|Magatha Grimtotem in Elder Rise (70.13, 31.21)| |Z|Thund
 
 R Freewind Post |TID|4767| |N|Travel to Freewind Post (46.12, 51.62)|
 T Wind Rider |QID|4767| |N|Elu in Freewind Post (44.86, 49.03)|
-T The Sacred Flame (3) |QID|1197| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |PRE|1197|
+T The Sacred Flame (Part 3) |QID|1197| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |PRE|1197|
 
 R Darkcloud Pinnacle |QID|5064| |N|Travel to Darkcloud Pinnacle (31.83, 32.64)|
 N Secret Note #1 |QID|5064.1| |N|Collect Secret Note #1 from the Document Chest in Darkcloud Pinnacle (31.83, 32.64)|

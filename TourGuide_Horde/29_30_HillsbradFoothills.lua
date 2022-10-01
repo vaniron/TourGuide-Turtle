@@ -24,8 +24,8 @@ f Tarren Mill |QID|1361| |N|Speak to Zarise and grab flight path for Tarren Mill
 A Elixir of Suffering |QID|496| |N|Apothecary Lydon in Tarren Mill (61.49, 19.18)|
 A Elixir of Pain |QID|501| |N|Apothecary Lydon in Tarren Mill (61.49, 19.18)|
 A Elixir of Agony |QID|509| |N|Apothecary Lydon in Tarren Mill (61.49, 19.18)|
-A Battle of Hillsbrad (1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.30, 20.18)|
-A Helcular's Revenge (1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.81, 19.65)|
+A Battle of Hillsbrad (Part 1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.30, 20.18)|
+A Helcular's Revenge (Part 1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.81, 19.65)|
 A Dangerous! |QID|567| |N|Click item Dangerous! in Tarren Mill (62.50, 19.85)|
 A Soothing Turtle Bisque |QID|7321| |N|Christoph Jeffcoat in Tarren Mill<br/><b>Requires cooking profession to accept quest (62.38, 19.07)|
 B Soothing Spices |QID|7321.2| |N|Buy 1 Soothing Spices from Christoph Jeffcoat in Tarren Mill (62.36, 19.01)|
@@ -51,7 +51,7 @@ T Elixir of Agony |QID|509| |N|Apothecary Lydon in Tarren Mill (61.47, 19.20)|
 T Soothing Turtle Bisque |QID|7321| |N|Christoph Jeffcoat in Tarren Mill (62.31, 19.10)|
 
 R Darrow Hill |QID|552| |N|Travel to Darrow Hill (46.0, 32.6)|
-C Helcular's Revenge (1) |QID|552| |N|Kill Cave Yeti until you collect Helcular's Rod in Darrow Hill (46.0, 32.6)|
+C Helcular's Revenge (Part 1) |QID|552| |N|Kill Cave Yeti until you collect Helcular's Rod in Darrow Hill (46.0, 32.6)|
 
 R Hillsbrad Fields |QID|501| |N|Travel to Hillsbrad Fields (45.83, 34.30)|
 C Elixir of Pain |QID|501| |N|Kill Starving Mountain Lion and collect 10 Mountain Lion Blood in Hillsbrad Fields (45.83, 34.30) (53.56, 31.56) (39.20, 38.57)|
@@ -59,8 +59,8 @@ C Elixir of Pain |QID|501| |N|Kill Starving Mountain Lion and collect 10 Mountai
 R Tarren Mill |QID|502| |N|Travel to Tarren Mill (61.47, 19.15)|
 T Elixir of Pain |QID|501| |N|Apothecary Lydon in Tarren Mill (61.47, 19.15)|
 A Elixir of Pain |QID|502| |N|Apothecary Lydon in Tarren Mill (61.47, 19.15)|
-T Helcular's Revenge (1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)|
-A Helcular's Revenge (2) |QID|553| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)|
+T Helcular's Revenge (Part 1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)|
+A Helcular's Revenge (Part 2) |QID|553| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)|
 
 R Darrow Hill |QID|553| |N|Travel to Darrow Hill (46.27, 31.91)|
 N Charge Flame of Azel |QID|553.1| |N|Click Item Flame of Azel in Darrow Hill (46.27, 31.91) (43.85, 27.93)|
@@ -73,13 +73,13 @@ K Citizen Wilkes |QID|567.2| |N|Kill Citizen Wilkes in Hillsbrad Fields (32.56, 
 K Clerk Horrace Whitesteed |QID|567.1| |N|Kill Clerk Horrace Whitesteed in Hillsbrad Fields (29.44, 43.03)|
 K Farmer Kalaba |QID|567.4| |N|Kill Farmer Kalaba in Hillsbrad Fields (36.32, 47.13)|
 K Farmer Getz |QID|527.4| |N|Kill Farmer Getz in Hillsbrad Fields (36.05, 40.74)|
-C Battle of Hillsbrad (1) |QID|527| |N|Kill 6 Hillsbrad Farmer and 6 Hillsbrad Farmhand in Hillsbrad Fields (32.05, 38.46)|
+C Battle of Hillsbrad (Part 1) |QID|527| |N|Kill 6 Hillsbrad Farmer and 6 Hillsbrad Farmhand in Hillsbrad Fields (32.05, 38.46)|
 
 R Azurelode Mine |QID|567| |N|Travel to Azurelode Mine (26.44, 58.68)|
 K Miner Hackett |QID|567.3| |N|Kill Miner Hackett in Azurelode Mine<br/><b>Take the lower entrance and hug the right side wall to reach Miner Hackett (26.44, 58.68) (30.49, 58.35)|
 
 R Tarren Mill |TID|567| |N|Travel to Tarren Mill (26.44, 58.68) (62.39, 20.33)|
-T Battle of Hillsbrad (1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)|
+T Battle of Hillsbrad (Part 1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)|
 T Dangerous! |QID|567| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)|
 N Level 30 Required |OID|1361| |N|You should be close to level 30, grind nearby mobs to reach level 30| 
 A Regthar Deathgate |QID|1361| |N|Krusk in Tarren Mill (63.17, 20.70)|

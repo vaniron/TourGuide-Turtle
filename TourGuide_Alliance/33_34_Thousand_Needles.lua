@@ -44,7 +44,7 @@ C Rocket Car Parts |QID|1110| |N|Collect 30 Rocket Car Parts through out The Shi
 R Mirage Raceway |TID|1110| |N|Travel to Mirage Raceway (81.62, 77.93)| |Z|Thousand Needles|
 T A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.62, 77.93)| |Z|Thousand Needles|
 T Load Lightening |QID|1176| |N|Pozzik in Mirage Raceway (80.14, 75.83)| |Z|Thousand Needles|
-A Goblin Sponsorship (1) |QID|1178| |N|Pozzik in Mirage Raceway (80.14, 75.83)| |Z|Thousand Needles|
+A Goblin Sponsorship (Part 1) |QID|1178| |N|Pozzik in Mirage Raceway (80.14, 75.83)| |Z|Thousand Needles|
 T Hardened Shells |QID|1105| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.13)| |Z|Thousand Needles|
 T Salt Flat Venom |QID|1104| |N|Fizzle Brassbolts in Mirage Raceway (78.06, 77.09)| |Z|Thousand Needles|
 A Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.12)| |Z|Thousand Needles|

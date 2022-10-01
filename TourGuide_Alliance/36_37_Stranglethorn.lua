@@ -7,8 +7,8 @@ N Kravel's Parts Order |QID|1111| |N|Withdraw Kravel's Parts Order from the bank
 N Kravel's Crate |QID|5762| |N|Withdraw Kravel's Crate from the bank. Tick this step (62.69, 37.43)| |Z|The Barrens| |L|14542| |OO|
 N Karnitol's Satchel |QID|1457| |N|Store Karnitol's Satchel to the bank (62.69, 37.43)| |Z|The Barrens| |L|6245| |O|
 N Elixir of Water Breathing |TID|1178| |N|Store Elixir of Water Breathing to the bank (62.69, 37.43)| |Z|The Barrens| |L|5996| |O|
-T Goblin Sponsorship (1) |QID|1178| |N|Gazlowe in Ratchet (62.68, 36.24)| |Z|The Barrens| |O|
-A Goblin Sponsorship (2) |QID|1180| |N|Gazlowe in Ratchet (62.68, 36.24)| |Z|The Barrens| |PRE|1178|
+T Goblin Sponsorship (Part 1) |QID|1178| |N|Gazlowe in Ratchet (62.68, 36.24)| |Z|The Barrens| |O|
+A Goblin Sponsorship (Part 2) |QID|1180| |N|Gazlowe in Ratchet (62.68, 36.24)| |Z|The Barrens| |PRE|1178|
 T Wharfmaster Dizzywig |QID|1111| |N|Wharfmaster Dizzywig in Ratchet (63.35, 38.46)| |Z|The Barrens| |O|
 A Parts for Kravel |QID|1112| |N|Wharfmaster Dizzywig in Ratchet (63.35, 38.46)| |Z|The Barrens| |PRE|1112|
 T The Barrens Port |QID|1039| |N|Wharfmaster Dizzywig in Ratchet (63.36, 38.44)| |Z|The Barrens| |O|
@@ -24,46 +24,46 @@ A Hostile Takeover |QID|213| |N|Kebok in The Salty Sailor Tavern (27.02, 77.15)|
 A Supplies to Private Thorsen |QID|198| |N|Krazek in The Salty Sailor Tavern (26.96, 77.25)| |Z|Stranglethorn Vale|
 A Investigate the Camp |QID|201| |N|Krazek in The Salty Sailor Tavern (26.96, 77.25)| |Z|Stranglethorn Vale|
 A Singing Blue Shards |QID|605| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.10, 77.29)|
-T Goblin Sponsorship (2) |QID|1180| |N|Wharfmaster Lozgil in Booty Bay (26.34, 73.57)| |Z|Stranglethorn Vale| |O|
-A Goblin Sponsorship (3) |QID|1181| |N|Wharfmaster Lozgil in Booty Bay (26.34, 73.57)| |Z|Stranglethorn Vale| |PRE|1180|
-T Goblin Sponsorship (3) |QID|1181| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|Stranglethorn Vale| |PRE|1180|
-A Goblin Sponsorship (4) |QID|1182| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|Stranglethorn Vale| |PRE|1180|
+T Goblin Sponsorship (Part 2) |QID|1180| |N|Wharfmaster Lozgil in Booty Bay (26.34, 73.57)| |Z|Stranglethorn Vale| |O|
+A Goblin Sponsorship (Part 3) |QID|1181| |N|Wharfmaster Lozgil in Booty Bay (26.34, 73.57)| |Z|Stranglethorn Vale| |PRE|1180|
+T Goblin Sponsorship (Part 3) |QID|1181| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|Stranglethorn Vale| |PRE|1180|
+A Goblin Sponsorship (Part 4) |QID|1182| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|Stranglethorn Vale| |PRE|1180|
 A Supply and Demand |QID|575| |N|Drizzlik in Booty Bay (28.28, 77.58)| |Z|Stranglethorn Vale|
 
 R Nesingwary's Expedition |QID|583| |N|Travel to Nesingwary's Expedition (35.67, 10.52)| |Z|Stranglethorn Vale|
 A Welcome to the Jungle |QID|583| |N|Barnil Stonepot in Nesingwary's Expedition (35.67, 10.52)| |Z|Stranglethorn Vale|
 T Welcome to the Jungle |QID|583| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
-A Raptor Mastery (1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
-A Tiger Mastery (1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.62, 10.62)| |Z|Stranglethorn Vale|
-A Panther Mastery (1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.63, 10.51)| |Z|Stranglethorn Vale|
+A Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.62, 10.62)| |Z|Stranglethorn Vale|
+A Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.63, 10.51)| |Z|Stranglethorn Vale|
 N Keep Pages |QID|185| |N|Keep any Green Hills of Stranglethorn - Page 1 type pages that you find, it is a random drop from any Humanoids enemies in Stranglethorn Vale. You can also buy or sell these pages for decent profit in the Auction House if you fail to complete it. Tick this step|
-C Tiger Mastery (1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger in Stranglethorn Vale (35.00, 12.10)| |Z|Stranglethorn Vale|
+C Tiger Mastery (Part 1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger in Stranglethorn Vale (35.00, 12.10)| |Z|Stranglethorn Vale|
 
 R Nesingwary's Expedition |QID|186| |N|Travel to Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
-T Tiger Mastery (1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
-A Tiger Mastery (2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
-C Panther Mastery (1) |QID|190| |N|Kill 10 Young Panther in Stranglethorn Vale (42.31, 13.06)| |Z|Stranglethorn Vale|
-C Tiger Mastery (2) |QID|186| |N|Kill 10 Stranglethorn Tiger in Stranglethorn Vale (46.90, 15.60)| |Z|Stranglethorn Vale|
-T Tiger Mastery (2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
-A Tiger Mastery (3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
-T Panther Mastery (1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
-A Panther Mastery (2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
-C Raptor Mastery (1) |QID|194| |N|Kill 10 Stranglethorn Raptor in Stranglethorn Vale (30.72, 8.25)(24.52, 15.86)| |Z|Stranglethorn Vale|
-C Panther Mastery (2) |QID|191| |N|Kill 10 Panther in Stranglethorn Vale (28.42, 11.88)| |Z|Stranglethorn Vale|
-C Tiger Mastery (3) |QID|187| |N|Kill 10 Elder Stranglethorn Tiger in Stranglethorn Vale (32.11, 18.34)| |Z|Stranglethorn Vale|
-T Raptor Mastery (1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
-A Raptor Mastery (2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
-T Tiger Mastery (3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
-A Tiger Mastery (4) |QID|188| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
-T Panther Mastery (2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
-A Panther Mastery (3) |QID|192| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
+T Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
+C Panther Mastery (Part 1) |QID|190| |N|Kill 10 Young Panther in Stranglethorn Vale (42.31, 13.06)| |Z|Stranglethorn Vale|
+C Tiger Mastery (Part 2) |QID|186| |N|Kill 10 Stranglethorn Tiger in Stranglethorn Vale (46.90, 15.60)| |Z|Stranglethorn Vale|
+T Tiger Mastery (Part 2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
+T Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
+A Panther Mastery (Part 2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
+C Raptor Mastery (Part 1) |QID|194| |N|Kill 10 Stranglethorn Raptor in Stranglethorn Vale (30.72, 8.25)(24.52, 15.86)| |Z|Stranglethorn Vale|
+C Panther Mastery (Part 2) |QID|191| |N|Kill 10 Panther in Stranglethorn Vale (28.42, 11.88)| |Z|Stranglethorn Vale|
+C Tiger Mastery (Part 3) |QID|187| |N|Kill 10 Elder Stranglethorn Tiger in Stranglethorn Vale (32.11, 18.34)| |Z|Stranglethorn Vale|
+T Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
+A Raptor Mastery (Part 2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
+T Tiger Mastery (Part 3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 4) |QID|188| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
+T Panther Mastery (Part 2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
+A Panther Mastery (Part 3) |QID|192| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
 
 R The Cape of Stranglethorn |QID|192| |N|Exit to The Cape of Stranglethorn (28.02, 73.39) (29.76, 72.20)| |Z|Stranglethorn Vale| |REACH|
 C Panther Mastery |QID|192| |N|Kill 10 Shadowmaw Panther in Stranglethorn Vale, they are stealth and hard to find (39.89, 33.38) (39.08, 33.02)| |Z|Stranglethorn Vale|
 
 R Venture Co. Operations Center |QID|1182| |N|Travel to Venture Co. Operations Center (42.60, 18.52)| |Z|Stranglethorn Vale| |PRE|1180|
 K Foreman Cozzle |QID|1182| |N|Go up the platform and kill Foreman Cozzle and collect Cozzle's Key in Venture Co. Operations Center (42.60, 18.52)| |Z|Stranglethorn Vale| |PRE|1180| |L|5851|
-C Goblin Sponsorship (4) |QID|1182| |N|Use the Cozzle's Key on Cozzle's Footlocker inside the hut to get Fuel Regulator Blueprints in Venture Co. Operations Center (42.60, 18.52)| |Z|Stranglethorn Vale| |PRE|1180|
+C Goblin Sponsorship (Part 4) |QID|1182| |N|Use the Cozzle's Key on Cozzle's Footlocker inside the hut to get Fuel Regulator Blueprints in Venture Co. Operations Center (42.60, 18.52)| |Z|Stranglethorn Vale| |PRE|1180|
 C Hostile Takeover |QID|213| |N|Kill Venture Co. Geologist and collect 8 Tumbled Crystal in Venture Co. Base Camp (43.14, 19.37)| |Z|Stranglethorn Vale|
 
 R Stranglethorn Vale |QID|195| |N|Travel to Stranglethorn Vale (38.27, 26.99)| |Z|Stranglethorn Vale|
@@ -133,14 +133,14 @@ T Hostile Takeover |QID|213| |N|Kebok in The Salty Sailor Tavern (26.99, 77.13)|
 T The Stone of the Tides |QID|578| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale|
 N Library Scrip |TID|605| |N|Destroy Library Scrip as it is no longer needed| |L|3898| |O|
 A Water Elementals |QID|601| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale|
-T Goblin Sponsorship (4) |QID|1182| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale| |PRE|1180|
-A Goblin Sponsorship (5) |QID|1183| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale| |PRE|1180|
+T Goblin Sponsorship (Part 4) |QID|1182| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale| |PRE|1180|
+A Goblin Sponsorship (Part 5) |QID|1183| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale| |PRE|1180|
 T Supply and Demand |QID|575| |N|Drizzlik in Booty Bay (28.29, 77.58)| |Z|Stranglethorn Vale|
 A Some Assembly Required |QID|577| |N|Drizzlik in Booty Bay (28.29, 77.58)| |Z|Stranglethorn Vale|
 T Singing Blue Shards |QID|605| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.21)| |Z|Stranglethorn Vale|
 
 R Hall of Explorers |QID|707| |N|Travel to Hall of Explorers in City of Ironforge (67.99, 17.61)| |Z|Ironforge|
-T The Karnitol Shipwreck (4) |QID|1457| |N|Roetten Stonehammer in Hall of Explorers (67.99, 17.61)| |Z|Ironforge|
+T The Karnitol Shipwreck (Part 4) |QID|1457| |N|Roetten Stonehammer in Hall of Explorers (67.99, 17.61)| |Z|Ironforge|
 A Ironband Wants You! |QID|707| |N|Prospector Stormpike in The Library (74.53, 11.86)| |Z|Ironforge|
 T Letter to Stormpike |QID|514| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |O|
 A Further Mysteries |QID|525| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |PRE|514|

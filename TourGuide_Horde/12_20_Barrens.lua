@@ -4,8 +4,8 @@ return [[
 
 A Veteran Uzzek |QID|1505| |N|Krang Stonehoof in Bloodhoof Village (49.52, 60.60)| |C|Warrior| |R|Tauren| |OID|1498| |Z|Mulgore|
 A Veteran Uzzek |QID|1505| |N|Tarshaw Jaggedscar, in Razor Hill Barracks (73.41, 19.44)| |C|Warrior| |R|Orc, Troll| |OID|1498| |Z|The Barrens|
-A Call of Fire (1) |QID|2983| |N|Swart in Razor Hill Barracks (54.41, 42.58)| |C|Shaman| |R|Orc, Troll| |Z|Durotar|
-A Call of Fire (1) |QID|2984| |N|Swart in Bloodhoof Village (48.4, 59.2)| |C|Shaman| |R|Tauren| |Z|Mulgore|
+A Call of Fire (Part 1) |QID|2983| |N|Swart in Razor Hill Barracks (54.41, 42.58)| |C|Shaman| |R|Orc, Troll| |Z|Durotar|
+A Call of Fire (Part 1) |QID|2984| |N|Swart in Bloodhoof Village (48.4, 59.2)| |C|Shaman| |R|Tauren| |Z|Mulgore|
 
 R Orgimmar |QID|840| |N|Travel to Orgimmar (45.23, 63.84)|  |Z|Orgrimmar| |R|Scourge, Undead|
 f Orgimmar |QID|840| |N|Speak to Doras and grab flight path for Orgimmar (45.23, 63.84)| |Z|Orgrimmar| |R|Scourge, Undead|
@@ -81,13 +81,13 @@ C Forged Steel |QID|1503| |N|Collect Forged Steel Bars from the Stolen Iron Ches
 T Forged Steel |QID|1503| |N|Thun'grim Firegaze in The Barrens (54.56, 27.96) (57.23, 30.33)| |C|Warrior|
 
 R Grol'dom Farm |QID|1524| |N|Travel to Grol'dom Farm (56.04, 19.88)| |C|Shaman|
-T Call of Fire (1) |QID|2984| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Tauren|
-T Call of Fire (1) |QID|2983| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Orc, Troll|
-A Call of Fire (2) |QID|1524| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman|
+T Call of Fire (Part 1) |QID|2984| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Tauren|
+T Call of Fire (Part 1) |QID|2983| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman| |R|Orc, Troll|
+A Call of Fire (Part 2) |QID|1524| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.88)| |C|Shaman|
 
 R Shrine of the Dormant Flame |OID|1525| |N|Travel to Shrine of the Dormant Flame (36.60, 57.10) (36.58, 58.25) (36.86, 59.05)| |C|Shaman| |Z|Durotar|
-T Call of Fire (2) |QID|1524| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.57, 58.96)| |C|Shaman| |Z|Durotar|
-A Call of Fire (3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (38.57, 58.96)| |C|Shaman| |Z|Durotar|
+T Call of Fire (Part 2) |QID|1524| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.57, 58.96)| |C|Shaman| |Z|Durotar|
+A Call of Fire (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (38.57, 58.96)| |C|Shaman| |Z|Durotar|
 
 R Thorn Hill |QID|1525.1| |N|Travel to Thorn Hill (56.94, 24.33)| |C|Shaman|
 K Razormane Geomancer |QID|1525.1| |N|Kill Razormane Geomancer and collect Fire Tar in Thorn Hill (56.94, 24.33)| |C|Shaman|
@@ -97,15 +97,15 @@ R Dustwind Cave |QID|1525.2| |N|Travel to Dustwind Cave (54.10, 40.78) (54.05, 3
 K Burning Blade Cultist |QID|1525.2| |N|Kill Burning Blade Cultist and collect a Reagent Pouch in Dustwind Cave (52.55, 26.65)| |C|Shaman| |Z|Durotar|
 
 R Shrine of the Dormant Flame |QID|1526| |N|Travel to Shrine of the Dormant Flame (36.60, 57.10) (36.58, 58.25) (36.86, 59.05)| |C|Shaman| |Z|Durotar|
-T Call of Fire (3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.55, 58.96)| |C|Shaman| |Z|Durotar|
-A Call of Fire (4) |QID|1526| |N|Telf Joolam in Shrine of the Dormant Flame (38.55, 58.96)| |C|Shaman| |Z|Durotar|
+T Call of Fire (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.55, 58.96)| |C|Shaman| |Z|Durotar|
+A Call of Fire (Part 4) |QID|1526| |N|Telf Joolam in Shrine of the Dormant Flame (38.55, 58.96)| |C|Shaman| |Z|Durotar|
 N Fire Sapta |QID|1526.1| |N|Use Fire Sapta to gain the (spell:9735) buff (38.67, 58.32)| |C|Shaman| |Z|Durotar| |U|6636| |BUFF|132092|
-C Call of Fire (4) |QID|1526| |N|Defeat the Minor Manifestation of Fire n Shrine of the Dormant Flame (38.67, 58.32)| |C|Shaman| |Z|Durotar|
-T Call of Fire (4) |QID|1526| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
-A Call of Fire (5) |QID|1527| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
+C Call of Fire (Part 4) |QID|1526| |N|Defeat the Minor Manifestation of Fire n Shrine of the Dormant Flame (38.67, 58.32)| |C|Shaman| |Z|Durotar|
+T Call of Fire (Part 4) |QID|1526| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
+A Call of Fire (Part 5) |QID|1527| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
 
 R Grol'dom Farm |QID|1527| |N|Travel to Grol'dom Farm (56.04, 19.89)| |C|Shaman|
-T Call of Fire (5) |QID|1527| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.89)| |C|Shaman|
+T Call of Fire (Part 5) |QID|1527| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.89)| |C|Shaman|
 
 N As you go... |AYG|924| |QID|844| |N|Kill any Raptors for 12 Raptor Head and Greater Plainstrider for 7 Plainstrider Beak| |PRE|809| |EQID|869|
 R Dreadmist Den |QID|924| |N|Travel to Dreadmist Den (51.10, 22.70) (50.42, 21.96) (47.96, 19.12)| |PRE|809|
@@ -129,12 +129,12 @@ C Supplies for the Crossroads |QID|5041| |N|Collect Crossroads' Supply Crates fr
 C The Disruption Ends |QID|872| |N|Kill 8 Razormane Geomancer, 8 Razormane Defender in Thorn Hill (58.84, 23.73)|
 
 R Ratchet |QID|895| |N|Travel to Ratchet (62.6, 37.5)|
-A Chen's Empty Keg (1) |QID|819| |N|This is an optional quest if you stumble on Chen's Empty Keg (56.5, 46.3) (45, 62.2) (54.7, 37.2) (55.7, 27.3) (55.8, 20.0) (57.1, 9) (43.8, 42.2) (37.9, 16.1)| |U|4926| |O|
-T Chen's Empty Keg (1) |QID|819| |N|Brewmaster Drohn in Ratchet (62.29, 38.37)| |O|
-A Chen's Empty Keg (2) |QID|821| |N|Brewmaster Drohn in Ratchet (62.29, 38.37)| |PRE|819|
+A Chen's Empty Keg (Part 1) |QID|819| |N|This is an optional quest if you stumble on Chen's Empty Keg (56.5, 46.3) (45, 62.2) (54.7, 37.2) (55.7, 27.3) (55.8, 20.0) (57.1, 9) (43.8, 42.2) (37.9, 16.1)| |U|4926| |O|
+T Chen's Empty Keg (Part 1) |QID|819| |N|Brewmaster Drohn in Ratchet (62.29, 38.37)| |O|
+A Chen's Empty Keg (Part 2) |QID|821| |N|Brewmaster Drohn in Ratchet (62.29, 38.37)| |PRE|819|
 A Raptor Horns |QID|865| |N|Mebok Mizzyrix in Ratchet (62.36, 37.67)|
 A WANTED: Baron Longshore |QID|895| |N|Wanted sign in Ratchet (62.6, 37.5)|
-A Samophlange (1) |QID|894| |N|Sputtervalve in Ratchet (62.95, 37.23)|
+A Samophlange (Part 1) |QID|894| |N|Sputtervalve in Ratchet (62.95, 37.23)|
 A Southsea Freebooters |QID|887| |N|Gazlowe in Ratchet (62.66, 36.26)|
 T Wharfmaster Dizzywig |QID|1492| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
 A Miner's Fortune |QID|896| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
@@ -146,11 +146,11 @@ C Southsea Freebooters |QID|887| |N|Kill 12 Southsea Brigand and 6 Southsea Cann
 
 R Ratchet |QID|890| |N|Travel to Ratchet (62.66, 36.26)|
 T Southsea Freebooters |QID|887| |N|Gazlowe in Ratchet (62.66, 36.26)|
-A The Missing Shipment (1) |QID|890| |N|Gazlowe in Ratchet (62.66, 36.26)|
+A The Missing Shipment (Part 1) |QID|890| |N|Gazlowe in Ratchet (62.66, 36.26)|
 T WANTED: Baron Longshore |QID|895| |N|Gazlowe in Ratchet (62.66, 36.26)|
-T The Missing Shipment (1) |QID|890| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
-A The Missing Shipment (2) |QID|892| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
-T The Missing Shipment (2) |QID|892| |N|Gazlowe in Ratchet (62.66, 36.26)|
+T The Missing Shipment (Part 1) |QID|890| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
+A The Missing Shipment (Part 2) |QID|892| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
+T The Missing Shipment (Part 2) |QID|892| |N|Gazlowe in Ratchet (62.66, 36.26)|
 A Stolen Booty |QID|888| |N|Gazlowe in Ratchet (62.66, 36.26)|
 
 R The Merchant Coast |QID|888| |N|Travel to The Merchant Coast (63.59, 49.28)|
@@ -261,17 +261,17 @@ T Trial of the Lake |QID|28| |N|Dendrite Starblaze in Shrine of Remulos (36.51, 
 A Trial of the Sea Lion |QID|30| |N|Tajarri in Shrine of Remulos (36.51, 40.16)| |C|Druid| |Z|Moonglade|
 
 R The Sludge Fen |QID|858| |N|Travel to The Sludge Fen (52.5, 11.7)| |REACH|
-T Samophlange (1) |QID|894| |N|Control Console in The Sludge Fen (52.5, 11.7)|
-A Samophlange (2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
+T Samophlange (Part 1) |QID|894| |N|Control Console in The Sludge Fen (52.5, 11.7)|
+A Samophlange (Part 2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 C Shut off Fuel Control Valve |QID|900.2| |N|Click Regulator Valve in The Sludge Fen (52.39, 11.37)|
 C Shut off Regulator Valve |QID|900.3| |N|Click Regulator Valve in The Sludge Fen (52.29, 11.39)|
 C Shut off Main Control Valve |QID|900.1| |N|Click Main Control Valve in The Sludge Fen (52.31, 11.61)|
 N Half Pendant of Aquatic Agility |QID|30| |N|Collect Half Pendant of Aquatic Agility from the Strange Lockbox in The Sludge Fen (56.67, 8.33)| |C|Druid| |Z|The Barrens| |L|15883|
-T Samophlange (2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
-A Samophlange (3) |QID|901| |N|Control Console in The Sludge Fen (52.5, 11.7)|
-C Samophlange (3) |QID|901| |N|Kill Tinkerer Sniggles in the hut on the hill (52.9, 10.6)|
-T Samophlange (3) |QID|901| |N|Control Console in The Sludge Fen (52.5, 11.7)|
-A Samophlange (4) |QID|902| |N|Control Console in The Sludge Fen (52.5, 11.7)|
+T Samophlange (Part 2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
+A Samophlange (Part 3) |QID|901| |N|Control Console in The Sludge Fen (52.5, 11.7)|
+C Samophlange (Part 3) |QID|901| |N|Kill Tinkerer Sniggles in the hut on the hill (52.9, 10.6)|
+T Samophlange (Part 3) |QID|901| |N|Control Console in The Sludge Fen (52.5, 11.7)|
+A Samophlange (Part 4) |QID|902| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 A Ignition |QID|858| |N|Wizzlecrank's Shredder in The Sludge Fen (56.48, 7.45)|
 C Ignition |QID|858| |N|Go up the ramp of the big structure in the water, kill Supervisor Lugwizzle and collect Ignition Key in The Sludge Fen (56.17, 8.25)|
 T Ignition |QID|858| |N|Wizzlecrank's Shredder in The Sludge Fen (56.48, 7.45)|
@@ -285,14 +285,14 @@ T The Demon Seed |QID|924| |N|Ak'Zeloth in Far Watch Post (62.35, 20.02)| |O|
 R Ratchet |QID|891| |N|Travel to Ratchet (62.6, 37.5)|
 T Stolen Booty |QID|888| |N|Gazlowe in Ratchet (62.66, 36.26)|
 T The Escape |QID|863| |N|Sputtervalve in Ratchet (62.95, 37.23)|
-T Samophlange (4) |QID|902| |N|Sputtervalve in Ratchet (62.95, 37.23)|
+T Samophlange (Part 4) |QID|902| |N|Sputtervalve in Ratchet (62.95, 37.23)|
 A Ziz Fizziks |QID|1483| |N|Sputtervalve in Ratchet (62.95, 37.23)|
 A Wenikee Boltbucket |QID|3921| |N|Sputtervalve in Ratchet (62.98, 37.17)|
 T Miner's Fortune |QID|896| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)|
 A Deepmoss Spider Eggs |QID|1069| |N|Mebok Mizzyrix in Ratchet (62.36, 37.67)|
 A The Guns of Northwatch |QID|891| |N|Captain Thalo'thas Brightsun in Ratchet (62.25, 39.02)|
-T Chen's Empty Keg (2) |QID|821| |N|Brewmaster Drohn in Ratchet (62.28, 38.35)| |PRE|819|
-A Chen's Empty Keg (3) |QID|822| |N|Brewmaster Drohn in Ratchet (62.28, 38.35)| |PRE|821|
+T Chen's Empty Keg (Part 2) |QID|821| |N|Brewmaster Drohn in Ratchet (62.28, 38.35)| |PRE|819|
+A Chen's Empty Keg (Part 3) |QID|822| |N|Brewmaster Drohn in Ratchet (62.28, 38.35)| |PRE|821|
 
 R Silverpine Forest |QID|30| |N|Travel to Silverpine Forest (29.6, 29.5)| |C|Druid| |Z|Silverpine Forest| |L|15882|
 N Half Pendant of Aquatic Endurance |QID|30| |N|Collect Half Pendant of Aquatic Endurance from the Strange Lockbox in Silverpine Forest (29.6, 29.5)| |C|Druid| |Z|Silverpine Forest| |L|15882|

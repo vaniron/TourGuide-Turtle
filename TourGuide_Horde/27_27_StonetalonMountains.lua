@@ -17,7 +17,7 @@ T Cycle of Rebirth |QID|6301| |N|Tammra Windfield in Sun Rock Retreat (47.45, 58
 A New Life |QID|6381| |N|Tammra Windfield in Sun Rock Retreat (47.45, 58.46)|
 T Cenarius' Legacy |QID|1087| |N|Braelyn Firehand in Sun Rock Retreat (45.96, 60.36)|
 
-T Further Instructions (2) |QID|1095| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
+T Further Instructions (Part 2) |QID|1095| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
 A Gerenzo Wrenchwhistle |QID|1096| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
 
 N As you go... |AYG|1096| |QID|1068| |N|Look for and kill XT:4 and XT:9, they roam around Windshear Crag and can be hard to find sometime| |REACH|69.0,40.1|
@@ -47,8 +47,8 @@ C Bloodfury Bloodline |QID|6283| |N|Kill Bloodfury Ripper and get Bloodfury Ripp
 T Bloodfury Bloodline |QID|6283| |N|Maggran Earthbinder in Sun Rock Retreat (47.18, 61.08)|
 
 R Thunder Bluff |OID|1196| |N|Travel to Thunder Bluff (54.67, 51.28)| |Z|Thunder Bluff| |O|
-T The Sacred Flame (1) |QID|1195| |N|Zangen Stonehoof in Thunder Bluff (54.67, 51.28)| |Z|Thunder Bluff| |O|
-A The Sacred Flame (2) |QID|1196| |N|Zangen Stonehoof in Thunder Bluff (54.67, 51.28)| |Z|Thunder Bluff| |PRE|1195|
+T The Sacred Flame (Part 1) |QID|1195| |N|Zangen Stonehoof in Thunder Bluff (54.67, 51.28)| |Z|Thunder Bluff| |O|
+A The Sacred Flame (Part 2) |QID|1196| |N|Zangen Stonehoof in Thunder Bluff (54.67, 51.28)| |Z|Thunder Bluff| |PRE|1195|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

@@ -16,28 +16,28 @@ R Nesingwary's Expedition |QID|583| |N|Follow the road north, look for a little 
 A Welcome to the Jungle |QID|583| |N|Barnil Stonepot in Nesingwary's Expedition (35.68, 10.52)|
 T Welcome to the Jungle |QID|583| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
 
-A Tiger Mastery (1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
-A Panther Mastery (1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
-A Raptor Mastery (1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
+A Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
+A Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
+A Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
 
-C Tiger Mastery (1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger slightly to the east in Stranglethorn Vale (35, 14)|
-T Tiger Mastery (1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
-A Tiger Mastery (2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
+C Tiger Mastery (Part 1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger slightly to the east in Stranglethorn Vale (35, 14)|
+T Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
+A Tiger Mastery (Part 2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
 
-C Panther Mastery (1) |QID|190| |N|Kill 10 Young Panther to the north in Stranglethorn Vale (41, 9)|
-C Tiger Mastery (2) |QID|186| |N|Kill 10 Stranglethorn Tiger east of the camp in Stranglethorn Vale (30, 15)|
+C Panther Mastery (Part 1) |QID|190| |N|Kill 10 Young Panther to the north in Stranglethorn Vale (41, 9)|
+C Tiger Mastery (Part 2) |QID|186| |N|Kill 10 Stranglethorn Tiger east of the camp in Stranglethorn Vale (30, 15)|
 
-T Panther Mastery (1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
-A Panther Mastery (2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
-T Tiger Mastery (2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
-A Tiger Mastery (3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
+T Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
+A Panther Mastery (Part 2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
+T Tiger Mastery (Part 2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
+A Tiger Mastery (Part 3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.59, 10.64)|
 
-C Panther Mastery (2) |QID|191| |N|Kill 10 Panther east of the camp in Stranglethorn Vale (29, 11)|
-C Raptor Mastery (1) |QID|194| |N|Kill 10 Stranglethorn Raptor east near the ruins in Stranglethorn Vale (28, 14)|
+C Panther Mastery (Part 2) |QID|191| |N|Kill 10 Panther east of the camp in Stranglethorn Vale (29, 11)|
+C Raptor Mastery (Part 1) |QID|194| |N|Kill 10 Stranglethorn Raptor east near the ruins in Stranglethorn Vale (28, 14)|
 
-T Raptor Mastery (1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
-A Raptor Mastery (2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
-T Panther Mastery (2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
+T Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
+A Raptor Mastery (Part 2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.75)|
+T Panther Mastery (Part 2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.57)|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

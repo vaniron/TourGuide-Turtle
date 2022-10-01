@@ -39,11 +39,11 @@ h Lakeshire |QID|92| |N|Speak toInnkeeper Brianna and set hearth to Lakeshire (2
 A Redridge Goulash |QID|92| |N|Chef Breanna in Lakeshire (22.70, 43.88)|
 T Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.50, 44.11)| |Z|Redridge Mountains|
 A The Price of Shoes |QID|118| |N|Verner Osgood in Lakeshire (30.82, 47.39)| |Z|Redridge Mountains|
-A Messenger to Stormwind (1) |QID|120| |N|Magistrate Solomon in Lakeshire (30.01, 44.33)| |Z|Redridge Mountains|
+A Messenger to Stormwind (Part 1) |QID|120| |N|Magistrate Solomon in Lakeshire (30.01, 44.33)| |Z|Redridge Mountains|
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
-T Messenger to Stormwind (1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
-A Messenger to Stormwind (2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (64.65, 76.93)| |Z|Stormwind City|
+T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
+A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (64.65, 76.93)| |Z|Stormwind City|
 
 R Goldshire |QID|119| |N|Travel to Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
@@ -53,7 +53,7 @@ R Lakeshire |TID|121| |N|Travel or Hearthstone to Lakeshire (30.90, 47.30)| |Z|R
 T Return to Verner |QID|119| |N|Verner Osgood in Lakeshire (30.90, 47.30)| |Z|Redridge Mountains|
 A Underbelly Scales |QID|122| |N|Verner Osgood in Lakeshire (30.49, 48.02)| |Z|Redridge Mountains|
 A A Baying of Gnolls |QID|124| |N|Verner Osgood in Lakeshire (30.91, 47.92)| |Z|Redridge Mountains|
-T Messenger to Stormwind (2) |QID|121| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
+T Messenger to Stormwind (Part 2) |QID|121| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
 
 K Great Goretusk |QID|92.1| |N|Kill Great Goretusk and collect 5 Great Goretusk Snout to the west of the lake (16.5, 49.6)| |L|2296 5|
 C Hilary's Necklace |QID|3741| |N|Find Hilary's Necklace inside a mud pile underwater in the lake, check around each waypoint (19.3, 51.8) (24.1, 54.6) (26.6, 51.4) (28,56) (33.7, 55.4) (36.7, 54.3)|

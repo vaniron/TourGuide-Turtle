@@ -9,8 +9,8 @@ A Fall From Grace |QID|2784| |N|Fallen Hero of the Horde in Stonard (36.66, 60.0
 C Fall From Grace |QID|2784| |N|Speak to Fallen Hero of the Horde to complete the quest (34.32, 66.09)| |Z|Swamp of Sorrows| 
 T Fall From Grace |QID|2784| |N|Fallen Hero of the Horde in Stonard (34.2, 66.0)| 
 A The Disgraced One |QID|2621| |N|Fallen Hero of the Horde (34.2, 66.0)| 
-T Cortello's Riddle (1) |QID|624| |N|A Soggy Scroll - under the bridge (22.9, 48.2)| |O| |OBJ|164|
-A Cortello's Riddle (2) |QID|625| |N|A Soggy Scroll (22.9, 48.2)| |PRE|624| |OBJ|164|
+T Cortello's Riddle (Part 1) |QID|624| |N|A Soggy Scroll - under the bridge (22.9, 48.2)| |O| |OBJ|164|
+A Cortello's Riddle (Part 2) |QID|625| |N|A Soggy Scroll (22.9, 48.2)| |PRE|624| |OBJ|164|
 
 R Stonard |QID|2622| |N|Travel to Stonard (47.85, 54.97)| |Z|Swamp of Sorrows|
 T The Disgraced One |QID|2621| |N|Dispatch Commander Ruag in Stonard (47.85, 54.97)| |Z|Swamp of Sorrows| 

@@ -12,7 +12,7 @@ T A Donation of Mageweave |QID|7804| |N|Mistina Steelshield in The Great Forge (
 
 R Chillwind Camp |OID|5903| |N|Travel to Chillwind Camp (67.24, 30.80) (68.28, 14.82) (71.58, 7.98)| |Z|Hillsbrad Foothills| |REACH|
 R Chillwind Camp |OID|5903| |N|Travel to Chillwind Camp (42.93, 85.07)| |Z|Western Plaguelands|
-A A Plague Upon Thee (1) |QID|5903| |N|Nathaniel Dumah in Chillwind Camp (43.5, 84.8)| |Z|Western Plaguelands|
+A A Plague Upon Thee (Part 1) |QID|5903| |N|Nathaniel Dumah in Chillwind Camp (43.5, 84.8)| |Z|Western Plaguelands|
 f Chillwind Camp |OID|5092| |N|Speak to Bibilfaz Featherwhistle and grab flight path for Chillwind Camp (42.93, 85.07)| |Z|Western Plaguelands|
 T A Call to Arms: The Plaguelands! |QID|5066| |N|Commander Ashlam Valorfist in Chillwind Camp (42.70, 84.02)| |Z|Western Plaguelands|
 A Clear the Way |QID|5092| |N|Commander Ashlam Valorfist in Chillwind Camp (42.70, 84.02)| |Z|Western Plaguelands|
@@ -43,10 +43,10 @@ T Counting Out Time |QID|4972| |N|Chromie in Ruins of Andorhal (39.45, 66.77)| |
 R Felstone Field |QID|5216| |N|Travel to Felstone Field (37.14, 57.35)| |Z|Western Plaguelands|
 C Target: Felstone Field |QID|5216| |N|Kill Cauldron Lord Bilemaw and collect Felstone Field Cauldron Key in Felstone Field (37.14, 57.35)| |Z|Western Plaguelands|
 T Target: Felstone Field |QID|5216| |N|Scourge Cauldron in Felstone Field (37.23, 56.89)| |Z|Western Plaguelands| |OBJ|4271|
-A Return to Chillwind Camp (1) |QID|5217| |N|Scourge Cauldron in Felstone Field (37.23, 56.89)| |Z|Western Plaguelands| |OBJ|4271| |OBJ|4271|
-A Better Late Than Never (1) |QID|5021| |N|Janice Felstone in Felstone Field (38.39, 54.05)| |Z|Western Plaguelands|
-T Better Late Than Never (1) |QID|5021| |N|Janice's Parcel in Felstone Field (38.73, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
-A Better Late Than Never (2) |QID|5022| |N|Janice's Parcel in Felstone Field (38.73, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
+A Return to Chillwind Camp (Part 1) |QID|5217| |N|Scourge Cauldron in Felstone Field (37.23, 56.89)| |Z|Western Plaguelands| |OBJ|4271| |OBJ|4271|
+A Better Late Than Never (Part 1) |QID|5021| |N|Janice Felstone in Felstone Field (38.39, 54.05)| |Z|Western Plaguelands|
+T Better Late Than Never (Part 1) |QID|5021| |N|Janice's Parcel in Felstone Field (38.73, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
+A Better Late Than Never (Part 2) |QID|5022| |N|Janice's Parcel in Felstone Field (38.73, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
 
 R Stormwind City |OID|6184| |N|Use Hearthstone and fly to Stormwind City (48.48, 30.50)| |Z|Stormwind City|
 N First Relic Fragment |QID|5245| |N|Withdraw First Relic Fragment from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|12896| |OO|
@@ -55,7 +55,7 @@ N Third Relic Fragment |QID|5245| |N|Withdraw Third Relic Fragment from the bank
 N Fourth Relic Fragment |QID|5245| |N|Withdraw Fourth Relic Fragment from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|12899| |OO|
 N Studies in Spirit Speaking |QID|6030| |N|Withdraw Studies in Spirit Speaking from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|15790| |OO|
 N Attuned Dampener |QID|4972| |N|Store Attuned Dampener to the bank (35.48, 60.70)| |Z|Ironforge| |L|12650| |O|
-T Better Late Than Never (2) |QID|5022| |N|Royal Factor Bathrilor in Cathedral Square (48.48, 30.50)| |Z|Stormwind City|
+T Better Late Than Never (Part 2) |QID|5022| |N|Royal Factor Bathrilor in Cathedral Square (48.48, 30.50)| |Z|Stormwind City|
 A Good Natured Emma |QID|5048| |N|Royal Factor Bathrilor in Cathedral Square (48.48, 30.50)| |Z|Stormwind City|
 T Good Natured Emma |QID|5048| |N|Ol' Emma in The Canals, she wanders around Stormwind (51.33, 44.47) (54.6, 53.9) (59.7, 51.5)| |Z|Stormwind City|
 A Good Luck Charm |QID|5050| |N|Ol' Emma in The Canals (51.33, 44.47)| |Z|Stormwind City|
@@ -73,7 +73,7 @@ A Scholomance |QID|5533| |N|Commander Ashlam Valorfist in Chillwind Camp (42.70,
 T Scholomance |QID|5533| |N|Alchemist Arbington in Chillwind Camp (42.67, 83.77)| |Z|Western Plaguelands|
 N Beacon Torch |QID|5537| |N|Destroy Beacon Torch as it is no longer needed| |L|12815| |O|
 A Skeletal Fragments |QID|5537| |N|Alchemist Arbington in Chillwind Camp (42.67, 83.77)| |Z|Western Plaguelands|
-T Return to Chillwind Camp (1) |QID|5217| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.46)| |Z|Western Plaguelands|
+T Return to Chillwind Camp (Part 1) |QID|5217| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.46)| |Z|Western Plaguelands|
 A Target: Dalson's Tears |QID|5219| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.46)| |Z|Western Plaguelands|
 
 N As you go... |AYG|5219| |QID|5537| |N|Collect 15 Skeletal Fragments from Skeletal Terror and Skeletal Executioner|
@@ -87,17 +87,17 @@ T Two Halves Become One |QID|5051| |N|Janice Felstone in Felstone Field (38.40, 
 R Dalson's Tears |QID|5219| |N|Travel to Dalson's Tears (47.8, 50.7)| |Z|Western Plaguelands|
 T Mrs. Dalson's Diary |QID|5058| |N|Mrs. Dalson's Diary in Dalson's Tears, inside the barn on the floor (47.8, 50.7)| |Z|Western Plaguelands|  |OBJ|4032|
 K Wandering Skeleton |QID|5060| |N|Kill Wandering Skeleton, it should spawn outside the barn after you turn in 'Mrs. Dalson's Diary' and collect the Dalson Outhouse Key (47.66, 50.08)| |Z|Western Plaguelands| |L|12738|
-T Locked Away (1) |QID|5059| |N|Outhouse in Dalson's Tears (48.11, 49.66)| |Z|Western Plaguelands|  |OBJ|3332|
+T Locked Away (Part 1) |QID|5059| |N|Outhouse in Dalson's Tears (48.11, 49.66)| |Z|Western Plaguelands|  |OBJ|3332|
 K Farmer Dalson) |QID|5060| |N|Kill Farmer Dalson, he should spawn after turn in 'Locked Away' from the outhouse and (48.11, 49.66)| |Z|Western Plaguelands|  |L|12739|
-T Locked Away (2) |QID|5060| |N|Locked Cabinet in Dalson's Tears, upstairs in the house (47.39, 49.62)| |Z|Western Plaguelands|  |OBJ|4031|
+T Locked Away (Part 2) |QID|5060| |N|Locked Cabinet in Dalson's Tears, upstairs in the house (47.39, 49.62)| |Z|Western Plaguelands|  |OBJ|4031|
 N As you go... |AYG|5219| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from the Skeletons| |L|22526 30|
 C Target: Dalson's Tears |QID|5219| |N|Kill Cauldron Lord Malvinious and collect Dalson's Tears Cauldron Key in Dalson's Tears (46.03, 52.49)| |Z|Western Plaguelands|
 C Skeletal Fragments |QID|5537| |N|Kill Skeletal Terror, Skeletal Executioner and collect 15 Skeletal Fragments in Chillwind Camp (42.67, 83.77)| |Z|Western Plaguelands|
 T Target: Dalson's Tears |QID|5219| |N|Scourge Cauldron in Dalson's Tears (46.21, 52.06)| |Z|Western Plaguelands| |OBJ|4271|
-A Return to Chillwind Camp (2) |QID|5220| |N|Scourge Cauldron in Dalson's Tears (46.21, 52.06)| |Z|Western Plaguelands| |OBJ|4271|
+A Return to Chillwind Camp (Part 2) |QID|5220| |N|Scourge Cauldron in Dalson's Tears (46.21, 52.06)| |Z|Western Plaguelands| |OBJ|4271|
 
 R Chillwind Camp |QID|5222| |N|Travel to Chillwind Camp (42.96, 84.48)| |Z|Western Plaguelands|
-T Return to Chillwind Camp (2) |QID|5220| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.48)| |Z|Western Plaguelands|
+T Return to Chillwind Camp (Part 2) |QID|5220| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.48)| |Z|Western Plaguelands|
 A Target: Writhing Haunt |QID|5222| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.48)| |Z|Western Plaguelands|
 T Skeletal Fragments |QID|5537| |N|Alchemist Arbington in Chillwind Camp (42.67, 83.77)| |Z|Western Plaguelands|
 
@@ -105,18 +105,18 @@ R The Writhing Haunt |QID|5222| |N|Travel to The Writhing Haunt (53.01, 66.05)| 
 N As you go... |AYG|5222| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from the Skeletons| |L|22526 30|
 C Target: Writhing Haunt |QID|5222| |N|Kill Cauldron Lord Razarch and collect Writhing Haunt Cauldron Key in The Writhing Haunt (53.01, 66.05)| |Z|Western Plaguelands|
 T Target: Writhing Haunt |QID|5222| |N|Scourge Cauldron in The Writhing Haunt (53.01, 65.79)| |Z|Western Plaguelands| |OBJ|4271|
-A Return to Chillwind Camp (3) |QID|5223| |N|Scourge Cauldron in The Writhing Haunt (53.01, 65.79)| |Z|Western Plaguelands| |OBJ|4271|
-T Return to Chillwind Camp (3) |QID|5223| |N|High Priestess MacDonnell in Chillwind Camp (42.97, 84.48)| |Z|Western Plaguelands|
+A Return to Chillwind Camp (Part 3) |QID|5223| |N|Scourge Cauldron in The Writhing Haunt (53.01, 65.79)| |Z|Western Plaguelands| |OBJ|4271|
+T Return to Chillwind Camp (Part 3) |QID|5223| |N|High Priestess MacDonnell in Chillwind Camp (42.97, 84.48)| |Z|Western Plaguelands|
 A Target: Gahrron's Withering |QID|5225| |N|High Priestess MacDonnell in Chillwind Camp (42.97, 84.48)| |Z|Western Plaguelands|
 
 R Gahrron's Withering |QID|5225| |N|Travel to Gahrron's Withering (62.69, 58.87)| |Z|Western Plaguelands|
 N As you go... |AYG|5225| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from the Skeletons| |L|22526 30|
 C Target: Gahrron's Withering |QID|5225| |N|Kill Cauldron Lord Soulwrath and collect Gahrron's Withering Cauldron Key in Gahrron's Withering (62.69, 58.87)| |Z|Western Plaguelands|
 T Target: Gahrron's Withering |QID|5225| |N|Scourge Cauldron in Gahrron's Withering (62.58, 58.57)| |Z|Western Plaguelands| |OBJ|4271|
-A Return to Chillwind Camp (4) |QID|5226| |N|Scourge Cauldron in Gahrron's Withering (62.58, 58.57)| |Z|Western Plaguelands| |OBJ|4271|
+A Return to Chillwind Camp (Part 4) |QID|5226| |N|Scourge Cauldron in Gahrron's Withering (62.58, 58.57)| |Z|Western Plaguelands| |OBJ|4271|
 
 R Chillwind Camp |QID|5533| |N|Travel to Chillwind Camp (42.96, 84.47)| |Z|Western Plaguelands|
-T Return to Chillwind Camp (4) |QID|5226| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.47)| |Z|Western Plaguelands|
+T Return to Chillwind Camp (Part 4) |QID|5226| |N|High Priestess MacDonnell in Chillwind Camp (42.96, 84.47)| |Z|Western Plaguelands|
 T Mission Accomplished! |QID|5238| |N| Commander Ashlam Valorfist in Chillwind Camp (42.70, 84.06)| |Z|Western Plaguelands|
 
 N Guide Complete |N|Tick to continue to the next guide|

@@ -6,56 +6,56 @@ B [Bronze Tube] |QID|66| |N|Engineering vendor Billibub Cogspinner sells this so
 
 R Darkshire |QID|66| |N|Travel to Darkshire (77.5, 44.4)|
 f Darkshire |QID|66| |N|Speak to Felicia Maline and grab flight path for Darkshire (77.5, 44.4)|
-A The Legend of Stalvan (1) |QID|66| |N|Madame Eva in Darkshire (75.72, 45.34)|
+A The Legend of Stalvan (Part 1) |QID|66| |N|Madame Eva in Darkshire (75.72, 45.34)|
 A The Totem of Infliction |QID|101| |N|Madame Eva in Darkshire (75.72, 45.34)|
 h Darkshire |QID|56| |N|Speak to Innkeeper Trelayne and set hearth for Darkshire (73.9, 44.4)|
-A The Night Watch (1) |QID|56| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
-T The Legend of Stalvan (1) |QID|66| |N|Clerk Daltry in Darkshire (72.64, 46.84)|
-A The Legend of Stalvan (2) |QID|67| |N|Clerk Daltry in Darkshire (72.64, 46.84)| |Z|Duskwood|
-A Worgen in the Woods (1) |QID|173| |N|Calor in Darkshire (75.24, 48.00)|
+A The Night Watch (Part 1) |QID|56| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
+T The Legend of Stalvan (Part 1) |QID|66| |N|Clerk Daltry in Darkshire (72.64, 46.84)|
+A The Legend of Stalvan (Part 2) |QID|67| |N|Clerk Daltry in Darkshire (72.64, 46.84)| |Z|Duskwood|
+A Worgen in the Woods (Part 1) |QID|173| |N|Calor in Darkshire (75.24, 48.00)|
 A The Hermit |QID|165| |N|Elaine Carevin in Darkshire (75.33, 48.62)|
 A Deliveries to Sven |QID|164| |N|Elaine Carevin in Darkshire (75.33, 48.62)|
 A Raven Hill |QID|163| |N|Elaine Carevin in Darkshire (75.31, 48.51)| |Z|Duskwood|
-A Look To The Stars (1) |QID|174| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
-C Look To The Stars (1) |QID|174| |N|Buy a Bronze Tube from Herble Baubbletump in Darkshire. He does only have a limited supply of these and you may have to wait for him to stock up. If he does not have any you can easily fly to Stormwind where you can buy these from Billibub Cogspinner in the Dwarven District (78, 48) or the Auction House.|
-T Look To The Stars (1) |QID|174| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
-A Look To The Stars (2) |QID|175| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
+A Look To The Stars (Part 1) |QID|174| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
+C Look To The Stars (Part 1) |QID|174| |N|Buy a Bronze Tube from Herble Baubbletump in Darkshire. He does only have a limited supply of these and you may have to wait for him to stock up. If he does not have any you can easily fly to Stormwind where you can buy these from Billibub Cogspinner in the Dwarven District (78, 48) or the Auction House.|
+T Look To The Stars (Part 1) |QID|174| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
+A Look To The Stars (Part 2) |QID|175| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
 
-T Look To The Stars (2) |QID|175| |N|Blind Mary in Tranquil Gardens Cemetery (81.80, 59.29)|
-A Look To The Stars (3) |QID|177| |N|Blind Mary in Tranquil Gardens Cemetery (81.80, 59.29)|
+T Look To The Stars (Part 2) |QID|175| |N|Blind Mary in Tranquil Gardens Cemetery (81.80, 59.29)|
+A Look To The Stars (Part 3) |QID|177| |N|Blind Mary in Tranquil Gardens Cemetery (81.80, 59.29)|
 
-C Look To The Stars (3) |QID|177| |N|Kill the Insane Ghoul which can be found patrolling the Tranquil Gardens Cemetary around and collect Mary's Looking Glass (78, 70)|
+C Look To The Stars (Part 3) |QID|177| |N|Kill the Insane Ghoul which can be found patrolling the Tranquil Gardens Cemetary around and collect Mary's Looking Glass (78, 70)|
 N Skeleton Finger |QID|101.3| |N|Collect 10 Skeleton Finger from skeletons in in Tranquil Gardens Cemetery (76.89, 72.07)|
-C The Night Watch (1) |QID|56| |N|Kill 8 Skeletal Warrior and 6 Skeletal Mage in Tranquil Gardens Cemetery|
+C The Night Watch (Part 1) |QID|56| |N|Kill 8 Skeletal Warrior and 6 Skeletal Mage in Tranquil Gardens Cemetery|
 
 R The Rotting Orchard |QID|173| |N|Travel to The Rotting Orchard (63, 70) |
-C Worgen in the Woods (1) |QID|173| |N|Kill 6 Nightbane Shadow Weaver in the The Rotting Orchard Southwest of the town of Darkshire (63, 70) |
+C Worgen in the Woods (Part 1) |QID|173| |N|Kill 6 Nightbane Shadow Weaver in the The Rotting Orchard Southwest of the town of Darkshire (63, 70) |
 
 R Darkshire |QID|221| |N|Travel to Darkshire (75.24, 48.00)|
-T Worgen in the Woods (1) |QID|173| |N|Calor in Darkshire (75.24, 48.00)|
-A Worgen in the Woods (2) |QID|221| |N|Calor in Darkshire (75.24, 48.00)|
-T The Night Watch (1) |QID|56| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
-A The Night Watch (2) |QID|57| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
-T Look To The Stars (3) |QID|177| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
-A Look To The Stars (4) |QID|181| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
+T Worgen in the Woods (Part 1) |QID|173| |N|Calor in Darkshire (75.24, 48.00)|
+A Worgen in the Woods (Part 2) |QID|221| |N|Calor in Darkshire (75.24, 48.00)|
+T The Night Watch (Part 1) |QID|56| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
+A The Night Watch (Part 2) |QID|57| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
+T Look To The Stars (Part 3) |QID|177| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
+A Look To The Stars (Part 4) |QID|181| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
 
 R The Rotting Orchard |QID|221| |N|Travel to The Rotting Orchard (63, 70)|
-C Worgen in the Woods (2) |QID|221| |N|Kill 12 Nightbane Dark Runner found in The Rotting Orchard (63, 70)|
+C Worgen in the Woods (Part 2) |QID|221| |N|Kill 12 Nightbane Dark Runner found in The Rotting Orchard (63, 70)|
 
 R Darkshire |QID|222| |N|Travel to Darkshire (75.24, 48.00)|
-T Worgen in the Woods (2) |QID|221| |N|Calor in Darkshire (75.24, 48.00)|
-A Worgen in the Woods (3) |QID|222| |N|Calor in Darkshire (75.24, 48.00)|
+T Worgen in the Woods (Part 2) |QID|221| |N|Calor in Darkshire (75.24, 48.00)|
+A Worgen in the Woods (Part 3) |QID|222| |N|Calor in Darkshire (75.24, 48.00)|
 
 R Roland's Doom |QID|222| |N|Travel to Roland's Doom (74.23, 77.55)| |Z|Duskwood|
-C Worgen in the Woods (3) |QID|222| |N|Kill 8 Nightbane Vile Fang and 8 Nightbane Tainted One around the Western edge of the Tranquil Gardens Cemetary. Tainted Ones are found further South of this area (74, 67) (74, 74)|
+C Worgen in the Woods (Part 3) |QID|222| |N|Kill 8 Nightbane Vile Fang and 8 Nightbane Tainted One around the Western edge of the Tranquil Gardens Cemetary. Tainted Ones are found further South of this area (74, 67) (74, 74)|
 
 R Vul'Gol Ogre Mound |QID|181| |N|Travel to Vul'Gol Ogre Mound (34.03, 76.59)|
-C Look To The Stars (4) |QID|181| |N|Find and kill Zzarc' Vul collect the Ogre's Monocle inside the Vul'Gol Ogre Mound cave (36, 83)
+C Look To The Stars (Part 4) |QID|181| |N|Find and kill Zzarc' Vul collect the Ogre's Monocle inside the Vul'Gol Ogre Mound cave (36, 83)
 
 R Raven Hill |QID|5| |N|Travel to Raven Hill (18.33, 56.25)|
 T Raven Hill |QID|163| |N|Jitters in Raven Hill (18.33, 56.25)|
 A Jitters' Growling Gut |QID|5| |N|Jitters in Raven Hill (18.38, 56.43)| |Z|Duskwood|
-C The Night Watch (2) |QID|57| |N|Travel North of Raven Hill and kill 15 Skeletal Fiend and 15 Skeletal Horror (20, 45)|
+C The Night Watch (Part 2) |QID|57| |N|Travel North of Raven Hill and kill 15 Skeletal Fiend and 15 Skeletal Horror (20, 45)|
 T The Hermit |QID|165| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.51)|
 A Supplies from Darkshire |QID|148| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.51)|
 
@@ -75,8 +75,8 @@ T Jitters' Growling Gut |QID|5| |N|Chef Grual in Darkshire (73.88, 43.43)| |Z|Du
 A Dusky Crab Cakes |QID|93| |N|Chef Grual in Darkshire (73.88, 43.43)| |Z|Duskwood|
 T Dusky Crab Cakes |QID|93| |N|Chef Grual in Darkshire (73.88, 43.43)| |Z|Duskwood|
 A Return to Jitters |QID|240| |N|Chef Grual in Darkshire (73.86, 43.49)| |Z|Duskwood|
-T The Night Watch (2) |QID|57| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
-A The Night Watch (3) |QID|58| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
+T The Night Watch (Part 2) |QID|57| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
+A The Night Watch (Part 3) |QID|58| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
 T The Weathered Grave |QID|225| |N|Sirra Von'Indi in Darkshire (72.58, 47.57)|
 A Morgan Ladimore |QID|227| |N|Sirra Von'Indi in Darkshire (72.58, 47.57)|
 T Morgan Ladimore |QID|227| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
@@ -85,10 +85,10 @@ A Mor'Ladim |QID|228| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
 T The Totem of Infliction |QID|101| |N|Madame Eva in Darkshire (75.78, 45.33)|
 T Supplies from Darkshire |QID|148| |N|Madame Eva in Darkshire (75.72, 45.34)|
 A Ghost Hair Thread |QID|149| |N|Madame Eva in Darkshire (75.72, 45.34)|
-T Worgen in the Woods (3) |QID|222| |N|Calor in Darkshire (75.24, 48.00)|
-A Worgen in the Woods (4) |QID|223| |N|Calor in Darkshire (75.24, 48.00)|
-T Worgen in the Woods (4) |QID|223| |N|Jonathan Carevin in Darkshire (75.33, 49.03)|
-T Look To The Stars (4) |QID|181| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
+T Worgen in the Woods (Part 3) |QID|222| |N|Calor in Darkshire (75.24, 48.00)|
+A Worgen in the Woods (Part 4) |QID|223| |N|Calor in Darkshire (75.24, 48.00)|
+T Worgen in the Woods (Part 4) |QID|223| |N|Jonathan Carevin in Darkshire (75.33, 49.03)|
+T Look To The Stars (Part 4) |QID|181| |N|Viktori Prism'Antras in Darkshire (79.79, 47.97)|
 T Ghost Hair Thread |QID|149| |N|Blind Mary in Darkshire (81.80, 59.29)|
 A Return the Comb |QID|154| |N|Blind Mary in Darkshire (81.80, 59.29)|
 T Return the Comb |QID|154| |N|Madame Eva in Darkshire (75.72, 45.34)|
@@ -104,7 +104,7 @@ T Deliver the Thread |QID|157| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.
 A Zombie Juice |QID|158| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.51)|
 
 R Dawning Wood Catacombs |QID|58| |N|Go down to Dawning Wood Catacombs (23.70, 35.23)|
-C The Night Watch (3) |QID|58| |N|Kill 20 Plague Spreader underground in Dawning Wood Catacombs (23.70, 35.23) (25.66, 34.32)| |Z|Duskwood|
+C The Night Watch (Part 3) |QID|58| |N|Kill 20 Plague Spreader underground in Dawning Wood Catacombs (23.70, 35.23) (25.66, 34.32)| |Z|Duskwood|
 C Mor'Ladim |QID|228| |N|Kill Mor'Ladim and collect Mor'Ladim's Skull in Forlorn Rowe. This is a group quest and tough to solo, you can skip this safely (16.68, 37.37)| |Z|Duskwood|
 
 R The Hushed Bank |QID|262| |N|Travel to The Hushed Bank (7.82, 34.06)|
@@ -115,19 +115,19 @@ R Sentinel Hill |QID|265| |N|Travel to Sentinel Hill (56.54, 52.64)| |Z|Westfall
 f Sentinel Hill |QID|265| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall| |R|Dwarf, Gnome, Night Elf|
 
 R Moonbrook |QID|68| |N|Travel to Moonbrook (41.52, 66.72)| |Z|Westfall|
-T The Legend of Stalvan (2) |QID|67| |N|Old footlocker in Moonbrook (41.52, 66.72)| |Z|Westfall|
-A The Legend of Stalvan (3) |QID|68| |N|Old footlocker in Moonbrook (41.52, 66.74)| |Z|Westfall|
+T The Legend of Stalvan (Part 2) |QID|67| |N|Old footlocker in Moonbrook (41.52, 66.72)| |Z|Westfall|
+A The Legend of Stalvan (Part 3) |QID|68| |N|Old footlocker in Moonbrook (41.52, 66.74)| |Z|Westfall|
 
 R Darkshire |QID|265| |N|Travel or Hearthstone to Darkshire (75.72, 45.34)|
 T Zombie Juice |QID|158| |N|Tavernkeep Smitts in Darkshire (73.8, 44.4)|
 A Gather Rot Blossoms |QID|156| |N|Tavernkeep Smitts in Darkshire (73.8, 44.4)|
-T The Night Watch (3) |QID|58| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
+T The Night Watch (Part 3) |QID|58| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
 T Mor'Ladim |QID|228| |N|Commander Althea Ebonlocke, in Darkshire (73.57, 46.91)| |Z|Duskwood|
 A The Daughter Who Lived |QID|229| |N|Commander Althea Ebonlocke in Darkshire (73.57, 46.91)| |Z|Duskwood| |PRE|228|
 T The Daughter Who Lived |QID|229| |N|Watcher Ladimore in Darkshire (74.50, 46.16)| |Z|Duskwood| |PRE|228|
 A A Daughter's Love |QID|231| |N|Watcher Ladimore in Darkshire (74.50, 46.16)| |Z|Duskwood| |PRE|228|
-T The Legend of Stalvan (3) |QID|68| |N|Clerk Daltry in Darkshire (72.56, 46.83)| |Z|Duskwood|
-A The Legend of Stalvan (4) |QID|69| |N|Clerk Daltry in Darkshire (72.56, 46.83)| |Z|Duskwood|
+T The Legend of Stalvan (Part 3) |QID|68| |N|Clerk Daltry in Darkshire (72.56, 46.83)| |Z|Duskwood|
+A The Legend of Stalvan (Part 4) |QID|69| |N|Clerk Daltry in Darkshire (72.56, 46.83)| |Z|Duskwood|
 T The Shadowy Figure |QID|262| |N|Madame Eva in Darkshire (75.72, 45.34)|
 A The Shadowy Search Continues |QID|265| |N|Madame Eva in Darkshire (75.72, 45.34)|
 T The Shadowy Search Continues |QID|265| |N|Clerk Daltry in Darkshire (72.64, 46.84)|
@@ -186,23 +186,23 @@ N Sealed Note to Watcher Backus |QID|1243| |N|Store Sealed Note to Watcher Backu
 R Cathedral of Light |QID|1274| |N|Travel to Cathedral of Light (39.53, 28.13)| |Z|Stormwind City|
 A Tinkmaster Overspark |QID|2923| |N|Brother Sarno in Cathedral of Light (40.55, 30.73)| |Z|Stormwind City|
 A The Doomed Fleet |QID|270| |N|Bishop Farthing in Cathedral of Light (39.53, 28.13)| |Z|Stormwind City|
-A The Missing Diplomat (1) |QID|1274| |N|Thomas in Cathedral of Light (39.78, 28.52)| |Z|Stormwind City|
-T The Missing Diplomat (1) |QID|1274| |N|Bishop DeLavey in Stormwind Keep (78.29, 25.44)| |Z|Stormwind City|
-A The Missing Diplomat (2) |QID|1241| |N|Bishop DeLavey in Stormwind Keep (78.29, 25.44)| |Z|Stormwind City|
+A The Missing Diplomat (Part 1) |QID|1274| |N|Thomas in Cathedral of Light (39.78, 28.52)| |Z|Stormwind City|
+T The Missing Diplomat (Part 1) |QID|1274| |N|Bishop DeLavey in Stormwind Keep (78.29, 25.44)| |Z|Stormwind City|
+A The Missing Diplomat (Part 2) |QID|1241| |N|Bishop DeLavey in Stormwind Keep (78.29, 25.44)| |Z|Stormwind City|
 A An Old History Book |QID|337| |N|Use An Old History Book to accept quest| |U|2794| |O|
 T An Old History Book |QID|337| |N|Milton Sheaf in Royal Library (74.14, 7.46)| |Z|Stormwind City| |O|
 A Southshore |QID|538| |N|Milton Sheaf in Royal Library (74.14, 7.46)| |Z|Stormwind City| |PRE|337|
-T The Missing Diplomat (2) |QID|1241| |N|Jorgen in Valley of Heroes (73.14, 78.39)| |Z|Stormwind City| |PRE|337|
-A The Missing Diplomat (3) |QID|1242| |N|Jorgen in Valley of Heroes (73.14, 78.39)| |Z|Stormwind City| |PRE|337|
-T The Legend of Stalvan (4) |QID|69| |N|Innkeeper Farley in Lion's Pride Inn (43.78, 65.84)| |Z|Elwynn Forest| |PRE|337|
-A The Legend of Stalvan (5) |QID|70| |N|Innkeeper Farley in Lion's Pride Inn (43.78, 65.84)| |Z|Elwynn Forest| |PRE|337|
-C The Legend of Stalvan (5) |QID|70| |N|Retrieve Stalvan's Undelivered Letter from the chest upstairs in Lion's Pride Inn (44.22, 65.80)| |Z|Elwynn Forest| |PRE|337|
-T The Legend of Stalvan (5) |QID|70| |N|Caretaker Folsom in The Canals (29.56, 61.91)| |Z|Stormwind City| |PRE|337|
-A The Legend of Stalvan (6) |QID|72| |N|Caretaker Folsom in The Canals (29.56, 61.91)| |Z|Stormwind City| |PRE|337|
-T The Legend of Stalvan (6) |QID|72| |N|Sealed crate in The Canals (29.51, 61.63)| |Z|Stormwind City| |PRE|337|
-A The Legend of Stalvan (7) |QID|74| |N|Sealed crate in The Canals (29.51, 61.63)| |Z|Stormwind City| |PRE|337|
-T The Missing Diplomat (3) |QID|1242| |N|Elling Trias in Trade District (59.92, 64.15)| |Z|Stormwind City| |PRE|337|
-A The Missing Diplomat (4) |QID|1243| |N|Elling Trias in Trade District (59.92, 64.15)| |Z|Stormwind City| |PRE|337|
+T The Missing Diplomat (Part 2) |QID|1241| |N|Jorgen in Valley of Heroes (73.14, 78.39)| |Z|Stormwind City| |PRE|337|
+A The Missing Diplomat (Part 3) |QID|1242| |N|Jorgen in Valley of Heroes (73.14, 78.39)| |Z|Stormwind City| |PRE|337|
+T The Legend of Stalvan (Part 4) |QID|69| |N|Innkeeper Farley in Lion's Pride Inn (43.78, 65.84)| |Z|Elwynn Forest| |PRE|337|
+A The Legend of Stalvan (Part 5) |QID|70| |N|Innkeeper Farley in Lion's Pride Inn (43.78, 65.84)| |Z|Elwynn Forest| |PRE|337|
+C The Legend of Stalvan (Part 5) |QID|70| |N|Retrieve Stalvan's Undelivered Letter from the chest upstairs in Lion's Pride Inn (44.22, 65.80)| |Z|Elwynn Forest| |PRE|337|
+T The Legend of Stalvan (Part 5) |QID|70| |N|Caretaker Folsom in The Canals (29.56, 61.91)| |Z|Stormwind City| |PRE|337|
+A The Legend of Stalvan (Part 6) |QID|72| |N|Caretaker Folsom in The Canals (29.56, 61.91)| |Z|Stormwind City| |PRE|337|
+T The Legend of Stalvan (Part 6) |QID|72| |N|Sealed crate in The Canals (29.51, 61.63)| |Z|Stormwind City| |PRE|337|
+A The Legend of Stalvan (Part 7) |QID|74| |N|Sealed crate in The Canals (29.51, 61.63)| |Z|Stormwind City| |PRE|337|
+T The Missing Diplomat (Part 3) |QID|1242| |N|Elling Trias in Trade District (59.92, 64.15)| |Z|Stormwind City| |PRE|337|
+A The Missing Diplomat (Part 4) |QID|1243| |N|Elling Trias in Trade District (59.92, 64.15)| |Z|Stormwind City| |PRE|337|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

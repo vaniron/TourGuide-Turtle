@@ -17,7 +17,7 @@ K Alina |QID|544.3| |N|Kill Alina and collect Bloodstone Shard in Lordamere Inte
 K Dermot |QID|544.1| |N|Kill Dermot and collect Bloodstone Wedge in Lordamere Internment Camp (20.20, 86.24)|
 K Kegan Darkmar |QID|544.4| |N|Kill Kegan Darkmar and collect Bloodstone Oval in Lordamere Internment Camp (18.19, 83.59)|
 
-T Helcular's Revenge (2) |QID|553| |N|Vile Fin Shredder in Southshore (52.74, 53.26)| |Z|Hillsbrad Foothills| |O|
+T Helcular's Revenge (Part 2) |QID|553| |N|Vile Fin Shredder in Southshore (52.74, 53.26)| |Z|Hillsbrad Foothills| |O|
 
 R Tarren Mill |TID|544| |N|Travel to Tarren Mill (61.59, 20.71)| |Z|Hillsbrad Foothills|
 T Prison Break In |QID|544| |N|Magus Wordeen Voidglare in Tarren Mill (61.59, 20.71)| |Z|Hillsbrad Foothills|

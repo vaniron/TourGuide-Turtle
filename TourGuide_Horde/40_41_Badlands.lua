@@ -24,7 +24,7 @@ T Indurium |QID|1108| |N|Martek the Exiled in Valley of Fangs (42.25, 52.70)| |Z
 A News for Fizzle |QID|1137| |N|Martek the Exiled in Valley of Fangs (42.25, 52.70)| |Z|Badlands| 
 
 R The Dustbowl |QID|710| |N|Travel to The Dustbowl (25.91, 44.91)| |Z|Badlands|
-A Study of the Elements: Rock (1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
+A Study of the Elements: Rock (Part 1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
 A Coolant Heads Prevail |QID|713| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
 T Coolant Heads Prevail |QID|713| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
 A Gyro... What? |QID|714| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
@@ -32,7 +32,7 @@ T Gyro... What? |QID|714| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|
 A Liquid Stone |QID|715| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)| |Z|Badlands| 
 T Liquid Stone |QID|715| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)| |Z|Badlands| 
 
-C Study of the Elements: Rock (1) |QID|710| |N|Kill the Lesser Rock Elemental and collect 10 Small Stone Shard. Make a start on this quest and skip it for now if you can't find any Lesser Rock Elemental (13.12, 38.86)|  
+C Study of the Elements: Rock (Part 1) |QID|710| |N|Kill the Lesser Rock Elemental and collect 10 Small Stone Shard. Make a start on this quest and skip it for now if you can't find any Lesser Rock Elemental (13.12, 38.86)|  
 
 R Kargath |QID|1419| |N|Travel to Kargath (4, 44.9)| |Z|Badlands|
 h Kargath |QID|1419| |N|Speak to Innkeeper Shul'kar and set hearth at Kargath (2.84, 45.91)| |Z|Badlands| 
@@ -42,20 +42,20 @@ A Report to Helgrum |QID|1420| |N|Neeka Bloodscar in Kargath (6.5, 47.1)|
 A Broken Alliances |QID|782| |N|Gorn in Kargath in Kargath (2.9, 45.8)| 
 A Badlands Reagent Run |QID|2258| |N|Jarkal Mossmeld in Kargath (2.5, 46.1)| 
 
-C Study of the Elements: Rock (1) |QID|710| |N|Kill the Lesser Rock Elemental and collect 10 Small Stone Shard (13.12, 38.86)|  
-T Study of the Elements: Rock (1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
-A Study of the Elements: Rock (2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
-C Study of the Elements: Rock (2) |QID|711| |N|Kill Rock Elemental until you've collected 3 Large Stone Slab. They are found either further West or to the South of Badlands (15.52, 32.18)|  
+C Study of the Elements: Rock (Part 1) |QID|710| |N|Kill the Lesser Rock Elemental and collect 10 Small Stone Shard (13.12, 38.86)|  
+T Study of the Elements: Rock (Part 1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
+A Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
+C Study of the Elements: Rock (Part 2) |QID|711| |N|Kill Rock Elemental until you've collected 3 Large Stone Slab. They are found either further West or to the South of Badlands (15.52, 32.18)|  
 N Rock Elemental Shard |QID|2258.3| |N|Kill Rock Elementals to collect 5 Rock Elemental Shard (15.52, 32.18)|  
-T Study of the Elements: Rock (2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
-A Study of the Elements: Rock (3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
+T Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
+A Study of the Elements: Rock (Part 3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands| 
 
 N As you go... |AYG|782| |QID|1419| |N|Kill any Coyotes for 30 Coyote Jawbone and 10 Crag Coyote Fang| 
 C Barbecued Buzzard Wings |QID|703| |N|Kill the Buzzards for 4 Buzzard Wing (15.10, 59.84)|  
 N Buzzard Gizzard |QID|2258.1| |N|Kill any Buzzards and collect 5 Buzzard Gizzard in Apocryphan's Rest (15.10, 59.84)| |Z|Badlands|  
 
 R Camp Cagg |QID|712| |N|Travel to Camp Cagg (17.03, 84.40)|
-C Study of the Elements: Rock (3) |QID|712| |N|Kill the Greater Rock Elemental and collect 5 Bracers of Rock Binding in Camp Cagg. Drop rate is high, avoid the level 44 Greater Rock Elemental (17.03, 84.40)|  
+C Study of the Elements: Rock (Part 3) |QID|712| |N|Kill the Greater Rock Elemental and collect 5 Bracers of Rock Binding in Camp Cagg. Drop rate is high, avoid the level 44 Greater Rock Elemental (17.03, 84.40)|  
 C Broken Alliances |QID|782| |N|Kill Boss Tho'grun who patrol down to the southwest side of the zone and back in a circle. You should be able to pick Boss Tho'grun off the back of the pack easily (11, 72) (18, 79.7) (59, 69) (48, 51) (29.5, 59) (23, 52)|  
 
 R Badlands |QID|782| |N|Travel to Badlands (13, 36)|
@@ -63,7 +63,7 @@ C Badlands Reagent Run |QID|2258| |N|Kill Coyotes for 10 Crag Coyote Fang (13, 3
 C Coyote Thieves |QID|1419| |N|Kill Coyotes for 30 Coyote Jawbone (20.09, 51.10) (29.91, 70.79) (42.01, 73.53)|  
 
 R The Dustbowl |QID|710| |N|Travel to The Dustbowl (25.91, 44.91)| |Z|Badlands|
-T Study of the Elements: Rock (3) |QID|712| |N|Lotwil Veriatus in The Dustbowl - Skip the follow-up (25.9, 45.0)| 
+T Study of the Elements: Rock (Part 3) |QID|712| |N|Lotwil Veriatus in The Dustbowl - Skip the follow-up (25.9, 45.0)| 
 
 R Kargath |TID|2258| |N|Travel to Kargath (25.9, 45.0)|
 T Coyote Thieves |QID|1419| |N|Neeka Bloodscar in Kargath (6.5, 47.1)| 
@@ -75,8 +75,8 @@ T Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz in Valley of Fangs (42.38, 52.
 
 --H Grom'gol Base Camp |U|6948| |QID|1372|
 --T The Green Hills of Stranglethorn |Z|Stranglethorn Vale| |QID|338| |N|Barnil Stonepot (35.7, 10.5)| |O| 
---A Nothing But The Truth (1) |Z|Duskwood| |QID|1372| |N|Apothecary Faustin (87.0, 36.4)| 
---T Nothing But The Truth (1) |Z|Duskwood| |QID|1372| |N|Deathstalker Zraedus (87.7, 35.7)| 
+--A Nothing But The Truth (Part 1) |Z|Duskwood| |QID|1372| |N|Apothecary Faustin (87.0, 36.4)| 
+--T Nothing But The Truth (Part 1) |Z|Duskwood| |QID|1372| |N|Deathstalker Zraedus (87.7, 35.7)| 
 
 N Guide Complete |N|Tick to continue to the next guide| 
 ]]

@@ -7,10 +7,10 @@ R Grom'gol Base Camp |QID|2932| |N|Travel to Grom'gol Base Camp (32.16, 27.77)| 
 T Grim Message |QID|2932| |N|Nimboya in Grom'gol Base Camp (32.16, 27.77)| |Z|Stranglethorn Vale| |O| 
 
 R Nesingwary's Expedition |QID|196| |N|Travel to Nesingwary's Expedition (35.65, 10.79)| |O| 
-T Raptor Mastery (3) |QID|196| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.79)| |O| 
-C Raptor Mastery (4) |QID|197| |N|Kill Tethis and loot Talon of Tethis (28, 44)| |PRE|196|  
+T Raptor Mastery (Part 3) |QID|196| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.79)| |O| 
+C Raptor Mastery (Part 4) |QID|197| |N|Kill Tethis and loot Talon of Tethis (28, 44)| |PRE|196|  
 
-T Raptor Mastery (4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |PRE|196| 
+T Raptor Mastery (Part 4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |PRE|196| 
 A Big Game Hunter |QID|208| |N|Hemet Nesingwary in Nesingwary's Expedition (35.7, 10.8)| |PRE|196| 
 C Big Game Hunter |QID|208| |N|Kill King Bangalash and loot the Head of Bangalash (38, 35)| |PRE|196| 
 
@@ -24,21 +24,21 @@ h Booty Bay |QID|610| |N|Speak to Innkeeper Skindle The Salty Sailor Tavern (27.
 T Back to Booty Bay |QID|1118| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.23)| |Z|Stranglethorn Vale| |O| 
 A Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)| |Z|Stranglethorn Vale| 
 A The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts in Booty Bay (26.70, 73.61)| |Z|Stranglethorn Vale| 
-T The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.18, 77.03)| |Z|Stranglethorn Vale| |O| 
-A The Bloodsail Buccaneers (5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.20, 76.91)| |Z|Stranglethorn Vale| |PRE|604| 
+T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.18, 77.03)| |Z|Stranglethorn Vale| |O| 
+A The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.20, 76.91)| |Z|Stranglethorn Vale| |PRE|604| 
 
 R Wild Shore |QID|8551| |N|Travel to Wild Shore (33.77, 74.85)| |Z|Stranglethorn Vale|
 N As you go... |AYG|614| |QID|594| |N|Look for a Half Burried Bottle (green) along the beach and check it for Carefully Folded Note to start quest| |L|4098| |OBJ|228|
 C The Captain's Chest |QID|8551| |N|Kill Gorlash and collect Smotts' Chest in The Crystal Shore. Gorlash is a level 47 Elite and you might need help to kill him otherwise it is safe to skip (33.77, 74.85) (39.19, 60.70) (36.95, 69.73)| |Z|Stranglethorn Vale| 
 N Carefully Folded Note |QID|594| |N|Look for a Half Burried Bottle (green) along the beach and check it for Carefully Folded Note to start quest (34.6, 73.0) (33.9, 76.7) (39.73, 77.39)| |OBJ|228| |L|4098|
-A Message in a Bottle (1) |QID|594| |N|Use Carefully Folded Note to accept quest| |U|4098|
+A Message in a Bottle (Part 1) |QID|594| |N|Use Carefully Folded Note to accept quest| |U|4098|
 
 R Jaguero Isle |TID|594| |N|Travel to Jaguero Isle (38.51, 80.58)| |Z|Stranglethorn Vale|
-T Message in a Bottle (1) |QID|594| |N|Crank Fizzlebub in Jaguero Isle (38.51, 80.58)| |Z|Stranglethorn Vale| 
+T Message in a Bottle (Part 1) |QID|594| |N|Crank Fizzlebub in Jaguero Isle (38.51, 80.58)| |Z|Stranglethorn Vale| 
 N Carefully Folded Note |N|You can now destroy Carefully Folded Note if you still have it. Tick this step| |L|4098| |O|
-A Message in a Bottle (2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.51, 80.58)| |Z|Stranglethorn Vale| 
-C Message in a Bottle (2) |QID|630| |N|Kill King Mukla and collect Shackle Key in Jaguero Isle. This is a group quest and hard to solo, safe to skip (40.98, 83.95)| |Z|Stranglethorn Vale|
-T Message in a Bottle (2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.52, 80.61)| |Z|Stranglethorn Vale| |O| 
+A Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.51, 80.58)| |Z|Stranglethorn Vale| 
+C Message in a Bottle (Part 2) |QID|630| |N|Kill King Mukla and collect Shackle Key in Jaguero Isle. This is a group quest and hard to solo, safe to skip (40.98, 83.95)| |Z|Stranglethorn Vale|
+T Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.52, 80.61)| |Z|Stranglethorn Vale| |O| 
 N As you go... |AYG|608| |QID|624| |N|Check the bottom floor of each ship for Cortello's Riddle or in the captain's room, it can spawn in one of the three ship<br/><b>Collect 15 Snuff from any pirates| |L|4056| |OBJ|164| 
 K Captain Stillwater |QID|608.1| |N|Kill Captain Stillwater in the middle floor of the ship in Wild Shore (32.82, 88.33)| |Z|Stranglethorn Vale| |PRE|604| 
 K Fleet Master Firallon |QID|608.3| |N|Kill Garr Salthoof in the middle floor of the ship in Wild Shore (30.17, 89.40) (30.63, 90.57)| |Z|Stranglethorn Vale| |PRE|604| 
@@ -50,7 +50,7 @@ C Up to Snuff |QID|587| |N|Collect 15 Snuff from any pirates in Wild Shore (33.1
 
 R Booty Bay|QID|611| |N|Travel to Booty Bay (27.27, 77.52)| |Z|Stranglethorn Vale|
 T Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)| |Z|Stranglethorn Vale| 
-T The Bloodsail Buccaneers (5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.19, 76.99)| |Z|Stranglethorn Vale| |PRE|604| 
+T The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.19, 76.99)| |Z|Stranglethorn Vale| |PRE|604| 
 T The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts in Booty Bay (26.69, 73.62)| |Z|Stranglethorn Vale| 
 N Mire Lord Fungus |QID|1383| |N|Withdraw Mire Lord Fungus from the bank. Tick this step (26.6, 76.4)| |Z|Stranglethorn Vale| |L|6081| |OO| 
 N Shadow Panther Heart |QID|1383| |N|Withdraw Shadow Panther Heart from the bank. Tick this step (26.6, 76.4)| |Z|Stranglethorn Vale| |L|6080| |OO| 

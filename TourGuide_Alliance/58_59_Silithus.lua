@@ -3,7 +3,7 @@ TourGuide:RegisterGuide("Silithus (58-59)", "Winterspring (59-60)", "Alliance",f
 
 return [[
 
-A The New Frontier (1) |QID|1015| |N|Crier Goodman in The Canals, she wanders around Stormwind City (46.71, 65.25)| |Z|Stormwind City|  |OID|1004, 1018, 1047, 1019| 
+A The New Frontier (Part 1) |QID|1015| |N|Crier Goodman in The Canals, she wanders around Stormwind City (46.71, 65.25)| |Z|Stormwind City|  |OID|1004, 1018, 1047, 1019| 
 T The Blightcaller Cometh |QID|6186| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.19, 18.10)| |Z|Stormwind City| |O| 
 A Order Must Be Restored |QID|6187| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.19, 18.10)| |Z|Stormwind City| |PRE|6186| 
 
@@ -13,13 +13,13 @@ A Find Ranshalla |QID|979| |N|Erelas Ambersky in Rut'theran Village (55.49, 92.0
 
 R Cenarion Enclave |QID|6761| |N|Travel to Cenarion Enclave (35.39, 8.46)| |Z|Darnassus|
 T Glyphed Oaken Branch |QID|4986| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.39, 8.46)| |Z|Darnassus| |O| 
-T The New Frontier (1) |QID|1015| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
-T The New Frontier (1) |QID|1004| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
-T The New Frontier (1) |QID|1018| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
-T The New Frontier (1) |QID|1047| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
-T The New Frontier (1) |QID|1019| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
-A The New Frontier (2) |QID|6761| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| 
-T The New Frontier (2) |QID|6761| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.39, 8.35)| |Z|Darnassus| 
+T The New Frontier (Part 1) |QID|1015| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
+T The New Frontier (Part 1) |QID|1004| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
+T The New Frontier (Part 1) |QID|1018| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
+T The New Frontier (Part 1) |QID|1047| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
+T The New Frontier (Part 1) |QID|1019| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| |O| 
+A The New Frontier (Part 2) |QID|6761| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.70, 9.06)| |Z|Darnassus| 
+T The New Frontier (Part 2) |QID|6761| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.39, 8.35)| |Z|Darnassus| 
 A Rabine Saturna |QID|6762| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.39, 8.35)| |Z|Darnassus| 
 C Felbound Ancients |QID|4441| |N|Use Eridan's Vial in the fountain to get Vial of Blessed Water in Temple of the Moon (39.04, 84.59)| |Z|Darnassus| |U|11682|
 A March of the Silithid |QID|4493| |N|Gracina Spiritmight in Temple of the Moon (41.83, 85.62)| |Z|Darnassus| 
@@ -61,7 +61,7 @@ N Gorishi Scent Gland |QID|4496.1| |N|Kill Gorishi insects and collect Gorishi S
 N Un'Goro Soil |QID|4496.2| |N|Collect 5 Un'Goro Soil from any npc or from Un'Goro Dirt Pile on the ground in Un'Goro| |Z|Un'Goro Crater| |OBJ|49|
 
 U Bag of Empty Ooze Containers |QID|4513| |N|Open Bag of Empty Ooze Containers and collect 10 Empty Pure Sample Jar| |U|11955| |L|11953| |O|
-C A Little Slime Goes a Long Way (2) |QID|4513| |N|Kill Primal Ooze or Glutinous Ooze and use Bag of Empty Ooze Containers on the corpses to collect 10 Filled Pure Sample Jar in Terror Run. Note: Do not loot before using the "Empty Pure Sample Jar" or you won't be able to take the sample (47.92, 67.97) (41.48, 57.21) (37.73, 70.74)| |Z|Un'Goro Crater| |O|  
+C A Little Slime Goes a Long Way (Part 2) |QID|4513| |N|Kill Primal Ooze or Glutinous Ooze and use Bag of Empty Ooze Containers on the corpses to collect 10 Filled Pure Sample Jar in Terror Run. Note: Do not loot before using the "Empty Pure Sample Jar" or you won't be able to take the sample (47.92, 67.97) (41.48, 57.21) (37.73, 70.74)| |Z|Un'Goro Crater| |O|  
 
 R Marshal's Refuge |QID|5163| |N|Travel to Marshal's Refuge (43.66, 9.36)| |Z|Un'Goro Crater| |O|
 N Quixxil |QID|5163.3| |N|Use Umi's Mechanical Yeti to scare Quixxil in Marshal's Refuge (43.66, 9.36)| |Z|Un'Goro Crater| |O| |U|12928| 
@@ -93,7 +93,7 @@ N Sacred Highborne Writings |QID|5246| |N|Withdraw Sacred Highborne Writings fro
 N Toxic Horror Droplet |QID|5086| |N|Withdraw Toxic Horror Droplet from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|12822| |OO| 
 N Tinkee's Letter |QID|4808| |N|Withdraw Tinkee's Letter from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|12438| |OO| 
 N Extended Annals of Darrowshire |QID|5210| |N|Withdraw Extended Annals of Darrowshire from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|13202| |OO| 
-T A Little Slime Goes a Long Way (2) |QID|4513| |N|Laris Geardawdle in The Library (75.81, 23.43)| |Z|Ironforge| |O| 
+T A Little Slime Goes a Long Way (Part 2) |QID|4513| |N|Laris Geardawdle in The Library (75.81, 23.43)| |Z|Ironforge| |O| 
 
 R Light's Hope Chapel |QID|5181| |N|Travel to Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
 T Brother Carlin |QID|5210| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands| 

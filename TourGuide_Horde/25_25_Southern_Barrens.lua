@@ -32,7 +32,7 @@ C Gann's Reclamation |QID|843| |N|Kill 15 Bael'dun Excavator and 5 Bael'dun Fore
 
 R Southern Gold Road |QID|846| |N|Travel to Southern Gold Road (46.12, 75.40)|
 T Gann's Reclamation |QID|843| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.1, 76.4) (46.1, 81.3)|
-A Revenge of Gann (1) |QID|846| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.1, 76.4) (46.1, 81.3)|
+A Revenge of Gann (Part 1) |QID|846| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.1, 76.4) (46.1, 81.3)|
 
 R Field of Giants |QID|822| |N|Travel to Field of Giants (47.77, 73.62)| |O|
 K Stormhide |QID|822.1| |N|Kill Stormhide and collect 5 Lightning Gland in Field of Giants (47.77, 73.62)| |O|
@@ -42,12 +42,12 @@ T Weapons of Choice |QID|893| |N|Tatternack Steelforge in Camp Taurajo (45.11, 5
 T Owatanka |QID|884| |N|Jorn Skyseer in Camp Taurajo (44.87, 59.09)| |O|
 T Washte Pawne |QID|885| |N|Jorn Skyseer in Camp Taurajo (44.87, 59.09)| |O|
 T The Harvester |QID|897| |N|Jorn Skyseer in Camp Taurajo (44.87, 59.09)| |O|
-T Betrayal from Within (1) |QID|879| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
-A Betrayal from Within (2) |QID|906| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
+T Betrayal from Within (Part 1) |QID|879| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
+A Betrayal from Within (Part 2) |QID|906| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
 
 R The Crossroads |TID|868| |N|Travel to The Crossroads (51.49, 30.83)|
 T Egg Hunt |QID|868| |N|Korran in The Crossroads (51.08, 29.61)|
-T Betrayal from Within (2) |QID|906| |N|Thork in The Crossroads (51.49, 30.83)|
+T Betrayal from Within (Part 2) |QID|906| |N|Thork in The Crossroads (51.49, 30.83)|
 N Silithid Egg |N|Discard left overs Silithid Egg. Tick this step| |O| |L|5058|
 
 K Zhevra Runner |QID|882| |N|Kill Zhevra Runner until you find a Fresh Zhevra Carcass (61, 32)| |L|10338| |PRE|3261|
@@ -55,9 +55,9 @@ C Ishamuhale |QID|882| |N|Use Fresh Zhevra Carcass at the tree northwest of Ratc
 
 R Ratchet |TID|1094| |N|Travel to Ratchet (62.37, 37.65)| |O|
 T Deepmoss Spider Eggs |QID|1069| |N|Mebok Mizzyrix in Ratchet (62.37, 37.65)| |O|
-T Chen's Empty Keg (3) |QID|822| |N|Brewmaster Drohn in Ratchet (62.29, 38.36)| |O|
-T Further Instructions (1) |QID|1094| |N|Sputtervalve in Ratchet (62.96, 37.21)| |O|
-A Further Instructions (2) |QID|1095| |N|Sputtervalve in Ratchet (62.96, 37.21)| |PRE|1094|
+T Chen's Empty Keg (Part 3) |QID|822| |N|Brewmaster Drohn in Ratchet (62.29, 38.36)| |O|
+T Further Instructions (Part 1) |QID|1094| |N|Sputtervalve in Ratchet (62.96, 37.21)| |O|
+A Further Instructions (Part 2) |QID|1095| |N|Sputtervalve in Ratchet (62.96, 37.21)| |PRE|1094|
 
 R Camp Taurajo |QID|907| |N|Travel to Camp Taurajo (44.84, 59.12)| |Z|The Barrens|
 T Ishamuhale |QID|882| |N|Jorn Skyseer in Camp Taurajo (44.84, 59.12)| |Z|The Barrens| |O|
@@ -77,15 +77,15 @@ C Cry of the Thunderhawk |QID|913| |N|Kill Thunderhawk Cloudscraper to collect T
 T Cry of the Thunderhawk |QID|913| |N|Jorn Skyseer in Camp Taurajo (44.89, 59.15)| |Z|The Barrens| |PRE|907|
 
 R Bael'dun Keep |QID|846| |N|Travel to Bael'dun Keep (48.97, 84.34)| |Z|The Barrens|
-C Revenge of Gann (1) |QID|846| |N|Kill Bael'dun Rifleman, Bael'dun Soldier and Bael'dun Officer at Bael Dun Keep to collect 6 vials of Nitroglycerin, 6 bundles of Wood Pulp and 6 samples of Sodium Nitrate in Bael'dun Keep (49, 84)|
+C Revenge of Gann (Part 1) |QID|846| |N|Kill Bael'dun Rifleman, Bael'dun Soldier and Bael'dun Officer at Bael Dun Keep to collect 6 vials of Nitroglycerin, 6 bundles of Wood Pulp and 6 samples of Sodium Nitrate in Bael'dun Keep (49, 84)|
 
 R Southern Gold Road |OID|849| |N|Travel to Southern Gold Road (46, 75) (46, 81)|
-T Revenge of Gann (1) |QID|846| |N|Gann Stonespire in Southern Gold Road , patrolling the road (46, 75) (46, 81)|
-A Revenge of Gann (2) |QID|849| |N|Gann Stonespire in Southern Gold Road , patrolling the road (46, 75) (46, 81)|
+T Revenge of Gann (Part 1) |QID|846| |N|Gann Stonespire in Southern Gold Road , patrolling the road (46, 75) (46, 81)|
+A Revenge of Gann (Part 2) |QID|849| |N|Gann Stonespire in Southern Gold Road , patrolling the road (46, 75) (46, 81)|
 
 R Bael Modan |TID|849| |N|Travel to Bael Modan (46.66, 85.45)| |Z|The Barrens|
-C Revenge of Gann (2) |QID|849| |N|Use Explosive Stick of Gann to blow up the Bael Modan Flying Machine on top of the tower in Bael Modan (47.0, 85.6)| |U|5021| |OBJ|330|
-T Revenge of Gann (2) |QID|849| |N|Gann Stonespire in Southern Gold Road , patrolling the road (46, 75) (46, 81)|
+C Revenge of Gann (Part 2) |QID|849| |N|Use Explosive Stick of Gann to blow up the Bael Modan Flying Machine on top of the tower in Bael Modan (47.0, 85.6)| |U|5021| |OBJ|330|
+T Revenge of Gann (Part 2) |QID|849| |N|Gann Stonespire in Southern Gold Road , patrolling the road (46, 75) (46, 81)|
 
 K Washte Pawne |OID|885| |N|Kill Washte Pawne and collect Washte Pawne's Feather to start a new quest. You can safely skip this if you can't find Washte Pawne (44.8, 75.6) (45.0, 78.4) (43.4, 81.6) (47.6, 79.4)| |Z|The Barrens|  |L|5103|
 A Washte Pawne |QID|885| |N|Use Washte Pawne's Feather to accept quest| |U|5103| |O|

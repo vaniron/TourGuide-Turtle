@@ -10,7 +10,7 @@ R Frostfire Hot Springs |QID|4842| |N|Travel to Frostfire Hot Springs (31.27, 45
 T The New Springs |QID|980| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |O|
 A Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980|
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring|
-T It's a Secret to Everybody (3) |QID|3908| |N|Donova Snowden in Frostfire Hot Springs -Skip follow up (31.27, 45.17)| |Z|Winterspring| |O|
+T It's a Secret to Everybody (Part 3) |QID|3908| |N|Donova Snowden in Frostfire Hot Springs -Skip follow up (31.27, 45.17)| |Z|Winterspring| |O|
 N Moontouched Feather |QID|978| |N|Collect Moontouched Feather from the ground near the quest giver (31.64, 44.83)| |Z|Winterspring|  |O| |OBJ|3651|
 
 R Starfall Village |QID|5244| |N|Travel to Starfall Village (51.97, 30.39)| |Z|Winterspring|

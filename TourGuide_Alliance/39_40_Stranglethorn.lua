@@ -2,15 +2,15 @@ TourGuide:RegisterGuide("Stranglethorn (39-40)", "Badlands (40-41)", "Alliance",
 
 return [[
 R Booty Bay |QID|606| |N|Travel to Booty Bay (28.08, 76.19)|
-A The Bloodsail Buccaneers (1) |QID|595| |N|First Mate Crazz in Booty Bay (28.08, 76.19)|
+A The Bloodsail Buccaneers (Part 1) |QID|595| |N|First Mate Crazz in Booty Bay (28.08, 76.19)|
 A Scaring Shaky |QID|606| |N|\Sea Wolf\ MacKinley in Booty Bay (27.79, 77.08)|
 A Venture Company Mining |QID|600| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.13, 77.30)|
 T The Rumormonger |QID|1115| |N|Krazek in The Salty Sailor Tavern (26.95, 77.22)| |O|
 A Dream Dust in the Swamp |QID|1116| |N|Krazek in The Salty Sailor Tavern (26.95, 77.22)| |PRE|1116|
 A Skullsplitter Tusks |QID|209| |N|Kebok in The Salty Sailor Tavern (26.99, 77.13)|
 h Booty Bay |QID|601| |N|Speak to Innkeeper Skindle and set hearth at The Salty Sailor Tavern (27.0, 77.2)|
-T Sunken Treasure (4) |QID|669| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |O|
-A Sunken Treasure (5) |QID|670| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |PRE|669|
+T Sunken Treasure (Part 4) |QID|669| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |O|
+A Sunken Treasure (Part 5) |QID|670| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |PRE|669|
 A Water Elementals |QID|601| |N|Baron Revilgaz in Booty Bay (27.22, 76.87)|
 N Sample Elven Gem |QID|1146| |N|Withdraw Sample Elven Gem from the bank.  Tick this step (26.57, 76.56)|  |L|4502| |OO|
 N Seaforium Booster |QID|1187| |N|Store Seaforium Booster to the bank (26.57, 76.56)|  |L|5862| |O|
@@ -21,7 +21,7 @@ C Scaring Shaky |QID|606| |N|Kill Elder Mistvale Gorilla and collect 5 Mistvale 
 R Stranglethorn Vale |QID|606| |N|Travel to Stranglethorn Vale|
 C Venture Company Mining |QID|600| |N|Kill Venture Co. Surveyor or Venture Co. Strip Miner and collect 10 Singing Blue Crystal.  You can skip this for now if you find it too difficult (40.14, 42.57) (41.72, 44.57)|
 R Stranglethorn Vale |QID|600| |N|Travel to Stranglethorn Vale|
-C Raptor Mastery (3) |QID|196| |N|Kill 10 Jungle Stalker near Gurubashi Arena (31.00, 42.81)|
+C Raptor Mastery (Part 3) |QID|196| |N|Kill 10 Jungle Stalker near Gurubashi Arena (31.00, 42.81)|
 R Stranglethorn Vale |QID|196| |N|Travel to Stranglethorn Vale|
 C Some Assembly Required |QID|577| |N|Kill Snapjaw Crocolisk and collect 5 Snapjaw Crocolisk Skin along the river (40.75, 24.67)|
 R Ziata'jai Ruins |QID|209| |N|Travel to Ziata'jai Ruins (42.17, 36.16)|
@@ -29,8 +29,8 @@ C Skullsplitter Tusks |QID|209| |N|Kill Trolls and collect 18 Skullsplitter Tusk
 C Panther Mastery |QID|193| |N|Kill Bhag\'thera in Stranglethorn Vale.  He's stealth, level 40 elite and can be soloed (49.52, 23.82)|
 
 R Nesingwary's Expedition |QID|197| |N|Travel to Nesingwary's Expedition (35.65, 10.79)|
-T Raptor Mastery (3) |QID|196| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.79)|
-A Raptor Mastery (4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.79)|
+T Raptor Mastery (Part 3) |QID|196| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.79)|
+A Raptor Mastery (Part 4) |QID|197| |N|Hemet Nesingwary in Nesingwary's Expedition (35.65, 10.79)|
 T Panther Mastery |QID|193| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.55, 10.54)|
 
 R The Savage Coast |QID|601| |N|Travel to The Savage Coast (27.43, 19.73)|
@@ -44,21 +44,21 @@ T Some Assembly Required |QID|577| |N|Drizzlik in Booty Bay (28.29, 77.60)|
 A Excelsior |QID|628| |N|Drizzlik in Booty Bay (28.29, 77.60)|
 
 R Southern Savage Coast |QID|597| |N|Travel to Southern Savage Coast (27.98, 73.57) (29.69, 72.34) (27.29, 69.51)|
-T The Bloodsail Buccaneers (1) |QID|595| |N|Bloodsail Correspondence in Southern Savage Coast, it's a parchment on top of a barrel (27.29, 69.51)| |OBJ|183|
-A The Bloodsail Buccaneers (2) |QID|597| |N|Bloodsail Correspondence in Southern Savage Coast (27.29, 69.51)| |OBJ|183|
+T The Bloodsail Buccaneers (Part 1) |QID|595| |N|Bloodsail Correspondence in Southern Savage Coast, it's a parchment on top of a barrel (27.29, 69.51)| |OBJ|183|
+A The Bloodsail Buccaneers (Part 2) |QID|597| |N|Bloodsail Correspondence in Southern Savage Coast (27.29, 69.51)| |OBJ|183|
 C Venture Company Mining |QID|600| |N|Kill Venture Co. Surveyor or Venture Co. Strip Miner and collect 10 Singing Blue Crystal.  You can skip this for now if you find it too difficult (40.14, 42.57) (41.72, 44.57)|
 
 R Booty Bay |QID|607| |N|Travel to Booty Bay (28.30, 72.94)|
 T Scaring Shaky |QID|606| |N|\Shaky\ Phillipe in Booty Bay (26.90, 73.60)|
 A Return to MacKinley |QID|607| |N|\Shaky\ Phillipe in Booty Bay (26.90, 73.60)|
-T The Bloodsail Buccaneers (2) |QID|597| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
-A The Bloodsail Buccaneers (3) |QID|599| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
+T The Bloodsail Buccaneers (Part 2) |QID|597| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
+A The Bloodsail Buccaneers (Part 3) |QID|599| |N|First Mate Crazz in Booty Bay (28.08, 76.23)|
 T Return to MacKinley |QID|607| |N|\Sea Wolf\ MacKinley in Booty Bay (27.76, 77.09)|
 A Voodoo Dues |QID|609| |N|\Sea Wolf\ MacKinley in Booty Bay (27.76, 77.09)|
 A Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.34)|
 T Venture Company Mining |QID|600| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.11, 77.22)|  |O|
-T The Bloodsail Buccaneers (3) |QID|599| |N|Fleet Master Seahorn in Booty Bay (27.17, 76.98)|
-A The Bloodsail Buccaneers (4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.17, 76.98)|
+T The Bloodsail Buccaneers (Part 3) |QID|599| |N|Fleet Master Seahorn in Booty Bay (27.17, 76.98)|
+A The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.17, 76.98)|
 N Green Hills of Stranglethorn - Page 1 |QID|339.1| |N|You should have most of the Chapters for 'The Green Hills of Stranglethorn' by now, but you still need Green Hills of Stranglethorn - Page 1.  Try to purchase from the auction house Auctioneer O\'reely in Booty Bay, sell extras or trade with other players in general chat.  Tick this step to skip (26.6, 76.4)| |L|2725|
 N Green Hills of Stranglethorn - Page 4 |QID|339.2| |N|You should have most of the Chapters for 'The Green Hills of Stranglethorn' by now, but you still need Green Hills of Stranglethorn - Page 4.  Try to purchase from the auction house Auctioneer O\'reely in Booty Bay, sell extras or trade with other players in general chat.  Tick this step to skip (26.6, 76.4)| |L|2728|
 N Green Hills of Stranglethorn - Page 6 |QID|339.3| |N|You should have most of the Chapters for 'The Green Hills of Stranglethorn' by now, but you still need Green Hills of Stranglethorn - Page 6.  Try to purchase from the auction house Auctioneer O\'reely in Booty Bay, sell extras or trade with other players in general chat.  Tick this step to skip (26.6, 76.4)| |L|2730|

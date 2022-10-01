@@ -58,7 +58,7 @@ R Quel'Lithien Lodge |OID|5246| |N|Travel to Quel'Lithien Lodge (64.32, 22.56) (
 T Troubled Spirits of Kel'Theril |QID|5245| |N|Aurora Skycaller in Quel'Lithien Lodge (53.54, 22.04)| |Z|Eastern Plaguelands| 
 A Fragments of the Past |QID|5246| |N|Aurora Skycaller in Quel'Lithien Lodge (53.54, 22.04)| |Z|Eastern Plaguelands| 
 N As you go... |AYG|5903| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from Skeletons| |L|22526 30| 
-C A Plague Upon Thee (1) |QID|5903| |N|Check each waypoint and click on Termite Mound to collect 100 Plagueland Termites in Stratholme (45.83, 34.01) (42.87, 34.26) (42.17, 38.29) (40.62, 31.39) (41.28, 25.40) (43.65, 24.14) (39.72, 23.07) (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands| |OBJ|25661| |O|
+C A Plague Upon Thee (Part 1) |QID|5903| |N|Check each waypoint and click on Termite Mound to collect 100 Plagueland Termites in Stratholme (45.83, 34.01) (42.87, 34.26) (42.17, 38.29) (40.62, 31.39) (41.28, 25.40) (43.65, 24.14) (39.72, 23.07) (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands| |OBJ|25661| |O|
 C Defenders of Darrowshire |QID|5211| |N|Kill Cannibal Ghoul then speak to Darrowshire Spirit that will spawn after the kill to free 15 spirits in Stratholme (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands|  
 
 R Terrordale |QID|5282| |N|Travel to Terrordale (14.46, 33.75)| |Z|Eastern Plaguelands| 
@@ -106,10 +106,10 @@ T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope
 R Northdale |QID|5845| |N|Travel to Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 C Of Lost Honor |QID|5845| |N|Collect Symbol of Lost Honor in the middle of the lake in Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 T Of Lost Honor |QID|5845| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands| 
-A Of Love and Family (1)|QID|5846| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands| 
+A Of Love and Family (Part 1)|QID|5846| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands| 
 
 R Caer Darrow |TID|5846| |N|Travel to Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
-T Of Love and Family (1) |QID|5846| |N|Artist Renfray in Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands| 
+T Of Love and Family (Part 1) |QID|5846| |N|Artist Renfray in Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands| 
 
 N Guide Complete |N|Tick to continue to the next guide| 
 

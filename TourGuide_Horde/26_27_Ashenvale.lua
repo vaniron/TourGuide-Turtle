@@ -3,7 +3,7 @@ TourGuide:RegisterGuide("Ashenvale (26-27)", "Stonetalon Mountains (27-27)", "Ho
 return [[
 
 R Thunder Bluff |QID|1195| |N|Zangen Stonehoof in Thunder Bluff (54.79, 51.29)| |Z|Thunder Bluff| |OID|1195|
-A The Sacred Flame (1) |QID|1195| |N|Zangen Stonehoof in Thunder Bluff (54.79, 51.29)| |Z|Thunder Bluff|
+A The Sacred Flame (Part 1) |QID|1195| |N|Zangen Stonehoof in Thunder Bluff (54.79, 51.29)| |Z|Thunder Bluff|
 
 T Report to Kadrak |QID|6542| |N|Kadrak at the Ashenvale border (48.1, 5.4)| |O| |Z|The Barrens|
 R Splintertree Post |QID|25| |N|Follow the road north east to Splintertree Post (73, 65)|
@@ -37,7 +37,7 @@ R Raynewood Retreat |QID|1195| |N|Travel to Raynewood Retreat (58.54, 55.80)| |O
 K Laughing Sisters |QID|1195| |N|Kill Laughing Sister until you find Etched Phial in Raynewood Retreat (58.54, 55.80)| |L|5867| |O|
 
 R Moonwell |QID|1195| |N|Travel to Moonwell (60.18, 72.88)| |O|
-C The Sacred Flame (1) |QID|1195| |N|Use the Filled Etched Phial at the moonwell in Moonwell (60.18, 72.88)| |U|5867| |O|
+C The Sacred Flame (Part 1) |QID|1195| |N|Use the Filled Etched Phial at the moonwell in Moonwell (60.18, 72.88)| |U|5867| |O|
 
 R Splintertree Post |QID|1918| |N|Travel to Splintertree Post (73.8, 61.5)|
 T Ursangous's Paw |QID|23| |N|Senani Thunderheart in Splintertree Post (73.74, 61.44)| |O|

@@ -13,8 +13,8 @@ R Orgrimmar |TID|1436| |N|Travel to Orgrimmar (22.26, 54.10)| |Z|Orgrimmar| |O|
 T Alliance Relations |QID|1436| |N|Keldran in Orgrimmar (22.26, 54.10)| |Z|Orgrimmar| |O|
 
 R The Shimmering Flats |TID|1147| |N|Travel to The Shimmering Flats (67.6, 64.0)| |O|
-T The Swarm Grows (2) |QID|1146| |N|Moktar Krin in The Shimmering Flats (67.6, 64.0)| |O|
-A The Swarm Grows (3) |QID|1147| |N|Moktar Krin in The Shimmering Flats (67.6, 64.0)| |PRE|1146|
+T The Swarm Grows (Part 2) |QID|1146| |N|Moktar Krin in The Shimmering Flats (67.6, 64.0)| |O|
+A The Swarm Grows (Part 3) |QID|1147| |N|Moktar Krin in The Shimmering Flats (67.6, 64.0)| |PRE|1146|
 
 R Mirage Raceway |QID|1175| |N|Travel to Mirage Raceway (77.82, 77.18)|
 A A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.59, 77.86)|
@@ -37,7 +37,7 @@ A Hemet Nesingwary |QID|5762| |N|Kravel Koalbeard in Mirage Raceway (77.85, 77.2
 T Salt Flat Venom |QID|1104| |N|Fizzle Brassbolts in Mirage Raceway (78.01, 77.04)|
 T Hardened Shells |QID|1105| |N|Wizzle Brassbolts in Mirage Raceway (78.12, 77.01)|
 T Load Lightening |QID|1176| |N|Pozzik in Mirage Raceway (80.13, 75.87)|
-A Goblin Sponsorship (1) |QID|1178| |N|Pozzik in Mirage Raceway (80.13, 75.87)|
+A Goblin Sponsorship (Part 1) |QID|1178| |N|Pozzik in Mirage Raceway (80.13, 75.87)|
 T A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.59, 77.93)|
 A Martek the Exiled |QID|1106| |N|Fizzle Brassbolts in Mirage Raceway (78.04, 77.08)|
 A Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.07)|
@@ -45,7 +45,7 @@ A Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 
 T Parts for Kravel |QID|1112| |N|Kravel Koalbeard in Mirage Raceway (77.8, 77.2)| |O|
 A Delivery to the Gnomes |QID|1114| |N|Kravel Koalbeard in Mirage Raceway (77.8, 77.2)| |PRE|1114|
 T Delivery to the Gnomes |QID|1114| |N|Fizzle Brassbolts in Mirage Raceway (78.0, 77.1)| |PRE|1114|
-T Goblin Sponsorship (5) |QID|1183| |N|Pozzik in Mirage Raceway (80.1, 75.9)| |O|
+T Goblin Sponsorship (Part 5) |QID|1183| |N|Pozzik in Mirage Raceway (80.1, 75.9)| |O|
 
 A The Eighteenth Pilot |QID|1186| |N|Pozzik in Mirage Raceway (80.1, 75.9)| |PRE|1183|
 T The Eighteenth Pilot |QID|1186| |N|Razzeric in Mirage Raceway (80.3, 76.1)| |PRE|1183|
@@ -55,17 +55,17 @@ T Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.1, 7
 A The Rumormonger |QID|1115| |N|Kravel Koalbeard in Mirage Raceway (77.8, 77.2)| |PRE|1114|
 
 N Cracked Silithid Carapace |OID|1148| |N|Kill Silithids enemies until you find Cracked Silithid Carapace (68, 80)| |L|5877|
-A Parts of the Swarm (1) |QID|1148| |N|Use Cracked Silithid Carapace to accept the quest| |O| |U|5877|
-C Parts of the Swarm (1) |QID|1148| |N|Kill Silithids to collect 1 Silithid Heart, 5 Silithid Talon and 3 Intact Silithid Carapace (69, 85)| |O|
-C The Swarm Grows (3) |QID|1147| |N|Kill 5 Silithid Searcher, 5 Silithid Hive Drone and 5 Silithid Invader (69, 85)| |PRE|1146|
+A Parts of the Swarm (Part 1) |QID|1148| |N|Use Cracked Silithid Carapace to accept the quest| |O| |U|5877|
+C Parts of the Swarm (Part 1) |QID|1148| |N|Kill Silithids to collect 1 Silithid Heart, 5 Silithid Talon and 3 Intact Silithid Carapace (69, 85)| |O|
+C The Swarm Grows (Part 3) |QID|1147| |N|Kill 5 Silithid Searcher, 5 Silithid Hive Drone and 5 Silithid Invader (69, 85)| |PRE|1146|
 
 R Mirage Raceway |TID|1147| |N|Travel to Mirage Raceway (67.6, 64.0)| |PRE|1146|
-T The Swarm Grows (3) |QID|1147| |N|Moktar Krin in Mirage Raceway (67.6, 64.0)| |PRE|1146|
+T The Swarm Grows (Part 3) |QID|1147| |N|Moktar Krin in Mirage Raceway (67.6, 64.0)| |PRE|1146|
 
 R The Crossroads |OID|1184| |N|Travel to The Crossroads (51.1, 29.6)|
-T Parts of the Swarm (1) |QID|1148| |N|Korran in The Crossroads (51.1, 29.6)| |O| |Z|The Barrens|
+T Parts of the Swarm (Part 1) |QID|1148| |N|Korran in The Crossroads (51.1, 29.6)| |O| |Z|The Barrens|
 N Cracked Silithid Carapace |N|Destroy Cracked Silithid Carapace, you no longer need this| |L|5877| |O|
-A Parts of the Swarm (2) |QID|1184| |N|Korran in The Crossroads (51.1, 29.6)| |PRE|1148| |Z|The Barrens|
+A Parts of the Swarm (Part 2) |QID|1184| |N|Korran in The Crossroads (51.1, 29.6)| |PRE|1148| |Z|The Barrens|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

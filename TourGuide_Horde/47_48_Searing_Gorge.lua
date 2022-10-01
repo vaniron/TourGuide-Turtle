@@ -61,11 +61,11 @@ C The Flame's Casing |QID|3452| |N|Kill Twilight Fire Guard or Twilight Dark Sha
 
 R Thorium Point |QID|3453| |N|Travel to Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |REACH|
 T The Flame's Casing |QID|3452| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| 
-A The Torch of Retribution (1) |QID|3453| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452| 
-C The Torch of Retribution (1) |QID|3453| |N|Just for Kalaran Windblade to finish (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452|
-T The Torch of Retribution (1) |QID|3453| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452| 
-A The Torch of Retribution (2) |QID|3454| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452| 
-T The Torch of Retribution (2) |QID|3454| |N|Click on the Torch of Retribution (39.08, 39.28)| |Z|Searing Gorge| |PRE|3452| |OBJ|2455|
+A The Torch of Retribution (Part 1) |QID|3453| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452| 
+C The Torch of Retribution (Part 1) |QID|3453| |N|Just for Kalaran Windblade to finish (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452|
+T The Torch of Retribution (Part 1) |QID|3453| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452| 
+A The Torch of Retribution (Part 2) |QID|3454| |N|Kalaran Windblade in Thorium Point (39.04, 38.97)| |Z|Searing Gorge| |PRE|3452| 
+T The Torch of Retribution (Part 2) |QID|3454| |N|Click on the Torch of Retribution (39.08, 39.28)| |Z|Searing Gorge| |PRE|3452| |OBJ|2455|
 A Squire Maltrake |QID|3462| |N|Kalaran Windblade in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| 
 T Squire Maltrake |QID|3462| |N|Kalaran Windblade in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| 
 A Set Them Ablaze! |QID|3463| |N|Squire Maltrake in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| 

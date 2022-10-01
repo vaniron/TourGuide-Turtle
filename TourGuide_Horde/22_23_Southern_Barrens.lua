@@ -71,8 +71,8 @@ R Field of Giants |QID|822| |N|Travel to Field of Giants (47.77, 73.62)| |O|
 K Stormhide |QID|822.1| |N|Kill Stormhide and collect 5 Lightning Gland in Field of Giants (47.77, 73.62)| |O|
 
 R Blackthorn Ridge |QID|879| |N|Travel to Blackthorn Ridge (46.74, 79.63) (43.83, 81.96)|
-T Call of Water (5) |QID|1534| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
-A Call of Water (6) |QID|220| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
+T Call of Water (Part 5) |QID|1534| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
+A Call of Water (Part 6) |QID|220| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
 K Nak |QID|879.2| |N|Kill Nak and collect Nak's Skull in Blackthorn Ridge (43.87, 83.00)|
 K Razormane Seer |QID|893.2| |N|Kill Razormane Seer and collect Charred Razormane Wand in Blackthorn Ridge (43.45, 83.01)|
 K Kuz |QID|879.1| |N|Kill Kuz and collect Kuz's Skull in Blackthorn Ridge (43.51, 80.66)|
@@ -88,18 +88,18 @@ C Gann's Reclamation |QID|843| |N|Kill 15 Bael'dun Excavator and 5 Bael'dun Fore
 
 R Southern Gold Road |QID|846| |N|Travel to Southern Gold Road (46.15, 75.4)| |OID|846|
 T Gann's Reclamation |QID|843| |N|Gann Stonespire in Southern Gold Road, patrols the road  (46.15, 75.4)|
-A Revenge of Gann (1) |QID|846| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.15, 75.4)|
+A Revenge of Gann (Part 1) |QID|846| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.15, 75.4)|
 
 R Camp Taurajo |TID|879| |N|Travel to Camp Taurajo (45.11, 57.72)|
 T Weapons of Choice |QID|893| |N|Tatternack Steelforge in Camp Taurajo (45.11, 57.72)|
 T Washte Pawne |QID|885| |N|Jorn Skyseer in Camp Taurajo (44.87, 59.09)| |O|
 T The Harvester |QID|897| |N|Jorn Skyseer in Camp Taurajo (44.87, 59.09)| |O|
-T Betrayal from Within (1) |QID|879| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
-A Betrayal from Within (2) |QID|906| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
+T Betrayal from Within (Part 1) |QID|879| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
+A Betrayal from Within (Part 2) |QID|906| |N|Mangletooth in Camp Taurajo (44.56, 59.24)|
 
 R The Crossroads |TID|868| |N|Travel to The Crossroads (51.49, 30.83)|
 T Egg Hunt |QID|868| |N|Korran in The Crossroads (51.08, 29.61)|
-T Betrayal from Within (2) |QID|906| |N|Thork in The Crossroads (51.49, 30.83)|
+T Betrayal from Within (Part 2) |QID|906| |N|Thork in The Crossroads (51.49, 30.83)|
 N Silithid Egg |N|Discard left overs Silithid Egg. Tick this step| |O| |L|5058|
 
 K Zhevra Charger |QID|882| |N|Kill Zhevra Charger until you find a Fresh Zhevra Carcass (60.1, 31.7)| |L|10338| |PRE|3261|
@@ -108,24 +108,24 @@ C Ishamuhale |QID|882| |N|Use Fresh Zhevra Carcass at the tree northwest of Ratc
 R Ratchet |TID|1094| |N|Travel to Ratchet (62.37, 37.65)| |O|
 T Deepmoss Spider Eggs |QID|1069| |N|Mebok Mizzyrix in Ratchet (62.37, 37.65)| |O|
 N Deepmoss Egg |N|Detroy any remaining Deepmoss Egg. Tick this step| |O| |L|5570|
-T Chen's Empty Keg (3) |QID|822| |N|Brewmaster Drohn in Ratchet (62.29, 38.36)| |O|
-T Further Instructions (1) |QID|1094| |N|Sputtervalve in Ratchet (62.96, 37.21)| |O|
-A Further Instructions (2) |QID|1095| |N|Sputtervalve in Ratchet (62.96, 37.21)| |PRE|1094|
+T Chen's Empty Keg (Part 3) |QID|822| |N|Brewmaster Drohn in Ratchet (62.29, 38.36)| |O|
+T Further Instructions (Part 1) |QID|1094| |N|Sputtervalve in Ratchet (62.96, 37.21)| |O|
+A Further Instructions (Part 2) |QID|1095| |N|Sputtervalve in Ratchet (62.96, 37.21)| |PRE|1094|
 
 R The Tidus Stair |OID|63| |N|Travel to The Tidus Stair (65.84, 43.78)| |C|Shaman|
-T Call of Water (6) |QID|220| |N|Islen Waterseer in The Tidus Stair (65.84, 43.78)| |C|Shaman| |Z|The Barrens|
-A Call of Water (7) |QID|63| |N|Islen Waterseer in The Tidus Stair (65.84, 43.78)| |C|Shaman| |Z|The Barrens|
+T Call of Water (Part 6) |QID|220| |N|Islen Waterseer in The Tidus Stair (65.84, 43.78)| |C|Shaman| |Z|The Barrens|
+A Call of Water (Part 7) |QID|63| |N|Islen Waterseer in The Tidus Stair (65.84, 43.78)| |C|Shaman| |Z|The Barrens|
 
 R North Tide's Run |QID|63| |N|Travel to North Tide's Run in Silverpine Forest (44.32, 37.18) (44.94, 32.31) (39.34, 31.29) (37.08, 42.84)| |C|Shaman| |Z|Silverpine Forest|
 N Water Sapta |QID|63| |N|Use Water Sapta to gain the (spell:9735) buff| |C|Shaman| |Z|The Barrens| |U|6637| |BUFF|132092|
-C Call of Water (7) |QID|63| |N|Kill Corrupt Minor Manifestation of Water and collect Corrupt Manifestation's Bracers in North Tide's Run (38.69, 44.32)| |C|Shaman| |Z|Silverpine Forest|
-T Call of Water (7) |QID|63| |N|Brazier of Everfount in North Tide's Run (38.28, 44.58)| |C|Shaman| |Z|Silverpine Forest| |OBJ|602|
-A Call of Water (8) |QID|100| |N|Brazier of Everfount in North Tide's Run (38.28, 44.58)| |C|Shaman| |Z|Silverpine Forest| |OBJ|602|
-T Call of Water (8) |QID|100| |N|Minor Manifestation of Water in North Tide's Run (38.72, 44.59)| |C|Shaman| |Z|Silverpine Forest|
-A Call of Water (9) |QID|96| |N|Minor Manifestation of Water in North Tide's Run (38.72, 44.59)| |C|Shaman| |Z|Silverpine Forest|
+C Call of Water (Part 7) |QID|63| |N|Kill Corrupt Minor Manifestation of Water and collect Corrupt Manifestation's Bracers in North Tide's Run (38.69, 44.32)| |C|Shaman| |Z|Silverpine Forest|
+T Call of Water (Part 7) |QID|63| |N|Brazier of Everfount in North Tide's Run (38.28, 44.58)| |C|Shaman| |Z|Silverpine Forest| |OBJ|602|
+A Call of Water (Part 8) |QID|100| |N|Brazier of Everfount in North Tide's Run (38.28, 44.58)| |C|Shaman| |Z|Silverpine Forest| |OBJ|602|
+T Call of Water (Part 8) |QID|100| |N|Minor Manifestation of Water in North Tide's Run (38.72, 44.59)| |C|Shaman| |Z|Silverpine Forest|
+A Call of Water (Part 9) |QID|96| |N|Minor Manifestation of Water in North Tide's Run (38.72, 44.59)| |C|Shaman| |Z|Silverpine Forest|
 
 R The Tidus Stair |TID|96| |N|Travel to The Tidus Stair (65.84, 43.78)| |C|Shaman|
-T Call of Water (9) |QID|96| |N|Islen Waterseer in The Tidus Stair (65.83, 43.77)| |C|Shaman| |Z|The Barrens|
+T Call of Water (Part 9) |QID|96| |N|Islen Waterseer in The Tidus Stair (65.83, 43.77)| |C|Shaman| |Z|The Barrens|
 
 R Camp Taurajo |QID|907| |N|Travel to Camp Taurajo (44.84, 59.12)| |Z|The Barrens|
 T Ishamuhale |QID|882| |N|Jorn Skyseer in Camp Taurajo (44.84, 59.12)| |Z|The Barrens| |O|

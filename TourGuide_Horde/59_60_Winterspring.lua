@@ -3,9 +3,9 @@ TourGuide:RegisterGuide("Winterspring (59-60)", "Winterspring (59-60)", "Horde",
 
 return [[
 
-T Wild Guardians (2) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |O| 
+T Wild Guardians (Part 2) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |O| 
 R Bloodvenom Post |QID|4741| |N|Travel to Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |PRE|4521| 
-A Wild Guardians (2) |QID|4741| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |PRE|4521| 
+A Wild Guardians (Part 2) |QID|4741| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |PRE|4521| 
 
 R Irontree Woods |QID|5086| |N|Travel to Irontree Woods (49.60, 26.06)| |Z|Felwood| |O|
 C Toxic Horrors |QID|5086| |N|Kill Toxic Horror and collect 3 Toxic Horror Droplet in Irontree Woods (49.60, 26.06)| |Z|Felwood| |O| 
@@ -47,7 +47,7 @@ A Cache of Mau'ari |QID|975| |N|Witch Doctor Mau'ari in Everlook (61.92, 38.30)|
 T Cache of Mau'ari |QID|975| |N|Witch Doctor Mau'ari in Everlook (61.92, 38.30)| |Z|Winterspring| 
 
 R Owl Wing Thicket |QID|4741| |N|Travel to Owl Wing Thicket (63.83, 59.32)| |Z|Winterspring|
-C Wild Guardians (2) |QID|4741| |N|Kill 13 Moontouched Owlbeast in Owl Wing Thicket (63.83, 59.32)| |Z|Winterspring| |PRE|4521|  
+C Wild Guardians (Part 2) |QID|4741| |N|Kill 13 Moontouched Owlbeast in Owl Wing Thicket (63.83, 59.32)| |Z|Winterspring| |PRE|4521|  
 A Guarding Secrets |QID|4882| |N|Use Blue-feathered Necklace to accept quest| |Z|Winterspring| |U|12558|
 C Brumeran of the Chillwind |QID|5055| |N|Kill Brumeran, this is a level 58 Elite and can be a bit tough to solo, you may need to get some help (61.49, 56.69) (57.61, 41.42)| |Z|Winterspring|  
 C Chillwind Horns |QID|4809| |N|Kill Chillwind Ravager, Chillwind Chimaera and collect 8 Uncracked Chillwind Horn, you don't have to complete this quest now. Tick this step to complete later (58.73, 43.43)| |Z|Winterspring| |PRE|4521| 
@@ -55,8 +55,8 @@ T Brumeran of the Chillwind |QID|5055| |N|Storm Shadowhoof in Everlook (61.91, 3
 A Shy-Rotam |QID|5056| |N|Storm Shadowhoof in Everlook (61.91, 38.38)| |Z|Winterspring| 
 
 R Bloodvenom Post |QID|4721| |N|Travel to Bloodvenom Post (34.72, 52.76)| |Z|Felwood|
-T Wild Guardians (2) |QID|4741| |N|Trull Failbane in Bloodvenom Post (34.72, 52.76)| |Z|Felwood| |PRE|4521| 
-A Wild Guardians (3) |QID|4721| |N|Trull Failbane in Bloodvenom Post (34.72, 52.76)| |Z|Felwood| |PRE|4521| 
+T Wild Guardians (Part 2) |QID|4741| |N|Trull Failbane in Bloodvenom Post (34.72, 52.76)| |Z|Felwood| |PRE|4521| 
+A Wild Guardians (Part 3) |QID|4721| |N|Trull Failbane in Bloodvenom Post (34.72, 52.76)| |Z|Felwood| |PRE|4521| 
 T Guarding Secrets |QID|4882| |N|Trull Failbane in Bloodvenom Post (34.72, 52.76)| |Z|Felwood| 
 A Guarding Secrets |QID|4883| |N|Trull Failbane in Bloodvenom Post (34.72, 52.76)| |Z|Felwood| 
 
@@ -64,7 +64,7 @@ R Owl Wing Thicket |QID|4882| |N|Travel to Owl Wing Thicket (63.83, 59.32)| |Z|W
 N Blue-feathered Necklace |QID|4882| |N|Keep killing Moontouched Owlbeast until you find Blue-feathered Necklace (63.83, 59.32)| |Z|Winterspring|  |L|12558| 
 
 R The Hidden Grove |QID|4721| |N|Travel to The Hidden Grove (64.92, 20.30)| |Z|Winterspring| 
-C Wild Guardians (3) |QID|4721| |N|Kill 10 Berserk Owlbeast in The Hidden Grove (64.92, 20.30)| |Z|Winterspring| |PRE|4521|  
+C Wild Guardians (Part 3) |QID|4721| |N|Kill 10 Berserk Owlbeast in The Hidden Grove (64.92, 20.30)| |Z|Winterspring| |PRE|4521|  
 C Chillwind Horns |QID|4809| |N|Kill Chillwind Ravager, Chillwind Chimaera and collect 8 Uncracked Chillwind Horn (59.80, 22.64)| |Z|Winterspring| |PRE|4521| 
 
 T Winterfall Runners |QID|5087| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |PRE|5086| 
@@ -84,7 +84,7 @@ T The Final Piece |QID|5123| |N|Donova Snowden in Frostfire Hot Springs (31.28, 
 A Words of the High Chief |QID|5128| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |PRE|5087| 
 
 R Bloodvenom Post |TID|4721| |N|Travel to Bloodvenom Post (34.74, 52.76)| |Z|Felwood| |PRE|4521|
-T Wild Guardians (3) |QID|4721| |N|Trull Failbane in Bloodvenom Post (34.74, 52.76)| |Z|Felwood| |PRE|4521| 
+T Wild Guardians (Part 3) |QID|4721| |N|Trull Failbane in Bloodvenom Post (34.74, 52.76)| |Z|Felwood| |PRE|4521| 
 
 R Emerald Sanctuary |TID|5128| |N|Travel to Emerald Sanctuary in Felwood (51.14, 81.76)| |Z|Felwood| |PRE|5087|
 T Words of the High Chief |QID|5128| |N|Kelek Skykeeper in Emerald Sanctuary (51.14, 81.76)| |Z|Felwood| |PRE|5087| 

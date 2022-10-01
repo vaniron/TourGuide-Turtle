@@ -3,13 +3,13 @@ TourGuide:RegisterGuide("The Hinterlands (46-46)", "Stranglethorn (46-47)", "All
 
 return [[
 
-T Sunken Treasure (4) |QID|669| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |Z|Stranglethorn Vale| |O| 
-A Sunken Treasure (5) |QID|670| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |Z|Stranglethorn Vale| |PRE|669| 
+T Sunken Treasure (Part 4) |QID|669| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |Z|Stranglethorn Vale| |O| 
+A Sunken Treasure (Part 5) |QID|670| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |Z|Stranglethorn Vale| |PRE|669| 
 T Water Elementals |QID|601| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|Stranglethorn Vale| |O| 
 A Magical Analysis |QID|602| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|Stranglethorn Vale| |PRE|601| 
 
 R Faldir's Cove |QID|667| |N|Travel to Faldir's Cove (31.08, 65.63) (21.58, 72.95) (21.59, 75.59) (22.09, 79.73)| |Z|Arathi Highlands| |PRE|669|
-T Sunken Treasure (5) |QID|670| |N|Shakes O'Breen in Faldir's Cove (32.28, 81.39)| |Z|Arathi Highlands| |PRE|669| 
+T Sunken Treasure (Part 5) |QID|670| |N|Shakes O'Breen in Faldir's Cove (32.28, 81.39)| |Z|Arathi Highlands| |PRE|669| 
 A Death From Below |QID|667| |N|Shakes O'Breen in Faldir's Cove (32.28, 81.39)| |Z|Arathi Highlands| |PRE|669| 
 C Death From Below |QID|667| |N|Use the Cannon to kill 3 waves of Nagas in Faldir's Cove (31.57, 82.05) (31.47, 81.02) (31.98, 80.87)| |Z|Arathi Highlands| |PRE|669| |OBJ|245|
 T Death From Below |QID|667| |N|Shakes O'Breen in Faldir's Cove (32.30, 81.41)| |Z|Arathi Highlands| |PRE|669| 

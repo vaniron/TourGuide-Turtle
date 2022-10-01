@@ -5,16 +5,16 @@ return [[
 
 R Maestra's Post |QID|970| |N|Travel to Maestra's Post (27.25, 35.62)| |Z|Ashenvale|
 T The Sleeper Has Awakened |QID|5321| |N|Liladris Moonriver in Maestra's Post (27.25, 35.62)| |Z|Ashenvale| |O| 
-T The Tower of Althalaxx (3) |QID|967| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |O| 
-A The Tower of Althalaxx (4) |QID|970| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|970| 
+T The Tower of Althalaxx (Part 3) |QID|967| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |O| 
+A The Tower of Althalaxx (Part 4) |QID|970| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|970| 
 A Bathran's Hair |QID|1010| |N|Orendil Broadleaf in Maestra's Post (26.42, 38.56)| |Z|Ashenvale| 
 
-C The Tower of Althalaxx (4) |QID|970| |N|Kill Dark Strand Adept, Dark Strand Enforcer or Dark Strand Cultist and collect a Glowing Soul Gem (32, 30)|  |PRE|970| 
+C The Tower of Althalaxx (Part 4) |QID|970| |N|Kill Dark Strand Adept, Dark Strand Enforcer or Dark Strand Cultist and collect a Glowing Soul Gem (32, 30)|  |PRE|970| 
 C Bathran's Hair |QID|1010| |N|Collect 5 of Bathran's Hair found in the plant bundles on the ground in the camp (31, 22)| 
 
 R Maestra's Post |QID|973| |N|Travel to Maestra's Post (26.20, 38.66)| |Z|Ashenvale| 
-T The Tower of Althalaxx (4) |QID|970| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|970| 
-A The Tower of Althalaxx (5) |QID|973| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|970| 
+T The Tower of Althalaxx (Part 4) |QID|970| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|970| 
+A The Tower of Althalaxx (Part 5) |QID|973| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|970| 
 T Bathran's Hair |QID|1010| |N|Orendil Broadleaf in Maestra's Post (26.42, 38.56)| |Z|Ashenvale| 
 A Orendil's Cure |QID|1020| |N|Orendil Broadleaf in Maestra's Post (26.42, 38.56)| |Z|Ashenvale| 
 
@@ -26,7 +26,7 @@ f Astranaar |QID|1008| |N|Speak to Daelyshia and grab flight path for Astranaar 
 A The Zoram Strand |QID|1008| |N|Shindrell Swiftfire in Astranaar (34.65, 48.88)| |Z|Ashenvale| 
 A On Guard in Stonetalon |QID|1070| |N|Sentinel Thenysil in Astranaar (34.92, 49.77)| |Z|Ashenvale| 
 A Journey to Stonetalon Peak |QID|1056| |N|Faldreas Goeth'Shael in Astranaar (35.78, 49.16)| |Z|Ashenvale| 
-A Raene's Cleansing (1) |QID|991| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
+A Raene's Cleansing (Part 1) |QID|991| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
 A Culling the Threat |QID|1054| |N|Raene Wolfrunner in Astranaar (36.59, 49.63)| |Z|Ashenvale| 
 h Astranaar |QID|1033| |N|Speak to Innkeeper Kimlya and set hearth at Astranaar (37, 49.3)| 
 T Orendil's Cure |QID|1020| |N|Pelturas Whitemoon in Astranaar (37.37, 51.78)| |Z|Ashenvale| 
@@ -42,13 +42,13 @@ C The Zoram Strand |QID|1008| |N|Kill any Wrathtail Wave Rider, Wrathtail Sorcer
 T Ruuzel |QID|1009| |N|Talen in The Zoram Strand (14.81, 31.25)| |Z|Ashenvale| 
 
 R Lake Falathim |QID|1023| |N|Travel to Lake Falathim (20.32, 42.39)| |Z|Ashenvale|
-T Raene's Cleansing (1) |QID|991| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale| 
-A Raene's Cleansing (2) |QID|1023| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale| 
-C Raene's Cleansing (2) |QID|1023| |N|Kill the Saltspittle Oracle, Saltspittle Puddlejumper or Saltspittle Warrior at the nearby lake until you've collected the Glowing Gem (19, 43)|  
+T Raene's Cleansing (Part 1) |QID|991| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale| 
+A Raene's Cleansing (Part 2) |QID|1023| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale| 
+C Raene's Cleansing (Part 2) |QID|1023| |N|Kill the Saltspittle Oracle, Saltspittle Puddlejumper or Saltspittle Warrior at the nearby lake until you've collected the Glowing Gem (19, 43)|  
 
 R Astranaar |QID|1024| |N|Travel to Astranaar (36.59, 49.59)| |Z|Ashenvale|
-T Raene's Cleansing (2) |QID|1023| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
-A Raene's Cleansing (3) |QID|1024| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
+T Raene's Cleansing (Part 2) |QID|1023| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
+A Raene's Cleansing (Part 3) |QID|1024| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
 A An Aggressive Defense |QID|1025| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
 T The Zoram Strand |QID|1008| |N|Shindrell Swiftfire in Astranaar (34.65, 48.88)| |Z|Ashenvale| 
 A Pridewings of Stonetalon |QID|1134| |N|Shindrell Swiftfire in Astranaar (34.68, 48.88)| |Z|Ashenvale| 
@@ -57,8 +57,8 @@ R Iris Lake |QID|1033| |N|Travel to Iris Lake (44.18, 56.29) (43.56, 49.23)| |Z|
 C Elune's Tear |QID|1033| |N|Find and retrieve Elune's Tear in Iris Lake (43.48, 45.76) (46.25, 45.93)| |Z|Ashenvale|
 
 R Moonwell |QID|1026| |N|Travel to Moonwell (48, 47) (53.49, 46.30)| |Z|Ashenvale|
-T Raene's Cleansing (3) |QID|1024| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale| 
-A Raene's Cleansing (4) |QID|1026| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale| 
+T Raene's Cleansing (Part 3) |QID|1024| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale| 
+A Raene's Cleansing (Part 4) |QID|1026| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale| 
 
 C An Aggressive Defense |QID|1025| |N|Kill 1 Foulweald Den Watcher, 2 Foulweald Ursa, 10 Foulweald Totemic and 12 Foulweald Warrior which can be found in the camp (51, 60)|  
 

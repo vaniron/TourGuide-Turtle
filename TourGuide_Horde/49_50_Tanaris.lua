@@ -90,9 +90,9 @@ A Insect Part Analysis |QID|113| |N|Alchemist Pestlezugg in Gadgetzan (50.89, 26
 T Insect Part Analysis |QID|113| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
 A Rise of the Silithid |QID|32| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
 
-T Safety First (1) |QID|1188| |N|Yorba Screwspigot in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |O|
-A Safety First (2) |QID|1189| |N|Yorba Screwspigot in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |PRE|1188|
-T Safety First (2) |QID|1189| |N|Yorba Screwspigot, in Mirage Raceway (80.33, 76.10)| |Z|Thousand Needles| |PRE|1188|
+T Safety First (Part 1) |QID|1188| |N|Yorba Screwspigot in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |O|
+A Safety First (Part 2) |QID|1189| |N|Yorba Screwspigot in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |PRE|1188|
+T Safety First (Part 2) |QID|1189| |N|Yorba Screwspigot, in Mirage Raceway (80.33, 76.10)| |Z|Thousand Needles| |PRE|1188|
 
 N Level 50 Required |N|You should be close to next level, grind nearby mobs to reach level 50|
 

@@ -15,7 +15,7 @@ C War on the Woodpaw |QID|2862| |N|Kill the Woodpaw north of Camp Mojache and co
 
 R Gordunni Outpost |QID|2987| |N|Travel to Gordunni Outpost (74.85, 35.31) (75.55, 29.75)| |Z|Feralas|
 C Gordunni Cobalt |QID|2987| |N|Use Orwin's Shovel near the glowing purple mounds and collect 12 Gordunni Cobalt (75.27, 33.64) (76.38, 33.06) (75.53, 30.41) (74.56, 30.25) (74.26, 28.98) (75.35, 28.24)| |U|9466|
-C The Ogres of Feralas (1) |QID|2975| |N|Kill 10 Gordunni Ogre, 10 Gordunni Ogre Mage and 5 Gordunni Brute in Gordunni Outpost (75, 30)|
+C The Ogres of Feralas (Part 1) |QID|2975| |N|Kill 10 Gordunni Ogre, 10 Gordunni Ogre Mage and 5 Gordunni Brute in Gordunni Outpost (75, 30)|
 N Gordunni Scroll |QID|2978| |N|Collect Gordunni Scroll found near a log on the floor in Gordunni Outpost (75.13, 29.75)| |L|9370| |OBJ|183|
 A The Gordunni Scroll |QID|2978| |N|Use Gordunni Scroll to accept quest| |U|9370|
 
@@ -37,17 +37,17 @@ C A New Cloak's Sheen |QID|2973| |N|Kill the Sprite Darter west of Camp Mojache 
 
 R Camp Mojache |OID|2974| |N|Travel to Camp Mojache (75.93, 42.75)| |Z|Feralas|
 T A New Cloak's Sheen |QID|2973| |N|Krueg Skullsplitter in Camp Mojache (75.93, 42.75)| |Z|Feralas|
-A A Grim Discovery (1) |QID|2974| |N|Krueg Skullsplitter in Camp Mojache (75.95, 43.16)| |Z|Feralas|
+A A Grim Discovery (Part 1) |QID|2974| |N|Krueg Skullsplitter in Camp Mojache (75.95, 43.16)| |Z|Feralas|
 
-C A Grim Discovery (1) |QID|2974| |N|Kill the Grimtotems Northwest of Camp Mojache for 20 Grimtotem Horn (66, 38)|
+C A Grim Discovery (Part 1) |QID|2974| |N|Kill the Grimtotems Northwest of Camp Mojache for 20 Grimtotem Horn (66, 38)|
 
 R Woodpaw Hills |QID|2903| |N|Travel to Woodpaw Hills (71.62, 55.92)| |Z|Feralas|
 T Woodpaw Investigation |QID|2902| |N|Woodpaw Battle Map in Woodpaw Hills (71.6, 55.9)| |OBJ|222|
 A The Battle Plans |QID|2903| |N|Woodpaw Battle Map in Woodpaw Hills (71.6, 55.9)| |OBJ|222|
 
 R Camp Mojache |QID|2976| |N|Travel or Hearthstone to Camp Mojache (75.95, 42.74)| |Z|Feralas|
-T A Grim Discovery (1) |QID|2974| |N|Krueg Skullsplitter in Camp Mojache (75.95, 42.74)| |Z|Feralas|
-A A Grim Discovery (2) |QID|2976| |N|Krueg Skullsplitter in Camp Mojache (75.95, 42.74)| |Z|Feralas|
+T A Grim Discovery (Part 1) |QID|2974| |N|Krueg Skullsplitter in Camp Mojache (75.95, 42.74)| |Z|Feralas|
+A A Grim Discovery (Part 2) |QID|2976| |N|Krueg Skullsplitter in Camp Mojache (75.95, 42.74)| |Z|Feralas|
 T The Battle Plans |QID|2903| |N|Hadoken Swiftstrider in Camp Mojache (74.91, 42.49)| |Z|Feralas|
 A Zukk'ash Infestation |QID|7730| |N|Hadoken Swiftstrider in Camp Mojache (74.91, 42.49)| |Z|Feralas|
 A Stinglasher |QID|7731| |N|Hadoken Swiftstrider in Camp Mojache (74.91, 42.49)| |Z|Feralas|
@@ -61,7 +61,7 @@ C Screecher Spirits |QID|3520| |N|Kill the Rogue Vale Screecher south of Dire Ma
 
 R Ruins of Isildien |QID|2980| |N|Travel to Ruins of Isildien (60.99, 56.76)| |Z|Feralas|
 C Dark Ceremony |QID|2979| |N|Kill Gordunni Mage-Lord for the Gordunni Orb (59, 68)|
-C The Ogres of Feralas (2) |QID|2980| |N|Kill 10 Gordunni Shaman, 10 Gordunni Warlock and 5 Gordunni Mauler south of Dire Maul (59, 68)|
+C The Ogres of Feralas (Part 2) |QID|2980| |N|Kill 10 Gordunni Shaman, 10 Gordunni Warlock and 5 Gordunni Mauler south of Dire Maul (59, 68)|
 
 R Feral Scar Vale |QID|2822| |N|Travel to Feral Scar Vale (55.40, 56.36)| |Z|Feralas|
 C The Mark of Quality |QID|2822| |N|Kill Feral Scar Yeti and collect 10 Thick Yeti Hide in Feral Scar Vale (55.40, 56.36)| |Z|Feralas|
@@ -87,7 +87,7 @@ T Ripple Recovery |QID|649| |N|Zilzibin Drumlore in The Drag (59.64, 36.86)| |Z|
 A Ripple Recovery |QID|650| |N|Malton Droffers in The Drag (59.64, 36.86)| |Z|Orgrimmar|
 
 T A Grim Discovery |QID|2976| |N|Belgrom Rockmaul in Valley of Honor (75.15, 34.30)| |Z|Orgrimmar|
-A Betrayed (1) |QID|3504| |N|Belgrom Rockmaul in Valley of Honor (75.15, 34.30)| |Z|Orgrimmar|
+A Betrayed (Part 1) |QID|3504| |N|Belgrom Rockmaul in Valley of Honor (75.15, 34.30)| |Z|Orgrimmar|
 
 T A Strange Request |QID|3121| |N|Neeru Fireblade in Cleft of Shadow (49.64, 50.53)| |Z|Orgrimmar|
 A Return to Witch Doctor Uzer'i |QID|3122| |N|Neeru Fireblade in Cleft of Shadow (49.64, 50.53)| |Z|Orgrimmar|

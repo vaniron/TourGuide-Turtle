@@ -17,7 +17,7 @@ A Glyphic Memorandum |QID|3114| |N|Sten Stoutarm in Coldridge Valley (29.92, 71.
 A Encrypted Memorandum |QID|3113| |N|Sten Stoutarm in Coldridge Valley (29.92, 71.23)| |C|Rogue| |R|Gnome|
 A Simple Memorandum |QID|3112| |N|Sten Stoutarm in Coldridge Valley (29.92, 71.23)| |C|Warrior| |R|Gnome|
 
-A Coldridge Valley Mail Delivery (1) |QID|233| |N|Sten Stoutarm in Coldridge Valley (29.92, 71.23)|
+A Coldridge Valley Mail Delivery (Part 1) |QID|233| |N|Sten Stoutarm in Coldridge Valley (29.92, 71.23)|
 A A New Threat |QID|170| |N|Balir Frosthammer in Coldridge Valley (29.71, 71.26)|
 C A New Threat |QID|170| |N|Kill 6 Rockjaw Trogg and 6 Burly Rockjaw Trogg in Coldridge Valley (31, 74) (30, 74)|
 T A New Threat |QID|170| |N|Balir Frosthammer in Coldridge Valley (29.71, 71.26)|
@@ -36,13 +36,13 @@ T Simple Memorandum |QID|3112| |N|Thran Khorman in Coldridge Valley (28.8, 67.3)
 A A Refugee's Quandary |QID|3361| |N|Felix Whindlebolt in Coldridge Valley (28.56, 67.74)|
 A Beginnings |QID|1599| |N|Alamar Grimm in Coldridge Valley (28.64, 66.15)| |C|Warlock|
 
-T Coldridge Valley Mail Delivery (1) |QID|233| |N|Talin Keeneye in Coldridge Valley (22.57, 71.38)|
-A Coldridge Valley Mail Delivery (2) |QID|234| |N|Talin Keeneye in Coldridge Valley (22.57, 71.38)|
+T Coldridge Valley Mail Delivery (Part 1) |QID|233| |N|Talin Keeneye in Coldridge Valley (22.57, 71.38)|
+A Coldridge Valley Mail Delivery (Part 2) |QID|234| |N|Talin Keeneye in Coldridge Valley (22.57, 71.38)|
 A The Boar Hunter |QID|183| |N|Talin Keeneye in Coldridge Valley (22.57, 71.38)|
 C The Boar Hunter |QID|183| |N|Kill 12 Small Crag Boar in Coldridge Valley (21, 72)|
 T The Boar Hunter |QID|183| |N|Talin Keeneye in Coldridge Valley (22.57, 71.38)|
 
-T Coldridge Valley Mail Delivery (2) |QID|234| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
+T Coldridge Valley Mail Delivery (Part 2) |QID|234| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
 A The Troll Cave |QID|182| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
 A Scalding Mornbrew Delivery |QID|3364| |N|Nori Pridedrift in Coldridge Valley (25.00, 75.94)|
 T Scalding Mornbrew Delivery |QID|3364| |N|Durnan Furcutter in Coldridge Valley (28.75, 66.36)|
@@ -59,15 +59,15 @@ A The Stolen Journal |QID|218| |N|Grelin Whitebeard in Coldridge Valley (25.10, 
 T Beginnings |QID|1599| |N|Alamar Grimm in Coldridge Valley (28.70, 66.17)| |C|Warlock|
 C The Stolen Journal |QID|218| |N|Go to the cave and kill Grik'nir the Cold and collect Grelin Whitebeard's Journal (26.76, 79.75) (27.56, 80.92) (29.12, 78.84) (30.49, 80.10)|
 T The Stolen Journal |QID|218| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
-A Senir's Observations (1) |QID|282| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
+A Senir's Observations (Part 1) |QID|282| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
 
 T A Refugee's Quandary |QID|3361| |N|Felix Whindlebolt in Coldridge Valley (28.80, 68.99) (28.56, 67.74)|
-T Senir's Observations (1) |QID|282| |N|Mountaineer Thalos in Coldridge Pass (33.47, 71.83)|
-A Senir's Observations (2) |QID|420| |N|Mountaineer Thalos in Coldridge Pass (33.47, 71.83)|
+T Senir's Observations (Part 1) |QID|282| |N|Mountaineer Thalos in Coldridge Pass (33.47, 71.83)|
+A Senir's Observations (Part 2) |QID|420| |N|Mountaineer Thalos in Coldridge Pass (33.47, 71.83)|
 A Supplies to Tannok |QID|2160| |N|Hands Springsprocket in Coldridge Pass (33.83, 72.21)|
 
 R Kharanos |QID|384| |N|Travel to Kharanos (35.64, 65.68) (36.27, 62.00) (45.19, 63.40) (47.02, 58.48) (46.66, 53.83)|
-T Senir's Observations (2) |QID|420| |N|Senir Whitebeard in Kharanos (46.66, 53.83)|
+T Senir's Observations (Part 2) |QID|420| |N|Senir Whitebeard in Kharanos (46.66, 53.83)|
 N Train Cooking |QID|384| |N|Speak to Gremlock Pilsnor and train cooking skill, you need this to accept the next quest. Tick this step (47.6, 52.4)|
 A Beer Basted Boar Ribs |QID|384| |N|Ragnar Thunderbrew in Kharanos. You need to train the cooking skill for this quest to appear, speak to Gremlock Pilsnor inside Thunderbrew Distillery to train the skill (46.81, 52.37)|
 
@@ -152,15 +152,15 @@ T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.1
 R Thunderbrew Distillery |QID|1679| |N|Travel to Thunderbrew Distillery<br/><b>Level 10 required<br/><b>You can die on purpose and resurrect to get there quicker (47.35, 52.64)|
 A Speak with Bink |QID|1879| |N|Magis Sparkmantle in Thunderbrew Distillery (47.36, 51.92)| |Z|Dun Morogh| |C|Mage|
 A Road to Salvation |QID|2218| |N|Hogral Bakkan in Thunderbrew Distillery (47.59, 52.46)| |C|Rogue|
-A Taming the Beast (1) |QID|6064| |N|Grif Wildheart in Kharanos (45.82, 53.03)| |C|Hunter|
-C Taming the Beast (1) |QID|6064| |N|Use Taming Rod to tame a Large Crag Boar in Steelgrill's Depot (47.92, 47.13)|  |C|Hunter| |U|15911|
-T Taming the Beast (1) |QID|6064| |N|Grif Wildheart in Kharanos (45.81, 53.02)| |C|Hunter|
-A Taming the Beast (2) |QID|6084| |N|Grif Wildheart in Kharanos (45.81, 53.02)| |C|Hunter|
-C Taming the Beast (2) |QID|6084| |N|Use Taming Rod to tame a Snow Leopard Iceflow Lake (34.60, 47.08)|  |C|Hunter| |U|15913|
-T Taming the Beast (2) |QID|6084| |N|Grif Wildheart in Kharanos (45.81, 53.05)| |C|Hunter|
-A Taming the Beast (3) |QID|6085| |N|Grif Wildheart in Kharanos (45.81, 53.05)| |C|Hunter|
-C Taming the Beast (3) |QID|6085| |N|Use Taming Rod to tame a Ice Claw Bear in Iceflow Lake (31.70, 38.78)|  |C|Hunter| |U|15908|
-T Taming the Beast (3) |QID|6085| |N|Grif Wildheart in Kharanos (45.80, 53.04)| |C|Hunter|
+A Taming the Beast (Part 1) |QID|6064| |N|Grif Wildheart in Kharanos (45.82, 53.03)| |C|Hunter|
+C Taming the Beast (Part 1) |QID|6064| |N|Use Taming Rod to tame a Large Crag Boar in Steelgrill's Depot (47.92, 47.13)|  |C|Hunter| |U|15911|
+T Taming the Beast (Part 1) |QID|6064| |N|Grif Wildheart in Kharanos (45.81, 53.02)| |C|Hunter|
+A Taming the Beast (Part 2) |QID|6084| |N|Grif Wildheart in Kharanos (45.81, 53.02)| |C|Hunter|
+C Taming the Beast (Part 2) |QID|6084| |N|Use Taming Rod to tame a Snow Leopard Iceflow Lake (34.60, 47.08)|  |C|Hunter| |U|15913|
+T Taming the Beast (Part 2) |QID|6084| |N|Grif Wildheart in Kharanos (45.81, 53.05)| |C|Hunter|
+A Taming the Beast (Part 3) |QID|6085| |N|Grif Wildheart in Kharanos (45.81, 53.05)| |C|Hunter|
+C Taming the Beast (Part 3) |QID|6085| |N|Use Taming Rod to tame a Ice Claw Bear in Iceflow Lake (31.70, 38.78)|  |C|Hunter| |U|15908|
+T Taming the Beast (Part 3) |QID|6085| |N|Grif Wildheart in Kharanos (45.80, 53.04)| |C|Hunter|
 A Training the Beast |QID|6086| |N|Grif Wildheart in Kharanos (46.13, 52.29)| |C|Hunter|
 A Muren Stormpike |QID|1679| |N|Granis Swiftaxe in Thunderbrew Distillery, level 10 required (47.35, 52.64)| |C|Warrior|
 T Muren Stormpike |QID|1679| |N|Muren Stormpike in Hall of Arms (70.76, 90.48)| |Z|Ironforge| |C|Warrior|
@@ -227,13 +227,13 @@ T Shimmer Stout |QID|413| |N|Mountaineer Barleybrew in South Gate Outpost (79.06
 A Stout to Kadrell |QID|414| |N|Mountaineer Barleybrew in South Gate Outpost (86.29, 48.86)|
 
 R Valley of Kings |QID|224| |N|Travel to Valley of Kings (16.75, 58.94) (21.85, 73.43)| |Z|Loch Modan|
-A In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (21.85, 73.43)| |Z|Loch Modan|
+A In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (21.85, 73.43)| |Z|Loch Modan|
 A The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.23, 73.66)| |Z|Loch Modan|
-C In Defense of the King's Lands (1) |QID|224| |N|Kill 10 Stonesplinter Trogg and 10 Stonesplinter Scout which can be found in the area west of Thelsammar (29, 53)| |Z|Loch Modan|
+C In Defense of the King's Lands (Part 1) |QID|224| |N|Kill 10 Stonesplinter Trogg and 10 Stonesplinter Scout which can be found in the area west of Thelsammar (29, 53)| |Z|Loch Modan|
 C The Trogg Threat |QID|267| |N|Kill Stonesplinter Scout and Stonesplinter Trogg in the area west of Thelsammar to collect 8 Trogg Stone Tooth (29, 53)| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.23, 73.66)| |Z|Loch Modan|
-T In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.03, 73.05)| |Z|Loch Modan|
-A In Defense of the King's Lands (2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
+T In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.03, 73.05)| |Z|Loch Modan|
+A In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
 
 R Thelsamar |QID|1339| |N|Travel to Thelsamar (28.27, 65.68) (31.15, 70.99) (33.9, 50.9)| |Z|Loch Modan|
 f Thelsamar |QID|1339| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|

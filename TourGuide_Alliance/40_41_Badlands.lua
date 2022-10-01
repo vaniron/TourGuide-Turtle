@@ -38,14 +38,14 @@ A Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz in Valley of Fangs (42.37, 52.
 R Camp Kosh |QID|718| |N|Travel to Camp Kosh (66.90, 23.46)|
 C Mirages |QID|718| |N|Collect Supply Crate from the Excavation Supply Crate in Camp Kosh (66.90, 23.46)|  |OBJ|31|
 R Hammertoe's Digsite |QID|719| |N|Travel to Hammertoe's Digsite (53, 34.1)|
-A A Sign of Hope (1) |QID|720| |N|Crumpled Map in Hammertoe's Digsite (53, 34.1)| |OBJ|222|
+A A Sign of Hope (Part 1) |QID|720| |N|Crumpled Map in Hammertoe's Digsite (53, 34.1)| |OBJ|222|
 C A Dwarf and His Tools |QID|719| |N|Kill Shadowforge mobs until you find Ryedol's Lucky Pick in Hammertoe's Digsite (51, 31)|
 
 T Mirages |QID|718| |N|Sigrun Ironhew in Badlands (53.7, 43.3)|
 A Scrounging |QID|733| |N|Sigrun Ironhew in Badlands (53.7, 43.3)|
 T A Dwarf and His Tools |QID|719| |N|Prospector Ryedol in Badlands (53.4, 43.4)|
-T A Sign of Hope (1) |QID|720| |N|Prospector Ryedol in Badlands (53.4, 43.4)|
-A Tremors of the Earth (1) |QID|732| |N|Garek in Badlands (61.91, 54.23)|
+T A Sign of Hope (Part 1) |QID|720| |N|Prospector Ryedol in Badlands (53.4, 43.4)|
+A Tremors of the Earth (Part 1) |QID|732| |N|Garek in Badlands (61.91, 54.23)|
 
 T Find Agmond |QID|738| |N|Battered Dwarven Skeleton in Agmond's End (50.92, 62.36)|  |PRE|707| |OBJ|211|
 A Murdaloc |QID|739| |N|Battered Dwarven Skeleton in Agmond's End (50.92, 62.36)|  |PRE|707| |OBJ|211|
@@ -63,7 +63,7 @@ T Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz in Valley of Fangs (42.37, 52.
 A News for Fizzle |QID|1137| |N|Martek the Exiled in Valley of Fangs (42.17, 53.10)|  |PRE|1106|
 
 R The Dustbowl |QID|710| |N|Travel to The Dustbowl (25.91, 44.91)|
-A Study of the Elements: Rock (1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+A Study of the Elements: Rock (Part 1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
 A Coolant Heads Prevail |QID|713| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|   |L|3829| |O|
 T Coolant Heads Prevail |QID|713| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|   |O|
 A Gyro... What? |QID|714| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|   |L|4389| |O|
@@ -71,30 +71,30 @@ T Gyro... What? |QID|714| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|   |
 A Liquid Stone |QID|715| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)|   |L|3823| |O|
 T Liquid Stone |QID|715| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)|   |O|
 
-C Study of the Elements: Rock (1) |QID|710| |N|Kill the Lesser Rock Elemental and collect 10 Small Stone Shard (13.12, 38.86)|
-T Study of the Elements: Rock (1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-A Study of the Elements: Rock (2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-C Study of the Elements: Rock (2) |QID|711| |N|Kill Rock Elemental until you've collected 3 Large Stone Slab. They are found either further West or to the South of Badlands (15.52, 32.18)|
+C Study of the Elements: Rock (Part 1) |QID|710| |N|Kill the Lesser Rock Elemental and collect 10 Small Stone Shard (13.12, 38.86)|
+T Study of the Elements: Rock (Part 1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+A Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+C Study of the Elements: Rock (Part 2) |QID|711| |N|Kill Rock Elemental until you've collected 3 Large Stone Slab. They are found either further West or to the South of Badlands (15.52, 32.18)|
 N Rock Elemental Shard |QID|2500.3| |N|Kill Rock Elementals to collect 5 Rock Elemental Shard (15.52, 32.18)|
-T Study of the Elements: Rock (2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-A Study of the Elements: Rock (3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+T Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+A Study of the Elements: Rock (Part 3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
 
 R Camp Cagg |QID|733| |N|Travel to Camp Cagg (10.58, 77.72)|
 C Scrounging |QID|733| |N|Kill Dustbelcher to collect 7 pieces of Scrap Metal in Camp Cagg (10.58, 77.72)|
-C Study of the Elements: Rock (3) |QID|712| |N|Kill the Greater Rock Elemental and collect 5 Bracers of Rock Binding in Camp Cagg (17.03, 84.40)|
+C Study of the Elements: Rock (Part 3) |QID|712| |N|Kill the Greater Rock Elemental and collect 5 Bracers of Rock Binding in Camp Cagg (17.03, 84.40)|
 
 R The Dustbowl |QID|734| |N|Travel to The Dustbowl (25.91, 44.91)|
-T Study of the Elements: Rock (3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-A This Is Going to Be Hard (1) |QID|734| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-T This Is Going to Be Hard (1) |QID|734| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)|
-A This Is Going to Be Hard (2) |QID|777| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)|
-T This Is Going to Be Hard (2) |QID|777| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-A This Is Going to Be Hard (3) |QID|778| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
-C This Is Going to Be Hard (3) |QID|778| |N|Kill the Fam'retor Guardian patrolling around and collect Lotwil's Shackles of Elemental Binding.  It is possible to solo this quest, you will need to abandon the quest and accept it again to retry, it is safe to skip (25.4, 43.6)|
-T This Is Going to Be Hard (3) |QID|778| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|   |O|
+T Study of the Elements: Rock (Part 3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+A This Is Going to Be Hard (Part 1) |QID|734| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+T This Is Going to Be Hard (Part 1) |QID|734| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)|
+A This Is Going to Be Hard (Part 2) |QID|777| |N|Lucien Tosselwrench in The Dustbowl (25.83, 44.29)|
+T This Is Going to Be Hard (Part 2) |QID|777| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+A This Is Going to Be Hard (Part 3) |QID|778| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
+C This Is Going to Be Hard (Part 3) |QID|778| |N|Kill the Fam'retor Guardian patrolling around and collect Lotwil's Shackles of Elemental Binding.  It is possible to solo this quest, you will need to abandon the quest and accept it again to retry, it is safe to skip (25.4, 43.6)|
+T This Is Going to Be Hard (Part 3) |QID|778| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|   |O|
 
 T Scrounging |QID|733| |N|Sigrun Ironhew in Badlands (53.7, 43.3)|
-T Tremors of the Earth (1) |QID|732| |N|Garek in Badlands (61.91, 54.23)|
+T Tremors of the Earth (Part 1) |QID|732| |N|Garek in Badlands (61.91, 54.23)|
 C Fiery Blaze Enchantments |QID|706| |N|Kill Scalding Whelp until you collect a Black Drake's Heart Lethlor Ravine (69.69, 53.67)|
 T Fiery Blaze Enchantments |QID|706| |N|Sigrun Ironhew in Badlands (53.7, 43.3)|
 C Badlands Reagent Run |QID|2500| |N|Kill Buzzards, Coyotes and Rock Elementals to collect 5 Buzzard Gizzard, 10 Crag Coyote Fang and 5 Rock Elemental Shard in Apocryphan's Rest (15.10, 59.84)|

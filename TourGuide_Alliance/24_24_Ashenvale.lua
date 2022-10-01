@@ -8,14 +8,14 @@ T The Ruins of Stardust |QID|1034| |N|Pelturas Whitemoon in Astranaar (37.33, 51
 A Culling the Threat |QID|1054| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale| 
 
 R Fire Scar Shrine |QID|973| |N|Travel to Fire Scar Shrine (36.80, 56.93) (33.76, 59.11) (28.54, 60.57)| |Z|Ashenvale| |O|
-C The Tower of Althalaxx (5) |QID|973| |N|Kill Ilkrud Magthrull and collect Ilkrud Magthrull's Tome in Fire Scar Shrine<br/>This is hard to solo but give it a try otherwise you can safely skip this and all 'The Tower of Althalaxx' follow up (28.54, 60.57) (25.95, 63.13) (25.24, 60.63)| |Z|Ashenvale| |O|
+C The Tower of Althalaxx (Part 5) |QID|973| |N|Kill Ilkrud Magthrull and collect Ilkrud Magthrull's Tome in Fire Scar Shrine<br/>This is hard to solo but give it a try otherwise you can safely skip this and all 'The Tower of Althalaxx' follow up (28.54, 60.57) (25.95, 63.13) (25.24, 60.63)| |Z|Ashenvale| |O|
 
 R Thistlefur Village |QID|1054| |N|Travel to Thistlefur Village (31.25, 46.18) (34.11, 35.38)| |Z|Ashenvale|
 C Culling the Threat |QID|1054| |N|Find and kill Dal Bloodclaw and collect Dal Bloodclaw's Skull. He patrols around this area. If you can pull him solo it will be an easy quest (34.11, 35.38)|
 
 R Maestra's Post |TID|973| |N|Travel to Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |O|
-T The Tower of Althalaxx (5) |QID|973| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |O|
-A The Tower of Althalaxx (6) |QID|1140| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|973|
+T The Tower of Althalaxx (Part 5) |QID|973| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |O|
+A The Tower of Althalaxx (Part 6) |QID|1140| |N|Delgren the Purifier in Maestra's Post (26.20, 38.66)| |Z|Ashenvale| |PRE|973|
 
 R Astranaar |TID|1054| |N|Travel to Astranaar (36.59, 49.59)| |Z|Ashenvale|
 T Culling the Threat |QID|1054| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|

@@ -61,7 +61,7 @@ R Quel'Lithien Lodge |QID|6133| |N|Travel to Quel'Lithien Lodge (51.74, 21.91)| 
 N Quel'Thalas Registry |QID|6133.4| |N|Collect Quel'Thalas Registry from the bench seat in Quel'Lithien Lodge, it is guarded by 2-3 Blood Elfs, you may need help. Try grabbing the book from the other side of the wall, otherwise safe to skip (51.03, 16.25) (52.85, 16.81) (52.15, 18.34)| |Z|Eastern Plaguelands| |OBJ|1128|
 C The Ranger Lord's Behest |QID|6133| |N|Kill the required Blood Elfs in Quel'Lithien Lodge (52.81, 15.92)| |Z|Eastern Plaguelands|
 N As you go... |AYG|5903| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from Skeletons| |L|22526 30|
-C A Plague Upon Thee (1) |QID|5901| |N|Check each waypoint and click on Termite Mound to collect 100 Plagueland Termites in Stratholme (45.83, 34.01) (42.87, 34.26) (42.17, 38.29) (40.62, 31.39) (41.28, 25.40) (43.65, 24.14) (39.72, 23.07) (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands| |OBJ|25661|
+C A Plague Upon Thee (Part 1) |QID|5901| |N|Check each waypoint and click on Termite Mound to collect 100 Plagueland Termites in Stratholme (45.83, 34.01) (42.87, 34.26) (42.17, 38.29) (40.62, 31.39) (41.28, 25.40) (43.65, 24.14) (39.72, 23.07) (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands| |OBJ|25661|
 C Defenders of Darrowshire |QID|5211| |N|Kill Cannibal Ghoul then speak to Darrowshire Spirit that will spawn after the kill to free 15 spirits in Stratholme (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands|
 
 R Terrordale |QID|5282| |N|Travel to Terrordale (14.46, 33.75)| |Z|Eastern Plaguelands|
@@ -111,13 +111,13 @@ T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope
 R Northdale |QID|5845| |N|Travel to Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 C Of Lost Honor |QID|5845| |N|Collect Symbol of Lost Honor in the middle of the lake in Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 T Of Lost Honor |QID|5845| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands|
-A Of Love and Family (1) |QID|5846| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands|
+A Of Love and Family (Part 1) |QID|5846| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands|
 
 R Caer Darrow |TID|5846| |N|Travel to Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
-T Of Love and Family (1) |QID|5846| |N|Artist Renfray in Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
+T Of Love and Family (Part 1) |QID|5846| |N|Artist Renfray in Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
 
 R Undercity |TID|5023| |N|Travel to Undercity Trade Quarter (69.81, 43.23)| |Z|Undercity| |O|
-T Better Late Than Never (2) |QID|5023| |N|Royal Overseer Bauhaus in Trade Quarter (69.81, 43.23)| |Z|Undercity| |O|
+T Better Late Than Never (Part 2) |QID|5023| |N|Royal Overseer Bauhaus in Trade Quarter (69.81, 43.23)| |Z|Undercity| |O|
 A The Jeremiah Blues |QID|5049| |N|Royal Overseer Bauhaus in Trade Quarter (69.81, 43.23)| |Z|Undercity| |PRE|5023|
 T The Jeremiah Blues |QID|5049| |N|Jeremiah Payson in Trade Quarter (67.58, 44.04)| |Z|Undercity| |PRE|5023|
 A Good Luck Charm |QID|5050| |N|Jeremiah Payson in Trade Quarter (67.58, 44.04)| |Z|Undercity| |PRE|5023|

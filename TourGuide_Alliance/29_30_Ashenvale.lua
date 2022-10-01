@@ -14,7 +14,7 @@ A Blessed Arm |QID|322| |N|Glorin Steelbrow in Deepwater Tavern (10.59, 60.59)| 
 R Astranaar |QID|4581| |N|Travel to Astranaar, take the boat to Auberdine then fly to Astranaar (34.66, 48.85)| |Z|Ashenvale|
 A Kayneth Stillwind |QID|4581| |N|Shindrell Swiftfire in Astranaar (34.66, 48.85)| |Z|Ashenvale|
 h Astranaar |QID|1021| |N|Speak to Innkeeper Kimlya and set hearth in Astranaar (36.96, 49.24)| |Z|Ashenvale|
-A Raene's Cleansing (1) |QID|991| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|
+A Raene's Cleansing (Part 1) |QID|991| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|
 T The Ruins of Stardust |QID|1034| |N|Pelturas Whitemoon in Astranaar (37.36, 51.78)| |Z|Ashenvale| |O|
 A Fallen Sky Lake |QID|1035| |N|Pelturas Whitemoon in Astranaar (37.36, 51.78)| |Z|Ashenvale| |PRE|1034|
 
@@ -23,17 +23,17 @@ A The Howling Vale |QID|1022| |N|Sentinel Melyria Frostshadow in The Shrine of A
 A Vile Satyr! Dryads in Danger! |QID|1021| |N|Illiyana in The Shrine of Aessina (21.6, 53.2)| |Z|Ashenvale|
 
 R Lake Falathim |QID|1023| |N|Travel to Lake Falathim (20.32, 42.39)| |Z|Ashenvale|
-T Raene's Cleansing (1) |QID|991| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale|
-A Raene's Cleansing (2) |QID|1023| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale|
-C Raene's Cleansing (2) |QID|1023| |N|Kill the Saltspittle Oracle, Saltspittle Puddlejumper or Saltspittle Warrior at the nearby lake until you've collected the Glowing Gem (19, 43)|
+T Raene's Cleansing (Part 1) |QID|991| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale|
+A Raene's Cleansing (Part 2) |QID|1023| |N|Teronis' Corpse in Lake Falathim (20.32, 42.39)| |Z|Ashenvale|
+C Raene's Cleansing (Part 2) |QID|1023| |N|Kill the Saltspittle Oracle, Saltspittle Puddlejumper or Saltspittle Warrior at the nearby lake until you've collected the Glowing Gem (19, 43)|
 
 R Astranaar |QID|1024| |N|Travel to Astranaar (36.59, 49.59)| |Z|Ashenvale|
-T Raene's Cleansing (2) |QID|1023| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|
-A Raene's Cleansing (3) |QID|1024| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|
+T Raene's Cleansing (Part 2) |QID|1023| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|
+A Raene's Cleansing (Part 3) |QID|1024| |N|Raene Wolfrunner in Astranaar (36.59, 49.59)| |Z|Ashenvale|
 
 R Moonwell |QID|1026| |N|Travel to Moonwell (48, 47) (53.49, 46.30)| |Z|Ashenvale|
-T Raene's Cleansing (3) |QID|1024| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale|
-A Raene's Cleansing (4) |QID|1026| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale|
+T Raene's Cleansing (Part 3) |QID|1024| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale|
+A Raene's Cleansing (Part 4) |QID|1026| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale|
 
 R Night Run |QID|1140| |N|Travel to Night Run (58.26, 59.71) (64.88, 43.75)| |O|
 N Free the Highborne soul in Night Run |QID|1140.1| |N|Click on the Circle of Imprisonment on the ground in Night Run (66.61, 56.96)| |Z|Ashenvale| |O|

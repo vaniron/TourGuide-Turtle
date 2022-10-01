@@ -17,21 +17,21 @@ T Reassignment |QID|563| |N|Major Samuelson in Stormwind Keep (72.66, 15.92)| |Z
 N Sealed Note to Watcher Backus |QID|1243| |N|Withdraw Sealed Note to Watcher Backus from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5960| |OO|
 N Crate of Crash Helmets |QID|1179| |N|Store Crate of Crash Helmets to the bank (57.00, 72.81)| |Z|Stormwind City| |L|5849| |O|
 
-T The Legend of Stalvan (7) |QID|74| |N|Marshal Haggard in Eastvale Logging Camp (84.59, 69.37)| |Z|Elwynn Forest| |O|
-A The Legend of Stalvan (8) |QID|75| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
-C The Legend of Stalvan (8) |QID|75| |N|Collect A Faded Journal Page from Marshal Haggard's chest in Eastvale Logging Camp (85.68, 69.59)| |Z|Elwynn Forest| |PRE|74|
-T The Legend of Stalvan (8) |QID|75| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
-A The Legend of Stalvan (9) |QID|78| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
+T The Legend of Stalvan (Part 7) |QID|74| |N|Marshal Haggard in Eastvale Logging Camp (84.59, 69.37)| |Z|Elwynn Forest| |O|
+A The Legend of Stalvan (Part 8) |QID|75| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
+C The Legend of Stalvan (Part 8) |QID|75| |N|Collect A Faded Journal Page from Marshal Haggard's chest in Eastvale Logging Camp (85.68, 69.59)| |Z|Elwynn Forest| |PRE|74|
+T The Legend of Stalvan (Part 8) |QID|75| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
+A The Legend of Stalvan (Part 9) |QID|78| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
 
-T The Legend of Stalvan (9) |QID|78| |N|Tavernkeep Smitts in Darkshire (73.76, 44.50)| |Z|Duskwood| |PRE|74|
-A The Legend of Stalvan (10) |QID|79| |N|Tavernkeep Smitts in Darkshire (73.76, 44.50)| |Z|Duskwood| |PRE|74|
-T The Legend of Stalvan (10) |QID|79| |N|Commander Althea Ebonlocke in Darkshire (73.63, 46.91)| |Z|Duskwood| |PRE|74|
+T The Legend of Stalvan (Part 9) |QID|78| |N|Tavernkeep Smitts in Darkshire (73.76, 44.50)| |Z|Duskwood| |PRE|74|
+A The Legend of Stalvan (Part 10) |QID|79| |N|Tavernkeep Smitts in Darkshire (73.76, 44.50)| |Z|Duskwood| |PRE|74|
+T The Legend of Stalvan (Part 10) |QID|79| |N|Commander Althea Ebonlocke in Darkshire (73.63, 46.91)| |Z|Duskwood| |PRE|74|
 A The Legend of Stalvan (11) |QID|80| |N|Commander Althea Ebonlocke in Darkshire (73.63, 46.91)| |Z|Duskwood| |PRE|74|
 T The Legend of Stalvan (11) |QID|80| |N|Clerk Daltry in Darkshire (72.59, 46.84)| |Z|Duskwood| |PRE|74|
 A The Legend of Stalvan (12) |QID|97| |N|Clerk Daltry in Darkshire (72.59, 46.84)| |Z|Duskwood| |PRE|74|
 T The Legend of Stalvan (12) |QID|97| |N|Commander Althea Ebonlocke in Darkshire (73.56, 46.88)| |Z|Duskwood| |PRE|74|
 A The Legend of Stalvan (13) |QID|98| |N|Commander Althea Ebonlocke in Darkshire (73.56, 46.88)| |Z|Duskwood| |PRE|74|
-T The Missing Diplomat (4) |QID|1243| |N|Watcher Backus in Darkshire, skip follow up (72.80, 33.42)| |Z|Duskwood| |O|
+T The Missing Diplomat (Part 4) |QID|1243| |N|Watcher Backus in Darkshire, skip follow up (72.80, 33.42)| |Z|Duskwood| |O|
 C The Legend of Stalvan (13) |QID|98| |N|Kill Stalvan Mistmantle and collect Mistmantle Family Ring in Manor Mistmantle (77.36, 36.16)| |Z|Duskwood| |PRE|74|
 T The Legend of Stalvan (13) |QID|98| |N|Madame Eva in Darkshire (75.76, 45.31)| |Z|Duskwood| |PRE|74|
 
@@ -59,30 +59,30 @@ A Special Forces |QID|574| |N|Sergeant Yohwa in Rebel Camp (38.02, 3.36)| |Z|Str
 R Nesingwary's Expedition |QID|583| |N|Travel to Nesingwary's Expedition (35.67, 10.52)| |Z|Stranglethorn Vale|
 A Welcome to the Jungle |QID|583| |N|Barnil Stonepot in Nesingwary's Expedition (35.67, 10.52)| |Z|Stranglethorn Vale|
 T Welcome to the Jungle |QID|583| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
-A Raptor Mastery (1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
-A Tiger Mastery (1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.62, 10.62)| |Z|Stranglethorn Vale|
-A Panther Mastery (1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.63, 10.51)| |Z|Stranglethorn Vale| 
+A Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.62, 10.62)| |Z|Stranglethorn Vale|
+A Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.63, 10.51)| |Z|Stranglethorn Vale| 
 N Keep Pages |QID|185| |N|Keep any Green Hills of Stranglethorn - Page 1 type pages that you find, it is a random drop from any Humanoids enemies in Stranglethorn Vale. You can also buy or sell these pages for decent profit in the Auction House if you fail to complete it. Tick this step|
-C Tiger Mastery (1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger in Stranglethorn Vale (35.00, 12.10)| |Z|Stranglethorn Vale|
+C Tiger Mastery (Part 1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger in Stranglethorn Vale (35.00, 12.10)| |Z|Stranglethorn Vale|
 
 R Nesingwary's Expedition |QID|186| |N|Travel to Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
-T Tiger Mastery (1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
-A Tiger Mastery (2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
-C Panther Mastery (1) |QID|190| |N|Kill 10 Young Panther in Stranglethorn Vale (42.31, 13.06)| |Z|Stranglethorn Vale|
-C Tiger Mastery (2) |QID|186| |N|Kill 10 Stranglethorn Tiger in Stranglethorn Vale (46.90, 15.60)| |Z|Stranglethorn Vale|
-T Tiger Mastery (2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
-A Tiger Mastery (3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
-T Panther Mastery (1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
-A Panther Mastery (2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
-C Raptor Mastery (1) |QID|194| |N|Kill 10 Stranglethorn Raptor in Stranglethorn Vale (30.72, 8.25)(24.52, 15.86)| |Z|Stranglethorn Vale|
-C Panther Mastery (2) |QID|191| |N|Kill 10 Panther in Stranglethorn Vale (28.42, 11.88)| |Z|Stranglethorn Vale|
-C Tiger Mastery (3) |QID|187| |N|Kill 10 Elder Stranglethorn Tiger in Stranglethorn Vale (32.11, 18.34)| |Z|Stranglethorn Vale|
-T Raptor Mastery (1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
-A Raptor Mastery (2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
-T Tiger Mastery (3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
-A Tiger Mastery (4) |QID|188| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
-T Panther Mastery (2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
-A Panther Mastery (3) |QID|192| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
+T Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.65)| |Z|Stranglethorn Vale|
+C Panther Mastery (Part 1) |QID|190| |N|Kill 10 Young Panther in Stranglethorn Vale (42.31, 13.06)| |Z|Stranglethorn Vale|
+C Tiger Mastery (Part 2) |QID|186| |N|Kill 10 Stranglethorn Tiger in Stranglethorn Vale (46.90, 15.60)| |Z|Stranglethorn Vale|
+T Tiger Mastery (Part 2) |QID|186| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.63, 10.63)| |Z|Stranglethorn Vale|
+T Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
+A Panther Mastery (Part 2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.57, 10.55)| |Z|Stranglethorn Vale|
+C Raptor Mastery (Part 1) |QID|194| |N|Kill 10 Stranglethorn Raptor in Stranglethorn Vale (30.72, 8.25)(24.52, 15.86)| |Z|Stranglethorn Vale|
+C Panther Mastery (Part 2) |QID|191| |N|Kill 10 Panther in Stranglethorn Vale (28.42, 11.88)| |Z|Stranglethorn Vale|
+C Tiger Mastery (Part 3) |QID|187| |N|Kill 10 Elder Stranglethorn Tiger in Stranglethorn Vale (32.11, 18.34)| |Z|Stranglethorn Vale|
+T Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
+A Raptor Mastery (Part 2) |QID|195| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.79)| |Z|Stranglethorn Vale|
+T Tiger Mastery (Part 3) |QID|187| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
+A Tiger Mastery (Part 4) |QID|188| |N|Ajeck Rouack in Nesingwary's Expedition (35.61, 10.62)| |Z|Stranglethorn Vale|
+T Panther Mastery (Part 2) |QID|191| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
+A Panther Mastery (Part 3) |QID|192| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.56, 10.56)| |Z|Stranglethorn Vale|
 
 R Booty Bay |QID|616| |N|Travel to Booty Bay (35.49, 16.66) (37.22, 21.99) (41.90, 23.52) (39.18, 25.88) (38.43, 30.42) (40.71, 33.56) (40.45, 37.85) (36.79, 48.87) (33.58, 51.25) (30.67, 72.37) (28.23, 73.10)| |Z|Stranglethorn Vale|
 T Krazek's Cookery |QID|210| |N|Booty Bay Bruiser in The Salty Sailor Tavern, skip follow up (26.96, 77.20)| |Z|Stranglethorn Vale|

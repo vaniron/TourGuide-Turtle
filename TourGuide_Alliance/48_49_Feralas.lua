@@ -4,14 +4,14 @@ TourGuide:RegisterGuide("Feralas (48-49)", "Tanaris (49-50)", "Alliance",functio
 return [[
 
 R Swamp of Sorrows |QID|4450| |N|Travel to Swamp of Sorrows (22, 48)| |Z|Swamp of Sorrows| |O|
-T Cortello's Riddle (1) |QID|624| |N|A Soggy Scroll - under the bridge (22.9, 48.2)| |Z|Swamp of Sorrows| |O| |OBJ|164|
-A Cortello's Riddle (2) |QID|625| |N|A Soggy Scroll (22.9, 48.2)| |Z|Swamp of Sorrows| |PRE|624| |OBJ|164|
+T Cortello's Riddle (Part 1) |QID|624| |N|A Soggy Scroll - under the bridge (22.9, 48.2)| |Z|Swamp of Sorrows| |O| |OBJ|164|
+A Cortello's Riddle (Part 2) |QID|625| |N|A Soggy Scroll (22.9, 48.2)| |Z|Swamp of Sorrows| |PRE|624| |OBJ|164|
 
 K Jarquia |QID|4450.4| |N|Kill Jarquia and collect Goodsteel's Balanced Flameberge in Misty Reed Strand (94.81, 52.06)| |Z|Swamp of Sorrows| |O| 
 
 R Ironforge |QID|3763| |N|Travel to Ironforge (18.41, 51.49)| |Z|Ironforge| 
 A Assisting Arch Druid Staghelm |QID|3763| |N|Innkeeper Firebrew in Ironforge (18.41, 51.49)| |Z|Ironforge| 
-A A Little Slime Goes a Long Way (1) |QID|4512| |N|Laris Geardawdle in The Library (75.64, 23.12)| |Z|Ironforge| 
+A A Little Slime Goes a Long Way (Part 1) |QID|4512| |N|Laris Geardawdle in The Library (75.64, 23.12)| |Z|Ironforge| 
 N Snapshot of Gammerita |QID|2944| |N|Withdraw Snapshot of Gammerita from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|9330| |OO| 
 N Super Snapper FX |QID|2944| |N|Withdraw Super Snapper FX from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|9328| |OO| 
 N Wildkin Feather |QID|3661| |N|Withdraw Wildkin Feather from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|10819| |OO| 

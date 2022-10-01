@@ -5,10 +5,10 @@ return [[
 R Auberdine |QID|741| |N|Travel to Auberdine (37.21, 44.27)| |Z|Darkshore|
 h Auberdine |QID|741| |N|Speak to Innkeeper Shaussiy and set hearth in Auberdine (37, 44.1)|
 T WANTED: Murkdeep! |QID|4740| |N|Sentinel Glynda Nal'Shea in Auberdine (37.70, 43.44)| |Z|Darkshore| |O|
-T The Absent Minded Prospector (2) |QID|731| |N|Archaeologist Hollee in Auberdine (37.46, 41.88)| |Z|Darkshore| |O|
-A The Absent Minded Prospector (3) |QID|741| |N|Archaeologist Hollee in Auberdine (37.46, 41.88)| |Z|Darkshore| |PRE|731|
-T How Big a Threat? (2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)| |O|
-A A Lost Master (1) |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)| |Z|Darkshore| |PRE|985|
+T The Absent Minded Prospector (Part 2) |QID|731| |N|Archaeologist Hollee in Auberdine (37.46, 41.88)| |Z|Darkshore| |O|
+A The Absent Minded Prospector (Part 3) |QID|741| |N|Archaeologist Hollee in Auberdine (37.46, 41.88)| |Z|Darkshore| |PRE|731|
+T How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)| |O|
+A A Lost Master (Part 1) |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)| |Z|Darkshore| |PRE|985|
 
 R Ruins of Mathystra |TID|951| |N|Travel to Ruins of Mathystra (58.50, 24.31)| |Z|Darkshore| |O|
 T Return to Onu |QID|950| |N|Onu in Grove of the Ancients (43.55, 76.32)| |O|
@@ -27,14 +27,14 @@ T Gyromast's Revenge |QID|2078| |N|Gelkak Gyromast in Mist's Edge (56.67, 13.51)
 N Gyromast's Key |QID|950| |N|Destroy Gyromast's Key as it is no longer needed| |L|7442| |O|
 
 R Auberdine |TID|986| |N|Travel to Auberdine (37.21, 44.27)| |Z|Darkshore|
-T A Lost Master (1) |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)| |Z|Darkshore| |PRE|985|
-A A Lost Master (2) |QID|993| |N|Terenthis in Auberdine (39.34, 43.49)| |Z|Darkshore| |PRE|985|
+T A Lost Master (Part 1) |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)| |Z|Darkshore| |PRE|985|
+A A Lost Master (Part 2) |QID|993| |N|Terenthis in Auberdine (39.34, 43.49)| |Z|Darkshore| |PRE|985|
 
 R Grove of the Ancients |QID|951| |N|Travel to Grove of the Ancients (43.57, 76.34)| |Z|Darkshore|
 T Mathystra Relics |QID|951| |N|Onu in Grove of the Ancients (43.57, 76.34)| |Z|Darkshore| |PRE|950|
 
 R Blackwood Den |TID|993| |N|Travel to Blackwood Den (44.96, 85.33)| |Z|Darkshore| |PRE|985|
-T A Lost Master (2) |QID|993| |N|Volcor in Blackwood Den<br/><b>You can use the Enchanted Moonstalker Cloak to stealth pass the mobs (44.96, 85.33)| |Z|Darkshore| |PRE|985|
+T A Lost Master (Part 2) |QID|993| |N|Volcor in Blackwood Den<br/><b>You can use the Enchanted Moonstalker Cloak to stealth pass the mobs (44.96, 85.33)| |Z|Darkshore| |PRE|985|
 N Accept Quest |N|Volcor in Blackwood Den. Select either 'Escape Through Force' for Steadfast Cinch (hard) or 'Escape Through Stealth' for Scarab Trousers (easy)| |PRE|985| |OID|994, 995|
 A Escape Through Force |QID|994| |N|Volcor in Blackwood Den (44.96, 85.33)| |Z|Darkshore| |PRE|985| |OID|995|
 C Escape Through Force |QID|994| |N|Escort Volcor until he escape in Blackwood Den (42, 81)| |Z|Darkshore| |PRE|985| |OID|995|
@@ -48,8 +48,8 @@ T Escape Through Stealth |QID|994| |N|Terenthis in Auberdine (39.34, 43.48)| |Z|
 R Darnassus |TID|741| |N|Travel to Darnassus (31.37, 84.14)| |Z|Darnassus| |PRE|731|
 N Elixir of Water Breathing |TID|741| |N|Store Elixir of Water Breathing to the bank (39.88, 42.21)| |Z|Darnassus| |L|5996| |O|
 N Book: The Powers Below |QID|968| |N|Store Book: The Powers Below to the bank (39.88, 42.21)| |Z|Darnassus| |L|5352| |O|
-T The Absent Minded Prospector (3) |QID|741| |N|Chief Archaeologist Greywhisker in Darnassus (31.37, 84.14)| |Z|Darnassus| |PRE|731|
-A The Absent Minded Prospector (4) |QID|942| |N|Chief Archaeologist Greywhisker in Darnassus (31.28, 83.65)| |Z|Darnassus| |PRE|731|
+T The Absent Minded Prospector (Part 3) |QID|741| |N|Chief Archaeologist Greywhisker in Darnassus (31.37, 84.14)| |Z|Darnassus| |PRE|731|
+A The Absent Minded Prospector (Part 4) |QID|942| |N|Chief Archaeologist Greywhisker in Darnassus (31.28, 83.65)| |Z|Darnassus| |PRE|731|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

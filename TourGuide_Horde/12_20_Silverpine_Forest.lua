@@ -26,7 +26,7 @@ A Supplying the Sepulcher |QID|6321| |N|Deathguard Podrig in The Sepulcher (43.4
 T Delivery to Silverpine Forest |QID|445| |N|Apothecary Renferrel in The Sepulcher (42.80, 40.91)| |Z|Silverpine Forest|
 T Wild Hearts |QID|429| |N|Apothecary Renferrel in The Sepulcher (42.77, 40.90)| |Z|Silverpine Forest|
 A Return to Quinn |QID|430| |N|Apothecary Renferrel in The Sepulcher (42.75, 41.00)| |Z|Silverpine Forest|
-A A Recipe For Death (1) |QID|447| |N|Apothecary Renferrel in The Sepulcher (42.80, 40.91)| |Z|Silverpine Forest|
+A A Recipe For Death (Part 1) |QID|447| |N|Apothecary Renferrel in The Sepulcher (42.80, 40.91)| |Z|Silverpine Forest|
 h The Sepulcher |QID|6323| |N|Speak to Innkeeper Bates and set hearth in The Sepulcher (43.16, 41.30)| |Z|Silverpine Forest|
 T The Deathstalkers' Report |QID|449| |N|High Executor Hadrec in The Sepulcher (43.42, 40.86)| |Z|Silverpine Forest|
 A Speak with Renferrel |QID|3221| |N|High Executor Hadrec in The Sepulcher (43.44, 40.86)| |Z|Silverpine Forest|
@@ -51,12 +51,12 @@ T Return to Podrig |QID|6324| |N|Deathguard Podrig in The Sepulcher (43.44, 41.6
 N As you go... |AYG|421| |QID|447| |N|Kill Giant Grizzled Bear and collect 6 Grizzled Bear Heart|
 C Prove Your Worth |QID|421| |N|Kill 5 Moonrage Whitescalp just outside of The Sepulcher (51.40, 45.05)| |Z|Silverpine Forest|
 T Prove Your Worth |QID|421| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.80)| |Z|Silverpine Forest|
-A Arugal's Folly (1) |QID|422| |N|Dalar Dawnweaver in The Sepulcher (44.22, 39.77)| |Z|Silverpine Forest|
+A Arugal's Folly (Part 1) |QID|422| |N|Dalar Dawnweaver in The Sepulcher (44.22, 39.77)| |Z|Silverpine Forest|
 R The Dead Field |QID|437| |N|Travel to The Dead Field (44.22, 37.52) (44.62, 30.87) (45.37, 21.19)| |Z|Silverpine Forest|
 K Nightlash |QID|437.2| |N|Kill Nightlash and collect Essence of Nightlash in the middle of The Dead Field (45.37, 21.19)| |Z|Silverpine Forest|
 
 R The Skittering Dark |QID|447| |N|Travel to The Skittering Dark (42.40, 18.23)| |Z|Silverpine Forest|
-C A Recipe For Death (1) |QID|447| |N|Kill Giant Grizzled Bear and Moss Stalker and collect 6 Grizzled Bear Heart, 6Skittering Blood in The Skittering Dark (42.40, 18.23) (35.44, 12.66)| |Z|Silverpine Forest|
+C A Recipe For Death (Part 1) |QID|447| |N|Kill Giant Grizzled Bear and Moss Stalker and collect 6 Grizzled Bear Heart, 6Skittering Blood in The Skittering Dark (42.40, 18.23) (35.44, 12.66)| |Z|Silverpine Forest|
 
 R The Ivar Patch |QID|425| |N|Travel to The Ivar Patch (53.44, 13.40)| |Z|Silverpine Forest|
 T Return to Quinn |QID|430| |N|Quinn Yorick in The Ivar Patch, he's upstairs in the building (53.42, 12.62)| |Z|Silverpine Forest|
@@ -65,23 +65,23 @@ C Ivar the Foul |QID|425| |N|Kill Ivar the Foul and collect Ivar's Head in The I
 T Ivar the Foul |QID|425| |N|Rane Yorick in The Ivar Patch (53.46, 13.42)| |Z|Silverpine Forest|
 
 R Valgan's Field |QID|422| |N|Travel to Valgan's Field (52.83, 28.55)| |Z|Silverpine Forest|
-C Arugal's Folly (1) |QID|422| |N|Collect Remedy of Arugal from the Dusty Spellbooks inside the house in Valgan's Field (52.83, 28.55)| |Z|Silverpine Forest|
+C Arugal's Folly (Part 1) |QID|422| |N|Collect Remedy of Arugal from the Dusty Spellbooks inside the house in Valgan's Field (52.83, 28.55)| |Z|Silverpine Forest|
 
 R The Sepulcher |OID|438| |N|Travel to The Sepulcher (49.07, 38.17) (44.21, 39.79)| |Z|Silverpine Forest|
-T Arugal's Folly (1) |QID|422| |N|Dalar Dawnweaver in The Sepulcher (44.21, 39.79)| |Z|Silverpine Forest|
-A Arugal's Folly (2) |QID|423| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.88)| |Z|Silverpine Forest|
+T Arugal's Folly (Part 1) |QID|422| |N|Dalar Dawnweaver in The Sepulcher (44.21, 39.79)| |Z|Silverpine Forest|
+A Arugal's Folly (Part 2) |QID|423| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.88)| |Z|Silverpine Forest|
 T The Dead Fields |QID|437| |N|High Executor Hadrec in The Sepulcher (43.40, 40.87)| |Z|Silverpine Forest|
 A The Decrepit Ferry |QID|438| |N|High Executor Hadrec in The Sepulcher (43.40, 40.87)| |Z|Silverpine Forest|
 
 R Deep Elem Mine |QID|423| |N|Travel to Deep Elem Mine (56.60, 44.59)| |Z|Silverpine Forest|
-C Arugal's Folly (2) |QID|423| |N|Kill Moonrage Glutton, Moonrage Darksoul to collect 6 Glutton Shackle, Darksoul Shackle in Deep Elem Mine. Moonrage Darksoul are mostly inside the mine (57.70, 44.81)| |Z|Silverpine Forest|
+C Arugal's Folly (Part 2) |QID|423| |N|Kill Moonrage Glutton, Moonrage Darksoul to collect 6 Glutton Shackle, Darksoul Shackle in Deep Elem Mine. Moonrage Darksoul are mostly inside the mine (57.70, 44.81)| |Z|Silverpine Forest|
 
 T Border Crossings |QID|477| |N|Dalaran Crate in Silverpine Forest (49.89, 60.36)| |Z|Silverpine Forest| |OBJ|31|
 A Maps and Runes |QID|478| |N|Dalaran Crate in Silverpine Forest (49.89, 60.36)| |Z|Silverpine Forest| |OBJ|31|
 
 R The Sepulcher |QID|424| |N|Travel to The Sepulcher (44.20, 39.82)| |Z|Silverpine Forest|
-T Arugal's Folly (2) |QID|423| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.82)| |Z|Silverpine Forest|
-A Arugal's Folly (3) |QID|424| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.82)| |Z|Silverpine Forest|
+T Arugal's Folly (Part 2) |QID|423| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.82)| |Z|Silverpine Forest|
+A Arugal's Folly (Part 3) |QID|424| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.82)| |Z|Silverpine Forest|
 T Maps and Runes |QID|478| |N|Shadow Priest Allister in The Sepulcher (43.99, 40.91)| |Z|Silverpine Forest|
 A Dalar's Analysis |QID|481| |N|Shadow Priest Allister in The Sepulcher (43.99, 40.91)| |Z|Silverpine Forest|
 T Dalar's Analysis |QID|481| |N|Dalar Dawnweaver in The Sepulcher (44.19, 39.80)| |Z|Silverpine Forest|
@@ -94,14 +94,14 @@ T The Decrepit Ferry |QID|438| |N|Corpse Laden Boat in The Decrepit Ferry (58.22
 A Rot Hide Clues |QID|439| |N|Corpse Laden Boat in The Decrepit Ferry (58.22, 34.84)| |Z|Silverpine Forest| |OBJ|124|
 
 R Deep Elem Mine |QID|423| |N|Travel to Deep Elem Mine (56.60, 44.59)| |Z|Silverpine Forest|
-C Arugal's Folly (3) |QID|424| |N|Kill Grimson the Pale and collect Head of Grimson in Deep Elem Mine (56.57, 46.01) (58.54, 44.87)| |Z|Silverpine Forest|
+C Arugal's Folly (Part 3) |QID|424| |N|Kill Grimson the Pale and collect Head of Grimson in Deep Elem Mine (56.57, 46.01) (58.54, 44.87)| |Z|Silverpine Forest|
 
 R Ambermill |QID|479| |N|Travel to Ambermill (54.28, 64.41) (60.07, 65.62)| |Z|Silverpine Forest|
 C Ambermill Investigations |QID|479| |N|Kill Dalaran humans and collect 8 Dalaran Pendant in Ambermill (59.97, 64.24)| |Z|Silverpine Forest|
 
 R The Sepulcher |OID|440| |N|Travel to The Sepulcher (44.21, 39.84)| |Z|Silverpine Forest|
-T Arugal's Folly (3) |QID|424| |N|Dalar Dawnweaver in The Sepulcher (44.21, 39.84)| |Z|Silverpine Forest|
-A Arugal's Folly (4) |QID|99| |N|Dalar Dawnweaver in The Sepulcher (44.27, 39.81)| |Z|Silverpine Forest|
+T Arugal's Folly (Part 3) |QID|424| |N|Dalar Dawnweaver in The Sepulcher (44.21, 39.84)| |Z|Silverpine Forest|
+A Arugal's Folly (Part 4) |QID|99| |N|Dalar Dawnweaver in The Sepulcher (44.27, 39.81)| |Z|Silverpine Forest|
 T Ambermill Investigations |QID|479| |N|Shadow Priest Allister in The Sepulcher (43.98, 40.96)| |Z|Silverpine Forest|
 A The Weaver |QID|480| |N|Shadow Priest Allister in The Sepulcher (43.98, 40.96)| |Z|Silverpine Forest|
 T Rot Hide Clues |QID|439| |N|High Executor Hadrec in The Sepulcher (43.41, 40.84)| |Z|Silverpine Forest|
@@ -109,8 +109,8 @@ A Rot Hide Ichor |QID|443| |N|High Executor Hadrec in The Sepulcher (43.41, 40.8
 A The Engraved Ring |QID|440| |N|High Executor Hadrec in The Sepulcher (43.41, 40.84)| |Z|Silverpine Forest|
 
 R Undercity |QID|450| |N|Travel to The Apothecarium in Undercity (48.88, 69.45)| |Z|Undercity|
-T A Recipe For Death (1) |QID|447| |N|Master Apothecary Faranell in The Apothecarium (48.88, 69.45)| |Z|Undercity|
-A A Recipe For Death (2) |QID|450| |N|Master Apothecary Faranell in The Apothecarium (48.88, 69.45)| |Z|Undercity|
+T A Recipe For Death (Part 1) |QID|447| |N|Master Apothecary Faranell in The Apothecarium (48.88, 69.45)| |Z|Undercity|
+A A Recipe For Death (Part 2) |QID|450| |N|Master Apothecary Faranell in The Apothecarium (48.88, 69.45)| |Z|Undercity|
 
 R Brill Town Hall |QID|441| |N|Travel to Brill Town Hall (61.26, 50.85)| |Z|Tirisfal|
 T The Engraved Ring |QID|440| |N|Magistrate Sevren in Brill Town Hall (61.26, 50.85)| |Z|Tirisfal|
@@ -180,11 +180,11 @@ C Southsea Freebooters |QID|887| |N|Kill 12 Southsea Brigand and 6 Southsea Cann
 
 R Ratchet |QID|890| |N|Travel to Ratchet (62.66, 36.26)| |Z|The Barrens|
 T Southsea Freebooters |QID|887| |N|Gazlowe in Ratchet (62.66, 36.26)| |Z|The Barrens|
-A The Missing Shipment (1) |QID|890| |N|Gazlowe in Ratchet (62.66, 36.26)| |Z|The Barrens|
+A The Missing Shipment (Part 1) |QID|890| |N|Gazlowe in Ratchet (62.66, 36.26)| |Z|The Barrens|
 T WANTED: Baron Longshore |QID|895| |N|Gazlowe in Ratchet (62.66, 36.26)| |Z|The Barrens|
-T The Missing Shipment (1) |QID|890| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)| |Z|The Barrens|
-A The Missing Shipment (2) |QID|892| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)| |Z|The Barrens|
-T The Missing Shipment (2) |QID|892| |N|Gazlowe in Ratchet (62.66, 36.26)| |Z|The Barrens|
+T The Missing Shipment (Part 1) |QID|890| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)| |Z|The Barrens|
+A The Missing Shipment (Part 2) |QID|892| |N|Wharfmaster Dizzywig in Ratchet (63.34, 38.44)| |Z|The Barrens|
+T The Missing Shipment (Part 2) |QID|892| |N|Gazlowe in Ratchet (62.66, 36.26)| |Z|The Barrens|
 
 R The Crossroads |OID|872| |N|Travel to The Crossroads (51.93, 30.33)| |Z|The Barrens|
 T The Zhevra |QID|845| |N|Sergra Darkthorn in The Crossroads (52.23, 31.00)| |Z|The Barrens|
@@ -336,13 +336,13 @@ A Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Renferrel in The Sepulc
 h The Sepulcher |QID|516| |N|Speak to Innkeeper Bates and set hearth in The Sepulcher (43.16, 41.30)| |Z|Silverpine Forest|
 
 R Pyrewood Village |QID|450| |N|Travel to Pyrewood Village (48.75, 74.59)| |Z|Silverpine Forest|
-C A Recipe For Death (2) |QID|450| |N|Follow the waypoint to the back entrance and sneak around the back to avoid most of the guards. Collect Berard's Journal from Berard's Bookshelf upstairs on the room to your right, the room is guarded by Apothecary Berard level 16 elite (47.00, 74.57) (46.08, 75.46) (45.07, 75.71) (42.62, 73.60) (43.11, 72.47) (43.95, 73.27) (42.96, 73.23)| |Z|Silverpine Forest| |OBJ|137|
-C Arugal's Folly (4) |QID|99| |N|Kill Pyrewood humans and collect 6 Miners' Union Card in Pyrewood Village (46.97, 72.46)| |Z|Silverpine Forest|
+C A Recipe For Death (Part 2) |QID|450| |N|Follow the waypoint to the back entrance and sneak around the back to avoid most of the guards. Collect Berard's Journal from Berard's Bookshelf upstairs on the room to your right, the room is guarded by Apothecary Berard level 16 elite (47.00, 74.57) (46.08, 75.46) (45.07, 75.71) (42.62, 73.60) (43.11, 72.47) (43.95, 73.27) (42.96, 73.23)| |Z|Silverpine Forest| |OBJ|137|
+C Arugal's Folly (Part 4) |QID|99| |N|Kill Pyrewood humans and collect 6 Miners' Union Card in Pyrewood Village (46.97, 72.46)| |Z|Silverpine Forest|
 
 R The Sepulcher |OID|451| |N|Travel to The Sepulcher (42.95, 41.98)| |Z|Silverpine Forest|
-T Arugal's Folly (4) |QID|99| |N|Dalar Dawnweaver in The Sepulcher (44.21, 39.80)| |Z|Silverpine Forest|
-T A Recipe For Death (2) |QID|450| |N|Apothecary Renferrel in The Sepulcher (42.80, 40.89)| |Z|Silverpine Forest|
-A A Recipe For Death (3) |QID|451| |N|Apothecary Renferrel in The Sepulcher (42.85, 40.95)| |Z|Silverpine Forest|
+T Arugal's Folly (Part 4) |QID|99| |N|Dalar Dawnweaver in The Sepulcher (44.21, 39.80)| |Z|Silverpine Forest|
+T A Recipe For Death (Part 2) |QID|450| |N|Apothecary Renferrel in The Sepulcher (42.80, 40.89)| |Z|Silverpine Forest|
+A A Recipe For Death (Part 3) |QID|451| |N|Apothecary Renferrel in The Sepulcher (42.85, 40.95)| |Z|Silverpine Forest|
 
 R Fenris Isle |QID|451| |N|Travel to Fenris Isle (60.02, 34.34) (64.62, 33.37) (65.67, 33.80)| |Z|Silverpine Forest|
 N Lake Skulker Moss |QID|451.1| |N|Kill Lake Skulker and collect 6 Lake Skulker Moss in Fenris Isle (71.32, 36.80)| |Z|Silverpine Forest|
@@ -364,7 +364,7 @@ T Rot Hide Ichor |QID|443| |N|Apothecary Renferrel in The Sepulcher (42.79, 40.9
 A Rot Hide Origins |QID|444| |N|Apothecary Renferrel in The Sepulcher (42.79, 40.90)| |Z|Silverpine Forest|
 
 R Undercity |OID|446| |N|Travel to The Apothecarium in Undercity (48.72, 69.30)| |Z|Undercity|
-T A Recipe For Death (3) |QID|451| |N|Master Apothecary Faranell in The Apothecarium (48.72, 69.30)| |Z|Undercity|
+T A Recipe For Death (Part 3) |QID|451| |N|Master Apothecary Faranell in The Apothecarium (48.72, 69.30)| |Z|Undercity|
 T Rot Hide Origins |QID|444| |N|Bethor Iceshard in Magic Quarter (84.16, 17.41)| |Z|Undercity|
 T Wand to Bethor |QID|491| |N|Bethor Iceshard in Magic Quarter (84.16, 17.41)| |Z|Undercity|
 A Thule Ravenclaw |QID|446| |N|Bethor Iceshard in Magic Quarter (84.16, 17.41)| |Z|Undercity|

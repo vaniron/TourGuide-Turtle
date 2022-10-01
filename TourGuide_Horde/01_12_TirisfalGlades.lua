@@ -53,19 +53,19 @@ A The Red Messenger |QID|382| |N|Executor Arren in Deathknell (32.14, 65.96)|
 C The Red Messenger |QID|382| |N|Kill Meven Korgal and collect Scarlet Crusade Documents in Deathknell (36.48, 68.78)|
 T The Red Messenger |QID|382| |N|Executor Arren in Deathknell (32.14, 65.96)|
 A Vital Intelligence |QID|383| |N|Executor Arren in Deathknell (32.14, 65.96)|
-A A Rogue's Deal (1) |QID|8| |N|Calvin Montague in Deathknell (38.18, 56.84)|
-A Fields of Grief (1) |QID|365| |N|Deathguard Simmer in Deathknell (40.88, 54.24)|
+A A Rogue's Deal (Part 1) |QID|8| |N|Calvin Montague in Deathknell (38.18, 56.84)|
+A Fields of Grief (Part 1) |QID|365| |N|Deathguard Simmer in Deathknell (40.88, 54.24)|
 A Gordo's Task |QID|5481| |N|Gordo in Nightmare Vale (48.58, 59.00)|
 N Level 6 Required |N|Grind to level 6 as you go to Brill so you can pick up all the quests (58.2, 51.5)|
 
 R Brill |QID|404| |N|Travel to Brill (58.2, 51.5)|
 A A Putrid Task |QID|404| |N|Deathguard Dillinger in Brill (58.2, 51.46)|
-A A New Plague (1) |QID|367| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+A A New Plague (Part 1) |QID|367| |N|Apothecary Johaan in Brill (59.46, 52.34)|
 T Vital Intelligence |QID|383| |N|Executor Zygand in Brill (60.55, 51.81)|
-A At War With The Scarlet Crusade (1) |QID|427| |N|Executor Zygand in Brill (60.60, 51.88)|
+A At War With The Scarlet Crusade (Part 1) |QID|427| |N|Executor Zygand in Brill (60.60, 51.88)|
 A Wanted: Maggot Eye |QID|398| |N|Wanted! sign in Brill (60.70, 51.60)|
 A Graverobbers |QID|358| |N|Magistrate Sevren in Brill Town Hall (61.27, 50.77)|
-T A Rogue's Deal (1) |QID|8| |N|Innkeeper Renee in Gallows' End Tavern (61.74, 52.05)|
+T A Rogue's Deal (Part 1) |QID|8| |N|Innkeeper Renee in Gallows' End Tavern (61.74, 52.05)|
 h Gallows' End Tavern |QID|367| |N|Speak to Innkeeper Renee and set hearth in Gallows' End Tavern (61.74, 52.05)|
 
 C Gordo's Task |QID|5481| |N|Collect Gloom Weed find in the area between Deathknell and Brill (51, 55)|  |OBJ|4111|
@@ -76,7 +76,7 @@ T Gordo's Task |QID|5481| |N|Junior Apothecary Holland in Brill (58.30, 49.77)|
 A Doom Weed |QID|5482| |N|Junior Apothecary Holland in Brill (58.30, 49.77)|
 
 R Tirisfal Glades |QID|398| |N|Travel to Tirisfal Glades (58, 60)|
-C A New Plague (1) |QID|367| |N|Kill any Darkhounds for 5 Darkhound Blood around (68.2, 40.50)|
+C A New Plague (Part 1) |QID|367| |N|Kill any Darkhounds for 5 Darkhound Blood around (68.2, 40.50)|
 C Doom Weed |QID|5482| |N|Collect 10 Doom Weed from the ground around Tirisfal Glades (55, 42)|  |OBJ|4112|
 
 R Gallows' End Tavern |QID|354| |N|Travel to Gallows' End Tavern in Brill (61.76, 52.29)|
@@ -84,8 +84,8 @@ A Deaths in the Family |QID|354| |N|Coleman Farthing in Gallows' End Tavern (61.
 A The Haunted Mills |QID|362| |N|Coleman Farthing in Gallows' End Tavern (61.76, 52.29)|
 A The Chill of Death |QID|375| |N|Gretchen Dedmar in Gallows' End Tavern (61.89, 52.66)|
 A Forsaken Duties |QID|359| |N|Magistrate Sevren in Brill Town Hall (61.27, 50.77)|
-T A New Plague (1) |QID|367| |N|Apothecary Johaan in Brill (59.46, 52.34)|
-A A New Plague (2) |QID|368| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+T A New Plague (Part 1) |QID|367| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+A A New Plague (Part 2) |QID|368| |N|Apothecary Johaan in Brill (59.46, 52.34)|
 T Doom Weed |QID|5482| |N|Junior Apothecary Holland in Brill (58.30, 49.77)|
 
 R Agamand Mills |QID|362| |N|Travel to Agamand Mills (46.92, 41.02)|
@@ -96,25 +96,25 @@ K Thurman Agamand |QID|354.3| |N|Kill Thurman Agamand and collect Thurman's Rema
 C The Mills Overrun |QID|426| |N|Kill the Scourge at Agamand Mills and gather 5 Notched Rib and 3 Blackened Skull from Darkeye Bonecaster around (50.00, 36.98) (48.02, 34.54)|
 
 R Solliden Farmstead |QID|365| |N|Travel to Solliden Farmstead (34.52, 49.23)|
-C Fields of Grief (1) |QID|365| |N|Collect 10 Tirisfal Pumpkin from the ground in Solliden Farmstead (34.52, 49.23)|  |OBJ|60|
-C At War With The Scarlet Crusade (1) |QID|427| |N|Kill 10 Scarlet Warrior in Solliden Farmstead (34, 48)|
+C Fields of Grief (Part 1) |QID|365| |N|Collect 10 Tirisfal Pumpkin from the ground in Solliden Farmstead (34.52, 49.23)|  |OBJ|60|
+C At War With The Scarlet Crusade (Part 1) |QID|427| |N|Kill 10 Scarlet Warrior in Solliden Farmstead (34, 48)|
 
 R Whispering Shore |QID|368| |N|Travel to Whispering Shore (36.24, 41.29)|
-C A New Plague (2) |QID|368| |N|Kill Murlocs and collect 5 Vile Fin Scale along the shore in Whispering Shore (36.24, 41.29)|
+C A New Plague (Part 2) |QID|368| |N|Kill Murlocs and collect 5 Vile Fin Scale along the shore in Whispering Shore (36.24, 41.29)|
 
 R Gallows' End Tavern |TID|375| |N|Travel to Gallows' End Tavern in Brill (61.76, 52.29)|
 T Deaths in the Family |QID|354| |N|Coleman Farthing in Gallows' End Tavern (61.76, 52.29)|
 T The Haunted Mills |QID|362| |N|Coleman Farthing in Gallows' End Tavern (61.76, 52.29)|
 A Speak with Sevren |QID|355| |N|Coleman Farthing in Gallows' End Tavern (61.76, 52.29)|
-T At War With The Scarlet Crusade (1) |QID|427| |N|Executor Zygand in Brill (60.60, 51.88)|
-A At War With The Scarlet Crusade (2) |QID|370| |N|Executor Zygand in Brill (60.60, 51.88)|
+T At War With The Scarlet Crusade (Part 1) |QID|427| |N|Executor Zygand in Brill (60.60, 51.88)|
+A At War With The Scarlet Crusade (Part 2) |QID|370| |N|Executor Zygand in Brill (60.60, 51.88)|
 A Proof of Demise |QID|374| |N|Deathguard Burgess in Brill (60.89, 52.12)|
 T Speak with Sevren |QID|355| |N|Magistrate Sevren in Brill Town Hall (61.27, 50.77)|
 A The Family Crypt |QID|408| |N|Magistrate Sevren in Brill Town Hall (61.27, 50.77)|
-T Fields of Grief (1) |QID|365| |N|Apothecary Johaan in Brill (59.46, 52.34)|
-A Fields of Grief (2) |QID|407| |N|Apothecary Johaan in Brill (59.46, 52.34)|
-T A New Plague (2) |QID|368| |N|Apothecary Johaan in Brill (59.47, 52.33)|
-A A New Plague (3) |QID|369| |N|Apothecary Johaan in Brill (59.47, 52.33)|
+T Fields of Grief (Part 1) |QID|365| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+A Fields of Grief (Part 2) |QID|407| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+T A New Plague (Part 2) |QID|368| |N|Apothecary Johaan in Brill (59.47, 52.33)|
+A A New Plague (Part 3) |QID|369| |N|Apothecary Johaan in Brill (59.47, 52.33)|
 T The Mills Overrun |QID|426| |N|Deathguard Dillinger in Brill (58.2, 51.46)|
 B Coarse Thread |QID|369| |N|Buy the Coarse Thread from Abigail Shiel in Brill (61, 52.5)| |L|2320|
 
@@ -122,13 +122,13 @@ C The Chill Of Death |QID|375| |N|Collect 6 Duskbat Pelt drop from the Greater D
 
 R Gallows' End Tavern |TID|375| |N|Travel to Gallows' End Tavern in Brill (61.76, 52.29)|
 T The Chill of Death |QID|375| |N|Gretchen Dedmar in Gallows' End Tavern (61.89, 52.66)|
-T Fields of Grief (2) |QID|407| |N|Take the Laced Pumpkin to the Captured Scarlet Zealot in the cellar of the inn  (61.9, 51.3) |
+T Fields of Grief (Part 2) |QID|407| |N|Take the Laced Pumpkin to the Captured Scarlet Zealot in the cellar of the inn  (61.9, 51.3) |
 
 N As you go... |AYG|370| |QID|374| |N|Collect 10 Scarlet Insignia Ring dropped by the Scarlet Crusade enemies, you don't need to complete this until later|
 K Captain Perrine |QID|370.1| |N|Kill Captain Perrine inside the keep in Tirisfal Glades (51.6, 67.6)|
-C At War With The Scarlet Crusade (2) |QID|370| |N|Kill 3 Scarlet Zealot and 3 Scarlet Missionary near the keep in Tirisfal Glades (51, 67)|
-T At War With The Scarlet Crusade (2) |QID|370| |N|Executor Zygand in Brill (60.60, 51.88)|
-A At War With The Scarlet Crusade (3) |QID|371| |N|Executor Zygand in Brill (60.60, 51.88)|
+C At War With The Scarlet Crusade (Part 2) |QID|370| |N|Kill 3 Scarlet Zealot and 3 Scarlet Missionary near the keep in Tirisfal Glades (51, 67)|
+T At War With The Scarlet Crusade (Part 2) |QID|370| |N|Executor Zygand in Brill (60.60, 51.88)|
+A At War With The Scarlet Crusade (Part 3) |QID|371| |N|Executor Zygand in Brill (60.60, 51.88)|
 
 C Graverobbers |QID|358.1| |N|Kill 8 Rot Hide Graverobber and 5 Rot Hide Mongrel and loot them for 8 Embalming Ichor in the area (59, 35)|
 
@@ -153,13 +153,13 @@ K Captain Vachon |QID|371.1| |N|Kill Captain Vachon in Crusader Outpost (79.32, 
 K Scarlet Friar |QID|371.2| |N|Kill 5 Scarlet Friar in Crusader Outpost (79.96, 55.97)|
 
 R Venomweb Vale |QID|369| |N|Travel to Venomweb Vale (85.08, 52.55)|
-C A New Plague (3) |QID|369| |N|Kill Vicious Night Web Spider and collect 4 Vicious Night Web Spider Venom in Venomweb Vale (86, 51.5)|
+C A New Plague (Part 3) |QID|369| |N|Kill Vicious Night Web Spider and collect 4 Vicious Night Web Spider Venom in Venomweb Vale (86, 51.5)|
 
 R Brill |QID|372| |N|Travel to Brill (60.60, 51.88)|
-T At War With The Scarlet Crusade (3) |QID|371| |N|Executor Zygand in Brill (60.60, 51.88)|
-A At War With The Scarlet Crusade (4) |QID|372| |N|Executor Zygand in Brill (60.60, 51.88)|
-T A New Plague (3) |QID|369| |N|Apothecary Johaan in Brill (59.46, 52.34)|
-A A New Plague (4) |QID|492| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+T At War With The Scarlet Crusade (Part 3) |QID|371| |N|Executor Zygand in Brill (60.60, 51.88)|
+A At War With The Scarlet Crusade (Part 4) |QID|372| |N|Executor Zygand in Brill (60.60, 51.88)|
+T A New Plague (Part 3) |QID|369| |N|Apothecary Johaan in Brill (59.46, 52.34)|
+A A New Plague (Part 4) |QID|492| |N|Apothecary Johaan in Brill (59.46, 52.34)|
 A Delivery to Silverpine Forest |QID|445| |N|Apothecary Johaan in Brill (59.49, 52.32)|
 A Speak with Dillinger |QID|1818| |N|Austil de Mon in Gallows' End Tavern (61.85, 52.54)| |C|Warrior|
 T Speak with Dillinger |QID|1818| |N|Deathguard Dillinger in Brill (58.19, 51.48)| |C|Warrior|
@@ -169,7 +169,7 @@ T Ulag the Cleaver |QID|1819| |N|Deathguard Dillinger in Brill (58.20, 51.45)| |
 A Speak with Coleman |QID|1820| |N|Deathguard Dillinger in Brill (58.20, 51.45)| |C|Warrior|
 T Speak with Coleman |QID|1820| |N|Coleman Farthing in Gallows' End Tavern (61.71, 52.29)| |C|Warrior|
 A Agamand Heirlooms |QID|1821| |N|Coleman Farthing in Gallows' End Tavern (61.71, 52.29)| |C|Warrior|
-T A New Plague (4) |QID|492| |N|Captured Mountaineer in Gallows' End Tavern in the Basement (61.89, 51.37)|
+T A New Plague (Part 4) |QID|492| |N|Captured Mountaineer in Gallows' End Tavern in the Basement (61.89, 51.37)|
 T Return to the Magistrate |QID|360| |N|Magistrate Sevren in Brill Town Hall (61.27, 50.77)|
 T Rear Guard Patrol |QID|356| |N|Deathguard Linnea in Tirisfal Glades (65.53, 60.19)|
 
@@ -179,7 +179,7 @@ K Scarlet Bodyguard |QID|372.2| |N|Kill 2 Scarlet Bodyguard in Scarlet Watch Pos
 C Proof of Demise |QID|374| |N|Collect 10 Scarlet Insignia Ring dropped by the Scarlet Crusade enemies in Scarlet Watch Post (51, 67)|
 
 R Brill |TID|372| |N|Travel to Brill (60.60, 51.88)|
-T At War With The Scarlet Crusade (4) |QID|372| |N|Executor Zygand in Brill (60.60, 51.88)|
+T At War With The Scarlet Crusade (Part 4) |QID|372| |N|Executor Zygand in Brill (60.60, 51.88)|
 T Proof of Demise |QID|374| |N|Deathguard Burgess in Brill (60.89, 52.12)|
 A Mennet Carkad |QID|1885| |N|Marion Call in Gallows' End Tavern (61.74, 52.00)| |C|Rogue|
 A Speak with Anastasia |QID|1881| |N|Cain Firesong in Gallows' End Tavern (61.92, 52.31)| |C|Mage|

@@ -26,7 +26,7 @@ A New Life |QID|6381| |N|Tammra Windfield in Sun Rock Retreat (47.45, 58.46)|
 T Cenarius' Legacy |QID|1087| |N|Braelyn Firehand in Sun Rock Retreat (45.96, 60.36)|
 A Ordanus |QID|1088| |N|Braelyn Firehand in Sun Rock Retreat (45.96, 60.36)|
 
-T Further Instructions (2) |QID|1095| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
+T Further Instructions (Part 2) |QID|1095| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
 A Gerenzo Wrenchwhistle |QID|1096| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
 C Gerenzo Wrenchwhistle |QID|1096| |N|Kill Gerenzo Wrenchwhistle at the Cragpool Lake in the Water Wheel and take Gerenzo's Mechanical Arm (69.0, 40.1) (67.9, 37.7) (64, 39)|
 C Shredding Machines |QID|1068| |N|Kill the shredders XT:4 and XT:9 that roam around in the Windshear Crag (67, 50)|

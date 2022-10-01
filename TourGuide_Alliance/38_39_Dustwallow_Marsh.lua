@@ -48,7 +48,7 @@ A Hungry! |QID|1177| |N|Mudcrush Durtfeet in Dustwallow Marsh (34.33, 27.56) (35
 
 R Shady Rest Inn |QID|1253| |N|Travel to Shady Rest Inn (29.64, 48.57)|
 T Inspecting the Ruins |QID|11123| |N|(npc:23567) in Shady Rest Inn (29.6, 47.6)|
-A The Black Shield (1)|QID|1253| |N|Black Shield in Shady Rest Inn, above the fireplace (29.58, 48.38)| |OBJ|58|
+A The Black Shield (Part 1)|QID|1253| |N|Black Shield in Shady Rest Inn, above the fireplace (29.58, 48.38)| |OBJ|58|
 A Suspicious Hoofprints |QID|1284| |N|Suspicious Hoofprints in Shady Rest Inn, on the ground (29.69, 47.66)| |OBJ|520|
 A Lieutenant Paval Reethe |QID|1252| |N|Theramore Guard Badge in Shady Rest Inn, it's a small badge on the ground (29.83, 48.27)| |OBJ|522|
 
@@ -63,16 +63,16 @@ R Foothold Citadel |QID|1259| |N|Travel to Foothold Citadel (67.90, 47.95)|
 T Captain Vimes |QID|1220| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 T Lieutenant Paval Reethe |QID|1252| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 A Lieutenant Paval Reethe |QID|1259| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.57)| |Z|Dustwallow Marsh|
-T The Black Shield (1) |QID|1253| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
-A The Black Shield (2)|QID|1319| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
+T The Black Shield (Part 1) |QID|1253| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
+A The Black Shield (Part 2)|QID|1319| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 T Suspicious Hoofprints |QID|1284| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 T Lieutenant Paval Reethe |QID|1259| |N|Adjutant Tesoran in Foothold Citadel (68.04, 48.14)|
 A Daelin's Men |QID|1285| |N|Adjutant Tesoran in Foothold Citadel (68.04, 48.14)|
-T The Black Shield (2) |QID|1319| |N|Caz Twosprocket in Theramore Isle (64.75, 50.41)|
-A The Black Shield (3) |QID|1320| |N|Caz Twosprocket in Theramore Isle (64.75, 50.41)|
+T The Black Shield (Part 2) |QID|1319| |N|Caz Twosprocket in Theramore Isle (64.75, 50.41)|
+A The Black Shield (Part 3) |QID|1320| |N|Caz Twosprocket in Theramore Isle (64.75, 50.41)|
 
 R Foothold Citadel |QID|1286| |N|Travel to Foothold Citadel (67.90, 47.95)|
-T The Black Shield (3) |QID|1320| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
+T The Black Shield (Part 3) |QID|1320| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
 T Daelin's Men |QID|1285| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
 A The Deserters |QID|1286| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
 

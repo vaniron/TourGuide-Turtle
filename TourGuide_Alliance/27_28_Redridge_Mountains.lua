@@ -6,7 +6,7 @@ R Redridge Mountains |QID|128| |N|Travel to in Lakeshire (31.52, 57.90)| |Z|Redr
 A Blackrock Bounty |QID|128| |N|Guard Howe in Lakeshire (31.52, 57.90)| |Z|Redridge Mountains|
 A Blackrock Menace |QID|20| |N|Marshal Marris in Lakeshire (33.4, 48.9)|
 A Wanted: Gath'Ilzogg |QID|169| |N|Wanted Sign in Lakeshire (29.54, 46.03)| |Z|Redridge Mountains|
-T Messenger to Stormwind (2) |QID|121| |N|Magistrate Solomon in Lakeshire (30, 44)| |O|
+T Messenger to Stormwind (Part 2) |QID|121| |N|Magistrate Solomon in Lakeshire (30, 44)| |O|
 A Solomon's Law |QID|91| |N|Bailiff Conacher in Lakeshire (29.64, 44.35)| |Z|Redridge Mountains|
 A Wanted: Lieutenant Fangore |QID|180| |N|Wanted Sign in Lakeshire (26.7, 46.5)|
 h Lakeshire |QID|34| |N|Speak to Innkeeper Brianna and set hearth in Lakeshire (27, 45)|

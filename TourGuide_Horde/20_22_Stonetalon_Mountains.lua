@@ -30,24 +30,24 @@ A The Binding |QID|1474| |N|Carendin Halgar in Magic Quarter (85.15, 26.00)| |C|
 C The Binding |QID|1474| |N|Using the Pure Hearts summon and subdue a Summoned Succubus in Magic Quarter (86.43, 27.03)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
 T The Binding |QID|1474| |N|Carendin Halgar in Magic Quarter (85.20, 26.13)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
 
-A Call of Water (1) |QID|1529| |N|Xanis Flameweaver in Spirit Rise (25.68, 21.25)| |C|Shaman| |Z|Thunder Bluff| |OID|1528| |R|Tauren|
-A Call of Water (1) |QID|1528| |N|Searn Firewarder in Grommash Hold (38.06, 37.36)| |C|Shaman| |Z|Orgrimmar| |OID|1529| |R|Orc, Troll|
+A Call of Water (Part 1) |QID|1529| |N|Xanis Flameweaver in Spirit Rise (25.68, 21.25)| |C|Shaman| |Z|Thunder Bluff| |OID|1528| |R|Tauren|
+A Call of Water (Part 1) |QID|1528| |N|Searn Firewarder in Grommash Hold (38.06, 37.36)| |C|Shaman| |Z|Orgrimmar| |OID|1529| |R|Orc, Troll|
 
 R Ratchet |QID|1483| |N|Travel to Ratchet (62.6, 37.5)| |Z|The Barrens|
 A Deepmoss Spider Eggs |QID|1069| |N|Mebok Mizzyrix in Ratchet (62.36, 37.67)| |Z|The Barrens|
 A Ziz Fizziks |QID|1483| |N|Sputtervalve in Ratchet (62.95, 37.23)| |Z|The Barrens|
 
 R The Tidus Stair |QID|1530| |N|Travel to The Tidus Stair (65.82, 43.77)| |C|Shaman| |Z|The Barrens|
-T Call of Water (1) |QID|1529| |N|Islen Waterseer in The Tidus Stair (65.82, 43.77)| |C|Shaman| |Z|The Barrens| |O|
-T Call of Water (1) |QID|1528| |N|Seer Ravenfeather in The Tidus Stair (65.82, 43.77)| |C|Shaman| |Z|The Barrens| |O|
-A Call of Water (2) |QID|1530| |N|Islen Waterseer in The Tidus Stair (65.82, 43.78)| |C|Shaman| |Z|The Barrens|
+T Call of Water (Part 1) |QID|1529| |N|Islen Waterseer in The Tidus Stair (65.82, 43.77)| |C|Shaman| |Z|The Barrens| |O|
+T Call of Water (Part 1) |QID|1528| |N|Seer Ravenfeather in The Tidus Stair (65.82, 43.77)| |C|Shaman| |Z|The Barrens| |O|
+A Call of Water (Part 2) |QID|1530| |N|Islen Waterseer in The Tidus Stair (65.82, 43.78)| |C|Shaman| |Z|The Barrens|
 
 R Blackthorn Ridge |OID|1536| |N|Travel to Blackthorn Ridge (43.42, 77.40)| |C|Shaman| |Z|The Barrens|
-T Call of Water (2) |QID|1530| |N|Brine in Blackthorn Ridge (43.42, 77.40)| |C|Shaman| |Z|The Barrens|
-A Call of Water (3) |QID|1535| |N|Brine in Blackthorn Ridge (43.41, 77.44)| |C|Shaman| |Z|The Barrens|
-C Call of Water (3) |QID|1535| |N|Use the Empty Brown Waterskin at the watering hole below Brine's hut (44.29, 76.82)| |C|Shaman| |Z|The Barrens| |U|7766|
-T Call of Water (3) |QID|1535| |N|Brine in Blackthorn Ridge (43.44, 77.41)| |C|Shaman| |Z|The Barrens|
-A Call of Water (4) |QID|1536| |N|Brine in Blackthorn Ridge (43.44, 77.41)| |C|Shaman| |Z|The Barrens|
+T Call of Water (Part 2) |QID|1530| |N|Brine in Blackthorn Ridge (43.42, 77.40)| |C|Shaman| |Z|The Barrens|
+A Call of Water (Part 3) |QID|1535| |N|Brine in Blackthorn Ridge (43.41, 77.44)| |C|Shaman| |Z|The Barrens|
+C Call of Water (Part 3) |QID|1535| |N|Use the Empty Brown Waterskin at the watering hole below Brine's hut (44.29, 76.82)| |C|Shaman| |Z|The Barrens| |U|7766|
+T Call of Water (Part 3) |QID|1535| |N|Brine in Blackthorn Ridge (43.44, 77.41)| |C|Shaman| |Z|The Barrens|
+A Call of Water (Part 4) |QID|1536| |N|Brine in Blackthorn Ridge (43.44, 77.41)| |C|Shaman| |Z|The Barrens|
 
 R The Sepulcher |QID|1536| |N|Travel to The Sepulcher (49.74, 29.35) (45.66, 42.53)| |C|Shaman|  |Z|Silverpine Forest|
 f The Sepulcher |QID|1536| |N|Speak to Karos Razok and grab flight path for The Sepulcher (45.66, 42.53)| |C|Shaman|  |Z|Silverpine Forest|
@@ -56,11 +56,11 @@ A Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Renferrel in The Sepulc
 R Tarren Mill |QID|1536| |N|Travel to Tarren Mill (62.3, 20.3)| |C|Shaman| |Z|Hillsbrad Foothills|
 T Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Lydon in Tarren Mill (61.5, 19.2)| |C|Shaman| |Z|Hillsbrad Foothills|
 f Tarren Mill |QID|1536| |N|Speak to Zarise and grab flight path for Tarren Mill (60.2, 18.7)| |C|Shaman| |Z|Hillsbrad Foothills|
-C Call of Water (4) |QID|1536| |N|Use the Empty Brown Waterskin at the well in Tarren Mill (62.13, 20.85)| |C|Shaman| |Z|Hillsbrad Foothills| |U|7766|
+C Call of Water (Part 4) |QID|1536| |N|Use the Empty Brown Waterskin at the well in Tarren Mill (62.13, 20.85)| |C|Shaman| |Z|Hillsbrad Foothills| |U|7766|
 
 R Blackthorn Ridge |OID|1534| |N|Travel to Blackthorn Ridge (43.42, 77.40)| |C|Shaman| |Z|The Barrens|
-T Call of Water (4) |QID|1536| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
-A Call of Water (5) |QID|1534| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
+T Call of Water (Part 4) |QID|1536| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
+A Call of Water (Part 5) |QID|1534| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
 
 R Honor's Stand |QID|6523| |N|Take the road west out of the Crossroads to the edge of Stonetalon Mountains (39.6, 29.9)| |Z|The Barrens|
 A Goblin Invaders |QID|1062| |N|Seereth Stonebreak in The Barrens (35.29, 27.87)| |Z|The Barrens|
@@ -93,7 +93,7 @@ A Super Reaper 6000 |QID|1093| |N|Ziz Fizziks in Windshear Crag (58.98, 62.50)|
 C Super Reaper 6000 |QID|1093| |N|Kill Venture Co. Operator for the Super Reaper 6000 Blueprints in Windshear Crag (62, 53)|
 C Goblin Invaders |QID|1062| |N|Kill 15 Venture Co. Logger in Windshear Crag (64, 55)|
 T Super Reaper 6000 |QID|1093| |N|Ziz Fizziks in Windshear Crag (58.98, 62.50)|
-A Further Instructions (1) |QID|1094| |N|Ziz Fizziks in Windshear Crag (58.98, 62.50)|
+A Further Instructions (Part 1) |QID|1094| |N|Ziz Fizziks in Windshear Crag (58.98, 62.50)|
 
 R Sun Rock Retreat |QID|6421| |N|Travel to Sun Rock Retreat (60.63, 69.66) (59.78, 71.26) (53.10, 61.59) (45.2, 59.9)|
 T Arachnophobia |QID|6284| |N|Maggran Earthbinder in Sun Rock Retreat (47.24, 61.11)|
@@ -123,11 +123,11 @@ T Report to Kadrak |QID|6542| |N|Kadrak in The Mor'shan Rampart (48.14, 5.41)| |
 
 R Splintertree Post |TID|742| |N|Travel to Splintertree Post (73.76, 61.53)| |Z|Ashenvale| |O|
 T The Ashenvale Hunt |QID|742| |N|Senani Thunderheart in Splintertree Post (73.76, 61.53)| |Z|Ashenvale| |O|
-A The Ashenvale Hunt (2) |QID|6383| |N|Senani Thunderheart in Splintertree Post (73.7, 61.5)| |Z|Ashenvale| |PRE|742|
-T The Ashenvale Hunt (2) |QID|6383| |N|Senani Thunderheart in Splintertree Post (73.7, 61.5)| |Z|Ashenvale| |PRE|742|
+A The Ashenvale Hunt (Part 2) |QID|6383| |N|Senani Thunderheart in Splintertree Post (73.7, 61.5)| |Z|Ashenvale| |PRE|742|
+T The Ashenvale Hunt (Part 2) |QID|6383| |N|Senani Thunderheart in Splintertree Post (73.7, 61.5)| |Z|Ashenvale| |PRE|742|
 
 R The Ruins of Stardust |QID|1534| |N|Travel to The Ruins of Stardust (33.55, 67.44)| |C|Shaman| |Z|Ashenvale|
-C Call of Water (5) |QID|1534| |N|Use Empty Blue Waterskin at The Ruins of Stardust (33.55, 67.44)| |C|Shaman| |Z|Ashenvale| |U|7767|
+C Call of Water (Part 5) |QID|1534| |N|Use Empty Blue Waterskin at The Ruins of Stardust (33.55, 67.44)| |C|Shaman| |Z|Ashenvale| |U|7767|
 
 R Splintertree Post |TID|6562| |N|Travel to Splintertree Post (73, 65)| |Z|Ashenvale|
 f Splintertree Post |TID|6562| |N|Speak to Vhulgra and grab flight path for Splintertree Post (73.2, 61.6)| |Z|Ashenvale|

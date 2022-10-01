@@ -181,10 +181,10 @@ A Wanted: "Hogger" |QID|176| |N|Wanted Poster in Westbrook Garrison (24.47, 74.7
 R The Jansen Stead |QID|109| |N|Travel to The Jansen Stead (60.00, 19.37)| |Z|Westfall|
 T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall| |O|
 A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall|
-A Westfall Stew (1) |QID|36| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
+A Westfall Stew (Part 1) |QID|36| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
 A Poor Old Blanchy |QID|151| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
-T Westfall Stew (1) |QID|36| |N|Salma Saldean in Saldean's Farm (56.40, 30.55)| |Z|Westfall|
-A Westfall Stew (2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.40, 30.51)| |Z|Westfall|
+T Westfall Stew (Part 1) |QID|36| |N|Salma Saldean in Saldean's Farm (56.40, 30.55)| |Z|Westfall|
+A Westfall Stew (Part 2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.40, 30.51)| |Z|Westfall|
 A Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.23, 30.89)| |Z|Westfall|
 A The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (56.09, 31.55)| |Z|Westfall|
 C Poor Old Blanchy |QID|151| |N|Start collecting Handful of Oats from Sack of Oats on the ground in Saldean's Farm. Try to get 3-4 Handful of Oats and tick this step to complete later (56.9, 19,3)| |Z|Westfall| |L|1528 4|
@@ -296,17 +296,17 @@ T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.1
 
 R Loch Modan |QID|224| |N|Travel to Loch Modan (81.13, 52.98) (82.26, 53.41) (84.42, 51.06) (86.22, 51.32)| |Z|Dun Morogh| |REACH|
 R Loch Modan |QID|224| |N|Travel to Loch Modan (19.76, 62.87)| |Z|Loch Modan|
-A In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
+A In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
 A The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.21, 73.59)| |Z|Loch Modan|
 
 R Stonesplinter Valley |QID|224| |N|Travel to Stonesplinter Valley (28.46, 66.00) (30.92, 70.58)| |Z|Loch Modan|
-C In Defense of the King's Lands (1) |QID|224| |N|Kill 10 Stonesplinter Trogg and 10 Stonesplinter Scout in Stonesplinter Valley (31, 70.5) (28, 53)| |Z|Loch Modan|
+C In Defense of the King's Lands (Part 1) |QID|224| |N|Kill 10 Stonesplinter Trogg and 10 Stonesplinter Scout in Stonesplinter Valley (31, 70.5) (28, 53)| |Z|Loch Modan|
 C The Trogg Threat |QID|267| |N|Kill Stonesplinter Scout and Stonesplinter Trogg to collect 8 Trogg Stone Tooth in Stonesplinter Valley (33, 72)| |Z|Loch Modan|
 
 R Valley of Kings |OID|237| |N|Travel to Valley of Kings (29.62, 67.58) (23.21, 73.59)| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.21, 73.59)| |Z|Loch Modan|
-T In Defense of the King's Lands (1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
-A In Defense of the King's Lands (2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
+T In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
+A In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
 
 R Thelsamar |QID|416| |N|Travel to Thelsamar (25.27, 67.41) (28.17, 64.71) (33.90, 50.98)| |Z|Loch Modan|
 f Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|

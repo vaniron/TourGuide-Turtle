@@ -2,10 +2,10 @@ TourGuide:RegisterGuide("Teldrassil (1-12", "Darkshore (12-17)", "Alliance",func
 
 return [[
 
-A The Balance of Nature (1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
-C The Balance of Nature (1) |QID|456| |N|Kill 7 Young Nightsaber and 4 Young Thistle Boar in Shadowglen (61, 43)|
-T The Balance of Nature (1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
-A The Balance of Nature (2) |QID|457| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A The Balance of Nature (Part 1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+C The Balance of Nature (Part 1) |QID|456| |N|Kill 7 Young Nightsaber and 4 Young Thistle Boar in Shadowglen (61, 43)|
+T The Balance of Nature (Part 1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A The Balance of Nature (Part 2) |QID|457| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 
 A Encrypted Sigil |QID|3118| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 A Etched Sigil |QID|3117| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
@@ -20,24 +20,24 @@ T Simple Sigil |QID|3116| |N|Alyissia in Aldrassil (59.6, 38.5)| |C|Warrior|
 T Verdant Sigil |QID|3120| |N|Mardant Strongoak in Aldrassil (58.6, 40.4)| |C|Druid|
 
 N As you go... |AYG|459| |QID|457| |N|Kill 7 Mangy Nightsaber and 7 Thistle Boar in Shadowglen|
-A The Woodland Protector (1) |QID|458| |N|Melithar Staghelm in Aldrassil (59.90, 42.51)|
+A The Woodland Protector (Part 1) |QID|458| |N|Melithar Staghelm in Aldrassil (59.90, 42.51)|
 A A Good Friend |QID|4495| |N|Dirania Silvershine in Shadowglen (60.83, 42.01)|
-T The Woodland Protector (1) |QID|458| |N|Tarindrella in Shadowglen (57.75, 45.21)|
-A The Woodland Protector (2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
-C The Woodland Protector (2) |QID|459| |N|Kill Grell located in Shadowglen and collect 8 Fel Moss (56, 45.9) (61.2, 45.9) (56.4, 41.6)|
-T The Woodland Protector (2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
+T The Woodland Protector (Part 1) |QID|458| |N|Tarindrella in Shadowglen (57.75, 45.21)|
+A The Woodland Protector (Part 2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
+C The Woodland Protector (Part 2) |QID|459| |N|Kill Grell located in Shadowglen and collect 8 Fel Moss (56, 45.9) (61.2, 45.9) (56.4, 41.6)|
+T The Woodland Protector (Part 2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
 A Webwood Venom |QID|916| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 
-C The Balance of Nature (2) |QID|457| |N|Kill 7 Mangy Nightsaber and 7 Thistle Boar in Shadowglen (60, 37)|
+C The Balance of Nature (Part 2) |QID|457| |N|Kill 7 Mangy Nightsaber and 7 Thistle Boar in Shadowglen (60, 37)|
 C Webwood Venom |QID|916| |N|Kill Webwood Spider and collect 10 Webwood Venom Sac north in Shadowglen (57, 34)|
 T A Good Friend |QID|4495| |N|Iverron in Shadowglen (54.60, 32.98)|
 A A Friend in Need |QID|3519| |N|Iverron in Shadowglen (54.60, 32.98)|
 T Webwood Venom |QID|916| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 A Webwood Egg |QID|917| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 
-T The Balance of Nature (2) |QID|457| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+T The Balance of Nature (Part 2) |QID|457| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 T A Friend in Need |QID|3519| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
-A Iverron's Antidote (1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
+A Iverron's Antidote (Part 1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 
 N 4 Moonpetal Lily |QID|3521.2| |N|Collect 4 Moonpetal Lily found around the edge of the pond in Shadowglen (57, 37)|
 N 7 Hyacinth Mushroom |QID|3521.1| |N|Collect 7 Hyacinth Mushroom found around the bottom of trees or dropped from Grellkin in Shadowglen (57, 37)|
@@ -50,13 +50,13 @@ T Webwood Egg |QID|917| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 A Tenaron's Summons |QID|920| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 
 T Tenaron's Summons |QID|920| |N|Go up the path to the top of the tree to find Tenaron Stormgrip in Aldrassil (58.19, 39.04) (59.09, 39.39)|
-A Crown of the Earth (1) |QID|921| |N|Tenaron Stormgrip in Aldrassil (59.09, 39.39)|
-T Iverron's Antidote (1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
-A Iverron's Antidote (2) |QID|3522| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
-C Crown of the Earth (1) |QID|921| |N|Use the Crystal Phial at the moonwell in Shadowglen (59.9, 33.1)| |U|5185|
-T Iverron's Antidote (2) |QID|3522| |N|Iverron in Shadowglen. Note: You've got 5 minutes to reach Iverron and turn in the quest. Watch the timer (54.60, 32.98)|
-T Crown of the Earth (1) |QID|921| |N|Tenaron Stormgrip in Aldrassil (58.19, 39.04) (59.09, 39.39)|
-A Crown of the Earth (2) |QID|928| |N|Tenaron Stormgrip in Aldrassil (59.09, 39.39)|
+A Crown of the Earth (Part 1) |QID|921| |N|Tenaron Stormgrip in Aldrassil (59.09, 39.39)|
+T Iverron's Antidote (Part 1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
+A Iverron's Antidote (Part 2) |QID|3522| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
+C Crown of the Earth (Part 1) |QID|921| |N|Use the Crystal Phial at the moonwell in Shadowglen (59.9, 33.1)| |U|5185|
+T Iverron's Antidote (Part 2) |QID|3522| |N|Iverron in Shadowglen. Note: You've got 5 minutes to reach Iverron and turn in the quest. Watch the timer (54.60, 32.98)|
+T Crown of the Earth (Part 1) |QID|921| |N|Tenaron Stormgrip in Aldrassil (58.19, 39.04) (59.09, 39.39)|
+A Crown of the Earth (Part 2) |QID|928| |N|Tenaron Stormgrip in Aldrassil (59.09, 39.39)|
 
 A Dolanaar Delivery |QID|2159| |N|Porthannius in Shadowglen (61.20, 47.71)|
 A Zenn's Bidding |QID|488| |N|Zenn Foulhoof in Dolanaar (60.41, 56.26)|
@@ -64,8 +64,8 @@ A Zenn's Bidding |QID|488| |N|Zenn Foulhoof in Dolanaar (60.41, 56.26)|
 R Dolanaar |QID|929| |N|Travel to Dolanaar (55.7, 59.8)|
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr in Dolanaar (55.7, 59.8)|
 h Dolanaar |QID|929| |N|Speeak to Innkeeper Keldamyr and set hearth in Dolanaar (55.7, 59.8)|
-T Crown of the Earth (2) |QID|928| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
-A Crown of the Earth (3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+T Crown of the Earth (Part 2) |QID|928| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+A Crown of the Earth (Part 3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 A Denalan's Earth |QID|997| |N|Syral Bladeleaf in Dolanaar (56.10, 57.74)|
 A A Troubling Breeze |QID|475| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 A The Emerald Dreamcatcher |QID|2438| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
@@ -77,14 +77,14 @@ T Denalan's Earth |QID|997| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Timberling Seeds |QID|918| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Timberling Sprouts |QID|919| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
-C Crown of the Earth (3) |QID|929| |N|Use Jade Phial at the moonwell in Starbreeze Village (63.37, 58.09)| |U|5619|
+C Crown of the Earth (Part 3) |QID|929| |N|Use Jade Phial at the moonwell in Starbreeze Village (63.37, 58.09)| |U|5619|
 T A Troubling Breeze |QID|475| |N|Gaerolas Talvethren in Starbreeze Village (66.27, 58.57)|
 A Gnarlpine Corruption |QID|476| |N|Gaerolas Talvethren in Starbreeze Village (66.27, 58.57)|
 C The Emerald Dreamcatcher |QID|2438| |N|Click on Tallonkai's Dresser and collect the Emerald Dreamcatcher (68.0,59.6)|
 
 N As you go... |AYG|919| |QID|488| |N|Kill these scarce mobs as you go for the quest 'Zenn's Bidding', it takes a long time to collect all the items required<br/><b>Nightsaber<br/><b>Strigid Owl<br/><b>Webwood Lurker|
-T Crown of the Earth (3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
-A Crown of the Earth (4) |QID|933| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+T Crown of the Earth (Part 3) |QID|929| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+A Crown of the Earth (Part 4) |QID|933| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 T Gnarlpine Corruption |QID|476| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 A The Relics of Wakening |QID|483| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 T The Emerald Dreamcatcher |QID|2438| |N|Tallonkai Swiftroot in Dolanaar (55.5, 56.9)|
@@ -122,7 +122,7 @@ R Gnarlpine Hold |QID|930| |N|Travel to Gnarlpine Hold (42.67, 76.16)|
 A The Glowing Fruit |QID|930| |N|Strange Fruit Plant in Gnarlpine Hold (42.67, 76.16)| |OBJ|369|
 
 R Pools of Arlithrien |QID|933| |N|Travel to Pools of Arlithrien (42.37, 67.12)|
-C Crown of the Earth (4) |QID|933| |N|Use Tourmaline Phial in Pools of Arlithrien (42.37, 67.12)| |U|5621|
+C Crown of the Earth (Part 4) |QID|933| |N|Use Tourmaline Phial in Pools of Arlithrien (42.37, 67.12)| |U|5621|
 C Seek Redemption! |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees (57, 63)|  |OBJ|425|
 
 R Ban'ethil Barrow Den |QID|483| |N|Travel to Ban'ethil Barrow Den (44.28, 58.08)|
@@ -138,8 +138,8 @@ C Druid of the Claw |QID|2561| |N|Kill Rageclaw and then use the Voodoo Charm on
 T Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 
 R Dolanaar |TID|489| |N|Travel to Dolanaar (56.20, 61.63)|
-T Crown of the Earth (4) |QID|933| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
-A Crown of the Earth (5) |QID|7383| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+T Crown of the Earth (Part 4) |QID|933| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+A Crown of the Earth (Part 5) |QID|7383| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 T The Relics of Wakening |QID|483| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 A Ursal the Mauler |QID|486| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
 T Seek Redemption! |QID|489| |N|Zenn Foulhoof in Teldrassil (60.41, 56.26)|
@@ -149,18 +149,18 @@ N Level 10 Required |N|Grind to level 10 so you can pick up class quests before 
 A The Apple Falls |QID|2241| |N|Jannok Breezesong in Dolanaar, level 10 required (56.36, 60.17)| |C|Rogue|
 A Heeding the Call |QID|5923| |N|Kal in Dolanaar (55.95, 61.56)| |C|Druid|
 A Elanaria |QID|1684| |N|Kyra Windblade in Dolanaar (56.2, 59.2)| |C|Warrior|
-A Taming the Beast (1) |QID|6063| |N|Dazalar in Dolanaar (56.68, 59.50)| |C|Hunter|
-C Taming the Beast (1) |QID|6063| |N|Use the Taming Rod to tame a Webwood Lurker (59.63, 60.23)|  |C|Hunter| |U|15921|
-T Taming the Beast (1) |QID|6063| |N|Dazalar in Dolanaar (56.69, 59.50)| |C|Hunter|
-A Taming the Beast (2) |QID|6101| |N|Dazalar in Dolanaar (56.80, 59.86)| |C|Hunter|
+A Taming the Beast (Part 1) |QID|6063| |N|Dazalar in Dolanaar (56.68, 59.50)| |C|Hunter|
+C Taming the Beast (Part 1) |QID|6063| |N|Use the Taming Rod to tame a Webwood Lurker (59.63, 60.23)|  |C|Hunter| |U|15921|
+T Taming the Beast (Part 1) |QID|6063| |N|Dazalar in Dolanaar (56.69, 59.50)| |C|Hunter|
+A Taming the Beast (Part 2) |QID|6101| |N|Dazalar in Dolanaar (56.80, 59.86)| |C|Hunter|
 
 T The Road to Darnassus |QID|487| |N|Moon Priestess Amara, she patrols (50, 54) (55, 58)|
 
-C Taming the Beast (2) |QID|6101| |N|Use the Taming Rod to tame a Nightsaber Stalker (40.14, 55.88)|  |C|Hunter| |U|15922|
-T Taming the Beast (2) |QID|6101| |N|Dazalar in Dolanaar (56.67, 59.48)| |C|Hunter|
-A Taming the Beast (3) |QID|6102| |N|Dazalar in Dolanaar (56.67, 59.48)| |C|Hunter|
-C Taming the Beast (3) |QID|6102| |N|Use the Taming Rod to tame a Strigid Screecher (42.57, 52.31)|  |C|Hunter| |U|15923|
-T Taming the Beast (3) |QID|6102| |N|Dazalar in Dolanaar (56.68, 59.50)| |C|Hunter|
+C Taming the Beast (Part 2) |QID|6101| |N|Use the Taming Rod to tame a Nightsaber Stalker (40.14, 55.88)|  |C|Hunter| |U|15922|
+T Taming the Beast (Part 2) |QID|6101| |N|Dazalar in Dolanaar (56.67, 59.48)| |C|Hunter|
+A Taming the Beast (Part 3) |QID|6102| |N|Dazalar in Dolanaar (56.67, 59.48)| |C|Hunter|
+C Taming the Beast (Part 3) |QID|6102| |N|Use the Taming Rod to tame a Strigid Screecher (42.57, 52.31)|  |C|Hunter| |U|15923|
+T Taming the Beast (Part 3) |QID|6102| |N|Dazalar in Dolanaar (56.68, 59.50)| |C|Hunter|
 A Training the Beast |QID|6103| |N|Dazalar in Dolanaar (56.41, 58.57)| |C|Hunter|
 
 R Darnassus |QID|923| |N|Travel to Darnassus (27, 55)|
@@ -199,7 +199,7 @@ K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof an
 
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
 C Tumors |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler collect 5 Mossy Tumor in Wellspring River (43.65, 34.46)|
-C Crown of the Earth (5) |QID|7383| |N|Use Amethyst Phial at the moonwell (38, 34)| |U|18152|
+C Crown of the Earth (Part 5) |QID|7383| |N|Use Amethyst Phial at the moonwell (38, 34)| |U|18152|
 K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid and collect Moss-twined Heart to accept a quest (42.7, 36.8) and (42.5, 26)<br/><b>He is a rare npc skip the quest if you can't find him| |L|5179|
 A The Moss-twined Heart |QID|927| |N|Use Moss-twined Heart to accept the quest| |O| |U|927|
 
@@ -231,8 +231,8 @@ T Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora in Temple of the Moon (36.
 
 R Dolanaar |QID|935| |N|Travel to Dolanaar (40.5, 54.7) (55.95, 57.28)|
 T Ursal the Mauler |QID|486| |N|Athridas Bearmantle in Dolanaar (55.95, 57.28)|
-T Crown of the Earth (5) |QID|7383| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
-A Crown of the Earth (6) |QID|935| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+T Crown of the Earth (Part 5) |QID|7383| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
+A Crown of the Earth (Part 6) |QID|935| |N|Corithras Moonrage in Dolanaar (56.20, 61.63)|
 
 T Return to Denalan |QID|2498| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
@@ -244,7 +244,7 @@ C Oakenscowl |QID|2499| |N|Kill Oakenscowl and collect Gargantuan Tumor in Lake 
 T Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
 R Darnassus |QID|952| |N|Travel to Darnassus (27, 55)|
-T Crown of the Earth (6) |QID|935| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
+T Crown of the Earth (Part 6) |QID|935| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
 T Teldrassil |QID|940| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
 A Grove of the Ancients |QID|952| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.86, 8.97)| |Z|Darnassus|
 

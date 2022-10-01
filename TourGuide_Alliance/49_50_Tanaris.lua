@@ -3,7 +3,7 @@ TourGuide:RegisterGuide("Tanaris (49-50)", "The Hinterlands (50-50)", "Alliance"
 return [[
 
 R Theramore Isle |QID|623| |N|Travel to Theramore Isle (68.84, 53.21)| |Z|Dustwallow Marsh|
-T Akiris by the Bundle (2) |QID|623| |N|Privateer Groy in Theramore Isle (68.84, 53.21)| |Z|Dustwallow Marsh|
+T Akiris by the Bundle (Part 2) |QID|623| |N|Privateer Groy in Theramore Isle (68.84, 53.21)| |Z|Dustwallow Marsh|
 
 R Beezil's Wreck |QID|4450.3| |N|Travel to Beezil's Wreck (67.50, 54.75) (55.74, 50.02) (54.34, 51.64)| |Z|Dustwallow Marsh|
 N Overdue Package |QID|4450.3| |N|Collect Overdue Package from the Damaged Crate in Beezil's Wreck (54.04, 55.91)| |Z|Dustwallow Marsh| |OBJ|31|
@@ -92,13 +92,13 @@ A Insect Part Analysis |QID|113| |N|Alchemist Pestlezugg in Gadgetzan (50.89, 26
 T Insect Part Analysis |QID|113| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
 A Rise of the Silithid |QID|162| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
 
-T Safety First (1) |QID|1188| |N|Shreev in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |O|
-A Safety First (2) |QID|1189| |N|Shreev in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |PRE|1188|
+T Safety First (Part 1) |QID|1188| |N|Shreev in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |O|
+A Safety First (Part 2) |QID|1189| |N|Shreev in Gadgetzan (50.95, 27.23)| |Z|Tanaris| |PRE|1188|
 N Ironfur Liver |QID|1452| |N|Withdraw Ironfur Liver from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|6258| |OO|
 N Groddoc Liver |QID|1452| |N|Withdraw Groddoc Liver from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|6259| |OO|
 N Unhatched Sprite Darter Egg |QID|3841| |N|Withdraw Unhatched Sprite Darter Egg from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris|| |L|11102| |OO|
 N Insect Analysis Report |QID|162| |N|Store Insect Analysis Report to the bank (52.30, 28.89)| |Z|Tanaris| |L|8594| |O|
-T Safety First (2) |QID|1189| |N|Razzeric in Mirage Raceway (80.33, 76.10)| |Z|Thousand Needles| |PRE|1188|
+T Safety First (Part 2) |QID|1189| |N|Razzeric in Mirage Raceway (80.33, 76.10)| |Z|Thousand Needles| |PRE|1188|
 T An Orphan Looking For a Home |QID|3841| |N|Quentin in Mirage Raceway (78.33, 74.72)| |Z|Thousand Needles| |O|
 A A Short Incubation |QID|3842| |N|Quentin in Mirage Raceway (78.33, 74.72)| |Z|Thousand Needles| |PRE|3842| |L|3825 2| |O|
 C A Short Incubation |QID|3842| |N|Skip if you don't have 2 Elixir of Fortitude| |Z|Thousand Needles| |PRE|3842|

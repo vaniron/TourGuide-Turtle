@@ -10,22 +10,22 @@ N Fizzle Brassbolts' Letter |QID|1106| |N|Store Fizzle Brassbolts' Letter at the
 R Dustwallow Marsh |QID|1268| |N|Run east to Dustwallow Marsh (29.7, 47.7)| |Z|Dustwallow Marsh|
 A Suspicious Hoofprints |QID|1268| |N|Click on hoofprints outside Shady Rest Inn on the ground (29.7, 47.7)| |Z|Dustwallow Marsh|
 A Lieutenant Paval Reethe |QID|1269| |N|Theramore Guard Badge in Shady Rest Inn, Laying on the planks on the ground (29.8, 48.2)| |Z|Dustwallow Marsh|
-A The Black Shield (1) |QID|1251| |N|Black Shield in Shady Rest Inn, hangs above the fireplace (29.8, 48.1)| |Z|Dustwallow Marsh|
+A The Black Shield (Part 1) |QID|1251| |N|Black Shield in Shady Rest Inn, hangs above the fireplace (29.8, 48.1)| |Z|Dustwallow Marsh|
 
 R Brackenwall Village |QID|1321| |N|Travel to Brackenwall Village (33.49, 38.76) (34.39, 30.68) (35, 29)| |Z|Dustwallow Marsh|
-T The Black Shield (1) |QID|1251| |N|Krog in Brackenwall Village (36.42, 31.82)| |Z|Dustwallow Marsh|
-A The Black Shield (2) |QID|1321| |N|Krog in Brackenwall Village (36.42, 31.82)| |Z|Dustwallow Marsh|
+T The Black Shield (Part 1) |QID|1251| |N|Krog in Brackenwall Village (36.42, 31.82)| |Z|Dustwallow Marsh|
+A The Black Shield (Part 2) |QID|1321| |N|Krog in Brackenwall Village (36.42, 31.82)| |Z|Dustwallow Marsh|
 T Suspicious Hoofprints |QID|1268| |N|Krog in Brackenwall Village (36.42, 31.82)| |Z|Dustwallow Marsh|
 T Lieutenant Paval Reethe |QID|1269| |N|Krog in Brackenwall Village (36.42, 31.82)| |Z|Dustwallow Marsh|
-T The Black Shield (2) |QID|1321| |N|Do'gol in Brackenwall Village (36.54, 30.86)| |Z|Dustwallow Marsh|
+T The Black Shield (Part 2) |QID|1321| |N|Do'gol in Brackenwall Village (36.54, 30.86)| |Z|Dustwallow Marsh|
 
 R Dustwallow Marsh |QID|1201| |N|Travel to Brackenwall Village (35.26, 30.63)|
 A Theramore Spies |QID|1201| |N|Nazeer Bloodpike in Brackenwall Village (35.26, 30.63)|
-A The Black Shield (3) |QID|1322| |N|Do'gol in Brackenwall Village (36.45, 30.85)|
+A The Black Shield (Part 3) |QID|1322| |N|Do'gol in Brackenwall Village (36.45, 30.85)|
 A Hungry! |QID|1177| |N|Mudcrush Durtfeet in Dustwallow Marsh (35.08, 38.29)|
 
 N As you go... |AYG|1177| |QID|1201| |N|Look out for stealth Theramore Infiltrator and kill 9 of them|
-C The Black Shield (3) |QID|1322| |N|Kill Darkfang Spider or Theramore Infiltrator for 6 Acidic Venom Sac from the spiders at the in Bluefen (33, 22)|
+C The Black Shield (Part 3) |QID|1322| |N|Kill Darkfang Spider or Theramore Infiltrator for 6 Acidic Venom Sac from the spiders at the in Bluefen (33, 22)|
 
 R Dreadmurk Shore |QID|1177| |N|Travel to Dreadmurk Shore (57.46, 16.47)|
 C Hungry! |QID|1177| |N|Kill the Murlocs and collect 8 Mirefin Head in Dreadmurk Shore (57.46, 16.47)|
@@ -49,9 +49,9 @@ T Theramore Spies |QID|1201| |N|Nazeer Bloodpike in Brackenwall Village (35.26, 
 A The Theramore Docks |QID|1202| |N|Nazeer Bloodpike in Brackenwall Village (35.26, 30.63)|
 T The Lost Report |QID|1238| |N|Nazeer Bloodpike in Brackenwall Village (35.26, 30.63)|
 T Hungry! |QID|1177| |N|Mudcrush Durtfeet in Dustwallow Marsh (35.08, 38.29)|
-T The Black Shield (3) |QID|1322| |N|Do'gol in Brackenwall Village (36.56, 30.88)|
-A The Black Shield (4) |QID|1323| |N|Do'gol in Brackenwall Village (36.56, 30.88)|
-T The Black Shield (4) |QID|1323| |N|Krog in Brackenwall Village (36.42, 31.78)|
+T The Black Shield (Part 3) |QID|1322| |N|Do'gol in Brackenwall Village (36.56, 30.88)|
+A The Black Shield (Part 4) |QID|1323| |N|Do'gol in Brackenwall Village (36.56, 30.88)|
+T The Black Shield (Part 4) |QID|1323| |N|Krog in Brackenwall Village (36.42, 31.78)|
 
 R Swamplight Manor |QID|1239| |N|Travel to Swamplight Manor (55.38, 25.91) (55.5, 26.0)|
 A The Severed Head |QID|1239| |N|Loose Dirt in Swamplight Manor (55.38, 25.91) (55.5, 26.0)|

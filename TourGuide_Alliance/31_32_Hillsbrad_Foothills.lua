@@ -7,7 +7,7 @@ A Fall of Dun Modr |QID|472| |N|Harlo Barnaby in Menethil Harbor (10.83, 55.85)|
 
 R Dun Modr |QID|631| |N|Travel to Dun Modr (49.92, 18.23)| |Z|Wetlands|
 T Fall of Dun Modr |QID|472| |N|Longbraid the Grim in Dun Modr (49.92, 18.23)| |Z|Wetlands|
-A The Thandol Span (1) |QID|631| |N|Longbraid the Grim in Dun Modr (49.92, 18.23)| |Z|Wetlands|
+A The Thandol Span (Part 1) |QID|631| |N|Longbraid the Grim in Dun Modr (49.92, 18.23)| |Z|Wetlands|
 A A Grim Task |QID|304| |N|Rhag Garmason in Dun Modr (49.68, 18.24)| |Z|Wetlands|
 A The Dark Iron War |QID|303| |N|Motley Garmason in Dun Modr (49.69, 18.30)| |Z|Wetlands|
 
@@ -17,12 +17,12 @@ C The Dark Iron War |QID|303| |N|Kill 15 Dark Iron Dwarf, 5 Dark Iron Tunneler, 
 T A Grim Task |QID|304| |N|Longbraid the Grim in Dun Modr (49.68, 18.24)| |Z|Wetlands|
 T The Dark Iron War |QID|303| |N|Motley Garmason in Dun Modr (49.69, 18.30)| |Z|Wetlands|
 
-T The Thandol Span (1) |QID|631| |N|Ebenezer Rustlocke's Corpse in Thandol Span (45.66, 93.08) head down the stairs to the right| |Z|Arathi Highlands|
-A The Thandol Span (2) |QID|632| |N|Ebenezer Rustlocke's Corpse in Thandol Span (45.66, 93.08)| |Z|Arathi Highlands|
-T The Thandol Span (2) |QID|632| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
-A The Thandol Span (3) |QID|633| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
-C The Thandol Span (3) |QID|633| |N|Destroy the Cache of Explosives. Found across the small bridge to the east (45.64, 88.21) (48.71, 87.98)| |OBJ|243| |Z|Arathi Highlands|
-T The Thandol Span (3) |QID|633| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
+T The Thandol Span (Part 1) |QID|631| |N|Ebenezer Rustlocke's Corpse in Thandol Span (45.66, 93.08) head down the stairs to the right| |Z|Arathi Highlands|
+A The Thandol Span (Part 2) |QID|632| |N|Ebenezer Rustlocke's Corpse in Thandol Span (45.66, 93.08)| |Z|Arathi Highlands|
+T The Thandol Span (Part 2) |QID|632| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
+A The Thandol Span (Part 3) |QID|633| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
+C The Thandol Span (Part 3) |QID|633| |N|Destroy the Cache of Explosives. Found across the small bridge to the east (45.64, 88.21) (48.71, 87.98)| |OBJ|243| |Z|Arathi Highlands|
+T The Thandol Span (Part 3) |QID|633| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
 A Plea To The Alliance |QID|634| |N|Rhag Garmason in Dun Modr (49.91, 18.20)| |Z|Wetlands|
 A MacKreel's Moonshine |QID|647| |N|Foggy MacKreel in Thandol Span. You will need to jump across, you can get back up from the path north east if you fall (43.13, 91.19) (43.25, 92.60)| |Z|Arathi Highlands|
 
@@ -45,13 +45,13 @@ f Southshore |QID|536| |N|Speak to Darla Harris and grab flight path for Southsh
 
 C Down the Coast |QID|536| |N|Kill 10 Torn Fin Tidehunter and 10 Torn Fin Oracle which can be found along the coast in Western Strand (44, 67)|
 T Down the Coast |QID|536| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
-A Farren's Proof (1) |QID|559| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
-C Farren's Proof (1) |QID|559| |N|Collect 10 Murloc Head from the murlocs found on the Western Strand (44, 67)|
-T Farren's Proof (1) |QID|559| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
-A Farren's Proof (2) |QID|560| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
-T Farren's Proof (2) |QID|560| |N|Marshal Redpath in Southshore (49.47, 58.70)| |Z|Hillsbrad Foothills|
-A Farren's Proof (3) |QID|561| |N|Marshal Redpath in Southshore (49.47, 58.70)| |Z|Hillsbrad Foothills|
-T Farren's Proof (3) |QID|561| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
+A Farren's Proof (Part 1) |QID|559| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
+C Farren's Proof (Part 1) |QID|559| |N|Collect 10 Murloc Head from the murlocs found on the Western Strand (44, 67)|
+T Farren's Proof (Part 1) |QID|559| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
+A Farren's Proof (Part 2) |QID|560| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
+T Farren's Proof (Part 2) |QID|560| |N|Marshal Redpath in Southshore (49.47, 58.70)| |Z|Hillsbrad Foothills|
+A Farren's Proof (Part 3) |QID|561| |N|Marshal Redpath in Southshore (49.47, 58.70)| |Z|Hillsbrad Foothills|
+T Farren's Proof (Part 3) |QID|561| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
 A Stormwind Ho! |QID|562| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
 C Stormwind Ho! |QID|562| |N|Kill 10 Daggerspine Shorehunter and 10 Daggerspine Siren in Eastern Strand (56, 65)|
 T Stormwind Ho! |QID|562| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|

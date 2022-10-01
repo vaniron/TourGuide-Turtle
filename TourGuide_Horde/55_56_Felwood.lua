@@ -22,7 +22,7 @@ R Bloodvenom Post |QID|5156| |N|Travel to Bloodvenom Post (39.95, 50.72) (34.97,
 T A Strange One |QID|4505| |N|Winna Hazzard in Bloodvenom Post (34.21, 52.34)| |Z|Felwood| |O|
 A Well of Corruption |QID|4505| |N|Winna Hazzard in Bloodvenom Post (34.21, 52.34)| |Z|Felwood|
 A A Husband's Last Battle |QID|6162| |N|Dreka'Sur in Bloodvenom Post (34.71, 52.77)| |Z|Felwood|
-A Wild Guardians (1) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.68, 52.79)| |Z|Felwood|
+A Wild Guardians (Part 1) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.68, 52.79)| |Z|Felwood|
 f Bloodvenom Post |QID|5156| |N|Speak to Brakkar grab flight path for Bloodvenom Post (34.44, 53.96)| |Z|Felwood|
 
 R Shatter Scar Vale |QID|5156| |N|Travel to Shatter Scar Vale (43.32, 74.51) (40.55, 42.80)| |Z|Felwood|
@@ -46,7 +46,7 @@ R Moonglade |TID|5249| |N|Travel to Moonglade (35.76, 72.41)| |Z|Moonglade|
 f Moonglade |TID|5249| |N|Speak to Faustron and grab flight path for Moonglade (32.14, 66.54)| |Z|Moonglade|
 
 R Bloodvenom Post |QID|5157| |N|Travel to Bloodvenom Post (34.72, 52.75)| |Z|Felwood|
-T Wild Guardians (1) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.72, 52.75)| |Z|Felwood| |O|
+T Wild Guardians (Part 1) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.72, 52.75)| |Z|Felwood| |O|
 A Well of Corruption |QID|4505| |N|Winna Hazzard in Bloodvenom Post (34.21, 52.34)| |Z|Felwood|
 
 R Emerald Sanctuary |OID|5157| |N|Travel to Emerald Sanctuary (37.15, 49.69) (41.33, 51.44) (43.30, 67.13) (43.55, 74.98) (46.75, 83.13)| |Z|Felwood| |REACH|

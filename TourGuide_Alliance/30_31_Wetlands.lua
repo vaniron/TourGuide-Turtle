@@ -12,21 +12,21 @@ C The Affray |QID|1719| |N|Kill the series of Mobs, bandage and eat in between M
 T The Affray |QID|1719| |N|Klannoc Macleod in Fray Island (68.6, 49.1)| |Z|The Barrens| |C|Warrior|
 
 T Seeking Strahad |QID|1798| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |Z|The Barrens| |C|Warlock|
-A Tome of the Cabal (1) |QID|1758| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |Z|The Barrens| |C|Warlock|
+A Tome of the Cabal (Part 1) |QID|1758| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |Z|The Barrens| |C|Warlock|
 
-T Tome of the Cabal (1) |QID|1758| |N|Krom Stoutarm in Ironforge (74.3, 9.4)| |C|Warlock| |Z|Ironforge|
-A Tome of the Cabal (2) |QID|1802| |N|Krom Stoutarm in Ironforge (74.3, 9.4)| |C|Warlock| |Z|Ironforge|
+T Tome of the Cabal (Part 1) |QID|1758| |N|Krom Stoutarm in Ironforge (74.3, 9.4)| |C|Warlock| |Z|Ironforge|
+A Tome of the Cabal (Part 2) |QID|1802| |N|Krom Stoutarm in Ironforge (74.3, 9.4)| |C|Warlock| |Z|Ironforge|
 
 N Tattered Manuscript |QID|1802| |N|Collect Tattered Manuscript inside the cave east of the Great Lift in Thousand Needles (43.5, 32.7)| |L|6997| |Z|Thousand Needles| |C|Warlock|
 
-C Tome of the Cabal (2) |QID|1802| |N|Collect the Moldy Tome (27.7, 72.8)| |L|6931| |C|Warlock| |Z|Hillsbrad Foothills|
+C Tome of the Cabal (Part 2) |QID|1802| |N|Collect the Moldy Tome (27.7, 72.8)| |L|6931| |C|Warlock| |Z|Hillsbrad Foothills|
 
-T Tome of the Cabal (2) |QID|1802| |N|Krom Stoutarm in Ironforge (74.3, 9.8)| |C|Warlock| |Z|Ironforge|
-A Tome of the Cabal (3) |QID|1804| |N|Krom Stoutarm in Ironforge (74.3, 9.8)| |C|Warlock| |Z|Ironforge|
+T Tome of the Cabal (Part 2) |QID|1802| |N|Krom Stoutarm in Ironforge (74.3, 9.8)| |C|Warlock| |Z|Ironforge|
+A Tome of the Cabal (Part 3) |QID|1804| |N|Krom Stoutarm in Ironforge (74.3, 9.8)| |C|Warlock| |Z|Ironforge|
 
-C Tome of the Cabal (3) |QID|1804| |N|Kill Dragonmaw Bonewarder and Dragonmaw Shadowwarder to collect 3 Rod of Channeling (49, 46)| |C|Warlock| |Z|Wetlands|
+C Tome of the Cabal (Part 3) |QID|1804| |N|Kill Dragonmaw Bonewarder and Dragonmaw Shadowwarder to collect 3 Rod of Channeling (49, 46)| |C|Warlock| |Z|Wetlands|
 
-T Tome of the Cabal (3) |QID|1804| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |C|Warlock| |Z|The Barrens|
+T Tome of the Cabal (Part 3) |QID|1804| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |C|Warlock| |Z|The Barrens|
 A The Binding |QID|1795| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |Z|The Barrens| |C|Warlock|
 C The Binding |QID|1795| |N|Using the Tome of the Cabal, summon and subdue a Summoned Felhunter (62.6, 35.3)| |U|6999| |Z|The Barrens| |C|Warlock|
 T The Binding  |QID|1795| |N|Strahad Farsan in Ratchet (62.6, 35.5)| |Z|The Barrens| |C|Warlock| |QID|1795|

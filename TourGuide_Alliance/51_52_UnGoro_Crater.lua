@@ -67,9 +67,9 @@ T The Fare of Lar'korwi |QID|4290| |N|Torwa Pathfinder in Un'Goro (71.62, 75.98)
 A The Scent of Lar'korwi |QID|4291| |N|Torwa Pathfinder in Un'Goro (71.62, 75.98)| |Z|Un'Goro Crater|
 A The Mighty U'cha |QID|4301| |N|Torwa Pathfinder in Un'Goro (71.62, 75.98)| |Z|Un'Goro Crater|
 C The Scent of Lar'korwi |QID|4291| |N|Kill Lar'korwi Mate and collect 2 Ravasaur Pheromone Gland in The Marshlands (67.17, 72.68)| |Z|Un'Goro Crater|
-A It's a Secret to Everybody (1) |QID|3844| |N|A Wrecked Raft in The Marshlands (63.15, 68.58)| |Z|Un'Goro Crater| |OBJ|223|
-T It's a Secret to Everybody (1) |QID|3844| |N|A Small Pack in The Marshlands (63.13, 68.95)| |Z|Un'Goro Crater| |OBJ|323|
-A It's a Secret to Everybody (2) |QID|3845| |N|A Small Pack in The Marshlands (63.13, 68.95)| |Z|Un'Goro Crater| |OBJ|323|
+A It's a Secret to Everybody (Part 1) |QID|3844| |N|A Wrecked Raft in The Marshlands (63.15, 68.58)| |Z|Un'Goro Crater| |OBJ|223|
+T It's a Secret to Everybody (Part 1) |QID|3844| |N|A Small Pack in The Marshlands (63.13, 68.95)| |Z|Un'Goro Crater| |OBJ|323|
+A It's a Secret to Everybody (Part 2) |QID|3845| |N|A Small Pack in The Marshlands (63.13, 68.95)| |Z|Un'Goro Crater| |OBJ|323|
 T The Scent of Lar'korwi |QID|4291| |N|Torwa Pathfinder in Un'Goro (71.62, 75.97)| |Z|Un'Goro Crater|
 A The Bait for Lar'korwi |QID|4292| |N|Torwa Pathfinder in Un'Goro (71.62, 75.97)| |Z|Un'Goro Crater|
 
@@ -102,10 +102,10 @@ T Muigin and Larion |QID|4141| |N|Muigin in Marshal's Refuge (42.97, 9.58)| |Z|U
 T Alien Ecology |QID|3883| |N|Hol'anyee Marshal in Marshal's Refuge (43.90, 7.28)| |Z|Un'Goro Crater|
 T Expedition Salvation |QID|3881| |N|Williden Marshal in Marshal's Refuge (43.96, 7.12)| |Z|Un'Goro Crater|
 T Roll the Bones |QID|3882| |N|Spark Nilminer in Marshal's Refuge (43.48, 7.44)| |Z|Un'Goro Crater|
-C It's a Secret to Everybody (2) |QID|3845| |N|Open the A Small Pack to collect Large Compass, Curled Map Parchment and Lion-headed Key in Marshal's Refuge (43.61, 7.36)| |Z|Un'Goro Crater| |U|11107|
+C It's a Secret to Everybody (Part 2) |QID|3845| |N|Open the A Small Pack to collect Large Compass, Curled Map Parchment and Lion-headed Key in Marshal's Refuge (43.61, 7.36)| |Z|Un'Goro Crater| |U|11107|
 N Faded Photograph |TID|3845| |N|Destroy Faded Photograph as it is not used for anything| |L|11108| |O|
-T It's a Secret to Everybody (2) |QID|3845| |N|Linken in Marshal's Refuge (44.65, 8.17)| |Z|Un'Goro Crater|
-A It's a Secret to Everybody (3) |QID|3908| |N|Linken in Marshal's Refuge (44.65, 8.17)| |Z|Un'Goro Crater|
+T It's a Secret to Everybody (Part 2) |QID|3845| |N|Linken in Marshal's Refuge (44.65, 8.17)| |Z|Un'Goro Crater|
+A It's a Secret to Everybody (Part 3) |QID|3908| |N|Linken in Marshal's Refuge (44.65, 8.17)| |Z|Un'Goro Crater|
 A Crystals of Power |QID|4284| |N|J.D. Collie in Marshal's Refuge (43.53, 7.00) (41.91, 2.68)| |Z|Un'Goro Crater|
 C Crystals of Power |QID|4284| |N|Collect 7 Power Crystals of each color: red, blue, yellow, and green.| |Z|Un'Goro Crater|
 T Crystals of Power |QID|4284| |N|J.D. Collie in Marshal's Refuge (41.91, 2.68)| |Z|Un'Goro Crater|

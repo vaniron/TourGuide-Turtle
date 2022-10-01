@@ -19,8 +19,8 @@ R Kodo Graveyard |QID|6134| |N|Travel to Kodo Graveyard (47.83, 61.74)| |Z|Desol
 A Ghost-o-plasm Round Up |QID|6134| |N|Hornizz Brimbuzzle in Kodo Graveyard (47.83, 61.74)| |Z|Desolace|
 
 R Ghost Walker Post |QID|1488| |N|Travel to Ghost Walker Post (52.57, 54.37)| |Z|Desolace|
-T The Corrupter (4) |QID|1484| |N|Maurin Bonesplitter, in Ghost Walker Post (52.57, 54.37)| |Z|Desolace| |O|
-A The Corrupter (5) |QID|1488| |N|Takata Steelblade in Ghost Walker Post (52.57, 54.37)| |Z|Desolace| |PRE|1484|
+T The Corrupter (Part 4) |QID|1484| |N|Maurin Bonesplitter, in Ghost Walker Post (52.57, 54.37)| |Z|Desolace| |O|
+A The Corrupter (Part 5) |QID|1488| |N|Takata Steelblade in Ghost Walker Post (52.57, 54.37)| |Z|Desolace| |PRE|1484|
 
 R Magram Village |QID|1374| |N|Travel to Magram Village (66.24, 80.28)| |Z|Desolace|
 C Khan Jehn |QID|1374| |N|Kill Khan Jehn in Magram Village (66.24, 80.28)| |Z|Desolace|
@@ -34,7 +34,7 @@ K Jugkar Grim'rod |QID|1488.2| |N|Kill Jugkar Grim'rod in Mannoroc Coven (55.85,
 C Portals of the Legion |QID|5581| |N|Use Hand of Iruxos on the Demon Portal and kill the Demon Portal Guardian that it summon to close 6 Demon portal in Mannoroc Coven (53.85, 79.21)| |Z|Desolace| |OBJ|4713|
 
 R Ghost Walker Post |TID|1488| |N|Travel to Ghost Walker Post (52.57, 54.34)| |Z|Desolace|
-T The Corrupter (5) |QID|1488| |N|Takata Steelblade in Ghost Walker Post (52.57, 54.34)| |Z|Desolace|
+T The Corrupter (Part 5) |QID|1488| |N|Takata Steelblade in Ghost Walker Post (52.57, 54.34)| |Z|Desolace|
 
 R Kodo Graveyard |TID|6134| |N|Travel to Kodo Graveyard (47.83, 61.74)| |Z|Desolace|
 T Ghost-o-plasm Round Up |QID|6134| |N|Hornizz Brimbuzzle in Kodo Graveyard (47.83, 61.74)| |Z|Desolace|

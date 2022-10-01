@@ -18,8 +18,8 @@ C The Smoldering Ruins of Thaurissan |QID|3702| |N|Speak to Royal Historian Arch
 T The Smoldering Ruins of Thaurissan |QID|3702| |N|Royal Historian Archesonus in The High Seat (38.37, 55.20)| |Z|Ironforge|
 A The Smoldering Ruins of Thaurissan |QID|3701| |N|Royal Historian Archesonus in The High Seat (38.37, 55.20)| |Z|Ironforge|
 T Return to Tymor |QID|3461| |N|Tymor in The Mystic Ward (30.95, 4.74)| |Z|Ironforge| |O|
-T A Little Slime Goes a Long Way (1) |QID|4512| |N|Laris Geardawdle in The Library (75.78, 23.36)| |Z|Ironforge| |O|
-A A Little Slime Goes a Long Way (2) |QID|4513| |N|Laris Geardawdle in The Library (75.83, 23.38)| |Z|Ironforge| |PRE|4512|
+T A Little Slime Goes a Long Way (Part 1) |QID|4512| |N|Laris Geardawdle in The Library (75.78, 23.36)| |Z|Ironforge| |O|
+A A Little Slime Goes a Long Way (Part 2) |QID|4513| |N|Laris Geardawdle in The Library (75.83, 23.38)| |Z|Ironforge| |PRE|4512|
 N Bag of Empty Ooze Containers |QID|4513| |N|Store Bag of Empty Ooze Containers to the bank (35.48, 60.70)| |Z|Ironforge| |L|11955| |O|
 
 R Morgan's Vigil |QID|4283| |N|Travel to Morgan's Vigil (84.55, 68.70)| |Z|Burning Steppes|
@@ -35,10 +35,10 @@ N As you go... |AYG|4182| |QID|4283| |N|Kill Ember Worg and collect 50 Blackrock
 C Broodling Essence |QID|4726| |N|Use Unloaded Zapper on 8 Scalding Broodling before you kill them in Dreadmaul Rock (78.49, 27.51)| |Z|Burning Steppes| |U|11319|
 
 R Slither Rock |QID|4023| |N|Travel to Slither Rock (93.66, 32.10)| |Z|Burning Steppes| |OID|4022|
-A A Taste of Flame (1) |QID|4023| |N|Cyrus Therepentous in Slither Rock (93.66, 32.10) (95.05, 31.57)| |Z|Burning Steppes| |OID|4022|
-C A Taste of Flame (1) |QID|4023| |N|Speak to Cyrus Therepentous with Black Dragonflight Molt in Slither Rock (95.05, 31.57)| |Z|Burning Steppes| |OID|4022|
-T A Taste of Flame (1) |QID|4023| |N|Cyrus Therepentous in Slither Rock (95.05, 31.57)| |Z|Burning Steppes| |OID|4022|
-A A Taste of Flame (2) |N|Cyrus Therepentous in Slither Rock| |QID|4024| |Z|Burning Steppes|
+A A Taste of Flame (Part 1) |QID|4023| |N|Cyrus Therepentous in Slither Rock (93.66, 32.10) (95.05, 31.57)| |Z|Burning Steppes| |OID|4022|
+C A Taste of Flame (Part 1) |QID|4023| |N|Speak to Cyrus Therepentous with Black Dragonflight Molt in Slither Rock (95.05, 31.57)| |Z|Burning Steppes| |OID|4022|
+T A Taste of Flame (Part 1) |QID|4023| |N|Cyrus Therepentous in Slither Rock (95.05, 31.57)| |Z|Burning Steppes| |OID|4022|
+A A Taste of Flame (Part 2) |N|Cyrus Therepentous in Slither Rock| |QID|4024| |Z|Burning Steppes|
 
 C Dragonkin Menace |QID|4182| |N|Kill the required Black Dragonkin in Terror Wing Path, you can complete this later if there's not enough to kill (79.43, 28.66) (90.60, 32.80) (90.18, 44.25) (91.50, 53.36)| |Z|Burning Steppes|
 
@@ -73,35 +73,35 @@ C Dragonkin Menace |QID|4182| |N|Kill the required Black Dragonkin in Terror Win
 R Morgan's Vigil |QID|4183| |N|Travel to Morgan's Vigil (84.55, 68.70)| |Z|Burning Steppes|
 T Ogre Head On A Stick = Party |QID|3825| |N|Oralius in Morgan's Vigil (84.55, 68.70)| |Z|Burning Steppes|
 T Dragonkin Menace |QID|4182| |N|Helendis Riverhorn in Morgan's Vigil (85.81, 68.94)| |Z|Burning Steppes|
-A The True Masters (1) |QID|4183| |N|Helendis Riverhorn in Morgan's Vigil (85.81, 68.94)| |Z|Burning Steppes|
+A The True Masters (Part 1) |QID|4183| |N|Helendis Riverhorn in Morgan's Vigil (85.81, 68.94)| |Z|Burning Steppes|
 
 R Lakeshire |OID|4184| |N|Travel to Lakeshire in Redridge Mountains (29.99, 44.42)| |Z|Redridge Mountains|
-T The True Masters (1) |QID|4183| |N|Magistrate Solomon in Lakeshire (29.99, 44.42)| |Z|Redridge Mountains|
-A The True Masters (2) |QID|4184| |N|Magistrate Solomon in Lakeshire (29.99, 44.42)| |Z|Redridge Mountains|
+T The True Masters (Part 1) |QID|4183| |N|Magistrate Solomon in Lakeshire (29.99, 44.42)| |Z|Redridge Mountains|
+A The True Masters (Part 2) |QID|4184| |N|Magistrate Solomon in Lakeshire (29.99, 44.42)| |Z|Redridge Mountains|
 
 R Stormwind City |QID|4185| |N|Travel to Stormwind Keep in Stormwind City (46.71, 65.25)| |Z|Stormwind City|
 N As you go... |AYG|4185| |N|Keep an eye out for Crier Goodman and accept 'The New Frontier' and 'A Call to Arms: The Plaguelands!', you don't have to get it now| |REACH|78.18,18.13|
 A The New Frontier |QID|1015| |N|Crier Goodman in The Canals (46.71, 65.25)| |Z|Stormwind City| |O| |OID|6761, 1018, 1047, 1019|
 A A Call to Arms: The Plaguelands! |QID|5066| |N|Crier Goodman in The Canals (46.71, 65.25)| |Z|Stormwind City| |O|
-T The True Masters (2) |QID|4184| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.15, 18.07)| |Z|Stormwind City|
-A The True Masters (3) |QID|4185| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.15, 18.07)| |Z|Stormwind City|
-C The True Masters (3) |QID|4185| |N|Speak to Lady Katrana Prestor to complete the quest in Stormwind Keep (78.03, 17.79)| |Z|Stormwind City|
-T The True Masters (3) |QID|4185| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.18, 18.13)| |Z|Stormwind City|
-A The True Masters (4) |QID|4186| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.18, 18.13)| |Z|Stormwind City|
+T The True Masters (Part 2) |QID|4184| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.15, 18.07)| |Z|Stormwind City|
+A The True Masters (Part 3) |QID|4185| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.15, 18.07)| |Z|Stormwind City|
+C The True Masters (Part 3) |QID|4185| |N|Speak to Lady Katrana Prestor to complete the quest in Stormwind Keep (78.03, 17.79)| |Z|Stormwind City|
+T The True Masters (Part 3) |QID|4185| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.18, 18.13)| |Z|Stormwind City|
+A The True Masters (Part 4) |QID|4186| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.18, 18.13)| |Z|Stormwind City|
 
 R Lakeshire |OID|4223| |N|Travel to Lakeshire in Redridge Mountains (29.99, 44.42)| |Z|Redridge Mountains|
-T The True Masters (4) |QID|4186| |N|Magistrate Solomon in Lakeshire (29.98, 44.42)| |Z|Redridge Mountains|
-A The True Masters (5) |QID|4223| |N|Magistrate Solomon in Lakeshire (29.98, 44.42)| |Z|Redridge Mountains|
+T The True Masters (Part 4) |QID|4186| |N|Magistrate Solomon in Lakeshire (29.98, 44.42)| |Z|Redridge Mountains|
+A The True Masters (Part 5) |QID|4223| |N|Magistrate Solomon in Lakeshire (29.98, 44.42)| |Z|Redridge Mountains|
 
 R Morgan's Vigil |OID|4224| |N|Travel to Morgan's Vigil (84.75, 69.01)| |Z|Burning Steppes|
-T The True Masters (5) |QID|4223| |N|Magistrate Solomon in Morgan's Vigil (84.75, 69.01)| |Z|Burning Steppes|
-A The True Masters (6) |QID|4224| |N|Marshal Maxwell in Morgan's Vigil (84.75, 69.01)| |Z|Burning Steppes|
+T The True Masters (Part 5) |QID|4223| |N|Magistrate Solomon in Morgan's Vigil (84.75, 69.01)| |Z|Burning Steppes|
+A The True Masters (Part 6) |QID|4224| |N|Marshal Maxwell in Morgan's Vigil (84.75, 69.01)| |Z|Burning Steppes|
 
 R Flame Crest |QID|4224| |N|Travel to Flame Crest (65.02, 23.73)| |Z|Burning Steppes|
-C The True Masters (6) |QID|4224| |N|Speak to Ragged John to complete the quest in Flame Crest (65.02, 23.73)| |Z|Burning Steppes|
+C The True Masters (Part 6) |QID|4224| |N|Speak to Ragged John to complete the quest in Flame Crest (65.02, 23.73)| |Z|Burning Steppes|
 
 R Morgan's Vigil |TID|4224| |N|Travel to Morgan's Vigil (84.75, 69.01)| |Z|Burning Steppes|
-T The True Masters (6) |QID|4224| |N|Marshal Maxwell in Morgan's Vigil (84.73, 69.03)| |Z|Burning Steppes|
+T The True Masters (Part 6) |QID|4224| |N|Marshal Maxwell in Morgan's Vigil (84.73, 69.03)| |Z|Burning Steppes|
 
 R The High Seat |TID|3701| |N|Travel to The High Seat in Ironforge (38.34, 55.33)| |Z|Ironforge|
 T The Smoldering Ruins of Thaurissan |QID|3701| |N|Royal Historian Archesonus in The High Seat (38.34, 55.33)| |Z|Ironforge|

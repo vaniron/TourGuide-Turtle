@@ -12,20 +12,20 @@ A Rune-Inscribed Note |QID|3093| |N|Grull Hawkwind in Camp Narache (44.91, 77.15
 A Verdant Note |QID|3094| |N|Grull Hawkwind in Camp Narache (44.91, 77.15)| |C|Druid|
 
 A The Hunt Continues |QID|750| |N|Grull Hawkwind in Camp Narache (44.91, 77.15)|
-A A Humble Task (1) |QID|752| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
+A A Humble Task (Part 1) |QID|752| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
 
 T Etched Note |QID|3092| |N|Lanka Farshot in Camp Narache (44.26, 75.80)| |C|Hunter|
 T Simple Note |QID|3091| |N|Harutt Thunderhorn in Camp Narache (44.1, 76.1)| |C|Warrior|
 T Rune-Inscribed Note |QID|3093| |N|Meela Dawnstrider in Camp Narache (45.0, 76.0)| |C|Shaman|
 T Verdant Note |QID|3094| |N|Gart Mistrunner in Camp Narache (45.1, 76)| |C|Druid|
 
-T A Humble Task (1) |QID|752| |N|Greatmother Hawkwind in Camp Narache (50.01, 81.14)|
-A A Humble Task (2) |QID|753| |N|Greatmother Hawkwind in Camp Narache (50.01, 81.14)|
-C A Humble Task (2) |QID|753| |N|Collect Water Pitcher from the well (50.14, 81.43)|
-T A Humble Task (2) |QID|753| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
-A Rites of the Earthmother (1) |QID|755| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
+T A Humble Task (Part 1) |QID|752| |N|Greatmother Hawkwind in Camp Narache (50.01, 81.14)|
+A A Humble Task (Part 2) |QID|753| |N|Greatmother Hawkwind in Camp Narache (50.01, 81.14)|
+C A Humble Task (Part 2) |QID|753| |N|Collect Water Pitcher from the well (50.14, 81.43)|
+T A Humble Task (Part 2) |QID|753| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
+A Rites of the Earthmother (Part 1) |QID|755| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
 C The Hunt Continues |QID|750| |N|Kill Mountain Cougar and collect 10 Mountain Cougar Pelt in Red Cloud Mesa (42.52, 89.28)|
-T Rites of the Earthmother (1) |QID|755| |N|Seer Graytongue in Red Cloud Mesa (42.53, 92.08)|
+T Rites of the Earthmother (Part 1) |QID|755| |N|Seer Graytongue in Red Cloud Mesa (42.53, 92.08)|
 A Rite of Strength |QID|757| |N|Seer Graytongue in Red Cloud Mesa (42.53, 92.08)|
 N Level 4 |QID|780| |N|Make sure you're about 250 XP to level 4 so you can train new skills after quest turn in, kill more cougars if you're not.|
 T The Hunt Continues |QID|750| |N|Grull Hawkwind in Camp Narache (44.91, 77.15)|
@@ -47,7 +47,7 @@ T The Battleboars |QID|780| |N|Grull Hawkwind in Camp Narache (44.91, 77.15)|
 T Break Sharptusk! |QID|3376| |N|Brave Windfeather in Camp Narache (44.50, 76.46)|
 T Rite of Strength |QID|757| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
 T Attack on Camp Narache |QID|781| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
-A Rites of the Earthmother (2) |QID|763| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
+A Rites of the Earthmother (Part 2) |QID|763| |N|Chief Hawkwind in Camp Narache (44.23, 76.04)|
 T Call of Earth |QID|1519| |N|Seer Ravenfeather in Camp Narache (44.75, 76.20)| |Z|Mulgore| |C|Shaman|
 A Call of Earth |QID|1520| |N|Seer Ravenfeather in Camp Narache (44.75, 76.20)| |Z|Mulgore| |C|Shaman|
 N Earth Sapta |TID|1520| |N|Get Earth Sapta from Seer Ravenfeather| |L|6635| |C|Shaman|
@@ -62,15 +62,15 @@ A A Task Unfinished |QID|1656| |N|Antur Fallow in Red Cloud Mesa (38.58, 81.69)|
 
 R Bloodhoof Village |OID|766| |N|Travel to Bloodhoof Village (47.5, 60.2)|
 A Dangers of the Windfury |QID|743| |N|Ruul Eagletalon in Bloodhoof Village (47.33, 61.94)|
-T Rites of the Earthmother (2) |QID|763| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
-A Rite of Vision (1) |QID|767| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
+T Rites of the Earthmother (Part 2) |QID|763| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
+A Rite of Vision (Part 1) |QID|767| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
 A Sharing the Land |QID|745| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
 T A Task Unfinished |QID|1656| |N|Innkeeper Kauth in Bloodhoof Village (46.65, 61.02)|
 h Bloodhoof Village |OID|766| |N|Innkeeper Kauth in Bloodhoof Village (46.65, 61.02)|
 A Poison Water |QID|748| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 60.46)|
 A Swoop Hunting |QID|761| |N|Harken Windtotem in Bloodhoof Village (48.69, 59.40)|
-T Rite of Vision (1) |QID|767| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
-A Rite of Vision (2) |QID|771| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
+T Rite of Vision (Part 1) |QID|767| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
+A Rite of Vision (Part 2) |QID|771| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
 A Mazzranache |QID|766| |N|Maur Raincaller in Bloodhoof Village (47.05, 57.07)|
 N As you go.. |AYG|743| |QID|766.2| |N|Kill any Flatland Cougar until you find Flatland Cougar Femur and Wiry Swoop until you find Swoop Gizzard|
 N Ambercorn |QID|771.2| |N|Collect 2 Ambercorn from the ground near the base of the trees (50.27, 66.53)| |Z|Mulgore|
@@ -87,22 +87,22 @@ N Swoop Gizzard |QID|766.4| |N|Kill any Wiry Swoop until you find Swoop Gizzard 
 C Dangers of the Windfury |QID|743| |N|Kill Windfury Harpy and collect 8 Windfury Talon in The Rolling Plains (66.20, 68.13)|
 N Flatland Cougar Femur |QID|766.2| |N|Kill any Flatland Cougar until you find Flatland Cougar Femur in The Rolling Plains (59.11, 71.51)|
 N Plainstrider Scale |QID|766.3| |N|Kill Adult Plainstrider until you find Plainstrider Scale in The Rolling Plains (54.4, 64.8)|
-A The Ravaged Caravan (1) |QID|749| |N|Morin Cloudstalker in Ravaged Caravan (54.35, 60.47)|
-T The Ravaged Caravan (1) |QID|749| |N|Sealed Supply Crate in Ravaged Caravan (53.76, 48.28)| |OBJ|287|
-A The Ravaged Caravan (2) |QID|751| |N|Grawl in Ravaged Caravan (53.76, 48.28)|
+A The Ravaged Caravan (Part 1) |QID|749| |N|Morin Cloudstalker in Ravaged Caravan (54.35, 60.47)|
+T The Ravaged Caravan (Part 1) |QID|749| |N|Sealed Supply Crate in Ravaged Caravan (53.76, 48.28)| |OBJ|287|
+A The Ravaged Caravan (Part 2) |QID|751| |N|Grawl in Ravaged Caravan (53.76, 48.28)|
 
 R Bloodhoof Village |QID|754| |N|Travel to Bloodhoof Village (47.47, 60.26)|
 T Dangers of the Windfury |QID|743| |N|Ruul Eagletalon in Bloodhoof Village (47.33, 61.94)|
 T Poison Water |QID|748| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 60.46)|
 A Winterhoof Cleansing |QID|754| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 60.46)|
 T Swoop Hunting |QID|761| |N|Harken Windtotem in Bloodhoof Village (48.69, 59.40)|
-T Rite of Vision (2) |QID|771| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
-A Rite of Vision (3) |QID|772| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
+T Rite of Vision (Part 2) |QID|771| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
+A Rite of Vision (Part 3) |QID|772| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
 T Mazzranache |QID|766| |N|Maur Raincaller in Bloodhoof Village (47.05, 57.07)|
 T Sharing the Land |QID|745| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
 A Dwarven Digging |QID|746| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
 
-T The Ravaged Caravan (2) |QID|751| |N|Morin Cloudstalker in Mulgore (56.41, 61.24)|
+T The Ravaged Caravan (Part 2) |QID|751| |N|Morin Cloudstalker in Mulgore (56.41, 61.24)|
 A The Venture Co. |QID|764| |N|Morin Cloudstalker in Mulgore (56.41, 61.24)|
 A Supervisor Fizsprocket |QID|765| |N|Morin Cloudstalker in Mulgore (56.41, 61.24)|
 
@@ -114,7 +114,7 @@ A Thunderhorn Totem |QID|756| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 6
 U Water of the Seers |QID|773| |N|Use Water of the Seers| |U|4823|
 
 C Dwarven Digging |QID|746| |N|Kill Bael'dun Digger for 5 Prospector's Pick, then break them using Prospector's Pick next to the forge in Bael'dun Digsite (31.21, 49.87)| |U|4702|  |OBJ|209|
-T Rite of Vision (3) |QID|772| |N|Follow the vision, or just run to the cave where you'll find Seer Wiserunner he's leading you to (32.7, 36)|
+T Rite of Vision (Part 3) |QID|772| |N|Follow the vision, or just run to the cave where you'll find Seer Wiserunner he's leading you to (32.7, 36)|
 A Rite of Wisdom |QID|773| |N|Seer Wiserunner in Mulgore (32.77, 36.13)|
 
 R Red Rocks |QID|833| |N|Travel to Red Rocks (59.90, 25.56)|
@@ -131,7 +131,7 @@ A The Hunter's Way |QID|861| |N|Skorn Whitecloud in Bloodhoof Village (46.78, 60
 T Thunderhorn Totem |QID|756| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 60.46)|
 T Dwarven Digging |QID|746| |N|Baine Bloodhoof in Bloodhoof Village (47.47, 60.26)|
 A Thunderhorn Cleansing |QID|758| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 60.46)|
-A Call of Fire (1) |QID|2984| |N|Narm Skychaser in Bloodhoof Village (48.39, 59.15)| |C|Shaman| |Z|Mulgore|
+A Call of Fire (Part 1) |QID|2984| |N|Narm Skychaser in Bloodhoof Village (48.39, 59.15)| |C|Shaman| |Z|Mulgore|
 
 A Taming the Beast |QID|6061| |N|Yaw Sharpmane in Bloodhoof Village (47.76, 55.64)| |C|Hunter|
 C Taming the Beast |QID|6061| |N|Use the Taming Rod to tame an Adult Plainstrider in Thunderhorn Water Well (45.95, 44.31)| |C|Hunter|
@@ -153,7 +153,7 @@ R Thunder Bluff |QID|744| |N|Travel to Thunder Bluff (37.6, 60.1)| |Z|Thunder Bl
 A Preparation for Ceremony |QID|744| |N|Eyahn Eagletalon in Thunder Bluff (37.79, 59.90)| |Z|Thunder Bluff|
 T Training the Beast |QID|6089| |N|Holt Thunderhorn in Hunter Rise (57.43, 89.36)| |Z|Thunder Bluff|
 T Journey into Thunder Bluff |Z|Thunder Bluff| |QID|775| |N|Cairne Bloodhoof in Thunder Bluff (50.21, 61.94) (56.91, 54.67) (59.91, 51.78)| |Z|Thunder Bluff|
-A Rites of the Earthmother (3) |Z|Thunder Bluff| |QID|776| |N|Cairne Bloodhoof in Thunder Bluff (59.91, 51.78)| |Z|Thunder Bluff|
+A Rites of the Earthmother (Part 3) |Z|Thunder Bluff| |QID|776| |N|Cairne Bloodhoof in Thunder Bluff (59.91, 51.78)| |Z|Thunder Bluff|
 T Heeding the Call |QID|5927| |N|Turak Runetotem in Elder Rise (76.6, 27.6)| |C|Druid| |Z|Thunder Bluff|
 A Moonglade |QID|5922| |N|Turak Runetotem in Elder Rise (76.6, 27.6)| |C|Druid| |Z|Thunder Bluff|
 
@@ -175,7 +175,7 @@ C The Hunter's Way |QID|861| |N|Kill Flatland Prowler and collect 4 Flatland Pro
 R The Venture Co. Mine |QID|765| |N|Travel to The Venture Co. Mine (61.43, 47.28) |
 C Supervisor Fizsprocket |QID|765| |N|Kill Supervisor Fizsprocket inside The Venture Co. Mine (61.43, 47.28) (64.37, 44.23)|
 C The Venture Co. |QID|764| |N|Kill 14 Venture Co. Worker and 6 Venture Co. Supervisor around and in The Venture Co. Mine (60, 45)|
-C Rites of the Earthmother (3) |QID|776| |N|Find and kill a kodo Arra'chea east of Thunder Bluff in The Golden Plains (49, 19) (52, 10) (54, 35)|
+C Rites of the Earthmother (Part 3) |QID|776| |N|Find and kill a kodo Arra'chea east of Thunder Bluff in The Golden Plains (49, 19) (52, 10) (54, 35)|
 
 R Southern Barrens |QID|6002| |N|Travel to Southern Barrens (42.00, 60.84)| |C|Druid| |Z|The Barrens|
 C Body and Heart |QID|6002| |N|Use the Cenarion Lunardust on the Moonkin Stone between Mulgore and the Barrens to summon Turak Runetotem in Southern Barrens (42.00, 60.84)| |C|Druid| |Z|The Barrens|
@@ -193,7 +193,7 @@ C Preparation for Ceremony |QID|744| |N|Kill Windfury Sorceress for 6 Azure Feat
 R Elder Rise |QID|886| |N|Travel to Elder Rise in Thunder Bluff (78.44, 28.91)| |Z|Thunder Bluff|
 T Body and Heart |QID|6002| |N|Turak Runetotem in Elder Rise (76.6, 27.6)| |C|Druid| |Z|Thunder Bluff|
 A The Barrens Oases |QID|886| |N|Arch Druid Hamuul Runetotem in Elder Rise (78.44, 28.91)| |Z|Thunder Bluff|
-T Rites of the Earthmother (3) |QID|776| |N|Cairne Bloodhoof in Mulgore (59.91, 51.78)| |Z|Thunder Bluff|
+T Rites of the Earthmother (Part 3) |QID|776| |N|Cairne Bloodhoof in Mulgore (59.91, 51.78)| |Z|Thunder Bluff|
 T The Hunter's Way |QID|861| |N|Melor Stonehoof in Hunter Rise (61.33, 80.49)| |Z|Thunder Bluff|
 A Sergra Darkthorn |QID|860| |N|Melor Stonehoof in Hunter Rise (61.33, 80.49)| |Z|Thunder Bluff|
 T Preparation for Ceremony |QID|744| |N|Eyahn Eagletalon in Thunder Bluff (37.94, 59.81)| |Z|Thunder Bluff|

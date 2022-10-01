@@ -43,16 +43,16 @@ N Fine Moonstalker Pelt |QID|986| |N|Withdraw Fine Moonstalker Pelt from the ban
 
 R Auberdine |QID|4740| |N|Travel to Auberdine (37.21, 44.27)|
 A WANTED: Murkdeep! |QID|4740| |N|Wanted Poster in Auberdine (37.21, 44.27)|
-A How Big a Threat? (1) |QID|984| |N|Terenthis in Auberdine (39.35, 43.46)|
-A The Absent Minded Prospector (1) |QID|729| |N|Archaeologist Hollee in Auberdine (37.48, 41.85)|
-C How Big a Threat? (1) |QID|984| |N|Find a corrupt furbolg camp in Darkshore, you just need to reach the waypoint to complete the quest (39.92, 53.62)|
-T How Big a Threat? (1) |QID|984| |N|Terenthis in Auberdine (39.35, 43.46)|
-A How Big a Threat? (2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
+A How Big a Threat? (Part 1) |QID|984| |N|Terenthis in Auberdine (39.35, 43.46)|
+A The Absent Minded Prospector (Part 1) |QID|729| |N|Archaeologist Hollee in Auberdine (37.48, 41.85)|
+C How Big a Threat? (Part 1) |QID|984| |N|Find a corrupt furbolg camp in Darkshore, you just need to reach the waypoint to complete the quest (39.92, 53.62)|
+T How Big a Threat? (Part 1) |QID|984| |N|Terenthis in Auberdine (39.35, 43.46)|
+A How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
 A Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 C Cave Mushrooms |QID|947| |N|Follow the path to the cave guarded by Naga's and collect 5 Scaber Stalk and 1 Death Cap from the ground inside the cave (54.26, 31.83) (54.99, 32.94) (54.96, 33.37) (56, 35)|
-C How Big a Threat? (2) |QID|985| |N|Kill 8 Blackwood Pathfinder (39, 54) and 5 Blackwood Windtalker in the furbolg camp (39, 52)|
+C How Big a Threat? (Part 2) |QID|985| |N|Kill 8 Blackwood Pathfinder (39, 54) and 5 Blackwood Windtalker in the furbolg camp (39, 52)|
 T Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
-T How Big a Threat? (2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
+T How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
 A Onu |QID|948| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 A A Lost Master |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)|
 
@@ -72,15 +72,15 @@ C Therylune's Escape |QID|945| |N|Escort Therylune until she escapes (22.7, 51.9
 N Book: The Powers Below |QID|968| |N|Kill Twilight Disciple or Twilight Thug until you find Book: The Powers Below to begin a quest in The Master's Glaive (39.6, 86.6)|  |L|5352| |O|
 A The Powers Below |QID|968| |N|Use Book: The Powers Below to accept the quest| |U|5352| |O|
 
-T The Absent Minded Prospector (1) |QID|729| |N|Prospector Remtravel in Remtravel's Excavation (35.75, 83.69)|
-A The Absent Minded Prospector (2) |QID|731| |N|Prospector Remtravel in Remtravel's Excavation (35.76, 83.71)|
-C The Absent Minded Prospector (2) |QID|731| |N|Protect Prospector Remtravel as he searches for the mysterious fossil<br/><b>This can be quite difficult to solo, try to clear the mobs in the area before accepting the quest. You can redo the quest if you fail but you need to wait about 5 mins for the quest giver to respawn (36, 86)|
+T The Absent Minded Prospector (Part 1) |QID|729| |N|Prospector Remtravel in Remtravel's Excavation (35.75, 83.69)|
+A The Absent Minded Prospector (Part 2) |QID|731| |N|Prospector Remtravel in Remtravel's Excavation (35.76, 83.71)|
+C The Absent Minded Prospector (Part 2) |QID|731| |N|Protect Prospector Remtravel as he searches for the mysterious fossil<br/><b>This can be quite difficult to solo, try to clear the mobs in the area before accepting the quest. You can redo the quest if you fail but you need to wait about 5 mins for the quest giver to respawn (36, 86)|
 C WANTED: Murkdeep! |QID|4740| |N|Kill murlocs around the area and Murkdeep will eventually appear, kill him complete the quest (36.55, 76.53)|
-T Washed Ashore (2) |QID|4681| |N|Gwennyth Bly'Leggonde in Auberdine (36.61, 45.59)| |O|
-A Beached Sea Creature (3) |QID|4730| |N|Beached Sea Creature in Twilight Shore (32.66, 80.89)| |PRE|4681|
+T Washed Ashore (Part 2) |QID|4681| |N|Gwennyth Bly'Leggonde in Auberdine (36.61, 45.59)| |O|
+A Beached Sea Creature (Part 3) |QID|4730| |N|Beached Sea Creature in Twilight Shore (32.66, 80.89)| |PRE|4681|
 
-T Beached Sea Creature (3) |QID|4730| |N|Gwennyth Bly'Leggonde in Auberdine (36.61, 45.59)| |PRE|4681|
-T The Absent Minded Prospector (2) |QID|731| |N|Archaeologist Hollee in Auberdine (37.46, 41.88)|
+T Beached Sea Creature (Part 3) |QID|4730| |N|Gwennyth Bly'Leggonde in Auberdine (36.61, 45.59)| |PRE|4681|
+T The Absent Minded Prospector (Part 2) |QID|731| |N|Archaeologist Hollee in Auberdine (37.46, 41.88)|
 T WANTED: Murkdeep! |QID|4740| |N|Sentinel Glynda Nal'Shea in Auberdine (37.70, 43.44)|
 
 R Grove of the Ancients |TID|950| |N|Travel to Grove of the Ancients (43.55, 76.32)|

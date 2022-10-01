@@ -13,8 +13,8 @@ C A Strange Historian |QID|5153| |N|Collect Joseph's Wedding Ring from Joseph Re
 R Chillwind Camp |QID|6186| |N|Travel to Chillwind Camp (43.62, 84.51)| |Z|Western Plaguelands|
 T The Eastern Plagues |QID|6185| |N|Flint Shadowmore in Chillwind Camp (43.62, 84.51)| |Z|Western Plaguelands|
 A The Blightcaller Cometh |QID|6186| |N|Flint Shadowmore in Chillwind Camp (43.62, 84.51)| |Z|Western Plaguelands|
-T A Plague Upon Thee (1) |QID|5903| |N|Nathaniel Dumah in Chillwind Camp (43.44, 84.85)| |Z|Western Plaguelands|
-A A Plague Upon Thee (2) |QID|5904| |N|Nathaniel Dumah in Chillwind Camp (43.49, 84.84)| |Z|Western Plaguelands|
+T A Plague Upon Thee (Part 1) |QID|5903| |N|Nathaniel Dumah in Chillwind Camp (43.44, 84.85)| |Z|Western Plaguelands|
+A A Plague Upon Thee (Part 2) |QID|5904| |N|Nathaniel Dumah in Chillwind Camp (43.49, 84.84)| |Z|Western Plaguelands|
 
 R Ruins of Andorhal |QID|5154| |N|Travel to Ruins of Andorhal (36.73, 74.64) (39.45, 66.78)| |Z|Western Plaguelands|
 T A Strange Historian |QID|5153| |N|Chromie in Ruins of Andorhal (39.45, 66.78)| |Z|Western Plaguelands|
@@ -24,26 +24,26 @@ T The Annals of Darrowshire |QID|5154| |N|Chromie in Ruins of Andorhal (39.46, 6
 A Brother Carlin |QID|5210| |N|Chromie in Ruins of Andorhal (39.46, 66.80)| |Z|Western Plaguelands|
 
 R Northridge Lumber Camp |QID|5904| |N|Travel to Northridge Lumber Camp (48.32, 31.91)| |Z|Western Plaguelands|
-C A Plague Upon Thee (2) |QID|5904| |N|Clear the area and click on Northridge Lumber Mill Crate and then click on the Termite Barrel (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|31, 446|
-T A Plague Upon Thee (2) |QID|5904| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
+C A Plague Upon Thee (Part 2) |QID|5904| |N|Clear the area and click on Northridge Lumber Mill Crate and then click on the Termite Barrel (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|31, 446|
+T A Plague Upon Thee (Part 2) |QID|5904| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
 N Plagueland Termites |QID|6389| |N|Destroy Plagueland Termites as it is no longer needed| |L|15043| |O|
-A A Plague Upon Thee (3) |QID|6389| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
-A Unfinished Business (1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (49.90, 30.33) (51.92, 28.06)| |Z|Western Plaguelands|
-C Unfinished Business (1) |QID|6004.4| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (52.95, 36.33)| |Z|Western Plaguelands|
-C Unfinished Business (1) |QID|6004.3| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (52.95, 36.33)| |Z|Western Plaguelands|
-C Unfinished Business (1) |QID|6004| |N|Kill 2 Scarlet Hunter and 2 Scarlet Medic (51.52, 44.28)| |Z|Western Plaguelands|
-T Unfinished Business (1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands|
-A Unfinished Business (2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands|
+A A Plague Upon Thee (Part 3) |QID|6389| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
+A Unfinished Business (Part 1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (49.90, 30.33) (51.92, 28.06)| |Z|Western Plaguelands|
+C Unfinished Business (Part 1) |QID|6004.4| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (52.95, 36.33)| |Z|Western Plaguelands|
+C Unfinished Business (Part 1) |QID|6004.3| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (52.95, 36.33)| |Z|Western Plaguelands|
+C Unfinished Business (Part 1) |QID|6004| |N|Kill 2 Scarlet Hunter and 2 Scarlet Medic (51.52, 44.28)| |Z|Western Plaguelands|
+T Unfinished Business (Part 1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands|
+A Unfinished Business (Part 2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands|
 K Huntsman Radley |QID|6023.1| |N|Kill Huntsman Radley in Hearthglen (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (57.47, 35.93)| |Z|Western Plaguelands|
 K Cavalier Durgen |QID|6023.2| |N|Kill Cavalier Durgen in Hearthglen (54.94, 23.55)| |Z|Western Plaguelands|
-T Unfinished Business (2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.91, 28.08)| |Z|Western Plaguelands|
-A Unfinished Business (3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.92, 28.04)| |Z|Western Plaguelands|
+T Unfinished Business (Part 2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.91, 28.08)| |Z|Western Plaguelands|
+A Unfinished Business (Part 3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.92, 28.04)| |Z|Western Plaguelands|
 
 R Hearthglen |QID|6025| |N|Follow the waypoint for a shortcut to Hearthglen (50.07, 29.07) (50.52, 27.36) (50.62, 24.72) (45.77, 18.31)| |Z|Western Plaguelands|
-C Unfinished Business (3) |QID|6025| |N|You just need to reach the top of the tower without dying to complete the quest, just mount up and ignore the Elite npcs and run to top of the tower then jump down. You will need to use a health potion (45.77, 18.31)| |Z|Western Plaguelands|
+C Unfinished Business (Part 3) |QID|6025| |N|You just need to reach the top of the tower without dying to complete the quest, just mount up and ignore the Elite npcs and run to top of the tower then jump down. You will need to use a health potion (45.77, 18.31)| |Z|Western Plaguelands|
 
 R Northridge Lumber Camp |TID|6025| |N|Travel to Northridge Lumber Camp (51.94, 28.06)| |Z|Western Plaguelands|
-T Unfinished Business (3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.94, 28.06)| |Z|Western Plaguelands|
+T Unfinished Business (Part 3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.94, 28.06)| |Z|Western Plaguelands|
 
 R The Writhing Haunt |QID|4984| |N|Travel to The Writhing Haunt (53.64, 64.76)| |Z|Western Plaguelands|
 A The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.64, 64.76)| |Z|Western Plaguelands|
@@ -57,7 +57,7 @@ A Glyphed Oaken Branch |QID|4986| |N|Mulgris Deepriver in The Writhing Haunt (53
 R Chillwind Camp |QID|6186| |N|Travel to Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
 T The Eastern Plagues |QID|6185| |N|Flint Shadowmore in Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
 A The Blightcaller Cometh |QID|6186| |N|Flint Shadowmore in Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
-T A Plague Upon Thee (3) |QID|6389| |N|Nathaniel Dumah in Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
+T A Plague Upon Thee (Part 3) |QID|6389| |N|Nathaniel Dumah in Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
 
 R City of Ironforge |QID|4441| |N|Travel to City of Ironforge (75.81, 23.43)| |Z|Ironforge|
 N Extended Annals of Darrowshire |QID|5210| |N|Store Extended Annals of Darrowshire to the bank (35.48, 60.70)| |Z|Ironforge| |L|13202| |O|

@@ -32,39 +32,39 @@ T A Hunter's Boast |QID|257| |N|Daryl the Youngling in The Farstrider Lodge (83.
 A A Hunter's Challenge |QID|258| |N|Daryl the Youngling in The Farstrider Lodge (83.43, 65.30)| 
 C A Hunter's Challenge |QID|258| |N|Kill 5 Elder Mountain Boar found spread throughout the central eastern area (65, 39)|  
 T A Hunter's Challenge |QID|258| |N|Daryl the Youngling in The Farstrider Lodge (83.43, 65.30)| 
-A Vyrin's Revenge (1) |QID|271| |N|Vyrin Swiftwind in The Farstrider Lodge (81.76, 64.15)| 
+A Vyrin's Revenge (Part 1) |QID|271| |N|Vyrin Swiftwind in The Farstrider Lodge (81.76, 64.15)| 
 A Bingles' Missing Supplies |QID|2038| |N|Bingles Blastenheimer in The Loch (63.44, 47.78)| 
 N As you go... |AYG|2038| |QID|385| |N|Kill Loch Crocolisk found in the the lake until you've collected 5 pieces of Crocolisk Meat and 6 Crocolisk Skin| 
 N Bingles' Blastencapper |QID|2038.4| |N|Collect Bingles' Blastencapper from Bingles's Blastencapper on the ground (54.33, 26.54)|
 N Bingles' Hammer |QID|2038.3| |N|Collect Bingles' Hammer from the tool bucket in Loch Modan (51.79, 23.93)|
 N Bingles' Screwdriver |QID|2038.2| |N|Collect Bingles' Screwdriver from Bingle's Toolbucket in Loch Modan (48.35, 20.39)|
 N Bingles' Wrench |QID|2038.1| |N|Collect Bingles' Wrench from Bingle's Toolbucket near the camp fire in Loch Modan (48.69, 29.99)|
-C In Defense of the King's Lands (2) |QID|237| |N|Kill 10 Stonesplinter Seer and 10 Stonesplinter Skullthumper in Valley of Kings (48.35, 20.39)| |Z|Loch Modan|  |O| 
+C In Defense of the King's Lands (Part 2) |QID|237| |N|Kill 10 Stonesplinter Seer and 10 Stonesplinter Skullthumper in Valley of Kings (48.35, 20.39)| |Z|Loch Modan|  |O| 
 R Loch Modan |QID|2038| |N|Travel to Loch Modan|
 C Crocolisk Hunting |QID|385| |N|Kill Loch Crocolisk found in the the lake until you've collected 5 pieces of Crocolisk Meat and 6 Crocolisk Skin (57, 38)|  
 
 R Stonewrought Dam |QID|250| |N|Travel to Stonewrought Dam (55.36, 14.91)|
-A A Dark Threat Looms (1) |QID|250| |N|Chief Engineer Hinderweir VII in Stonewrought Dam (55.36, 14.91) (52.94, 10.99) (46.06, 13.72)| 
-T A Dark Threat Looms (1) |QID|250| |N|Suspicious Barrel in Stonewrought Dam (56.14, 13.16)| 
-A A Dark Threat Looms (2) |QID|199| |N|Suspicious Barrel in Stonewrought Dam (56.14, 13.16)| 
-T A Dark Threat Looms (2) |QID|199| |N|Chief Engineer Hinderweir VII in Stonewrought Dam (46.06, 13.72)| 
+A A Dark Threat Looms (Part 1) |QID|250| |N|Chief Engineer Hinderweir VII in Stonewrought Dam (55.36, 14.91) (52.94, 10.99) (46.06, 13.72)| 
+T A Dark Threat Looms (Part 1) |QID|250| |N|Suspicious Barrel in Stonewrought Dam (56.14, 13.16)| 
+A A Dark Threat Looms (Part 2) |QID|199| |N|Suspicious Barrel in Stonewrought Dam (56.14, 13.16)| 
+T A Dark Threat Looms (Part 2) |QID|199| |N|Chief Engineer Hinderweir VII in Stonewrought Dam (46.06, 13.72)| 
 
 R Thelsamar |QID|301| |N|Travel to Thelsamar (42.60, 10.97) (37.17, 47.55)| 
 T Excavation Progress Report |QID|298| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)| 
 A Report to Ironforge |QID|301| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)| 
 
 R Grizzlepaw Ridge |QID|271| |N|Travel to Grizzlepaw Ridge (39.98, 66.87)|
-C Vyrin's Revenge (1) |QID|271| |N|Kill Ol' Sooty in the cave at the top of the mountain and collect Ol' Sooty's Head in Grizzlepaw Ridge<br/><b>Can be difficult to solo, it's safe to abandon and skip all Vyrin's Revenge quest (39.98, 66.87) (40.89, 63.06) (40.06, 61.55)| 
+C Vyrin's Revenge (Part 1) |QID|271| |N|Kill Ol' Sooty in the cave at the top of the mountain and collect Ol' Sooty's Head in Grizzlepaw Ridge<br/><b>Can be difficult to solo, it's safe to abandon and skip all Vyrin's Revenge quest (39.98, 66.87) (40.89, 63.06) (40.06, 61.55)| 
 
 R The Farstrider Lodge |QID|531| |N|Travel to The Farstrider Lodge (81.84, 61.77)|
 T Crocolisk Hunting |QID|385| |N|Marek Ironheart in The Farstrider Lodge (81.84, 61.77)| 
-T Vyrin's Revenge (1) |QID|271| |N|Daryl the Youngling in The Farstrider Lodge (83.43, 65.30)| 
-A Vyrin's Revenge (2) |QID|531| |N|Daryl the Youngling in The Farstrider Lodge (83.43, 65.30)| 
-T Vyrin's Revenge (2) |QID|531| |N|Vyrin Swiftwind in The Farstrider Lodge (81.76, 64.15)| 
+T Vyrin's Revenge (Part 1) |QID|271| |N|Daryl the Youngling in The Farstrider Lodge (83.43, 65.30)| 
+A Vyrin's Revenge (Part 2) |QID|531| |N|Daryl the Youngling in The Farstrider Lodge (83.43, 65.30)| 
+T Vyrin's Revenge (Part 2) |QID|531| |N|Vyrin Swiftwind in The Farstrider Lodge (81.76, 64.15)| 
 T Bingles' Missing Supplies |QID|2038| |N|Bingles Blastenheimer in The Loch (63.44, 47.78)| 
 
 R Valley of Kings |TID|237| |N|Travel to Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
-T In Defense of the King's Lands (2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan| |O| 
+T In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan| |O| 
 
 R City of Ironforge |TID|301| |N|Travel to City of Ironforge (55.60, 47.94)| |Z|Ironforge| 
 N Letter to Delgren |QID|967| |N|Store Letter to Delgren to the bank (35.48, 60.70)| |Z|Ironforge| |L|5354| |O| 
