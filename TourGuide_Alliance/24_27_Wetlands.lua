@@ -73,7 +73,7 @@ T Blisters on The Land |QID|275| |N|Rethiel the Greenwarden in The Green Belt (5
 
 R Whelgar's Excavation Site |QID|299| |N|Travel to Whelgar's Excavation Site (36.85, 43.08)| |Z|Wetlands|
 A Uncovering the Past |QID|299| |N|Prospector Whelgar in Whelgar's Excavation Site (36.85, 43.08) (38.8, 52.3)|
-N Neru Fragment |QID|299.4| |N|Click on Dirt Pile to collect Neru Fragment in Whelgar's Excavation Site (36.21, 48.91)| |Z|Wetlands|
+N Neru Fragment |QID|299.4| |N|Click on Dirt Pile to collect Neru Fragment in Whelgar's Excavation Site (36.5, 42.11)| |Z|Wetlands|
 N Golm Fragment |QID|299.3| |N|Click on the Vase to collect Golm Fragment in Whelgar's Excavation Site (35.51, 45.24)| |Z|Wetlands|
 N Modr Fragment |QID|299.2| |N|Click on the Ancient Relic to collect Modr Fragment in Whelgar's Excavation Site (33.74, 48.59)| |Z|Wetlands|
 N Ados Fragment |QID|299.1| |N|Click on Ancient Relic to collect Ados Fragment in Whelgar's Excavation Site (32.28, 48.58)| |Z|Wetlands|
