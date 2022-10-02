@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Stranglethorn (36-37)", "Arathi Highlands (37-38)", "Alliance",function()
+TourGuide:RegisterGuide("Alterac Mountains (36-37)", "Arathi Highlands (37-38)", "Alliance",function()
 
 return [[
 

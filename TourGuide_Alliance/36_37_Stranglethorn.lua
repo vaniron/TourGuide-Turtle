@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Stranglethorn (36-37)", "Stranglethorn (36-37)", "Alliance",function()
+TourGuide:RegisterGuide("Stranglethorn (36-37)", "Alterac Mountains (36-37)", "Alliance",function()
 
 return [[
 
@@ -129,7 +129,7 @@ A Colonel Kurzen |QID|202| |N|Lieutenant Doren in Rebel Camp (38.05, 3.05)| |Z|S
 R The Salty Sailor Tavern |QID|209| |N|Travel or Hearthstone to The Salty Sailor Tavern in Booty Bay (26.95, 77.23)| |Z|Stranglethorn Vale|
 T Investigate the Camp |QID|201| |N|Krazek in The Salty Sailor Tavern (26.95, 77.23)| |Z|Stranglethorn Vale|
 T Bloodscalp Ears |QID|189| |N|Kebok in The Salty Sailor Tavern (26.99, 77.13)| |Z|Stranglethorn Vale|
-T Hostile Takeover |QID|213| |N|Kebok in The Salty Sailor Tavern (26.99, 77.13)| |Z|Stranglethorn Vale| 
+T Hostile Takeover |QID|213| |N|Kebok in The Salty Sailor Tavern (26.99, 77.13)| |Z|Stranglethorn Vale|
 T The Stone of the Tides |QID|578| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale|
 N Library Scrip |TID|605| |N|Destroy Library Scrip as it is no longer needed| |L|3898| |O|
 A Water Elementals |QID|601| |N|Baron Revilgaz in Booty Bay (27.20, 76.89)| |Z|Stranglethorn Vale|
