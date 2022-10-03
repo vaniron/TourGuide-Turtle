@@ -20,7 +20,7 @@ N Henrig Lonebrow's Journal |QID|1100| |N|Collect Henrig Lonebrow's Journal near
 A Lonebrow's Journal |QID|1100| |N|Use Henrig Lonebrow's Journal to accept quest| |Z|Thousand Needles| |U|5791|
 
 R Thalanaar |TID|1179| |N|Travel to Thalanaar (89.63, 46.56)| |Z|Feralas|
-T Lonebrow's Journal |QID|1100| |N|Falfindel Waywarder in Thalanaar (89.63, 46.56)| |Z|Feralas| 
+T Lonebrow's Journal |QID|1100| |N|Falfindel Waywarder in Thalanaar (89.63, 46.56)| |Z|Feralas|
 f Thalanaar |TID|1179| |N|Speak to Thyssiana and grab flight path for Thalanaar (89.49, 45.84)| |Z|Feralas|
 
 R Mirage Raceway |QID|1110| |N|Travel to Mirage Raceway (15.49, 25.95) (20.89, 28.26) (26.50, 34.21) (29.56, 34.25) (36.13, 43.46) (43.71, 52.84) (45.90, 55.22) (51.03, 52.78) (66.98, 61.84) (78.13, 77.10)| |Z|Thousand Needles|
@@ -29,7 +29,7 @@ A Hardened Shells |QID|1105| |N|Wizzle Brassbolts in Mirage Raceway (78.13, 77.1
 A Salt Flat Venom |QID|1104| |N|Fizzle Brassbolts in Mirage Raceway (78.07, 77.11)| |Z|Thousand Needles|
 A Rocket Car Parts |QID|1110| |N|Kravel Koalbeard in Mirage Raceway (77.78, 77.23)| |Z|Thousand Needles|
 A Wharfmaster Dizzywig |QID|1111| |N|Kravel Koalbeard in Mirage Raceway (77.78, 77.23)| |Z|Thousand Needles|
-A Hemet Nesingwary Jr. |QID|5762| |N|Kravel Koalbeard in Mirage Raceway (77.78, 77.23)| |Z|Thousand Needles|
+A Hemet Nesingwary |QID|5762| |N|Kravel Koalbeard in Mirage Raceway (77.78, 77.23)| |Z|Thousand Needles|
 A Load Lightening |QID|1176| |N|Pozzik in Mirage Raceway (80.13, 75.88)| |Z|Thousand Needles|
 A A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.62, 77.93)| |Z|Thousand Needles|
 
