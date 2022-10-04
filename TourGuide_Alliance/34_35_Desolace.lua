@@ -7,12 +7,11 @@ A Reclaimers' Business in Desolace |QID|1453| |N|Roetten Stonehammer in Hall of 
 T Letter to Stormpike |QID|514| |N|Prospector Stormpike in The Library, skip follow up (74.59, 11.68)| |Z|Ironforge| |O|
 T Klockmort's Essentials |QID|2925| |N|Klockmort Spannerspan in Tinker Town, skip follow up (67.99, 46.21)| |Z|Ironforge| |O|
 T Tinkmaster Overspark |QID|2923| |N|Tinkmaster Overspark in Tinker Town (69.63, 50.09)| |Z|Ironforge| |O|
-A The Brassbolts Brothers |QID|1179| |N|Pilot Longbeard in Hall of Arms (72.70, 93.97)| |Z|Ironforge|
 
 R Desolace |QID|1437| |N|Run South to Desolace (27, 85.9)| |Z|Stonetalon Mountains|
 R Nijel's Point |QID|1437| |N|Nijel's Point is along the northern edge of Desolace (64, 10)|
 
-A Strange Alliance |QID|1382| |N|Captain Pentigast in Nijel's Point (66.67, 10.92)| |Z|Desolace| 
+A Strange Alliance |QID|1382| |N|Captain Pentigast in Nijel's Point (66.67, 10.92)| |Z|Desolace|
 A Centaur Bounty |QID|1387| |N|Corporal Melkins in Nijel's Point (66.74, 10.90)| |Z|Desolace|
 A Vahlarriel's Search (Part 1) |QID|1437| |N|Vahlarriel Demonslayer in Nijel's Point (66.44, 11.81)| |Z|Desolace|
 T Reclaimers' Business in Desolace |QID|1453| |N|Kreldig Ungor in Nijel's Point (66.23, 9.64)| |Z|Desolace|

@@ -8,14 +8,6 @@ A Fall of Dun Modr |QID|472| |N|Harlo Barnaby in Menethil Harbor (10.83, 55.85)|
 R Dun Modr |QID|631| |N|Travel to Dun Modr (49.92, 18.23)| |Z|Wetlands|
 T Fall of Dun Modr |QID|472| |N|Longbraid the Grim in Dun Modr (49.92, 18.23)| |Z|Wetlands|
 A The Thandol Span (Part 1) |QID|631| |N|Longbraid the Grim in Dun Modr (49.92, 18.23)| |Z|Wetlands|
-A A Grim Task |QID|304| |N|Rhag Garmason in Dun Modr (49.68, 18.24)| |Z|Wetlands|
-A The Dark Iron War |QID|303| |N|Motley Garmason in Dun Modr (49.69, 18.30)| |Z|Wetlands|
-
-C A Grim Task |QID|304| |N|Kill Balgaras the Foul and loot Ear of Balgaras in Direforge Hill. This is an elite group quest and not soloable, safe to skip (60, 27)| |Z|Wetlands|
-C The Dark Iron War |QID|303| |N|Kill 15 Dark Iron Dwarf, 5 Dark Iron Tunneler, 5 Dark Iron Saboteur and 5 Dark Iron Demolitionist in Direforge Hill. This is an elite group quest, you can solo slowly it for a lot XP, safe to skip (47.8, 17.3) (60.7, 21.7)| |Z|Wetlands|
-
-T A Grim Task |QID|304| |N|Longbraid the Grim in Dun Modr (49.68, 18.24)| |Z|Wetlands|
-T The Dark Iron War |QID|303| |N|Motley Garmason in Dun Modr (49.69, 18.30)| |Z|Wetlands|
 
 T The Thandol Span (Part 1) |QID|631| |N|Ebenezer Rustlocke's Corpse in Thandol Span (45.66, 93.08) head down the stairs to the right| |Z|Arathi Highlands|
 A The Thandol Span (Part 2) |QID|632| |N|Ebenezer Rustlocke's Corpse in Thandol Span (45.66, 93.08)| |Z|Arathi Highlands|
