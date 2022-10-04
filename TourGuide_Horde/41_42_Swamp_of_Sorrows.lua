@@ -10,7 +10,7 @@ R Duskwood |QID|1372| |N|Travel north to Duskwood (41.7, 0.3)| |Z|Stranglethorn 
 A Nothing But The Truth (Part 1) |QID|1372| |N|Deathstalker Zraedus in Beggar's Haunt (87.7, 35.7)| |Z|Duskwood|
 T Nothing But The Truth (Part 1) |QID|1372| |N|Apothecary Faustin in Beggar's Haunt (87.5, 35.4)| |Z|Duskwood|
 
-R Swamp of Sorrows |QID|1389| |N|Travel east through Deadwind Pass to Swamp of Sorrows (63.8, 40.7)| |Z|1430|
+R Swamp of Sorrows |QID|1389| |N|Travel east through Deadwind Pass to Swamp of Sorrows (63.8, 40.7)| |Z|Deadwind Pass|
 R The Harborage |QID|1389| |N|Travel to The Harborage (25.99, 31.44)|
 A Draenethyst Crystals |QID|1389| |N|Magtoor in The Harborage (25.99, 31.44)|
 

@@ -243,8 +243,8 @@ T Kill Grundig Darkcloud |QID|6629| |N|Makaba Flathoof in The Barrens (35.23, 27
 R The Crossroads |QID|876| |N|Travel to The Crossroads (52.23, 31.93)| |Z|The Barrens| |OID|876|
 T Prowlers of the Barrens |QID|903| |N|Sergra Darkthorn in The Crossroads (52.21, 30.99)| |Z|The Barrens|
 A Echeyakee |QID|881| |N|Sergra Darkthorn in The Crossroads (52.21, 30.99)| |Z|The Barrens|
-T Harpy Lieutenants |QID|875| |N|Darsok Swiftdagger in The Crossroads (51.64, 30.92)| |Z|1413
-A Serena Bloodfeather |QID|876| |N|Darsok Swiftdagger in The Crossroads (51.64, 30.92)| |Z|1413
+T Harpy Lieutenants |QID|875| |N|Darsok Swiftdagger in The Crossroads (51.64, 30.92)| |Z|The Barrens|
+A Serena Bloodfeather |QID|876| |N|Darsok Swiftdagger in The Crossroads (51.64, 30.92)| |Z|The Barrens|
 
 R The Dry Hills |QID|876| |N|Travel to The Dry Hills (39.46, 12.38)| |Z|The Barrens|
 C Serena Bloodfeather |QID|876| |N|Kill Serena Bloodfeather in the northwest part of the Barrens in The Dry Hills (39.46, 12.38)| |Z|The Barrens|
