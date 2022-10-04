@@ -40,7 +40,7 @@ h Southshore |QID|9435| |N|Speak to Innkeeper Anderson and set hearth in Southsh
 A Soothing Turtle Bisque |QID|555| |N|Chef Jessen in Southshore (51.67, 58.32)| |Z|Hillsbrad Foothills|
 A Down the Coast |QID|536| |N|Lieutenant Farren Orinelle in Southshore (51.45, 58.48)| |Z|Hillsbrad Foothills|
 A Syndicate Assassins |QID|505| |N|Magistrate Henry Maleb in Southshore (48.15, 59.27)| |Z|Hillsbrad Foothills|
-A Costly Menace |QID|564| |N|Darren Malvew in Southshore (52.35, 56.09)| |Z|Hillsbrad Foothills| 
+A Costly Menace |QID|564| |N|Darren Malvew in Southshore (52.35, 56.09)| |Z|Hillsbrad Foothills|
 f Southshore |QID|536| |N|Speak to Darla Harris and grab flight path for Southshore (49.34, 52.32)| |Z|Hillsbrad Foothills|
 
 C Down the Coast |QID|536| |N|Kill 10 Torn Fin Tidehunter and 10 Torn Fin Oracle which can be found along the coast in Western Strand (44, 67)|
@@ -59,12 +59,12 @@ A Reassignment |QID|563| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.
 
 C Soothing Turtle Bisque |QID|555.1| |N|Kill Snapjaw along the river and collect 10 Turtle Meat move follow the river north (55.79, 54.39) (64.0, 40.0) (68.6, 28.2)|
 
-R Sofera's Naze |QID|511| |N|Travel to Sofera's Naze (58.3, 67.8)| |Z|1416|
-A Encrypted Letter |QID|511| |N|Syndicate Documents in Sofera's Naze (58.3, 67.8)| |Z|1416|
-A Foreboding Plans |QID|510| |N|Syndicate Documents in Sofera's Naze (58.3, 67.8)| |Z|1416|
+R Sofera's Naze |QID|511| |N|Travel to Sofera's Naze (58.3, 67.8)| |Z|Alterac Mountains|
+A Encrypted Letter |QID|511| |N|Syndicate Documents in Sofera's Naze (58.3, 67.8)| |Z|Alterac Mountains|
+A Foreboding Plans |QID|510| |N|Syndicate Documents in Sofera's Naze (58.3, 67.8)| |Z|Alterac Mountains|
 
-C Syndicate Assassins |QID|505| |N|Kill 12 Syndicate Footpad and 8 Syndicate Thief which can be found at the Camps before entering Alterac Mountains (57, 66) (48, 77)| |Z|1416|
-C Costly Menace |QID|564| |N|Kill 8 Mountain Lion and 10 Hulking Mountain Lion in The Headland (43, 80)| |Z|1416|
+C Syndicate Assassins |QID|505| |N|Kill 12 Syndicate Footpad and 8 Syndicate Thief which can be found at the Camps before entering Alterac Mountains (57, 66) (48, 77)| |Z|Alterac Mountains|
+C Costly Menace |QID|564| |N|Kill 8 Mountain Lion and 10 Hulking Mountain Lion in The Headland (43, 80)| |Z|Alterac Mountains|
 
 R Southshore |QID|514| |N|Travel or Hearthstone back to Southshore (49.0, 55.1)|
 B Fine Thread |QID|514| |N|Buy Fine Thread from Micha Yance in Southshore (49.0, 55.1)| |L|2321|
