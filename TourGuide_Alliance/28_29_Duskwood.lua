@@ -145,7 +145,7 @@ A Proving Your Worth |QID|323| |N|in The Hushed Bank (7.83, 34.02)| |Z|Duskwood|
 T A Daughter's Love |QID|231| |N|A Weathered Grave in Forlorn Rowe (17.74, 29.09)| |PRE|228| |Z|Duskwood|
 
 C Proving Your Worth |QID|323| |N|Kill 3 Skeletal Healer, 15 Skeletal Raider, 3 Skeletal Warder and in Dawning Wood Catacombs. The Skeletal Warder are only found inside the Catacombs underground (16.01, 37.07)| |Z|Duskwood|
-C Gather Rot Blossoms |QID|156| |N|Kill Skeletal Horror and collect 8 Rot Blossom (81.07, 57.80)|  |Z|Duskwood|
+C Gather Rot Blossoms |QID|156| |N|Kill Skeletal Horror and Skeletal Fiend to collect 8 Rot Blossom (16.0, 45.0)|  |Z|Duskwood|
 T Proving Your Worth |QID|323| |N|Sven Yorgen in The Hushed Bank (7.81, 34.02)| |Z|Duskwood|
 A Seeking Wisdom |QID|269| |N|Sven Yorgen in The Hushed Bank (7.81, 34.02)| |Z|Duskwood|
 
