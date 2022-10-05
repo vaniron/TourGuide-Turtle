@@ -26,14 +26,14 @@ A The Legend of Stalvan (Part 9) |QID|78| |N|Marshal Haggard in Eastvale Logging
 T The Legend of Stalvan (Part 9) |QID|78| |N|Tavernkeep Smitts in Darkshire (73.76, 44.50)| |Z|Duskwood| |PRE|74|
 A The Legend of Stalvan (Part 10) |QID|79| |N|Tavernkeep Smitts in Darkshire (73.76, 44.50)| |Z|Duskwood| |PRE|74|
 T The Legend of Stalvan (Part 10) |QID|79| |N|Commander Althea Ebonlocke in Darkshire (73.63, 46.91)| |Z|Duskwood| |PRE|74|
-A The Legend of Stalvan (11) |QID|80| |N|Commander Althea Ebonlocke in Darkshire (73.63, 46.91)| |Z|Duskwood| |PRE|74|
-T The Legend of Stalvan (11) |QID|80| |N|Clerk Daltry in Darkshire (72.59, 46.84)| |Z|Duskwood| |PRE|74|
-A The Legend of Stalvan (12) |QID|97| |N|Clerk Daltry in Darkshire (72.59, 46.84)| |Z|Duskwood| |PRE|74|
-T The Legend of Stalvan (12) |QID|97| |N|Commander Althea Ebonlocke in Darkshire (73.56, 46.88)| |Z|Duskwood| |PRE|74|
-A The Legend of Stalvan (13) |QID|98| |N|Commander Althea Ebonlocke in Darkshire (73.56, 46.88)| |Z|Duskwood| |PRE|74|
+A The Legend of Stalvan (Part 11) |QID|80| |N|Commander Althea Ebonlocke in Darkshire (73.63, 46.91)| |Z|Duskwood| |PRE|74|
+T The Legend of Stalvan (Part 11) |QID|80| |N|Clerk Daltry in Darkshire (72.59, 46.84)| |Z|Duskwood| |PRE|74|
+A The Legend of Stalvan (Part 12) |QID|97| |N|Clerk Daltry in Darkshire (72.59, 46.84)| |Z|Duskwood| |PRE|74|
+T The Legend of Stalvan (Part 12) |QID|97| |N|Commander Althea Ebonlocke in Darkshire (73.56, 46.88)| |Z|Duskwood| |PRE|74|
+A The Legend of Stalvan (Part 13) |QID|98| |N|Commander Althea Ebonlocke in Darkshire (73.56, 46.88)| |Z|Duskwood| |PRE|74|
 T The Missing Diplomat (Part 4) |QID|1243| |N|Watcher Backus in Darkshire, skip follow up (72.80, 33.42)| |Z|Duskwood| |O|
-C The Legend of Stalvan (13) |QID|98| |N|Kill Stalvan Mistmantle and collect Mistmantle Family Ring in Manor Mistmantle (77.36, 36.16)| |Z|Duskwood| |PRE|74|
-T The Legend of Stalvan (13) |QID|98| |N|Madame Eva in Darkshire (75.76, 45.31)| |Z|Duskwood| |PRE|74|
+C The Legend of Stalvan (Part 13) |QID|98| |N|Kill Stalvan Mistmantle and collect Mistmantle Family Ring in Manor Mistmantle (77.36, 36.16)| |Z|Duskwood| |PRE|74|
+T The Legend of Stalvan (Part 13) |QID|98| |N|Madame Eva in Darkshire (75.76, 45.31)| |Z|Duskwood| |PRE|74|
 
 R Rebel Camp |QID|203| |N|Travel to Rebel Camp (44.57, 66.81)| |Z|Duskwood| |REACH|
 R Rebel Camp |QID|203| |N|Travel to Rebel Camp (40.65, 3.48) (40.56, 4.63) (38.24, 4.86)| |Z|Stranglethorn Vale|
@@ -61,7 +61,7 @@ A Welcome to the Jungle |QID|583| |N|Barnil Stonepot in Nesingwary's Expedition 
 T Welcome to the Jungle |QID|583| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
 A Raptor Mastery (Part 1) |QID|194| |N|Hemet Nesingwary in Nesingwary's Expedition (35.66, 10.77)| |Z|Stranglethorn Vale|
 A Tiger Mastery (Part 1) |QID|185| |N|Ajeck Rouack in Nesingwary's Expedition (35.62, 10.62)| |Z|Stranglethorn Vale|
-A Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.63, 10.51)| |Z|Stranglethorn Vale| 
+A Panther Mastery (Part 1) |QID|190| |N|Sir S. J. Erlgadin in Nesingwary's Expedition (35.63, 10.51)| |Z|Stranglethorn Vale|
 N Keep Pages |QID|185| |N|Keep any Green Hills of Stranglethorn - Page 1 type pages that you find, it is a random drop from any Humanoids enemies in Stranglethorn Vale. You can also buy or sell these pages for decent profit in the Auction House if you fail to complete it. Tick this step|
 C Tiger Mastery (Part 1) |QID|185| |N|Kill 10 Young Stranglethorn Tiger in Stranglethorn Vale (35.00, 12.10)| |Z|Stranglethorn Vale|
 
