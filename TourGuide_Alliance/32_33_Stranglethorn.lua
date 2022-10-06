@@ -39,7 +39,7 @@ R Rebel Camp |QID|203| |N|Travel to Rebel Camp (44.57, 66.81)| |Z|Duskwood| |REA
 R Rebel Camp |QID|203| |N|Travel to Rebel Camp (40.65, 3.48) (40.56, 4.63) (38.24, 4.86)| |Z|Stranglethorn Vale|
 A The Second Rebellion |QID|203| |N|Sergeant Yohwa in Rebel Camp (38.03, 3.35)| |Z|Stranglethorn Vale|
 A Bad Medicine |QID|204| |N|Sergeant Yohwa in Rebel Camp (38.03, 3.35)| |Z|Stranglethorn Vale|
-A Jungle Secrets |QID|215| |N|Private Thorsen in Rebel Camp (37.98, 3.40)| |Z|Stranglethorn Vale| |O|
+A Jungle Secrets |QID|215| |N|Private Thorsen in Rebel Camp (37.98, 3.40)| |Z|Stranglethorn Vale|
 A Krazek's Cookery |QID|210| |N|Corporal Kaleb in Rebel Camp (37.74, 3.29)| |Z|Stranglethorn Vale|
 T Jungle Secrets |QID|215| |N|Lieutenant Doren in Rebel Camp (38.04, 3.01)| |Z|Stranglethorn Vale| |O|
 A Bookie Herod |QID|200| |N|Lieutenant Doren in Rebel Camp (38.04, 3.01)| |Z|Stranglethorn Vale| |PRE|215|
