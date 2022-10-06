@@ -16,7 +16,7 @@ f Ratchet |QID|1100| |N|Speak to Bragok and grab flight path for Ratchet (63.09,
 
 R The Great Lift |OID|1100| |N|Travel to The Great Lift (55.77, 44.14) (51.12, 49.16) (48.10, 54.07) (47.43, 62.59) (46.13, 67.56)(45.97, 84.35) (44.14, 91.19) (44.14, 91.19)| |Z|The Barrens| |REACH|
 R The Great Lift |OID|1100| |N|Travel to The Great Lift (30.71, 24.39)| |Z|Thousand Needles|
-N Henrig Lonebrow's Journal |QID|1100| |N|Collect Henrig Lonebrow's Journal near the corpse on the ground, click on the book in The Great Lift (30.71, 24.39)| |L|5791|
+N Henrig Lonebrow's Journal |QID|1100| |N|Collect Henrig Lonebrow's Journal near the corpse on the ground, to the right of the lift as you step off. Click on the book in The Great Lift (30.71, 24.39)| |L|5791|
 A Lonebrow's Journal |QID|1100| |N|Use Henrig Lonebrow's Journal to accept quest| |Z|Thousand Needles| |U|5791|
 
 R Thalanaar |TID|1179| |N|Travel to Thalanaar (89.63, 46.56)| |Z|Feralas|
@@ -33,7 +33,7 @@ A Hemet Nesingwary |QID|5762| |N|Kravel Koalbeard in Mirage Raceway (77.78, 77.2
 A Load Lightening |QID|1176| |N|Pozzik in Mirage Raceway (80.13, 75.88)| |Z|Thousand Needles|
 A A Bump in the Road |QID|1175| |N|Trackmaster Zherin in Mirage Raceway (81.62, 77.93)| |Z|Thousand Needles|
 
-N As you go... |AYG|1175| |QID|1110| |N|Collect 30 Rocket Car Parts from the ground anywhere in The Shimmering Flats. You can complete the quests below in any order, click on the green button to switch quest waypoints and targets| |OBJ|450, 453, 454, 449|
+N As you go... |AYG|1175| |QID|1110| |N|Collect 30 Rocket Car Parts from the ground anywhere in The Shimmering Flats.| |OBJ|450, 453, 454, 449|
 C Salt Flat Venom |QID|1104| |N|Kill Scorpid Reaver and Scorpid Terror in The Shimmering Flats for 6 Salty Scorpid Venom (72, 75)|
 C Hardened Shells |QID|1105| |N|Kill Sparkleshell Tortoise, Sparkleshell Snapper and Sparkleshell Borer in The Shimmering Flats for 9 Hardened Tortoise Shell (82, 54)|
 C Load Lightening |QID|1176| |N|Kill Salt Flats Scavenger and Salt Flats Vulture for 10 Hollow Vulture Bone in The Shimmering Flats (87, 66)|
@@ -48,8 +48,8 @@ A Goblin Sponsorship (Part 1) |QID|1178| |N|Pozzik in Mirage Raceway (80.14, 75.
 T Hardened Shells |QID|1105| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.13)| |Z|Thousand Needles|
 T Salt Flat Venom |QID|1104| |N|Fizzle Brassbolts in Mirage Raceway (78.06, 77.09)| |Z|Thousand Needles|
 A Encrusted Tail Fins |QID|1107| |N|Wizzle Brassbolts in Mirage Raceway (78.14, 77.12)| |Z|Thousand Needles|
-T Rocket Car Parts |QID|1110| |N|Kravel Koalbeard in Mirage Raceway (77.80, 77.23)| |Z|Thousand Needles|
 A Martek the Exiled |QID|1106| |N|Fizzle Brassbolts in Mirage Raceway (78.07, 77.11)| |Z|Thousand Needles|
+T Rocket Car Parts |QID|1110| |N|Kravel Koalbeard in Mirage Raceway (77.80, 77.23)| |Z|Thousand Needles|
 
 R Gadgetzan |N|Travel to Gadgetzan (74.33, 93.67) (75.50, 97.26)| |Z|Thousand Needles| |REACH|
 R Gadgetzan |N|Travel to Gadgetzan (51.00, 29.35)| |Z|Tanaris|
