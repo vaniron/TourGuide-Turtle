@@ -87,7 +87,6 @@ C Bloodscalp Ears |QID|189| |N|Kill Bloodscalp trolls Tkashi Ruins and Bal'lal R
 
 R The Savage Coast |QID|578| |N|Travel to The Savage Coast (21.77, 22.04)| |Z|Stranglethorn Vale|
 C The Stone of the Tides |QID|578| |N|Locate the haunted island in The Savage Coast (21.77, 22.04)| |Z|Stranglethorn Vale|
-C Encrusted Tail Fins |QID|1107| |N|Kill Saltscale murlocs for 10 Encrusted Tail Fin in The Vile Reef (24.47, 24.72)| |Z|Stranglethorn Vale| |O|
 C Singing Blue Shards |QID|605| |N|Find Crystal Spine Basilisk and collect some Singing Crystal Shard in The Savage Coast, tick this step if you can't any crocs (24.22, 17.65)| |Z|Stranglethorn Vale|
 
 R Rebel Camp |QID|200| |N|Travel to Rebel Camp (40.65, 3.48) (40.56, 4.63) (38.24, 4.86)| |Z|Stranglethorn Vale|
