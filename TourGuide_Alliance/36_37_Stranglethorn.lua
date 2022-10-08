@@ -145,7 +145,7 @@ R Hall of Explorers |QID|707| |N|Travel to Hall of Explorers in City of Ironforg
 T The Karnitol Shipwreck (Part 4) |QID|1457| |N|Roetten Stonehammer in Hall of Explorers (67.99, 17.61)| |Z|Ironforge|
 A Ironband Wants You! |QID|707| |N|Prospector Stormpike in The Library (74.53, 11.86)| |Z|Ironforge|
 T Letter to Stormpike |QID|514| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |O|
-A Further Mysteries |QID|525| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |PRE|514|
+A Further Mysteries |QID|525| |N|Prospector Stormpike in The Library (74.59, 11.68)| |Z|Ironforge| |PRE|514| |O|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
