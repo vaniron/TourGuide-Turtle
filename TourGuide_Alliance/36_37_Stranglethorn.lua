@@ -137,9 +137,9 @@ A Goblin Sponsorship (Part 5) |QID|1183| |N|Baron Revilgaz in Booty Bay (27.20, 
 T Supply and Demand |QID|575| |N|Drizzlik in Booty Bay (28.29, 77.58)| |Z|Stranglethorn Vale|
 A Some Assembly Required |QID|577| |N|Drizzlik in Booty Bay (28.29, 77.58)| |Z|Stranglethorn Vale|
 T Singing Blue Shards |QID|605| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.21)| |Z|Stranglethorn Vale|
-N Karnitol's Satchel |QID|1457| |N|Withdraw Karnitol's Satchel from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|6245| |OO|
-N Kravel's Parts |QID|1112| |N|Store Kravel's Parts to the bank (35.48, 60.70)| |Z|Ironforge| |L|5800| |O|
-N Fuel Regulator Blueprints |QID|1183| |N|Store Fuel Regulator Blueprints to the bank (35.48, 60.70)| |Z|Ironforge| |L|5852| |O|
+N Karnitol's Satchel |QID|1457| |N|Withdraw Karnitol's Satchel from the bank. Tick this step (26.6 76.6)| |L|6245| |OO|
+N Kravel's Parts |QID|1112| |N|Store Kravel's Parts to the bank (26.6 76.6)| |L|5800| |O|
+N Fuel Regulator Blueprints |QID|1183| |N|Store Fuel Regulator Blueprints to the bank (26.6 76.6)| |L|5852| |O|
 
 R Hall of Explorers |QID|707| |N|Travel to Hall of Explorers in City of Ironforge (67.99, 17.61)| |Z|Ironforge|
 T The Karnitol Shipwreck (Part 4) |QID|1457| |N|Roetten Stonehammer in Hall of Explorers (67.99, 17.61)| |Z|Ironforge|
