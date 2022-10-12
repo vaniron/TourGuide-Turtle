@@ -3,8 +3,8 @@ TourGuide:RegisterGuide("Alterac Mountains (36-37)", "Arathi Highlands (37-38)",
 return [[
 
 R Southshore |QID|504| |N|Travel to Southshore (48.12, 59.06)| |Z|Hillsbrad Foothills|
-T Further Mysteries |QID|525| |N|Magistrate Henry Maleb in Southshore (48.12, 59.06)| |Z|Hillsbrad Foothills| |O|
 A Crushridge Bounty |QID|500| |N|Marshal Redpath in Southshore (49.67, 58.73)| |Z|Hillsbrad Foothills|
+T Further Mysteries |QID|525| |N|Magistrate Henry Maleb in Southshore (48.12, 59.06)| |Z|Hillsbrad Foothills| |O|
 A Dark Council |QID|537| |N|Magistrate Henry Maleb in Southshore (48.17, 59.17)| |Z|Hillsbrad Foothills|
 A Noble Deaths |QID|512| |N|Magistrate Henry Maleb in Southshore (48.14, 59.13)| |Z|Hillsbrad Foothills|
 h Southshore |QID|512| |N|Speak to Innkeeper Anderson and set hearth at Southshore (51.16, 58.95)| |Z|Hillsbrad Foothills|

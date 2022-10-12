@@ -32,13 +32,14 @@ R Foothold Citadel |QID|1282| |N|Travel to Foothold Citadel (67.90, 47.95)|
 T They Call Him Smiling Jim |QID|1282| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 A Inspecting the Ruins |QID|11123| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 
+B Buy 3 [Soothing Spices] |QID|1218| from Helenia Olden in Theramore Isle (66.4, 51.4)
+
 C Mudrock Soup and Bugs |QID|1204| |N|Kill Mudrock Tortoise or Mudrock Spikeshell and collect 8 Forked Mudrock Tongue in Theramore Isle. This quest have a low drop rate and the turtles are scarce try to get 4 Forked Mudrock Tongue and complete this later (64.71, 41.39) (64.71, 41.39) (64.25, 39.05) (63.00, 36.58) (61.72, 27.53) (61.73, 21.48)| |L|5883 4|
 
 R Swamplight Manor |QID|1218| |N|Travel to Swamplight Manor (55.43, 26.27)|
-A Marsh Frog Legs |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.27)|
-C Marsh Frog Legs |QID|1218| |N|Kill (npc:23979) and collect 10 (item:33202) near the quest giver (57.6, 28.8)|
-T Marsh Frog Legs |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.27)|
-A Jarl Needs Eyes |QID|1206| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.27)|
+A Soothing Spices |QID|1218| |N|"Swamp Eye" Jarl in Swamplight Manor (55.43, 26.27)|
+T Soothing Spices |QID|1218| |N|"Swamp Eye" Jarl in Swamplight Manor (55.43, 26.27)|
+A Jarl Needs Eyes |QID|1206| |N|"Swamp Eye" Jarl in Swamplight Manor (55.43, 26.27)|
 A The Orc Report |QID|1219| |N|Loose Dirt in Swamplight Manor (55.44, 25.92)| |OBJ|498|
 
 R Darkmist Cavern |QID|1206| |N|Travel to Darkmist Cavern (34.05, 21.39)|
@@ -77,12 +78,12 @@ T Daelin's Men |QID|1285| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48
 A The Deserters |QID|1286| |N|Captain Garran Vimes in Foothold Citadel (68.21, 48.56)| |Z|Dustwallow Marsh|
 
 R Swamplight Manor |TID|1206| |N|Travel to Swamplight Manor (55.42, 26.28)|
-T Jarl Needs Eyes |QID|1206| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.42, 26.28)|
+T Jarl Needs Eyes |QID|1206| |N|"Swamp Eye" Jarl in Swamplight Manor (55.42, 26.28)|
 
 C Mudrock Soup and Bugs |QID|1204| |N|Kill Mudrock Tortoise or Mudrock Spikeshell and collect 8 Forked Mudrock Tongue in Theramore Isle. This quest have a low drop rate and the turtles are scarce try to get 4 Forked Mudrock Tongue and complete this later (63.00, 36.58) (61.72, 27.53) (61.73, 21.48)|
 C Hungry! |QID|1177| |N|Kill Murlocs and collect 8 Mirefin Head in Dreadmurk Shore (57.53, 16.47)|
-A Stinky's Escape |QID|1222| |N|\Stinky\ Ignatz in Dustwallow Marsh (46.91, 17.52)|
-C Stinky's Escape |QID|1222| |N|Escort \Stinky\ Ignatz until quest is complete (47.38, 20.76) (48.52, 21.85) (49.38, 22.48) (49.86, 22.51) (48.94, 24.80)|
+A Stinky's Escape |QID|1222| |N|"Stinky" Ignatz in Dustwallow Marsh (46.91, 17.52)|
+C Stinky's Escape |QID|1222| |N|Escort "Stinky" Ignatz until quest is complete (47.38, 20.76) (48.52, 21.85) (49.38, 22.48) (49.86, 22.51) (48.94, 24.80)|
 T Hungry! |QID|1177| |N|Mudcrush Durtfeet in Dustwallow Marsh (48.94, 24.80) (35.12, 38.24)|
 
 R Lost Point |QID|1287| |N|Travel to Lost Point (35.90, 54.00)|

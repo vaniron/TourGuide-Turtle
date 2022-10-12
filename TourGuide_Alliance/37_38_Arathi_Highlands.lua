@@ -3,7 +3,7 @@ TourGuide:RegisterGuide("Arathi Highlands (37-38)", "Dustwallow Marsh (38-39)", 
 return [[
 
 R Stormwind City |QID|690| |N|Travel to Mage Quarter in Stormwind City (39.82, 81.53)| |Z|Stormwind City|
-A Malin's Request |QID|690| |N|Archmage Malin in Mage Quarter (39.82, 81.53)| |Z|Stormwind City|
+A Malin's Request |QID|690| |N|Archmage Malin in Mage Quarter (50.3, 87.0)| |Z|Stormwind City|
 T Cleansing the Eye |QID|293| |N|Archbishop Benedictus in Cathedral of Light (39.65, 27.48)| |Z|Stormwind City| |O|
 T Blessed Arm |QID|322| |N|Grimand Elmore in Dwarven District, skip follow up (51.76, 12.16)| |Z|Stormwind City| |O|
 T Reassignment |QID|563| |N|Major Samuelson in Stormwind Keep (72.66, 15.92)| |Z|Stormwind City| |O|
