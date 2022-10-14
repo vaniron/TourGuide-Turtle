@@ -48,7 +48,7 @@ T The Bloodsail Buccaneers (Part 1) |QID|595| |N|Bloodsail Correspondence in Sou
 A The Bloodsail Buccaneers (Part 2) |QID|597| |N|Bloodsail Correspondence in Southern Savage Coast (27.29, 69.51)| |Z||Stranglethorn Vale| |OBJ|183|
 C Venture Company Mining |QID|600| |N|Kill Venture Co. Surveyor or Venture Co. Strip Miner and collect 10 Singing Blue Crystal.  You can skip this for now if you find it too difficult (40.14, 42.57) (41.72, 44.57)| |Z||Stranglethorn Vale|
 
-R Booty Bay |QID|607| |N|Travel to Booty Bay (28.30, 72.94)| |Z||Stranglethorn Vale|
+R Booty Bay |QID|607| |N|Travel jsut outside of the Booty Bay entrance. (28.30, 72.94)| |Z||Stranglethorn Vale|
 T Scaring Shaky |QID|606| |N|"Shaky" Phillipe in Booty Bay (26.90, 73.60)| |Z||Stranglethorn Vale|
 A Return to MacKinley |QID|607| |N|"Shaky" Phillipe in Booty Bay (26.90, 73.60)| |Z||Stranglethorn Vale|
 T The Bloodsail Buccaneers (Part 2) |QID|597| |N|First Mate Crazz in Booty Bay (28.08, 76.23)| |Z||Stranglethorn Vale|
