@@ -72,7 +72,6 @@ T Deliver the Shipment |QID|1425| |N|Quartermaster Lungertz in Nethergarde Keep 
 
 R Stormwind City |QID|1477| |N|Travel to Stormwind City(37.48, 81.72)| |Z|Stormwind City|
 N Draenethyst Shard |QID|1373| |N|Store Draenethyst Shard to the bank (57.00, 72.81)| |Z|Stormwind City| |L|6190| |O|
-N Pristine Crawler Leg |QID|1258| |N|Store Pristine Crawler Leg to the bank (57.00, 72.81)| |Z|Stormwind City| |L|5938| |O|
 T In Search of The Temple |QID|1448| |N|Brohann Caskbelly in Dwarven District (64.27, 20.74)| |Z|Stormwind City|
 A To The Hinterlands |QID|1449| |N|Brohann Caskbelly in Dwarven District (64.27, 20.74)| |Z|Stormwind City|
 
