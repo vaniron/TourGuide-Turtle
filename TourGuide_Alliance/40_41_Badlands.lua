@@ -13,16 +13,16 @@ B [Gyrochronatom] |QID|713| |N|Buy Gyrochronatom from Auction House.  Don't buy 
 B [Healing Potion] |QID|713| |N|Buy Healing Potion from Auction House.  Don't buy if you didn't find a Frost Oil and Gyrochronatom.  Don't buy if this is your first character and you still need to purchase a mount (24, 70)| |L|929|
 B [Lesser Invisibility Potion] |QID|713| |N|Buy Lesser Invisibility Potion from Auction House.  Don't buy if you didn't find a Frost Oil and Gyrochronatom.  Don't buy if this is your first character and you still need to purchase a mount (24, 70)| |L|3823|
 B [4 Buzzard Wing] |QID|713| |N|Buy 4 Buzzard Wing from Auction House - Skip this if not available (24, 70)| |L|3404 4|
-A Ironband Wants You! |QID|707| |N|Prospector Stormpike in The Library (74.57, 11.68)| |Z||Ironforge|
-T Stormpike's Deciphering |QID|554| |N|Prospector Stormpike in The Library (74.57, 11.68)|  |O| |Z||Ironforge|
-N Fizzle Brassbolts' Letter |QID|1146| |N|Withdraw Fizzle Brassbolts' Letter from the bank.  Tick this step (35.48, 60.70)|  |L|5827| |OO| |Z||Ironforge|
+A Ironband Wants You! |QID|707| |N|Prospector Stormpike in The Library (74.57, 11.68)| |Z|Ironforge|
+T Stormpike's Deciphering |QID|554| |N|Prospector Stormpike in The Library (74.57, 11.68)|  |O| |Z|Ironforge|
+N Fizzle Brassbolts' Letter |QID|1146| |N|Withdraw Fizzle Brassbolts' Letter from the bank.  Tick this step (35.48, 60.70)|  |L|5827| |OO| |Z|Ironforge|
 
 R Loch Modan |QID|2500| |N|Travel to Loch Modan (37, 49.2)|
-A Badlands Reagent Run |QID|2500| |N|Ghak Healtouch in Thelsamar (37.06, 49.36)| |Z||Loch Modan|
+A Badlands Reagent Run |QID|2500| |N|Ghak Healtouch in Thelsamar (37.06, 49.36)| |Z|Loch Modan|
 
-R Ironband's Excavation Site |QID|738| |N|Travel to Ironband's Excavation Site (65.94, 65.62)| |Z||Loch Modan|
-T Ironband Wants You! |QID|707| |N|Prospector Ironband in Ironband's Excavation Site (65.94, 65.62)| |Z||Loch Modan|
-A Find Agmond |QID|738| |N|Prospector Ironband in Ironband's Excavation Site (65.94, 65.62)|  |PRE|707| |Z||Loch Modan|
+R Ironband's Excavation Site |QID|738| |N|Travel to Ironband's Excavation Site (65.94, 65.62)| |Z|Loch Modan|
+T Ironband Wants You! |QID|707| |N|Prospector Ironband in Ironband's Excavation Site (65.94, 65.62)| |Z|Loch Modan|
+A Find Agmond |QID|738| |N|Prospector Ironband in Ironband's Excavation Site (65.94, 65.62)|  |PRE|707| |Z|Loch Modan|
 
 R Badlands |QID|706| |N|Travel south to Badlands (53.7, 43.3)|
 N As you go... |AYG|718| |QID|2500| |N|Kill every Starving Buzzard you come across as they are quite rare and collect 4 Buzzard Wing and 5 Buzzard Gizzard.  Kill any Coyotes for 10 Crag Coyote Fang|
@@ -99,12 +99,13 @@ C Fiery Blaze Enchantments |QID|706| |N|Kill Scalding Whelp until you collect a 
 T Fiery Blaze Enchantments |QID|706| |N|Sigrun Ironhew in Badlands (53.7, 43.3)|
 C Badlands Reagent Run |QID|2500| |N|Kill Buzzards, Coyotes and Rock Elementals to collect 5 Buzzard Gizzard, 10 Crag Coyote Fang and 5 Rock Elemental Shard in Apocryphan's Rest (15.10, 59.84)|
 
-R Ironband's Excavation Site |TID|739| |N|Travel to Ironband's Excavation Site in Loch Modan (65.88, 65.59)|
-T Murdaloc |QID|739| |N|Prospector Ironband in Ironband's Excavation Site (65.88, 65.59)|  |PRE|707|
-A Agmond's Fate |QID|704| |N|Prospector Ironband in Ironband's Excavation Site (65.88, 65.59)|  |PRE|707|
+R Ironband's Excavation Site |TID|739| |N|Travel to Ironband's Excavation Site in Loch Modan (65.88, 65.59)| |Z|Loch Modan|
+T Murdaloc |QID|739| |N|Prospector Ironband in Ironband's Excavation Site (65.88, 65.59)|  |PRE|707| |Z|Loch Modan|
 
-R Thelsamar |TID|2500| |N|Travel to Thelsamar (37.06, 49.36)|
-T Badlands Reagent Run |QID|2500| |N|Ghak Healtouch in Thelsamar (37.06, 49.36)|
+A Agmond's Fate |QID|704| |N|Prospector Ironband in Ironband's Excavation Site (65.88, 65.59)|  |PRE|707| |Z|Loch Modan|
+
+R Thelsamar |TID|2500| |N|Travel to Thelsamar (37.06, 49.36)| |Z|Loch Modan|
+T Badlands Reagent Run |QID|2500| |N|Ghak Healtouch in Thelsamar (37.06, 49.36)| |Z|Loch Modan|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
