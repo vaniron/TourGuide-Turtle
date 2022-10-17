@@ -73,7 +73,6 @@ T Noxious Lair Investigation |QID|82| |N|Alchemist Pestlezugg in Gadgetzan (50.9
 A The Scrimshank Redemption |QID|10| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
 T Thistleshrub Valley |QID|3362| |N|Tran'rek in Gadgetzan (51.59, 26.77)| |Z|Tanaris|
 
-N As you go |AYG|654| |QID|654| |N|Kill Glasshide Gazer, Blisterpaw Hyena and Scorpid Dunestalker to collect 8 untested sample from each creature| |TID|3161| |PRE|243|
 R Broken Pillar |QID|3161| |N|Travel to Broken Pillar (52.72, 45.92)| |Z|Tanaris|
 T Gahz'ridian |QID|3161| |N|Marvon Rivetseeker in Broken Pillar (52.72, 45.92)| |Z|Tanaris|
 
