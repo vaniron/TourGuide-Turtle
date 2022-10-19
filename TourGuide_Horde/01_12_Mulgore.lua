@@ -151,7 +151,7 @@ C Thunderhorn Cleansing |QID|758| |N|Use the Thunderhorn Cleansing Totem at the 
 
 R Thunder Bluff |QID|744| |N|Travel to Thunder Bluff (37.6, 60.1)| |Z|Thunder Bluff|
 A Preparation for Ceremony |QID|744| |N|Eyahn Eagletalon in Thunder Bluff (37.79, 59.90)| |Z|Thunder Bluff|
-T Training the Beast |QID|6089| |N|Holt Thunderhorn in Hunter Rise (57.43, 89.36)| |Z|Thunder Bluff|
+T Training the Beast |QID|6089| |N|Holt Thunderhorn in Hunter Rise (57.43, 89.36)| |Z|Thunder Bluff| |C|Hunter|
 T Journey into Thunder Bluff |Z|Thunder Bluff| |QID|775| |N|Cairne Bloodhoof in Thunder Bluff (50.21, 61.94) (56.91, 54.67) (59.91, 51.78)| |Z|Thunder Bluff|
 A Rites of the Earthmother (Part 3) |Z|Thunder Bluff| |QID|776| |N|Cairne Bloodhoof in Thunder Bluff (59.91, 51.78)| |Z|Thunder Bluff|
 T Heeding the Call |QID|5927| |N|Turak Runetotem in Elder Rise (76.6, 27.6)| |C|Druid| |Z|Thunder Bluff|
@@ -211,7 +211,7 @@ T The Demon Scarred Cloak |QID|770| |N|Skorn Whitecloud in Bloodhoof Village (46
 T Wildmane Cleansing |QID|760| |N|Mull Thunderhorn in Bloodhoof Village (48.46, 60.46)|
 N Demon Scarred Cloak |N|You can destroy Demon Scarred Cloak as you no longer need this, unless you want to wear it for armor| |L|4854| |O|
 
-N Guide Complete |N|Tick to continue to the next guide| 
+N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end)
