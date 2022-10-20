@@ -176,7 +176,7 @@ T The Principal Source |QID|6127| |N|Tonga Runetotem in The Crossroads (52.25, 3
 A Gathering the Cure |QID|6128| |N|Tonga Runetotem in The Crossroads (52.25, 31.92)| |C|Druid| |Z|The Barrens|
 
 N As you go... |AYG|870| |QID|845| |N|<b>Kill Zhevra Runner for 4 Zhevra Hooves<br/><b>Kill any raptors for 12 Raptor Head<br/><b>Kill Lost Barrens Kodo and collect 5 Kodo Horn| |C|Druid|
- As you go... |AYG|870| |QID|845| |N|<b>Kill Zhevra Runner for 4 Zhevra Hooves<br/><b>Kill any raptors for 12 Raptor Head| |C|Warrior, Hunter, Mage, Warlock, Druid, Priest, Shaman, Rogue|
+N As you go... |AYG|870| |QID|845| |N|<b>Kill Zhevra Runner for 4 Zhevra Hooves<br/><b>Kill any raptors for 12 Raptor Head| |C|Warrior, Hunter, Mage, Warlock, Druid, Priest, Shaman, Rogue|
 A Kolkar Leaders |QID|850| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
 A Centaur Bracers |QID|855| |N|Regthar Deathgate in The Barrens (45.33, 28.45)|
 
@@ -398,7 +398,7 @@ T Free From the Hold |QID|898| |N|Captain Thalo'thas Brightsun in Ratchet (62.29
 T The Guns of Northwatch |QID|891| |N|Captain Thalo'thas Brightsun in Ratchet (62.28, 39.07)|
 T Hezrul Bloodmark |QID|852| |N|Regthar Deathgate in The Barrens (45.33, 28.44)|
 
-N Level 20 Required |N|You should be close to level 20, grind nearby mobs to reach level 20| 
+N Level 20 Required |N|You should be close to level 20, grind nearby mobs to reach level 20|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
