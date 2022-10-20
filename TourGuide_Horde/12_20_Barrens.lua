@@ -108,8 +108,8 @@ R Grol'dom Farm |QID|1527| |N|Travel to Grol'dom Farm (56.04, 19.89)| |C|Shaman|
 T Call of Fire (Part 5) |QID|1527| |N|Kranal Fiss in Grol'dom Farm (56.04, 19.89)| |C|Shaman|
 
 N As you go... |AYG|924| |QID|844| |N|Kill any Raptors for 12 Raptor Head and Greater Plainstrider for 7 Plainstrider Beak| |PRE|809| |EQID|869|
-R Dreadmist Den |QID|924| |N|Travel to Dreadmist Den (51.10, 22.70) (50.42, 21.96) (47.96, 19.12)| |PRE|809|
-C The Demon Seed |QID|924| |N|Grab a Flawed Power Stone on the table next to the quest giver and bring it to the Altar of Fire before the stone expires, in Dreadmist Den (47.96, 19.12)| |PRE|809|
+R Dreadmist Den |QID|924| |N|Travel to Dreadmist Den (51.10, 22.70) (50.42, 21.96) (47.96, 19.12)| |PRE|809| |R|Orc, Troll|
+C The Demon Seed |QID|924| |N|Grab a Flawed Power Stone on the table next to the quest giver and bring it to the Altar of Fire before the stone expires, in Dreadmist Den (47.96, 19.12)| |PRE|809| |R|Orc, Troll|
 
 N As you go... |AYG|871| |QID|871| |N|Kill Greater Plainstrider and collect 7 Plainstrider Beak|
 R Thorn Hill |QID|871| |N|Travel to Thorn Hill (54, 26)|
