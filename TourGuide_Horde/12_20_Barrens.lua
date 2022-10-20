@@ -28,9 +28,9 @@ h The Crossroads |QID|6363| |N|Speak to Innkeeper Boorand Plainswind and set hea
 
 T Conscript of the Horde |QID|840| |N|Kargal Battlescar in Far Watch Post (62.27, 19.37)| |R|Orc, Troll, Scourge, Undead|
 A Crossroads Conscription |QID|842| |N|Kargal Battlescar in Far Watch Post (62.27, 19.37)| |PRE|840| |R|Orc, Troll, Scourge, Undead|
-T Ak'Zeloth |QID|809| |N|Ak'Zeloth in Far Watch Post (62.35, 20.08)| |O|
-A The Demon Seed |QID|924| |N|Ak'Zeloth in Far Watch Post (62.35, 20.08)| |PRE|809|
-N Flawed Power Stone |QID|924| |N|Grab the Flawed Power Stone from the table next to the quest giver Ak'Zeloth (62.35, 20.08)| |PRE|809| |L|4986|
+T Ak'Zeloth |QID|809| |N|Ak'Zeloth in Far Watch Post (62.35, 20.08)| |O| |R|Orc, Troll|
+A The Demon Seed |QID|924| |N|Ak'Zeloth in Far Watch Post (62.35, 20.08)| |PRE|809| |R|Orc, Troll|
+N Flawed Power Stone |QID|924| |N|Grab the Flawed Power Stone from the table next to the quest giver Ak'Zeloth (62.35, 20.08)| |PRE|809| |L|4986| |R|Orc, Troll|
 
 F Thunder Bluff |QID|6363| |N|Speak to Devrak and fly to Thunder Bluff (51.5, 30.3)| |R|Tauren|
 T Ride to Thunder Bluff |QID|6362| |N|Ahanu in Thunder Bluff (45.6, 55.9)| |Z|Thunder Bluff| |R|Tauren|
