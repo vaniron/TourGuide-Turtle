@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Teldrassil (1-12", "Darkshore (12-17)", "Alliance",function()
+TourGuide:RegisterGuide("Teldrassil (1-12)", "Darkshore (12-17)", "Alliance",function()
 
 return [[
 
@@ -271,7 +271,7 @@ A Smith Mathiel |QID|1692| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| 
 T Smith Mathiel |QID|1692| |N|Mathiel in Darnassus (59.44, 45.36)| |C|Warrior| |Z|Darnassus|
 T Weapons of Elunite |QID|1693| |N|Mathiel in Darnassus (59.44, 45.36)| |C|Warrior| |Z|Darnassus|
 
-N Guide Complete |N|Continue to (guide:"1439(12-17)#1439(12-17)#1439(12-17)")|
+N Guide Complete |N|Tick to continue to the next guide|
 
 ]]
 end)
