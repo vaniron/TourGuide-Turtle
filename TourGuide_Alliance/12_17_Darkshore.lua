@@ -87,7 +87,7 @@ A Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.10, 44.96)|
 B Fishing Pole |QID|1141| |N|Speak to Gubber Blump and train fishing and buy Fishing Pole (36.10, 44.96)| |L|6256|
 B Shiny Bauble |QID|1141| |N|Speak to Gubber Blump buy Shiny Bauble (36.10, 44.96)| |L|6529|
-C The Family and the Fishing Pole |QID|1141| |N|Catch 6 Darkshore Grouper in Auberdine<br/><b>Equip the Fishing Pole and cast the (spell:7620) spell near the water and click on the bob when you see it moving to catch the fish, keep trying until you complete the quest<br/><b>This is an easy quest and recommended but you can safely skip it (35.91, 44.98)|
+C The Family and the Fishing Pole |QID|1141| |N|Catch 6 Darkshore Grouper in Auberdine. Equip the Fishing Pole and apply the Shiny Bauble to it. Cast the Fishing spell near the water and click on the bob when you see it moving to catch the fish, keep trying until you complete the quest. This is an easy quest and recommended but you can safely skip it (35.91, 44.98)|
 T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.07, 44.94)|
 
 A Bashal'Aran (Part 1) |QID|954| |N|Thundris Windweaver in Auberdine (37.41, 40.16)|
