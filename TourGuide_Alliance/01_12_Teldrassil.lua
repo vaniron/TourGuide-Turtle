@@ -7,11 +7,11 @@ C The Balance of Nature (Part 1) |QID|456| |N|Kill 7 Young Nightsaber and 4 Youn
 T The Balance of Nature (Part 1) |QID|456| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 A The Balance of Nature (Part 2) |QID|457| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
 
-A Encrypted Sigil |QID|3118| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
-A Etched Sigil |QID|3117| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
-A Hallowed Sigil |QID|3119| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
-A Simple Sigil |QID|3116| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
-A Verdant Sigil |QID|3120| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)|
+A Encrypted Sigil |QID|3118| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)| |C|Rogue|
+A Etched Sigil |QID|3117| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)| |C|Hunter|
+A Hallowed Sigil |QID|3119| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)| |C|Priest|
+A Simple Sigil |QID|3116| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)| |C|Warrior|
+A Verdant Sigil |QID|3120| |N|Conservator Ilthalaine in Shadowglen (58.69, 44.35)| |C|Druid|
 
 T Encrypted Sigil |QID|3118| |N|Frahun Shadewhisper in Aldrassil (59.62, 38.69)| |C|Rogue|
 T Etched Sigil |QID|3117| |N|Ayanna Everstride in Aldrassil (58.6, 40.5)| |C|Hunter|
