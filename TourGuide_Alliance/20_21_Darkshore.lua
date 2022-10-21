@@ -39,7 +39,6 @@ R Cathedral of Light |TID|1652| |N|Travel to Cathedral of Light (39.85, 29.91)| 
 T The Tome of Valor |QID|1652| |N|Duthorian Rall in Cathedral of Light - Skip 'The Test of Righteousness' quest line (39.82, 29.78)| |PRE|1649| |C|Paladin| |Z|Stormwind City|
 N Letter to Delgren |QID|967| |N|Withdraw Letter to Delgren from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5354| |OO|
 N Fandral's Message |QID|952| |N|Withdraw Fandral's Message from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5390| |OO|
-N Fine Moonstalker Pelt |QID|986| |N|Withdraw Fine Moonstalker Pelt from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5386| |OO|
 
 R Auberdine |QID|4740| |N|Travel to Auberdine (37.21, 44.27)|
 A WANTED: Murkdeep! |QID|4740| |N|Wanted Poster in Auberdine (37.21, 44.27)|
@@ -54,7 +53,6 @@ C How Big a Threat? (Part 2) |QID|985| |N|Kill 8 Blackwood Pathfinder (39, 54) a
 T Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 T How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
 A Onu |QID|948| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
-A A Lost Master |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)|
 
 R Grove of the Ancients |QID|944| |N|Travel to Grove of the Ancients (43.55, 76.32)|
 T Grove of the Ancients |QID|952| |N|Onu in Grove of the Ancients (43.55, 76.37)| |R|Night Elf| |O|

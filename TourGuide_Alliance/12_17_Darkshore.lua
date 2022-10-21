@@ -203,7 +203,6 @@ T Deep Ocean, Vast Sea |QID|982| |N|Gorbold Steelhand in Auberdine (38.09, 41.20
 T Cleansing of the Infected |QID|2138| |N|Tharnariun Treetender in Auberdine (38.85, 43.44)|
 A Tharnariun's Hope |QID|2139| |N|Tharnariun Treetender in Auberdine (38.85, 43.44)|
 T How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
-A A Lost Master |QID|986| |N|Terenthis in Auberdine (39.32, 43.45)|
 T The Principal Source |QID|6122| |N|Alanndarian Nightsong in Auberdine (37.69, 40.66)| |C|Druid| |Z|Darkshore|
 A Gathering the Cure |QID|6123| |N|Alanndarian Nightsong in Auberdine (37.69, 40.69)| |C|Druid| |Z|Darkshore|
 N Filled Cleansing Bowl |QID|4763| |N|Use Empty Cleansing Bowl at the Moonwell to get Filled Cleansing Bowl in Auberdine (37.8, 44.0)| |U|12346| |L|12347|
