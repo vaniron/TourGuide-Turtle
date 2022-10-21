@@ -37,9 +37,9 @@ T Rizzle's Schematics |QID|1194| |N|Pozzik in Mirage Raceway (80.16, 75.87)| |Z|
 N Sample of Indurium Ore |QID|1690| |N|Destroy Sample of Indurium Ore as it is no longer needed| |L|5866| |O|
 
 R Gadgetzan |QID|1690| |N|Travel or Hearthstone to Gadgetzan (52.11, 27.63)| |Z|Tanaris|
+N Kravel's Scheme |QID|1118| |N|Store Kravel's Scheme to the bank (52.30, 28.89)| |Z|Tanaris| |L|5826| |O|
 T Safety First |QID|1188| |N|Shreev in Gadgetzan (50.98, 27.23)| |Z|Tanaris| |PRE|1186|
 C Wastewander Justice |QID|1690| |N|Start completing 'Wastewander Justice' by clearing the area and tick the step to move on. Kill 10 Wastewander Thief, Wastewander Bandit and collect 5 Wastewander Water Pouch in Noonshade Ruins (59.82, 24.65)| |Z|Tanaris|
-N Kravel's Scheme |QID|1118| |N|Store Kravel's Scheme to the bank (52.30, 28.89)| |Z|Tanaris| |L|5826| |O|
 
 R Steamwheedle Port |QID|8365| |N|Travel to Steamwheedle Port (66.51, 22.43)| |Z|Tanaris|
 A Pirate Hats Ahoy! |QID|8365| |N|Haughty Modiste in Steamwheedle Port (66.51, 22.43)| |Z|Tanaris|
