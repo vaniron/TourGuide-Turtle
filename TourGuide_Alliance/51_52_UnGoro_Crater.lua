@@ -3,8 +3,17 @@ TourGuide:RegisterGuide("Un'goro (51-52)", "Azshara (52-53)", "Alliance",functio
 return [[
 
 R Ratchet |OID|4502| |N|Travel to Ratchet (62.54, 38.50)| |Z|The Barrens|
+N Violet Tragan |QID|2641| |N|Withdraw Violet Tragan from the bank. Tick this step (66.0, 45.2)| |Z|Barrens| |L|8526| |OO|
+N [Insect Analysys Report] |QID|162| |N|Withdraw Insect Analysys Report. Tick this step (66.0, 45.2)| |Z|Barrens| |L|8594| |OO|
+
 C The Stone Circle |QID|3444| |N|Collect Stone Circle from Marvon's chest in Ratchet (62.51, 38.54)| |Z|The Barrens| |O|
 A Volcanic Activity |QID|4502| |N|Liv Rizzlefix in Ratchet (62.45, 38.72)| |Z|The Barrens|
+
+F Rut'theran Village
+
+T Rise of the Silithid |QID|162| |N| Turn in Rise of the Silithid (42,86) |Z|Darnassus|
+A March of the Silithid |QID|4493| |N|March of the Silithid
+
 
 R Gadgetzan |TID|2641| |N|Travel to Gadgetzan (51.05, 26.87)| |Z|Tanaris| |O|
 T Sprinkle's Secret Ingredient |QID|2641| |N|Sprinkle in Gadgetzan (51.05, 26.87)| |Z|Tanaris| |O|
@@ -13,8 +22,7 @@ A Bungle in the Jungle |QID|4496| |N|Alchemist Pestlezugg in Gadgetzan (50.90, 2
 T Delivery for Marin |QID|2661| |N|Marin Noggenfogger in Gadgetzan (51.81, 28.65)| |Z|Tanaris| |PRE|2641|
 A Noggenfogger Elixir |QID|2662| |N|Marin Noggenfogger in Gadgetzan (51.80, 28.67)| |Z|Tanaris| |PRE|2641|
 T Noggenfogger Elixir |QID|2662| |N|Marin Noggenfogger in Gadgetzan (51.81, 28.66)| |Z|Tanaris| |PRE|2641|
-N Stone Circle |QID|3444| |N|Withdraw Stone Circle from the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|10556| |OO|
-N Violet Tragan |QID|2641| |N|Withdraw Violet Tragan from the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|8526| |OO|
+
 A Super Sticky |QID|4504| |N|Tran'rek in Gadgetzan (51.59, 26.77)| |Z|Tanaris|
 
 R Broken Pillar |TID|3444| |N|Travel to Broken Pillar (52.73, 45.93)| |Z|Tanaris| |O|
@@ -98,7 +106,7 @@ C A Little Help From My Friends |QID|4491| |N|Escort Ringo to Spraggle Frock at 
 T A Little Help From My Friends |QID|4491| |N|Spraggle Frock in Marshal's Refuge (43.64, 8.51)| |Z|Un'Goro Crater|
 T Beware of Pterrordax |QID|4501| |N|Spraggle Frock in Marshal's Refuge (43.64, 8.51)| |Z|Un'Goro Crater|
 T Shizzle's Flyer |QID|4503| |N|Shizzle in Marshal's Refuge (44.22, 11.50)| |Z|Un'Goro Crater|
-T Muigin and Larion |QID|4141| |N|Muigin in Marshal's Refuge (42.97, 9.58)| |Z|Un'Goro Crater| 
+T Muigin and Larion |QID|4141| |N|Muigin in Marshal's Refuge (42.97, 9.58)| |Z|Un'Goro Crater|
 T Alien Ecology |QID|3883| |N|Hol'anyee Marshal in Marshal's Refuge (43.90, 7.28)| |Z|Un'Goro Crater|
 T Expedition Salvation |QID|3881| |N|Williden Marshal in Marshal's Refuge (43.96, 7.12)| |Z|Un'Goro Crater|
 T Roll the Bones |QID|3882| |N|Spark Nilminer in Marshal's Refuge (43.48, 7.44)| |Z|Un'Goro Crater|
