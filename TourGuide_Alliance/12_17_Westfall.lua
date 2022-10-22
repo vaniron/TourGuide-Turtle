@@ -65,10 +65,7 @@ T The Tome of Divinity (Part 8) |QID|1784| |N|Muiredon Battleforge in Hall of My
 A The Tome of Divinity (Part 9) |QID|1785| |N|Muiredon Battleforge in Hall of Mysteries (23.72, 8.61)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity (Part 9) |QID|1785| |N|Tiza Battleforge in Hall of Mysteries (27.51, 12.18)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 
-R Menethil Harbor |QID|307| |N|Travel to Menethil Harbor (9.6, 59.6)| |Z|Wetlands| |R|Night Elf|
-f Wetlands |QID|307| |N|Speak to Shellei Brondir and grab flight path for Menethil Harbor (9.6, 59.6)| |Z|Wetlands| |R|Night Elf|
-R Algaz Station |QID|307| |N|Follow the road to Algaz Station in Loch Modan (11.29, 53.52) (14.44, 45.60) (23.13, 43.43) (32.16, 39.21) (37.35, 36.79) (49.79, 39.21) (56.26, 52.75) (57.88, 61.70) (57.71, 69.11) (54.39, 72.04)| |Z|Wetlands| |R|Night Elf| |REACH|
-
+R Stormwind |QID|109| |N|Travel to Stormwind  (28, 41)| |Z|Elwynn Forest|
 R The Jansen Stead |QID|109| |N|Travel to The Jansen Stead (60.00, 19.37)| |Z|Westfall|
 T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall| |O|
 A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall|
@@ -146,7 +143,7 @@ R Sentinel Hill |OID|14| |N|Travel to Sentinel Hill (56.32, 47.55)| |Z|Westfall|
 T The People's Militia (Part 2) |QID|13| |N|Gryan Stoutmantle in Sentinel Hill (56.32, 47.55)| |Z|Westfall|
 A The People's Militia (Part 3) |QID|14| |N|Gryan Stoutmantle in Sentinel Hill (56.32, 47.55)| |Z|Westfall|
 
-N Level 14 Required |N|Grind nearby enemies until you're at level 14 to accept 'The Defias Brotherhood (Part 1)'| |Z|Redridge Mountains| 
+N Level 14 Required |N|Grind nearby enemies until you're at level 14 to accept 'The Defias Brotherhood (Part 1)'| |Z|Redridge Mountains|
 A The Defias Brotherhood (Part 1) |QID|65| |N|Gryan Stoutmantle in Sentinel Hill (56.33, 47.52)| |Z|Westfall|
 
 R Three Corners |QID|244| |N|Travel to Three Corners in Redridge Mountains (15.32, 71.42)| |Z|Redridge Mountains| |REACH|
@@ -171,9 +168,9 @@ T The Defias Brotherhood (Part 2) |QID|132| |N|Gryan Stoutmantle in Sentinel Hil
 A The Defias Brotherhood (Part 3) |QID|135| |N|Gryan Stoutmantle in Sentinel Hill (56.28, 47.53)| |Z|Westfall|
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
-B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley Of Heroes (52.9, 67.8)| |Z|Stormwind City| |L|1941|
-T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (75.86, 59.80)| |Z|Stormwind City|
-A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (75.86, 59.80)| |Z|Stormwind City|
+B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley Of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
+T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
+A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
 A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (64.65, 76.93)| |Z|Stormwind City|
 

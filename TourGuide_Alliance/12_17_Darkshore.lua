@@ -1,4 +1,4 @@
-TourGuide:RegisterGuide("Darkshore (12-17)", "Loch Modan (16-18)", "Alliance",function()
+TourGuide:RegisterGuide("Darkshore (12-17)", "Loch Modan (17-18)", "Alliance",function()
 
 return [[
 

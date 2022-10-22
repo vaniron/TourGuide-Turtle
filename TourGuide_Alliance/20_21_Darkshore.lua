@@ -28,7 +28,6 @@ R Cathedral of Light |TID|1649| |N|Travel to Cathedral of Light (39.85, 29.91)| 
 T The Tome of Valor |QID|1649| |N|Duthorian Rall in Cathedral of Light (39.85, 29.91)| |PRE|1649| |C|Paladin| |Z|Stormwind City|
 A The Tome of Valor |QID|1650| |N|Duthorian Rall in Cathedral of Light (39.85, 29.91)| |PRE|1649| |C|Paladin| |Z|Stormwind City|
 
-R The Dagger Hills |QID|1651| |N|Travel to The Dagger Hills (38.49, 82.62)| |PRE|1649| |Z|Westfall|
 T The Tome of Valor |QID|1650| |N|Daphne Stilwell in The Dagger Hills (38.49, 82.62) (39.92, 86.68) (41.48, 88.85)| |PRE|1649| |C|Paladin| |Z|Westfall|
 A The Tome of Valor |QID|1651| |N|Daphne Stilwell in The Dagger Hills (41.27, 89.08)| |PRE|1649| |C|Paladin| |Z|Westfall|
 C The Tome of Valor |QID|1651| |N|Defend Daphne Stilwell from the Defias attack in The Dagger Hills. Up to 4 level 17 Defias Raider will attack you at the same time, be ready to use cooldowns and potions if you have any (42.21, 88.67)| |PRE|1649| |C|Paladin| |Z|Westfall|
@@ -37,6 +36,8 @@ A The Tome of Valor |QID|1652| |N|Daphne Stilwell in The Dagger Hills (41.18, 88
 
 R Cathedral of Light |TID|1652| |N|Travel to Cathedral of Light (39.85, 29.91)| |PRE|1649| |C|Paladin| |Z|Stormwind City|
 T The Tome of Valor |QID|1652| |N|Duthorian Rall in Cathedral of Light - Skip 'The Test of Righteousness' quest line (39.82, 29.78)| |PRE|1649| |C|Paladin| |Z|Stormwind City|
+
+R Stormwind City |QID|1651| |N|Travel to Stormwind City (38.49, 82.62)| |Z|Stormwind City|
 N Letter to Delgren |QID|967| |N|Withdraw Letter to Delgren from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5354| |OO|
 N Fandral's Message |QID|952| |N|Withdraw Fandral's Message from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5390| |OO|
 

@@ -23,8 +23,8 @@ T Alther's Mill |QID|2282| |N|Lucius in Lake Everstill (28.17, 52.08)| |C|Rogue|
 
 R Stormwind City |TID|1338| |N|Travel to Stormwind City (58.01, 16.57)| |Z|Stormwind City| |R|Night Elf, Gnome, Dwarf|
 T Stormpike's Order |QID|1338| |N|Furen Longbeard in Dwarven District (58.01, 16.57)| |Z|Stormwind City| |O|
-T Speak with Shoni |QID|2041| |N|Shoni the Shilent in Dwarven District (55.4, 12.6)| |Z|Stormwind City| |O|
-f Stormwind City |QID|244| |N|Speak to Dungar Longdrink to grab flight path for Stormwind City (66.25, 62.34)| |Z|Stormwind City| |R|Night Elf, Gnome, Dwarf|
+T Speak with Shoni |QID|2041| |N|Shoni the Shilent in Dwarven District (62.4., 32.4)| |Z|Stormwind City| |O|
+f Stormwind City |QID|244| |N|Speak to Dungar Longdrink to grab flight path for Stormwind City (71.0, 72.4)| |Z|Stormwind City| |R|Night Elf, Gnome, Dwarf|
 
 R Three Corners |QID|244| |N|Travel to Three Corners in Redridge Mountains (15.32, 71.42)| |REACH|
 A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.32, 71.42)|
