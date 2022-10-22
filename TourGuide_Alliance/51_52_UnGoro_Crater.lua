@@ -18,6 +18,7 @@ A March of the Silithid |QID|4493| |N|March of the Silithid
 R Gadgetzan |TID|2641| |N|Travel to Gadgetzan (51.05, 26.87)| |Z|Tanaris| |O|
 T Sprinkle's Secret Ingredient |QID|2641| |N|Sprinkle in Gadgetzan (51.05, 26.87)| |Z|Tanaris| |O|
 A Delivery for Marin |QID|2661| |N|Sprinkle in Gadgetzan (51.05, 26.87)| |Z|Tanaris| |PRE|2641|
+T March of the Silithid |QID|4493| |N|March of the Silithid (50.90, 26.98)| |Z|Tanaris|
 A Bungle in the Jungle |QID|4496| |N|Alchemist Pestlezugg in Gadgetzan (50.90, 26.98)| |Z|Tanaris| |PRE|4493|
 T Delivery for Marin |QID|2661| |N|Marin Noggenfogger in Gadgetzan (51.81, 28.65)| |Z|Tanaris| |PRE|2641|
 A Noggenfogger Elixir |QID|2662| |N|Marin Noggenfogger in Gadgetzan (51.80, 28.67)| |Z|Tanaris| |PRE|2641|
