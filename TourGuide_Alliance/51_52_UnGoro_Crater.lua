@@ -68,7 +68,7 @@ R The Marshlands |QID|4141| |N|Travel to The Marshlands (59.47, 44.44) (58.47, 4
 N Crate of Foodstuffs |QID|3881.1| |N|Collect Crate of Foodstuffs from the crate in The Marshlands (68.5, 36.5)| |Z|Un'Goro Crater| |OBJ|1868|
 C Muigin and Larion |QID|4141| |N|Kill Bloodpetals and collect 15 Infantry Belt in Un'Goro (67.8, 33.4)| |Z|Un'Goro Crater|
 
-R Un'Goro |QID|4141| |N|Travel to Un'Goro (58.23, 56.34)|
+R Un'Goro |QID|4141| |N|Travel to Un'Goro (58.23, 56.34)| |Z|Un'Goro Crater|
 K Diemetradon |QID|4503.1| |N|Kill Diemetradon or Young Diemetradon and collect 8 Webbed Diemetradon Scale along the waypoint path in Un'Goro (58.23, 56.34) (58.08, 70.59) (56.48, 65.06)| |Z|Un'Goro Crater|
 C Roll the Bones |QID|3882| |N|Collect 8 Dinosaur Bone dropped from Diemetradons in Un'Goro (58.18, 71.82)| |Z|Un'Goro Crater|
 T The Apes of Un'Goro |QID|4289| |N|Torwa Pathfinder in Un'Goro (71.62, 75.98)| |Z|Un'Goro Crater|
