@@ -10,11 +10,11 @@ N Level 52 Required |N|Grind any mobs in Tanaris until you reach level 52|
 R Rut'theran Village |QID|978| |N|Travel to Rut'theran Village in Teldrassil (55.49, 92.05)| |Z|Teldrassil|
 A Moontouched Wildkin |QID|978| |N|Erelas Ambersky in Rut'theran Village (55.49, 92.05)| |Z|Teldrassil|
 
-R Cenarion Enclave |TID|3763| |N|Travel to Cenarion Enclave in Darnassus (34.83, 9.21)| |Z|Darnassus|
 N Insect Analysis Report |QID|162| |N|Withdraw Insect Analysis Report from the bank. Tick this step (39.88, 42.21)| |Z|Darnassus| |L|8594| |OO|
 N Drawing Kit |QID|3461| |N|Withdraw Drawing Kit from the bank. Tick this step (39.88, 42.21)| |Z|Darnassus| |L|10445| |OO|
 N Standard Issue Flare Gun |QID|3451| |N|Withdraw Standard Issue Flare Gun from the bank. Tick this step (39.88, 42.21)| |Z|Darnassus| |L|10444| |OO|
 N Prayer to Elune |QID|3378| |N|Withdraw Prayer to Elune from the bank. Tick this step (39.88, 42.21)| |Z|Darnassus| |L|10458| |OO|
+R Cenarion Enclave |TID|3763| |N|Travel to Cenarion Enclave in Darnassus (34.83, 9.21)| |Z|Darnassus|
 T Assisting Arch Druid Staghelm |QID|3763| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.83, 9.21)| |Z|Darnassus| |O|
 T Assisting Arch Druid Staghelm |QID|3789| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.83, 9.21)| |Z|Darnassus| |O|
 T Assisting Arch Druid Staghelm |QID|3790| |N|Arch Druid Fandral Staghelm in Cenarion Enclave (34.83, 9.21)| |Z|Darnassus| |O|
