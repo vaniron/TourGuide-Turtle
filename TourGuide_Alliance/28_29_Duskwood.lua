@@ -70,7 +70,7 @@ R The Hushed Bank |QID|95| |N|Travel to The Hushed Bank (7.82, 34.06)|
 T Deliveries to Sven |QID|164| |N|Sven Yorgen in The Hushed Bank (7.82, 34.06)|
 A Sven's Revenge |QID|95| |N|Sven Yorgen in The Hushed Bank (7.82, 34.06)|
 
-R Darkshire |QID|58| |N|Travel or Hearthstone to Darkshire (73.60, 46.85)|
+R Darkshire |QID|58| |N|Travel or Hearthstone to Darkshire (73.8, 44.4)|
 T Jitters' Growling Gut |QID|5| |N|Chef Grual in Darkshire (73.88, 43.43)| |Z|Duskwood|
 A Dusky Crab Cakes |QID|93| |N|Chef Grual in Darkshire (73.88, 43.43)| |Z|Duskwood|
 T Dusky Crab Cakes |QID|93| |N|Chef Grual in Darkshire (73.88, 43.43)| |Z|Duskwood|
@@ -81,7 +81,6 @@ T The Weathered Grave |QID|225| |N|Sirra Von'Indi in Darkshire (72.58, 47.57)|
 A Morgan Ladimore |QID|227| |N|Sirra Von'Indi in Darkshire (72.58, 47.57)|
 T Morgan Ladimore |QID|227| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
 N The Story of Morgan Ladimore |QID|950| |N|Destroy The Story of Morgan Ladimore as it is no longer needed| |L|2154| |O|
-A Mor'Ladim |QID|228| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
 T The Totem of Infliction |QID|101| |N|Madame Eva in Darkshire (75.78, 45.33)|
 T Supplies from Darkshire |QID|148| |N|Madame Eva in Darkshire (75.72, 45.34)|
 A Ghost Hair Thread |QID|149| |N|Madame Eva in Darkshire (75.72, 45.34)|
@@ -105,9 +104,7 @@ A Zombie Juice |QID|158| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.51)|
 
 R Dawning Wood Catacombs |QID|58| |N|Go down to Dawning Wood Catacombs (23.70, 35.23)|
 C The Night Watch (Part 3) |QID|58| |N|Kill 20 Plague Spreader underground in Dawning Wood Catacombs (23.70, 35.23) (25.66, 34.32)| |Z|Duskwood|
-C Mor'Ladim |QID|228| |N|Kill Mor'Ladim and collect Mor'Ladim's Skull in Forlorn Rowe. This is a group quest and tough to solo, you can skip this safely (16.68, 37.37)| |Z|Duskwood|
 
-R The Hushed Bank |QID|262| |N|Travel to The Hushed Bank (7.82, 34.06)|
 T Sven's Camp |QID|230| |N|Sven Yorgen in The Hushed Bank (7.82, 34.06)|
 A The Shadowy Figure |QID|262| |N|Sven Yorgen in The Hushed Bank (7.82, 34.06)|
 
@@ -118,14 +115,10 @@ R Moonbrook |QID|68| |N|Travel to Moonbrook (41.52, 66.72)| |Z|Westfall|
 T The Legend of Stalvan (Part 2) |QID|67| |N|Old footlocker in Moonbrook (41.52, 66.72)| |Z|Westfall|
 A The Legend of Stalvan (Part 3) |QID|68| |N|Old footlocker in Moonbrook (41.52, 66.74)| |Z|Westfall|
 
-R Darkshire |QID|265| |N|Travel or Hearthstone to Darkshire (75.72, 45.34)|
+R Darkshire |QID|265| |N|Travel or Hearthstone to Darkshire (73.8, 44.4)|
 T Zombie Juice |QID|158| |N|Tavernkeep Smitts in Darkshire (73.8, 44.4)|
 A Gather Rot Blossoms |QID|156| |N|Tavernkeep Smitts in Darkshire (73.8, 44.4)|
 T The Night Watch (Part 3) |QID|58| |N|Commander Althea Ebonlocke in Darkshire (73.60, 46.85)|
-T Mor'Ladim |QID|228| |N|Commander Althea Ebonlocke, in Darkshire (73.57, 46.91)| |Z|Duskwood|
-A The Daughter Who Lived |QID|229| |N|Commander Althea Ebonlocke in Darkshire (73.57, 46.91)| |Z|Duskwood| |PRE|228|
-T The Daughter Who Lived |QID|229| |N|Watcher Ladimore in Darkshire (74.50, 46.16)| |Z|Duskwood| |PRE|228|
-A A Daughter's Love |QID|231| |N|Watcher Ladimore in Darkshire (74.50, 46.16)| |Z|Duskwood| |PRE|228|
 T The Legend of Stalvan (Part 3) |QID|68| |N|Clerk Daltry in Darkshire (72.56, 46.83)| |Z|Duskwood|
 A The Legend of Stalvan (Part 4) |QID|69| |N|Clerk Daltry in Darkshire (72.56, 46.83)| |Z|Duskwood|
 T The Shadowy Figure |QID|262| |N|Madame Eva in Darkshire (75.72, 45.34)|
@@ -142,7 +135,6 @@ A Return to Sven |QID|268| |N|Jitters in Raven Hill (18.40, 56.44)| |Z|Duskwood|
 R The Hushed Bank |TID|231| |N|Travel to The Hushed Bank (7.83, 34.02)| |Z|Duskwood|
 T Return to Sven |QID|268| |N|Sven Yorgen in The Hushed Bank (7.83, 34.02)| |Z|Duskwood|
 A Proving Your Worth |QID|323| |N|in The Hushed Bank (7.83, 34.02)| |Z|Duskwood|
-T A Daughter's Love |QID|231| |N|A Weathered Grave in Forlorn Rowe (17.74, 29.09)| |PRE|228| |Z|Duskwood|
 
 C Proving Your Worth |QID|323| |N|Kill 3 Skeletal Healer, 15 Skeletal Raider, 3 Skeletal Warder and in Dawning Wood Catacombs. The Skeletal Warder are only found inside the Catacombs underground (16.01, 37.07)| |Z|Duskwood|
 C Gather Rot Blossoms |QID|156| |N|Kill Skeletal Horror and Skeletal Fiend to collect 8 Rot Blossom (16.0, 45.0)|  |Z|Duskwood|
@@ -180,29 +172,30 @@ N Translated Letter |QID|950| |N|Destroy Translated Letter as it is no longer ne
 N Abandon Quest |QID|228| |N|Abandon 'Mor'Ladim' quest and discard Translated Letter| |O|
 
 R Trade District |QID|1274| |N|Travel to Trade District (57.00, 72.81)| |Z|Stormwind City|
-N Tear of Tilloa |QID|335| |N|Store Tear of Tilloa to the bank (57.00, 72.81)| |Z|Stormwind City| |L|2779| |O|
-N Sealed Note to Watcher Backus |QID|1243| |N|Store Sealed Note to Watcher Backus to the bank (57.00, 72.81)| |Z|Stormwind City| |L|5960| |O|
 
 R Cathedral of Light |QID|1274| |N|Travel to Cathedral of Light (39.53, 28.13)| |Z|Stormwind City|
 A Tinkmaster Overspark |QID|2923| |N|Brother Sarno in Cathedral of Light (40.55, 30.73)| |Z|Stormwind City|
+T Seeking Wisdom |QID|269| |N|Bishop Farthing in Cathedral of Light (39.53, 28.13)| |Z|Stormwind City|
 A The Doomed Fleet |QID|270| |N|Bishop Farthing in Cathedral of Light (39.53, 28.13)| |Z|Stormwind City|
-A The Missing Diplomat (Part 1) |QID|1274| |N|Thomas in Cathedral of Light (39.78, 28.52)| |Z|Stormwind City|
-T The Missing Diplomat (Part 1) |QID|1274| |N|Bishop DeLavey in Stormwind Keep (78.29, 25.44)| |Z|Stormwind City|
-A The Missing Diplomat (Part 2) |QID|1241| |N|Bishop DeLavey in Stormwind Keep (78.29, 25.44)| |Z|Stormwind City|
+A The Missing Diplomat (Part 1) |QID|1274| |N|Thomas in Cathedral of Light (50.6, 46.5)| |Z|Stormwind City|
+T The Missing Diplomat (Part 1) |QID|1274| |N|Bishop DeLavey in Stormwind Keep (80.2, 44.1)| |Z|Stormwind City|
+A The Missing Diplomat (Part 2) |QID|1241| |N|Bishop DeLavey in Stormwind Keep (80.2, 44.1)| |Z|Stormwind City|
 A An Old History Book |QID|337| |N|Use An Old History Book to accept quest| |U|2794| |O|
-T An Old History Book |QID|337| |N|Milton Sheaf in Royal Library (74.14, 7.46)| |Z|Stormwind City| |O|
-A Southshore |QID|538| |N|Milton Sheaf in Royal Library (74.14, 7.46)| |Z|Stormwind City| |PRE|337|
-T The Missing Diplomat (Part 2) |QID|1241| |N|Jorgen in Valley of Heroes (73.14, 78.39)| |Z|Stormwind City| |PRE|337|
-A The Missing Diplomat (Part 3) |QID|1242| |N|Jorgen in Valley of Heroes (73.14, 78.39)| |Z|Stormwind City| |PRE|337|
+T An Old History Book |QID|337| |N|Milton Sheaf in Royal Library (77.1, 30.2)| |Z|Stormwind City| |O|
+A Southshore |QID|538| |N|Milton Sheaf in Royal Library (77.1, 30.2)| |Z|Stormwind City| |PRE|337|
+T The Missing Diplomat (Part 2) |QID|1241| |N|Jorgen in Valley of Heroes (76.3, 85.1)| |Z|Stormwind City| |PRE|337|
+A The Missing Diplomat (Part 3) |QID|1242| |N|Jorgen in Valley of Heroes (76.3, 85.1)| |Z|Stormwind City| |PRE|337|
 T The Legend of Stalvan (Part 4) |QID|69| |N|Innkeeper Farley in Lion's Pride Inn (43.78, 65.84)| |Z|Elwynn Forest| |PRE|337|
 A The Legend of Stalvan (Part 5) |QID|70| |N|Innkeeper Farley in Lion's Pride Inn (43.78, 65.84)| |Z|Elwynn Forest| |PRE|337|
 C The Legend of Stalvan (Part 5) |QID|70| |N|Retrieve Stalvan's Undelivered Letter from the chest upstairs in Lion's Pride Inn (44.22, 65.80)| |Z|Elwynn Forest| |PRE|337|
-T The Legend of Stalvan (Part 5) |QID|70| |N|Caretaker Folsom in The Canals (29.56, 61.91)| |Z|Stormwind City| |PRE|337|
-A The Legend of Stalvan (Part 6) |QID|72| |N|Caretaker Folsom in The Canals (29.56, 61.91)| |Z|Stormwind City| |PRE|337|
-T The Legend of Stalvan (Part 6) |QID|72| |N|Sealed crate in The Canals (29.51, 61.63)| |Z|Stormwind City| |PRE|337|
-A The Legend of Stalvan (Part 7) |QID|74| |N|Sealed crate in The Canals (29.51, 61.63)| |Z|Stormwind City| |PRE|337|
-T The Missing Diplomat (Part 3) |QID|1242| |N|Elling Trias in Trade District (59.92, 64.15)| |Z|Stormwind City| |PRE|337|
-A The Missing Diplomat (Part 4) |QID|1243| |N|Elling Trias in Trade District (59.92, 64.15)| |Z|Stormwind City| |PRE|337|
+T The Legend of Stalvan (Part 5) |QID|70| |N|Caretaker Folsom in The Canals (42.5, 72.3)| |Z|Stormwind City| |PRE|337|
+A The Legend of Stalvan (Part 6) |QID|72| |N|Caretaker Folsom in The Canals (42.5, 72.3)| |Z|Stormwind City| |PRE|337|
+T The Legend of Stalvan (Part 6) |QID|72| |N|Sealed crate in The Canals (42.5, 72)| |Z|Stormwind City| |PRE|337|
+A The Legend of Stalvan (Part 7) |QID|74| |N|Sealed crate in The Canals (42.5, 72)| |Z|Stormwind City| |PRE|337|
+T The Missing Diplomat (Part 3) |QID|1242| |N|Elling Trias in Trade District (66, 74.1)| |Z|Stormwind City| |PRE|337|
+A The Missing Diplomat (Part 4) |QID|1243| |N|Elling Trias in Trade District (66, 74.1)| |Z|Stormwind City| |PRE|337|
+N Sealed Note to Watcher Backus |QID|1243| |N|Store Sealed Note to Watcher Backus to the bank (57.00, 72.81)| |Z|Stormwind City| |L|5960| |O|
+N Tear of Tilloa |QID|335| |N|Store Tear of Tilloa to the bank (57.00, 72.81)| |Z|Stormwind City| |L|2779| |O|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
