@@ -5,7 +5,7 @@ return [[
 R Morlos'Aran |QID|4101| |N|Travel to Morlos'Aran in Felwood (54.15, 86.84)| |Z|Felwood|
 A Cleansing Felwood |QID|4101| |N|Arathandris Silversky in Morlos'Aran (54.15, 86.84)| |Z|Felwood|
 
-R Emerald Sanctuary |QID|6131| |N|Travel to Emerald Sanctuary (50.98, 81.76)| |Z|1448
+R Emerald Sanctuary |QID|6131| |N|Travel to Emerald Sanctuary (50.98, 81.76)| |Z|Felwood|
 A Forces of Jaedenar |QID|5155| |N|Greta Mosshoof in Emerald Sanctuary (51.2, 82.1)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather in Emerald Sanctuary (50.94, 81.65)| |Z|Felwood|
 A To Winterspring! |QID|5249| |N|Ivy Leafrunner in Emerald Sanctuary (51.01, 81.94)| |Z|Felwood|
