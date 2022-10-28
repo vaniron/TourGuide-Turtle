@@ -61,7 +61,7 @@ C Costly Menace |QID|564| |N|Kill 8 Mountain Lion and 10 Hulking Mountain Lion i
 R Southshore |QID|514| |N|Travel or Hearthstone back to Southshore (49.0, 55.1)|
 B Fine Thread |QID|514| |N|Buy Fine Thread from Micha Yance in Southshore (49.0, 55.1)| |L|2321|
 B Soothing Spices |QID|555.2| |N|Buy Soothing Spices from Micha Yance in Southshore (49.0, 55.1)| |L|3713|
-T Encrypted Letter |QID|511| |N|Loremaster Dibbs in Southshore (50, 57)|
+T Encrypted Letter |QID|511| |N|Loremaster Dibbs in Southshore (50.6, 57.1)|
 A Letter to Stormpike |QID|514| |N|Loremaster Dibbs in Southshore (50, 57)| |PRE|511|
 T Syndicate Assassins |QID|505| |N|Magistrate Henry Maleb in Southshore (48.14, 59.13)| |Z|Hillsbrad Foothills|
 T Foreboding Plans |QID|510| |N|Magistrate Henry Maleb in Southshore (48.14, 59.13)| |Z|Hillsbrad Foothills|

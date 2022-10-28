@@ -3,20 +3,21 @@ TourGuide:RegisterGuide("Stranglethorn (32-33)", "Thousand Needles (33-34)", "Al
 return [[
 
 R City of Ironforge |QID|1453| |N|Travel to City of Ironforge (67.95, 17.61)| |Z|Ironforge|
-A Reclaimers' Business in Desolace |QID|1453| |N|Roetten Stonehammer in Hall of Explorers (67.95, 17.61)| |Z|Ironforge|
+A Reclaimers' Business in Desolace |QID|1453| |N|Roetten Stonehammer in Hall of Explorers (69.9, 21.3)| |Z|Ironforge|
 T Letter to Stormpike |QID|514| |N|Prospector Stormpike in The Library, skip follow up (74.59, 11.68)| |Z|Ironforge| |O|
 T Klockmort's Essentials |QID|2925| |N|Klockmort Spannerspan in Tinker Town, skip follow up (67.99, 46.21)| |Z|Ironforge| |O|
 T Tinkmaster Overspark |QID|2923| |N|Tinkmaster Overspark in Tinker Town (69.63, 50.09)| |Z|Ironforge| |O|
 A The Brassbolts Brothers |QID|1179| |N|Pilot Longbeard in Hall of Arms (72.70, 93.97)| |Z|Ironforge|
 
 R Stormwind City |QID|690| |N|Travel to Mage Quarter in Stormwind City (39.82, 81.53)| |Z|Stormwind City|
-A Malin's Request |QID|690| |N|Archmage Malin in Mage Quarter (39.82, 81.53)| |Z|Stormwind City|
+A Malin's Request |QID|690| |N|Archmage Malin in Mage Quarter (50.5, 87.5)| |Z|Stormwind City|
 T Cleansing the Eye |QID|293| |N|Archbishop Benedictus in Cathedral of Light (39.65, 27.48)| |Z|Stormwind City| |O|
-T Blessed Arm |QID|322| |N|Grimand Elmore in Dwarven District, skip follow up (51.76, 12.16)| |Z|Stormwind City| |O|
-T Reassignment |QID|563| |N|Major Samuelson in Stormwind Keep (72.66, 15.92)| |Z|Stormwind City| |O|
-N Sealed Note to Watcher Backus |QID|1243| |N|Withdraw Sealed Note to Watcher Backus from the bank. Tick this step (57.00, 72.81)| |Z|Stormwind City| |L|5960| |OO|
-N Crate of Crash Helmets |QID|1179| |N|Store Crate of Crash Helmets to the bank (57.00, 72.81)| |Z|Stormwind City| |L|5849| |O|
+T Blessed Arm |QID|322| |N|Grimand Elmore in Dwarven District, skip follow up (59.7, 33.8)| |Z|Stormwind City| |O|
+T Reassignment |QID|563| |N|Major Samuelson in Stormwind Keep (75.8, 36.7)| |Z|Stormwind City| |O|
+N Sealed Note to Watcher Backus |QID|1243| |N|Withdraw Sealed Note to Watcher Backus from the bank. Tick this step (63.2, 79.3)| |Z|Stormwind City| |L|5960| |OO|
+N Crate of Crash Helmets |QID|1179| |N|Store Crate of Crash Helmets to the bank (63.2, 79.3)| |Z|Stormwind City| |L|5849| |O|
 
+R Elwynn Forest |QID|74| |N|Travel to Elwynn Forest (42.4, 65.6) (34.2, 50) |Z|Elwynn Forest| |O|
 T The Legend of Stalvan (Part 7) |QID|74| |N|Marshal Haggard in Eastvale Logging Camp (84.59, 69.37)| |Z|Elwynn Forest| |O|
 A The Legend of Stalvan (Part 8) |QID|75| |N|Marshal Haggard in Eastvale Logging Camp (84.64, 69.41)| |Z|Elwynn Forest| |PRE|74|
 C The Legend of Stalvan (Part 8) |QID|75| |N|Collect A Faded Journal Page from Marshal Haggard's chest in Eastvale Logging Camp (85.68, 69.59)| |Z|Elwynn Forest| |PRE|74|

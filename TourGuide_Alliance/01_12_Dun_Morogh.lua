@@ -198,17 +198,17 @@ C Deeprun Rat Roundup |QID|6661| |N|Capture 5 Deeprun Rat by using the Rat Catch
 T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side| |C|Warlock|
 
 R Stormwind City |QID|1688| |N|Take the portal to Stormwind City| |Z|Ironforge| |C|Warlock|
-T The Slaughtered Lamb |QID|1715| |N|Gakin the Darkbinder in The Slaughtered Lamb (29.29, 73.99) (25.24, 78.55)| |Z|Stormwind City| |C|Warlock|
-A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock| |Z|Stormwind City|
+T The Slaughtered Lamb |QID|1715| |N|Gakin the Darkbinder in The Slaughtered Lamb (46.2, 77.4) (39.2, 85.2)| |Z|Stormwind City| |C|Warlock|
+A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (39.2, 85.2)| |C|Warlock| |Z|Stormwind City|
 
 R Brackwell Pumpkin Patch |QID|1688| |N|Travel to Brackwell Pumpkin Patch (71.02, 80.76)| |Z|Elwynn Forest| |C|Warlock|
 C Surena Caledon |QID|1688| |N|Kill Surena Caledon and collect Surena's Choker in Brackwell Pumpkin Patch. She is guarded by 2 other enemies, you will need to pull them away (71.02, 80.76)| |Z|Elwynn Forest| |C|Warlock|
 
-R The Slaughtered Lamb |QID|1689| |N|Travel to The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
-T Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
-A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
-T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
+R The Slaughtered Lamb |QID|1689| |N|Travel to The Slaughtered Lamb (39.2, 85.2)| |C|Warlock| |Z|Stormwind City|
+T Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (39.2, 85.2)| |C|Warlock| |Z|Stormwind City|
+A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (39.2, 85.2)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (38.3, 84.9) (39.1, 84,4)| |C|Warlock| |Z|Stormwind City|
+T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (39.2, 85.2)| |C|Warlock| |Z|Stormwind City|
 
 T Speak with Bink |QID|1879| |N|Bink in Hall of Mysteries (27.23, 8.33)| |Z|Ironforge| |C|Mage|
 A Mage-tastic Gizmonitor |QID|1880| |N|Bink in Hall of Mysteries (27.23, 8.33)| |Z|Ironforge| |C|Mage|
@@ -235,7 +235,7 @@ T The Trogg Threat |QID|267| |N|Captain Rugelfuss in Valley of Kings (23.23, 73.
 T In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.03, 73.05)| |Z|Loch Modan|
 A In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
 
-R Thelsamar |QID|1339| |N|Travel to Thelsamar (28.27, 65.68) (31.15, 70.99) (33.9, 50.9)| |Z|Loch Modan|
+R Thelsamar |QID|1339| |N|Travel to Thelsamar (28.27, 65.68) (33.9, 50.9)| |Z|Loch Modan|
 f Thelsamar |QID|1339| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|
 T Stout to Kadrell |Z|Loch Modan| |QID|414| |N|Mountaineer Kadrell in Thelsamar (34.94, 47.04)| |Z|Loch Modan|
 A Rat Catching |Z|Loch Modan| |QID|416| |N|Mountaineer Kadrell in Thelsamar (34.94, 47.04)| |Z|Loch Modan|
