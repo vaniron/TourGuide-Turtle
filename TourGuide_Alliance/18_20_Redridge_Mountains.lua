@@ -29,21 +29,21 @@ f Stormwind City |QID|244| |N|Speak to Dungar Longdrink to grab flight path for 
 R Three Corners |QID|244| |N|Travel to Three Corners in Redridge Mountains (15.32, 71.42)| |REACH|
 A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.32, 71.42)|
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Redridge Mountains (30.74, 60.15)|
-f Lakeshire |QID|246| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains| |R|Night Elf, Gnome, Dwarf|
 A Assessing the Threat |QID|246| |N|Deputy Feldon in Redridge Mountains (30.74, 60.15)|
+f Lakeshire |QID|246| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains| |R|Night Elf, Gnome, Dwarf|
 A The Lost Tools |QID|125| |N|Foreman Oslow in Lakeshire (32.18, 48.84)|
 A Hilary's Necklace |QID|3741| |N|Shawn in Lake Everstill (29.33, 53.49)|
 A Selling Fish |QID|127| |N|Dockmaster Baren in Lakeshire (27.68, 47.38)|
 A A Free Lunch |QID|129| |N|Darcy in Redridge Mountains (27.08, 45.13)|
+A Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.50, 44.11)| |Z|Redridge Mountains|
 h Lakeshire |QID|92| |N|Speak toInnkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
 A Redridge Goulash |QID|92| |N|Chef Breanna in Lakeshire (22.70, 43.88)|
-T Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.50, 44.11)| |Z|Redridge Mountains|
 A The Price of Shoes |QID|118| |N|Verner Osgood in Lakeshire (30.82, 47.39)| |Z|Redridge Mountains|
 A Messenger to Stormwind (Part 1) |QID|120| |N|Magistrate Solomon in Lakeshire (30.01, 44.33)| |Z|Redridge Mountains|
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
-T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
-A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (64.65, 76.93)| |Z|Stormwind City|
+T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.7)| |Z|Stormwind City|
+A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.7)| |Z|Stormwind City|
 
 R Goldshire |QID|119| |N|Travel to Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
@@ -55,7 +55,7 @@ A Underbelly Scales |QID|122| |N|Verner Osgood in Lakeshire (30.49, 48.02)| |Z|R
 A A Baying of Gnolls |QID|124| |N|Verner Osgood in Lakeshire (30.91, 47.92)| |Z|Redridge Mountains|
 T Messenger to Stormwind (Part 2) |QID|121| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
 
-K Great Goretusk |QID|92.1| |N|Kill Great Goretusk and collect 5 Great Goretusk Snout to the west of the lake (16.5, 49.6)| |L|2296 5|
+K Great Goretusk |QID|92| |N|Kill Great Goretusk and collect 5 Great Goretusk Snout to the west of the lake (16.5, 49.6)| |L|2296 5|
 C Hilary's Necklace |QID|3741| |N|Find Hilary's Necklace inside a mud pile underwater in the lake, check around each waypoint (19.3, 51.8) (24.1, 54.6) (26.6, 51.4) (28,56) (33.7, 55.4) (36.7, 54.3)|
 C The Lost Tools |QID|125| |N|You can find Oslow's Toolbox in the Sunken Chest underwater (41.4, 54.7)|
 C Selling Fish |QID|127| |N|Kill the Murloc Shorestriker, Murloc Minor Tidecaller and Murloc Flesheater in the water, collect 10 Spotted Sunfish<br/><b>Also keep all Murloc Fin that you find|
