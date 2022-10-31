@@ -14,6 +14,7 @@ T Filthy Paws |QID|307| |N|Mountaineer Stormpike in Algaz Station (24.67, 18.25)
 
 R Thelsamar |QID|436| |N|Travel to Thelsamar (33.9, 50.9)|
 f Thelsamar |QID|436| |N|Speak to Thorgrum Borrelson and grab flight point for Thelsamar (33.9, 50.9)|
+T Rat Catching |Z|Loch Modan| |QID|416| |N|Mountaineer Kadrell in Thelsamar (34.94, 47.04)| |Z|Loch Modan|
 A Ironband's Excavation |QID|436| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)|
 h Stoutlager Inn |TID|436| |N|Speak to Miran and set hearth at Stoutlager Inn (35.53, 48.41)|
 
@@ -52,6 +53,7 @@ T A Dark Threat Looms (Part 2) |QID|199| |N|Chief Engineer Hinderweir VII in Sto
 R Thelsamar |QID|301| |N|Travel to Thelsamar (42.60, 10.97) (37.17, 47.55)|
 T Excavation Progress Report |QID|298| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)|
 A Report to Ironforge |QID|301| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)|
+T Thelsamar Blood Sausages |QID|418| |N|in Stoutlager Inn (34.88, 49.18)| |Z|Loch Modan|
 
 R Grizzlepaw Ridge |QID|271| |N|Travel to Grizzlepaw Ridge (39.98, 66.87)|
 C Vyrin's Revenge (Part 1) |QID|271| |N|Kill Ol' Sooty in the cave at the top of the mountain and collect Ol' Sooty's Head in Grizzlepaw Ridge<br/><b>Can be difficult to solo, it's safe to abandon and skip all Vyrin's Revenge quest (39.98, 66.87) (40.89, 63.06) (40.06, 61.55)|
@@ -69,7 +71,7 @@ T In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in 
 R City of Ironforge |TID|301| |N|Travel to City of Ironforge (55.60, 47.94)| |Z|Ironforge|
 N Letter to Delgren |QID|967| |N|Store Letter to Delgren to the bank (35.48, 60.70)| |Z|Ironforge| |L|5354| |O|
 N Fandral's Message |QID|952| |N|Store Fandral's Message to the bank (35.48, 60.70)| |Z|Ironforge| |L|5390| |O|
-f The Great Forge |TID|301| |N|Speak to Gryth Thurden and grab flight path for The Great Forge (55.60, 47.94)| |Z|Ironforge| 
+f The Great Forge |TID|301| |N|Speak to Gryth Thurden and grab flight path for The Great Forge (55.60, 47.94)| |Z|Ironforge|
 A Speak with Shoni |QID|2041| |N|Gnoarn in Ironforge (69.4, 50.6)| |Z|Ironforge|
 T Report to Ironforge |QID|301| |N|Prospector Stormpike in The Library (74.31, 12.16)| |Z|Ironforge|
 
