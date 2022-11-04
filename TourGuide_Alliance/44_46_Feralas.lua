@@ -27,7 +27,7 @@ A Against Lord Shalzaru |QID|2870| |N|Latronicus Moonspear in Feathermoon Strong
 
 R Shalzaru's Lair |QID|2870| |N|Travel to Shalzaru's Lair (25.90, 67.13)| |Z|Feralas|
 C Against Lord Shalzaru |QID|2870| |N|Kill Lord Shalzaru and collect Mysterious Relic in Shalzaru's Lair (27.40, 69.76) (28.47, 70.44)| |Z|Feralas|
-N Level 45 |N|You should be close to level 45 and this is a good place to grind. Kill Nagas until you're about 2900 XP to level 45 (27.40, 69.76)| 
+N Level 45 |N|You should be close to level 45 and this is a good place to grind. Kill Nagas until you're about 2900 XP to level 45 (27.40, 69.76)|
 
 R Feathermoon Stronghold |QID|2871| |N|Travel or Hearthstone to Feathermoon Stronghold, or die and ressurect (25.90, 67.13) (30.39, 46.18)| |Z|Feralas|
 T Against Lord Shalzaru |QID|2870| |N|Latronicus Moonspear in Feathermoon Stronghold (30.39, 46.18)| |Z|Feralas|
@@ -52,7 +52,7 @@ A Find OOX-22/FE! |QID|2766| |N|Use OOX-22/FE Distress Beacon to accept quest| |
 T Find OOX-22/FE! |QID|2766| |N|Homing Robot OOX-22/FE in Feral Scar Vale (53.34, 55.64)| |Z|Feralas| |O| |OID|2969|
 
 R Ruins of Isildien |QID|2982| |N|Travel to Ruins of Isildien (61.41, 55.41)| |Z|Feralas|
-C The High Wilderness |QID|2982| |N|Kill Gordunni Ogres in Ruins of Isildien, focus on Gordunni Warlock first<br/><b>Gordunni Brute is North side<br/><b>Gordunni Shaman is South Side<br/>Gordunni Warlock is scatttered (61.08, 55.65) (58.91, 64.77) (60.17, 66.91)| |Z|Feralas|
+C The High Wilderness |QID|2982| |N|Kill Gordunni Ogres in Ruins of Isildien, focus on Gordunni Warlock first. Gordunni Brute is North side. Gordunni Shaman is South Side. Gordunni Warlock is scatttered (61.08, 55.65) (58.91, 64.77) (60.17, 66.91)| |Z|Feralas|
 
 A Freedom for All Creatures |QID|2969| |N|Kindal Moonweaver in Feralas (65.61, 46.75) (65.82, 46.21) (65.96, 45.66)| |Z|Feralas|
 C Freedom for All Creatures |QID|2969| |N|Clear the area and click on the cage door to release 6 Captured Sprite Darter (66.67, 46.70)| |Z|Feralas|
