@@ -219,7 +219,8 @@ A The Defias Brotherhood (Part 6) |QID|155| |N|The Defias Traitor in Sentinel Hi
 C The Defias Brotherhood (Part 6) |QID|155| |N|Escort The The Defias Traitor to discover where VanCleef is hiding . The hard part is when you're approaching the fountain in Moonbrook as The Defias Traitor will end up pulling multiple mobs, possible to solo if there are other players in Moonbrook otherwise safe to skip (57.20, 60.53) (57.75, 64.97) (45.73, 65.02) (42.57, 71.27)| |Z|Westfall|
 
 R The Dagger Hills |QID|14| |N|Travel to The Dagger Hills (52.87, 71.29) (49.60, 77.19) (44.65, 80.27)| |Z|Westfall|
-T Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills, kill your way towards the quest giver (44.65, 80.27)| |Z|Westfall|
+A Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills, kill your way towards the quest giver (44.65, 80.27)| |Z|Westfall|
+T Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills (44.65, 80.27)| |Z|Westfall|
 N Keg of Thunderbrew Lager |QID|116.1| |N|You should receive from Grimbooze Thunderbrew by turning in 'Thunderbrew' quest (44.65, 80.27)| |Z|Westfall| |L|1262|
 C The People's Militia (Part 3) |QID|14| |N|Kill the required Defias enemies in The Dagger Hills (49.60, 77.19)| |Z|Westfall|
 

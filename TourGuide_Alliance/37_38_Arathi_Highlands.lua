@@ -44,7 +44,7 @@ A Wand over Fist |QID|693| |N|Skuerto in Refuge Pointe (46.59, 47.12)| |Z|Arathi
 R Circle of West Binding |QID|651| |N|Travel to Circle of West Binding (34.68, 52.17) (23.36, 42.04) (25.43, 30.07)| |Z|Arathi Highlands|
 N Burning Key |QID|651.1| |N|Collect Burning Key from the stone in Circle of West Binding (52.09, 50.68)| |Z|Arathi Highlands|
 
-R Circle of Inner Binding |TID|651| |N|Travel to Circle of Inner Binding (36.24, 57.23)| |Z|Arathi Highlands|
+R Circle of Inner Binding |QID|651| |N|Travel to Circle of Inner Binding (36.24, 57.23)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|Stone of inner Binding in Circle of Inner Binding (36.24, 57.25)| |Z|Arathi Highlands|
 
 R Boulderfist Hall |QID|693| |N|Travel to Boulderfist Hall (53.72, 77.28)| |Z|Arathi Highlands|

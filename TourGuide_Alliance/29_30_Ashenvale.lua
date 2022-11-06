@@ -36,7 +36,7 @@ T Raene's Cleansing (Part 3) |QID|1024| |N|Shael'dryn in Moonwell (53.49, 46.30)
 A Raene's Cleansing (Part 4) |QID|1026| |N|Shael'dryn in Moonwell (53.49, 46.30)| |Z|Ashenvale|
 
 R Night Run |QID|1140| |N|Travel to Night Run (58.26, 59.71) (64.88, 43.75)| |O|
-N Free the Highborne soul in Night Run |QID|1140.1| |N|Click on the Circle of Imprisonment on the ground in Night Run (66.61, 56.96)| |Z|Ashenvale| |O|
+N Free the Highborne soul in Night Run |Qwwthe Circle of Imprisonment on the ground in Night Run (66.61, 56.96)| |Z|Ashenvale| |O|
 
 K Crazed Ancient |QID|1026| |N|Kill Crazed Ancient until you collect a Wooden Key (55.13, 34.22) (55.82, 33.61)|  |L|5475|
 C Raene's Cleansing |QID|1026| |N|Collect Iron Shaft from the worn chest in Nightsong Woods (54.41, 35.37)| |Z|Ashenvale|
