@@ -11,17 +11,17 @@ A Magical Analysis |QID|602| |N|Baron Revilgaz in Booty Bay (27.21, 76.88)| |Z|S
 R Faldir's Cove |QID|667| |N|Travel to Faldir's Cove (31.08, 65.63) (21.58, 72.95) (21.59, 75.59) (22.09, 79.73)| |Z|Arathi Highlands| |PRE|669|
 T Sunken Treasure (Part 5) |QID|670| |N|Shakes O'Breen in Faldir's Cove (32.28, 81.39)| |Z|Arathi Highlands| |PRE|669|
 A Death From Below |QID|667| |N|Shakes O'Breen in Faldir's Cove (32.28, 81.39)| |Z|Arathi Highlands| |PRE|669|
-C Death From Below |QID|667| |N|Use the Cannon to kill 3 waves of Nagas in Faldir's Cove (31.57, 82.05) (31.47, 81.02) (31.98, 80.87)| |Z|Arathi Highlands| |PRE|669| |OBJ|245|
+C Death From Below |QID|667| |N|Use the Cannon on the ship deck to kill 3 waves of Nagas in Faldir's Cove (31.57, 82.05) (31.47, 81.02) (31.98, 80.87)| |Z|Arathi Highlands| |PRE|669| |OBJ|245|
 T Death From Below |QID|667| |N|Shakes O'Breen in Faldir's Cove (32.30, 81.41)| |Z|Arathi Highlands| |PRE|669|
 
 R Southshore |TID|1052| |N|Travel to Southshore (51.47, 58.38)| |Z|Hillsbrad Foothills| |O|
 T Down the Scarlet Path |QID|1052| |N|Raleigh the Devout in Southshore (51.47, 58.38)| |Z|Hillsbrad Foothills| |O|
 T Magical Analysis |QID|602| |N|Archmage Ansirem Runeweaver in Dalaran (18.87, 78.48)| |Z|Alterac Mountains| |PRE|601|
-A Ansirem's Key |QID|603| |N|Archmage Ansirem Runeweaver in Dalaran (18.87, 78.48)| |Z|Alterac Mountains| |PRE|601| 
+A Ansirem's Key |QID|603| |N|Archmage Ansirem Runeweaver in Dalaran (18.87, 78.48)| |Z|Alterac Mountains| |PRE|601|
 
 R Wildhammer Keep |QID|2877| |N|Travel to Wildhammer Keep (14.82, 44.57)| |Z|The Hinterlands|
 A Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.57)| |Z|The Hinterlands|
-A Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle in Wildhammer Keep (14.59, 44.60)| |Z|The Hinterlands|
+A Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.57)| |Z|The Hinterlands|
 T To The Hinterlands |QID|1449| |N|Archmage Ansirem Runeweaver in Aerie Peak (11.80, 46.74)| |Z|The Hinterlands|
 A Gryphon Master Talonaxe |QID|1450| |N|Falstad Wildhammer in Aerie Peak (11.90, 46.58)| |Z|The Hinterlands|
 f Aerie Peak |TID|1450| |N|Speak to Guthrum Thunderfist and grab flight path for Aerie Peak (11.09, 46.16)| |Z|The Hinterlands|
@@ -57,9 +57,9 @@ T Witherbark Cages |QID|2988| |N|Gryphon Master Talonaxe in Aerie Peak (9.74, 44
 A The Altar of Zul |QID|2989| |N|Gryphon Master Talonaxe in Aerie Peak (9.74, 44.50)| |Z|The Hinterlands|
 
 R City of Ironforge |QID|3448| |N|Travel to Hall of Explorers in City of Ironforge (66.0, 45.2)| |Z|Ironforge| |REACH|
-N Leftwitch's Package |QID|1467| |N|Withdraw Leftwitch's Package from the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|6253| |OO|
-N Kravel's Scheme |QID|1118| |N|Withdraw Kravel's Scheme from the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|5826| |OO|
-N Stoley's Bottle |QID|2874| |N|Withdraw Stoley's Bottle from the bank. Tick this step (66.0, 45.2)| |Z|Undercity| |L|9245| |OO|
+N Leftwitch's Package |QID|1467| |N|Withdraw Leftwitch's Package from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|6253| |OO|
+N Kravel's Scheme |QID|1118| |N|Withdraw Kravel's Scheme from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|5826| |OO|
+N Stoley's Bottle |QID|2874| |N|Withdraw Stoley's Bottle from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|9245| |OO|
 N Snapshot of Gammerita |QID|2944| |N|Store Snapshot of Gammerita to the bank (35.48, 60.70)| |Z|Ironforge| |L|9330| |O|
 N Super Snapper FX |QID|2944| |N|Store Super Snapper FX to the bank (35.48, 60.70)| |Z|Ironforge| |L|9328| |O|
 N Wildkin Feather |QID|3661| |N|Store Wildkin Feather to the bank (35.48, 60.70)| |Z|Ironforge| |L|10819| |O|
