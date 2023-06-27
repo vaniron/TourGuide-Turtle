@@ -95,6 +95,7 @@ A Raene's Cleansing |QID|1030| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| 
 
 R Mystral Lake |QID|1045| |N|Travel to Mystral Lake (57.85, 66.53) (54.00, 72.44)| |Z|Ashenvale|
 U Dartol's Rod of Transformation |QID|1045| |N|Use Dartol's Rod of Transformation to gain the (spell:6405) buff| |U|5462| |BUFF|134297|
+T Raene's Cleansing |QID|1030| |N|Krolg in Mystral Lake (52.64, 74.30) (50.84, 75.06)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1045| |N|Krolg in Mystral Lake (52.64, 74.30) (50.84, 75.06)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1045| |N|Kill Ran Bloodtooth and 4 Bloodtooth Guard in Bloodtooth Camp (54.45, 74.59) (54.70, 79.50)| |Z|Ashenvale|
 N Ran Bloodtooth's Skull |QID|1046| |N|Collect Ran Bloodtooth's Skull from Ran Bloodtooth (54.70, 79.50)| |Z|Ashenvale| |L|5388|
