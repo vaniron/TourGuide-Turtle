@@ -39,14 +39,14 @@ R Night Run |QID|1140| |N|Travel to Night Run (58.26, 59.71) (64.88, 43.75)| |O|
 N Free the Highborne soul in Night Run |Qwwthe Circle of Imprisonment on the ground in Night Run (66.61, 56.96)| |Z|Ashenvale| |O|
 
 K Crazed Ancient |QID|1026| |N|Kill Crazed Ancient until you collect a Wooden Key (55.13, 34.22) (55.82, 33.61)|  |L|5475|
-C Raene's Cleansing |QID|1026| |N|Collect Iron Shaft from the worn chest in Nightsong Woods (54.41, 35.37)| |Z|Ashenvale|
+C Raene's Cleansing (Part 4) |QID|1026| |N|Collect Iron Shaft from the worn chest in Nightsong Woods (54.41, 35.37)| |Z|Ashenvale|
 
 R The Howling Vale |QID|1022| |N|Travel to The Howling Vale (53.89, 32.41) (52.80, 34.79) (52.99, 37.60)| |Z|Ashenvale|
 C The Howling Vale |QID|1022| |N|Click on Tome of Mel'Thandris in The Howling Vale (50.48, 39.16)| |Z|Ashenvale|
 
 R Moonwell |OID|1027| |N|Travel to Moonwell (53.39, 37.53) (57.82, 42.74) (61.04, 47.57) (60.22, 52.67) (52.54, 54.05) (51.15, 45.24) (53.51, 46.22)| |Z|Ashenvale|
-T Raene's Cleansing |QID|1026| |N|Shael'dryn in Moonwell (53.51, 46.22)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1027| |N|Shael'dryn in Moonwell (53.51, 46.22)| |Z|Ashenvale|
+T Raene's Cleansing (Part 4) |QID|1026| |N|Shael'dryn in Moonwell (53.51, 46.22)| |Z|Ashenvale|
+A Raene's Cleansing (Part 5) |QID|1027| |N|Shael'dryn in Moonwell (53.51, 46.22)| |Z|Ashenvale|
 
 R Xavian |QID|1031| |N|Travel to Xavian (63.77, 54.59) (65.89, 60.56) (69.01, 59.93) (75.10, 48.77) (78.32, 44.83)| |Z|Ashenvale|
 T Vile Satyr! Dryads in Danger! |QID|1021| |N|Anilia in Xavian (78.32, 44.83)| |Z|Ashenvale|
@@ -61,7 +61,7 @@ N Free the Highborne soul in Satyrnaar |QID|1140.2| |N|Click on the Circle of Im
 
 R The Dor'Danil Barrow Den |QID|1011| |N|Travel to The Dor'Danil Barrow Den (86.16, 50.42) (78.00, 56.19) (75.29, 72.19)| |Z|Ashenvale|
 C Forsaken Diseases |QID|1011| |N|Collect a Bottle of Disease in The Dor'Danil Barrow Den (86.16, 50.42) (78.00, 56.19) (75.29, 72.19)| |Z|Ashenvale|
-C Raene's Cleansing |QID|1027| |N|Kill Rotting Slime until you collect Iron Pommel in The Dor'Danil Barrow Den. Tip: It can also be found inside the chest they drop (73.00, 73.28)| |Z|Ashenvale|
+C Raene's Cleansing (Part 5) |QID|1027| |N|Kill Rotting Slime until you collect Iron Pommel in The Dor'Danil Barrow Den. Tip: It can also be found inside the chest they drop (73.00, 73.28)| |Z|Ashenvale|
 
 R Fallen Sky Lake |QID|1035| |N|Travel to Fallen Sky Lake (66.76, 82.03)| |Z|Ashenvale| |PRE|1034|
 C Fallen Sky Lake |QID|1035| |N|Kill a Shadethicket Oracle and collect Fallen Moonstone Fallen Sky Lake (66.76, 82.03)| |Z|Ashenvale| |PRE|1034|
@@ -80,31 +80,31 @@ R Astranaar |TID|1035| |N|Travel to Astranaar (37.35, 51.79)| |Z|Ashenvale|
 T Fallen Sky Lake |QID|1035| |N|Pelturas Whitemoon in Astranaar (37.35, 51.79)| |Z|Ashenvale|
 
 R Moonwell |QID|1028| |N|Travel to Moonwell (45.00, 55.38) (50.05, 56.25) (51.35, 45.50) (53.56, 46.21)| |Z|Ashenvale|
-T Raene's Cleansing |QID|1027| |N|Shael'dryn in Moonwell (53.56, 46.21)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1028| |N|Shael'dryn in Moonwell (53.56, 46.21)| |Z|Ashenvale|
-T Raene's Cleansing |QID|1028| |N|Hidden shrine (52.97, 54.56) (55.63, 51.29) (57.43, 51.44)(56.35, 49.28)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1055| |N|Hidden shrine (56.35, 49.28)| |Z|Ashenvale|
+T Raene's Cleansing (Part 5) |QID|1027| |N|Shael'dryn in Moonwell (53.56, 46.21)| |Z|Ashenvale|
+A Raene's Cleansing (Part 6) |QID|1028| |N|Shael'dryn in Moonwell (53.56, 46.21)| |Z|Ashenvale|
+T Raene's Cleansing (Part 6) |QID|1028| |N|Hidden shrine (52.97, 54.56) (55.63, 51.29) (57.43, 51.44)(56.35, 49.28)| |Z|Ashenvale|
+A Raene's Cleansing (Part 7) |QID|1055| |N|Hidden shrine (56.35, 49.28)| |Z|Ashenvale|
 
 R Moonwell |QID|1029| |N|Travel to Moonwell (50.59, 50.93) (50.59, 50.93) (53.55, 46.20)| |Z|Ashenvale|
-T Raene's Cleansing |QID|1055| |N|Shael'dryn in Moonwell (53.55, 46.20)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1029| |N|Shael'dryn in Moonwell (53.55, 46.20)| |Z|Ashenvale|
+T Raene's Cleansing (Part 7) |QID|1055| |N|Shael'dryn in Moonwell (53.55, 46.20)| |Z|Ashenvale|
+A Raene's Cleansing (Part 8) |QID|1029| |N|Shael'dryn in Moonwell (53.55, 46.20)| |Z|Ashenvale|
 
 R Astranaar |QID|1030| |N|Travel or Hearthstone to Astranaar (36.62, 49.58)| |Z|Ashenvale|
-T Raene's Cleansing |QID|1029| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1030| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| |Z|Ashenvale|
+T Raene's Cleansing (Part 8) |QID|1029| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| |Z|Ashenvale|
+A Raene's Cleansing (Part 9) |QID|1030| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| |Z|Ashenvale|
 
 R Mystral Lake |QID|1045| |N|Travel to Mystral Lake (57.85, 66.53) (54.00, 72.44)| |Z|Ashenvale|
 U Dartol's Rod of Transformation |QID|1045| |N|Use Dartol's Rod of Transformation to gain the (spell:6405) buff| |U|5462| |BUFF|134297|
-T Raene's Cleansing |QID|1030| |N|Krolg in Mystral Lake (52.64, 74.30) (50.84, 75.06)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1045| |N|Krolg in Mystral Lake (52.64, 74.30) (50.84, 75.06)| |Z|Ashenvale|
-C Raene's Cleansing |QID|1045| |N|Kill Ran Bloodtooth and 4 Bloodtooth Guard in Bloodtooth Camp (54.45, 74.59) (54.70, 79.50)| |Z|Ashenvale|
+T Raene's Cleansing (Part 9) |QID|1030| |N|Krolg in Mystral Lake (52.64, 74.30) (50.84, 75.06)| |Z|Ashenvale|
+A Raene's Cleansing (Part 10) |QID|1045| |N|Krolg in Mystral Lake (52.64, 74.30) (50.84, 75.06)| |Z|Ashenvale|
+C Raene's Cleansing (Part 10) |QID|1045| |N|Kill Ran Bloodtooth and 4 Bloodtooth Guard in Bloodtooth Camp (54.45, 74.59) (54.70, 79.50)| |Z|Ashenvale|
 N Ran Bloodtooth's Skull |QID|1046| |N|Collect Ran Bloodtooth's Skull from Ran Bloodtooth (54.70, 79.50)| |Z|Ashenvale| |L|5388|
 U Dartol's Rod of Transformation |QID|1046| |N|Use Dartol's Rod of Transformation to gain the (spell:6405) buff| |U|5462| |BUFF|134297|
-T Raene's Cleansing |QID|1045| |N|Krolg in Mystral Lake (55.57, 75.80) (54.69, 74.77) (50.88, 75.04)| |Z|Ashenvale|
-A Raene's Cleansing |QID|1046| |N|Krolg in Mystral Lake (50.88, 75.04)| |Z|Ashenvale|
+T Raene's Cleansing (Part 10) |QID|1045| |N|Krolg in Mystral Lake (55.57, 75.80) (54.69, 74.77) (50.88, 75.04)| |Z|Ashenvale|
+A Raene's Cleansing (Part 11) |QID|1046| |N|Krolg in Mystral Lake (50.88, 75.04)| |Z|Ashenvale|
 
 R Astranaar |TID|1046| |N|Travel or Hearthstone to Astranaar, you can die and ressurect for a shortcut (36.61, 49.58)| |Z|Ashenvale|
-T Raene's Cleansing |QID|1046| |N|Raene Wolfrunner in Astranaar (36.61, 49.58)| |Z|Ashenvale|
+T Raene's Cleansing (Part 11) |QID|1046| |N|Raene Wolfrunner in Astranaar (36.61, 49.58)| |Z|Ashenvale|
 
 R The Shrine of Aessina |OID|1037| |N|Travel to The Shrine of Aessina (22.2, 52.8)| |Z|Ashenvale|
 T The Howling Vale |QID|1022| |N|Sentinel Melyria Frostshadow in The Shrine of Aessina (22.26, 52.98)| |Z|Ashenvale|
