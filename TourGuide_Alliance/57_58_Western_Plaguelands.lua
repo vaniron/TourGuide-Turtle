@@ -46,12 +46,12 @@ R Northridge Lumber Camp |TID|6025| |N|Travel to Northridge Lumber Camp (51.94, 
 T Unfinished Business (Part 3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.94, 28.06)| |Z|Western Plaguelands|
 
 R The Writhing Haunt |QID|4984| |N|Travel to The Writhing Haunt (53.64, 64.76)| |Z|Western Plaguelands|
-A The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.64, 64.76)| |Z|Western Plaguelands|
-C The Wildlife Suffers Too |QID|4984| |N|Kill 8 Diseased Wolf in Dalson's Tears (46.17, 39.97) (46.11, 48.10) (50.71, 48.33)| |Z|Western Plaguelands|
-T The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
-A The Wildlife Suffers Too |QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
-C The Wildlife Suffers Too |QID|4985| |N|Kill 8 Diseased Grizzly in The Writhing Haunt (55.8, 49.1) (54.9, 45.4) (60.3, 52.0) (67.4, 45.8) (65.6, 53.5) (55.8, 63.0)| |Z|Western Plaguelands|
-T The Wildlife Suffers Too |QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
+A The Wildlife Suffers Too (Part 1) |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.64, 64.76)| |Z|Western Plaguelands|
+C The Wildlife Suffers Too (Part 1) |QID|4984| |N|Kill 8 Diseased Wolf in Dalson's Tears (46.17, 39.97) (46.11, 48.10) (50.71, 48.33)| |Z|Western Plaguelands|
+T The Wildlife Suffers Too (Part 1) |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
+A The Wildlife Suffers Too (Part 2) |QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
+C The Wildlife Suffers Too (Part 2) |QID|4985| |N|Kill 8 Diseased Grizzly in The Writhing Haunt (55.8, 49.1) (54.9, 45.4) (60.3, 52.0) (67.4, 45.8) (65.6, 53.5) (55.8, 63.0)| |Z|Western Plaguelands|
+T The Wildlife Suffers Too (Part 2) |QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
 A Glyphed Oaken Branch |QID|4986| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
 
 R Chillwind Camp |QID|6186| |N|Travel to Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
@@ -60,7 +60,6 @@ A The Blightcaller Cometh |QID|6186| |N|Flint Shadowmore in Chillwind Camp (43.4
 T A Plague Upon Thee (Part 3) |QID|6389| |N|Nathaniel Dumah in Chillwind Camp (43.42, 84.84)| |Z|Western Plaguelands|
 
 R City of Ironforge |QID|4441| |N|Travel to City of Ironforge (75.81, 23.43)| |Z|Ironforge|
-N Extended Annals of Darrowshire |QID|5210| |N|Store Extended Annals of Darrowshire to the bank (35.48, 60.70)| |Z|Ironforge| |L|13202| |O|
 N Minion's Scourgestone |QID|5402| |N|Store Minion's Scourgestone to the bank (35.48, 60.70)| |Z|Ironforge| |L|12840| |O|
 N Invader's Scourgestone |QID|5403| |N|Store Invader's Scourgestone to the bank (35.48, 60.70)| |Z|Ironforge| |L|12841| |O|
 N Eridan's Vial |QID|4441| |N|Withdraw Eridan's Vial from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|11682| |OO|

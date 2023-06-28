@@ -3,7 +3,7 @@ TourGuide:RegisterGuide("Silithus (58-59)", "Winterspring (59-60)", "Alliance",f
 
 return [[
 
-A The New Frontier (Part 1) |QID|1015| |N|Crier Goodman in The Canals, she wanders around Stormwind City (46.71, 65.25)| |Z|Stormwind City|  |OID|1004, 1018, 1047, 1019| 
+A The New Frontier (Part 1) |QID|1015| |N|Crier Goodman in The Canals, she wanders around Stormwind City or check shellcoin place (46.71, 65.25)| |Z|Stormwind City|  |OID|1004, 1018, 1047, 1019| 
 T The Blightcaller Cometh |QID|6186| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.19, 18.10)| |Z|Stormwind City| |O| 
 A Order Must Be Restored |QID|6187| |N|Highlord Bolvar Fordragon in Stormwind Keep (78.19, 18.10)| |Z|Stormwind City| |PRE|6186| 
 
