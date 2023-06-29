@@ -2,7 +2,7 @@ TourGuide:RegisterGuide("Wetlands (30-31)", "Hillsbrad Foothills (31-32)", "Alli
 
 return [[
 
-A Seeking Strahad |QID|1798| |N|Lago Blackwrench in Ironforge (47.2, 10.9)| |C|Warlock| |Z|Ironforge|
+A Seeking Strahad |QID|1798| |N|Lago Blackwrench in Stormwind (39.0 85.2)| |C|Warlock| |Z|Stormwind|
 A The Islander  |QID|1718| |N|Kelv Sternhammer in Ironforge (71.5, 91.2)| |C|Warrior| |Z|Ironforge|
 
 R Fray Island |QID|1719| |N|Travel to Fray Island (68.6, 49.1)| |Z|The Barrens| |C|Warrior|
@@ -17,7 +17,7 @@ A Tome of the Cabal (Part 1) |QID|1758| |N|Strahad Farsan in Ratchet (62.6, 35.5
 T Tome of the Cabal (Part 1) |QID|1758| |N|Krom Stoutarm in Ironforge (74.3, 9.4)| |C|Warlock| |Z|Ironforge|
 A Tome of the Cabal (Part 2) |QID|1802| |N|Krom Stoutarm in Ironforge (74.3, 9.4)| |C|Warlock| |Z|Ironforge|
 
-N Tattered Manuscript |QID|1802| |N|Collect Tattered Manuscript inside the cave east of the Great Lift in Thousand Needles (43.5, 32.7)| |L|6997| |Z|Thousand Needles| |C|Warlock|
+N Tattered Manuscript |QID|1802| |N|Collect Tattered Manuscript inside the cave east of the Great Lift in Thousand Needles. Take the path to the right at the fork in the cave. (43.5, 32.7)| |L|6997| |Z|Thousand Needles| |C|Warlock|
 
 C Tome of the Cabal (Part 2) |QID|1802| |N|Collect the Moldy Tome (27.7, 72.8)| |L|6931| |C|Warlock| |Z|Hillsbrad Foothills|
 
