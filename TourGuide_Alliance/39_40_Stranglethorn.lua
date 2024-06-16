@@ -2,6 +2,7 @@ TourGuide:RegisterGuide("Stranglethorn (39-40)", "Badlands (40-41)", "Alliance",
 
 return [[
 R Booty Bay |QID|606| |N|Travel to Booty Bay (28.08, 76.19)| |Z||Stranglethorn Vale|
+N Sample Elven Gem |QID|1146| |N|Withdraw Sample Elven Gem from the bank.  Tick this step (26.57, 76.56)| |Z||Stranglethorn Vale|  |L|4502| |OO|
 A The Bloodsail Buccaneers (Part 1) |QID|595| |N|First Mate Crazz in Booty Bay (28.08, 76.19)| |Z||Stranglethorn Vale|
 A Scaring Shaky |QID|606| |N|"Sea Wolf" MacKinley in Booty Bay (27.79, 77.08)| |Z||Stranglethorn Vale|
 A Venture Company Mining |QID|600| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.13, 77.30)| |Z||Stranglethorn Vale|
@@ -12,7 +13,6 @@ h Booty Bay |QID|601| |N|Speak to Innkeeper Skindle and set hearth at The Salty 
 T Sunken Treasure (Part 4) |QID|669| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |Z||Stranglethorn Vale| |O|
 A Sunken Treasure (Part 5) |QID|670| |N|Fleet Master Seahorn in Booty Bay (27.17, 77.00)| |Z||Stranglethorn Vale| |PRE|669|
 A Water Elementals |QID|601| |N|Baron Revilgaz in Booty Bay (27.22, 76.87)| |Z||Stranglethorn Vale|
-N Sample Elven Gem |QID|1146| |N|Withdraw Sample Elven Gem from the bank.  Tick this step (26.57, 76.56)| |Z||Stranglethorn Vale|  |L|4502| |OO|
 N Seaforium Booster |QID|1187| |N|Store Seaforium Booster to the bank (26.57, 76.56)| |Z||Stranglethorn Vale|  |L|5862| |O|
 N Elixir of Fortitude |QID|3842| |N|Store Elixir of Fortitude to the bank (26.57, 76.56)| |Z||Stranglethorn Vale|  |L|3825| |O|
 
