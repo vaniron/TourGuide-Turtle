@@ -23,15 +23,11 @@ R Swamp of Sorrows |QID|1396| |N|Travel through Deadwind Pass to Swamp of Sorrow
 C Dream Dust in the Swamp |QID|1116| |N|Kill Dreaming Whelp and collect 10 Speck of Dream Dust in Itharius's Cave (16.64, 56.29)| |Z|Swamp of Sorrows|  |PRE|1115|
 A Encroaching Wildlife |QID|1396| |N|Watcher Biggs in Swamp of Sorrows (26.76, 59.75)| |Z|Swamp of Sorrows|
 
-K Noboru the Cudgel |QID|1392| |N|Kill Noboru the Cudgel and collect Noboru's Cudgel, he patrols around in The Shifting Mire (46.76, 38.63)| |L|6196|
-A Noboru the Cudgel |QID|1392| |N|Use Noboru's Cudgel to begin the quest| |U|6196| |O|
-
 C Encroaching Wildlife |QID|1396| |N|Kill 10 Sorrow Spinner, 8 Young Sawtooth Crocolisk and 10 Swamp Jaguar in Swamp of Sorrows (34.90, 53.17) (28.60, 52.24) (26.41, 45.98) (22.43, 52.15)| |Z|Swamp of Sorrows|
 T Encroaching Wildlife |QID|1396| |N|Watcher Biggs in Swamp of Sorrows (26.76, 59.75)| |Z|Swamp of Sorrows|
 A The Lost Caravan |QID|1421| |N|Watcher Biggs in Swamp of Sorrows (26.76, 59.75)| |Z|Swamp of Sorrows|
 
 R The Harborage |TID|1392| |N|Travel to The Harborage (25.99, 31.44)|
-T Noboru the Cudgel |QID|1392| |N|Magtoor in The Harborage (25.99, 31.44)| |O|
 A Draenethyst Crystals |QID|1389| |N|Magtoor in The Harborage (25.99, 31.44)| |Z|Swamp of Sorrows|
 
 R Fallow Sanctuary |QID|1393| |N|Travel Fallow Sanctuary (65.40, 18.29)| |Z|Swamp of Sorrows|

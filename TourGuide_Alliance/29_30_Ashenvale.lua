@@ -92,6 +92,8 @@ A Raene's Cleansing (Part 8) |QID|1029| |N|Shael'dryn in Moonwell (53.55, 46.20)
 R Astranaar |QID|1030| |N|Travel or Hearthstone to Astranaar (36.62, 49.58)| |Z|Ashenvale|
 T Raene's Cleansing (Part 8) |QID|1029| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| |Z|Ashenvale|
 A Raene's Cleansing (Part 9) |QID|1030| |N|Raene Wolfrunner in Astranaar (36.62, 49.58)| |Z|Ashenvale|
+R Hidden Shrine |QID|1030| |N|Travel to the Hidden Shrine in Raynewood Retreat. It is up a spiral pathin the base of a hollowed tree.
+T Raene's Cleansing (Part 9) |QID|1030|
 
 R Mystral Lake |QID|1045| |N|Travel to Mystral Lake (57.85, 66.53) (54.00, 72.44)| |Z|Ashenvale|
 U Dartol's Rod of Transformation |QID|1045| |N|Use Dartol's Rod of Transformation to gain the (spell:6405) buff| |U|5462| |BUFF|134297|

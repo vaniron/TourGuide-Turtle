@@ -30,7 +30,6 @@ A Mudrock Soup and Bugs |QID|1204| |N|Morgan Stern in Theramore Isle (66.36, 45.
 
 R Foothold Citadel |QID|1282| |N|Travel to Foothold Citadel (67.90, 47.95)|
 T They Call Him Smiling Jim |QID|1282| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
-A Inspecting the Ruins |QID|11123| |N|Captain Garran Vimes in Foothold Citadel (68.23, 48.62)|
 
 B Buy 3 [Soothing Spices] |QID|1218| from Helenia Olden in Theramore Isle (66.4, 51.4)
 
@@ -48,7 +47,6 @@ C Jarl Needs Eyes |QID|1206| |N|Kill Darkmist spiders and collect 40 Unpopped Da
 A Hungry! |QID|1177| |N|Mudcrush Durtfeet in Dustwallow Marsh (34.33, 27.56) (35.14, 38.26)|
 
 R Shady Rest Inn |QID|1253| |N|Travel to Shady Rest Inn (29.64, 48.57)|
-T Inspecting the Ruins |QID|11123| |N|(npc:23567) in Shady Rest Inn (29.6, 47.6)|
 A The Black Shield (Part 1)|QID|1253| |N|Black Shield in Shady Rest Inn, above the fireplace (29.58, 48.38)| |OBJ|58|
 A Suspicious Hoofprints |QID|1284| |N|Suspicious Hoofprints in Shady Rest Inn, on the ground (29.69, 47.66)| |OBJ|520|
 A Lieutenant Paval Reethe |QID|1252| |N|Theramore Guard Badge in Shady Rest Inn, it's a small badge on the ground (29.83, 48.27)| |OBJ|522|
