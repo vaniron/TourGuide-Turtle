@@ -2,9 +2,6 @@ TourGuide:RegisterGuide("Desolace (32-34)", "Stranglethorn (34-36)", "Horde",fun
 
 return [[
 
-R The Crossroads |QID|1145| |N|Travel to The Crossroads (51.09, 29.59)| |Z|The Barrens|
-A The Swarm Grows (Part 1) |QID|1145| |N|Korran in The Crossroads (51.09, 29.59)| |Z|The Barrens|
-
 R Orgrimmar |QID|1146| |N|Travel to Orgrimmar (75, 34)| |Z|Orgrimmar|
 N Rod of Helcular |N|Store Rod of Helcular in the bank . Tick this step (49.6, 69.4)| |Z|Orgrimmar| |L|3710| |O|
 N Kravel's Parts Order |N|Store Kravel's Parts Order in the bank . Tick this step (49.6, 69.4)| |Z|Orgrimmar| |L|5799| |O|
