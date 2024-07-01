@@ -14,6 +14,8 @@ A Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)| |Z|St
 
 T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.18, 77.03)|  |O| |Z|Stranglethorn Vale|
 A The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.20, 76.91)|  |PRE|604| |Z|Stranglethorn Vale|
+A They Call Him Morgan Storm |QID|60152| |N|Baron Revilgaz| |Z|Stranglethorn Vale|
+
 A The Captain's Chest |QID|614| |N|Captain Hecklebury Smotts in Booty Bay (26.70, 73.61)| |Z|Stranglethorn Vale|
 
 R Southern Savage Coast |QID|610| |N|Travel to Southern Savage Coast (29.63, 72.36) (27.42, 69.43)|  |PRE|603| |Z|Stranglethorn Vale|
@@ -31,9 +33,12 @@ A Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.
 C Message in a Bottle (Part 2) |QID|630| |N|Kill King Mukla and collect Shackle Key in Jaguero Isle. This is a group quest and hard to solo, safe to skip (40.98, 83.95)| |Z|Stranglethorn Vale|
 T Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.52, 80.61)|  |O| |Z|Stranglethorn Vale|
 N As you go... |AYG|608| |QID|624| |N|Check the bottom floor of each ship for Cortello's Riddle or in the captain's room, it can spawn in one of the three ship<br/><b>Collect 15 Snuff from any pirates| |L|4056| |OBJ|164| |Z|Stranglethorn Vale|
+T They Call him Morgan Storm |QID|60152| |N|Turn in they Call Him Morgan Storm (32.4,82.1)| |Z|Stranglethorn Vale|
+A The Iron Patch |QID|60153| |N| Kill Iron Patch|
 K Captain Stillwater |QID|608.1| |N|Kill Captain Stillwater in the middle floor of the ship in Wild Shore (32.82, 88.33)|  |PRE|604| |Z|Stranglethorn Vale|
 K Fleet Master Firallon |QID|608.3| |N|Kill Garr Salthoof in the middle floor of the ship in Wild Shore (30.17, 89.40) (30.63, 90.57)|  |PRE|604| |Z|Stranglethorn Vale|
 K Captain Keelhaul |QID|608.2| |N|Kill Captain Keelhaul in the middle floor of the ship in Wild Shore (29.87, 89.35) (29.20, 88.38)|  |PRE|604| |Z|Stranglethorn Vale|
+K Iron Patch |QID|60153| Kill Iron Patch (30.6,90.4)
 N Cortello's Riddle |QID|624| |N|Check the bottom floor of each ship for Cortello's Riddle or in the captain's room, it can spawn in one of the three ship (29.18, 88.63)| |L|4056| |OBJ|164| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|Use Cortello's Riddle to accept quest|  |U|4056| |O| |Z|Stranglethorn Vale|
 N Cortello's Riddle |QID|624| |N|You can now destroy Cortello's Riddle, if you already accepted the quest. Tick this step| |L|4098| |O||Z|Stranglethorn Vale|
@@ -44,6 +49,7 @@ T "Pretty Boy" Duncan |QID|610| |N|Catelyn the Blade in The Salty Sailor Tavern 
 A The Curse of the Tides |QID|611| |N|Catelyn the Blade in The Salty Sailor Tavern (27.27, 77.52)|  |PRE|603| |Z|Stranglethorn Vale|
 T Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)| |Z|Stranglethorn Vale|
 T The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.19, 76.99)| |Z|Stranglethorn Vale| |PRE|604|
+T Iron Patch |QID|60153| |N|Baron Revilgaz|
 T The Captain's Chest |QID|614| |N|Captain Hecklebury Smotts in Booty Bay (26.69, 73.62)| |Z|Stranglethorn Vale|
 A Stranglethorn Fever |QID|348| |N|Fin Fizracket in Booty Bay (27.63, 76.75)| |Z|Stranglethorn Vale|
 
