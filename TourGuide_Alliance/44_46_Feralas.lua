@@ -58,7 +58,7 @@ A Freedom for All Creatures |QID|2969| |N|Kindal Moonweaver in Feralas (65.61, 4
 C Freedom for All Creatures |QID|2969| |N|Clear the area and click on the cage door to release 6 Captured Sprite Darter (66.67, 46.70)| |Z|Feralas|
 T Freedom for All Creatures |QID|2969| |N|Homing Robot OOX-22/FE in Feralas (65.61, 46.75) (65.82, 46.21) (65.95, 45.69)| |Z|Feralas|
 A Doling Justice (Part 1) |QID|2970| |N|Jer'kai Moonweaver in Feralas (65.95, 45.62)| |Z|Feralas|
-C Doling Justice (Part 1) |QID|2970| |N|Kill 10 Grimtotem Raider, 6 Grimtotem Shaman and 12 Grimtotem Shaman in Feralas (65.94, 47.66) (66.72, 46.32) (67.92, 46.37)| |Z|Feralas|
+C Doling Justice (Part 1) |QID|2970| |N|Kill 10 Grimtotem Raider, 6 Grimtotem Shaman and 12 Grimtotem Naturalists in Feralas (65.94, 47.66) (66.72, 46.32) (67.92, 46.37)| |Z|Feralas|
 T Doling Justice (Part 1) |QID|2970| |N|Jer'kai Moonweaver in Feralas (65.61, 46.75) (65.82, 46.21) (65.93, 45.60)| |Z|Feralas|
 A Doling Justice (Part 2) |QID|2972| |N|Jer'kai Moonweaver in Feralas (65.93, 45.60)| |Z|Feralas|
 
@@ -68,7 +68,7 @@ A The Writhing Deep |QID|4135| |N|Large Leather Backpack in Woodpaw Hills (73.30
 A Thalanaar Delivery |QID|4281| |N|Use Undelivered Parcel to accept quest| |Z|Feralas| |U|11463|
 
 R The Writhing Deep |QID|4265| |N|Travel to The Writhing Deep (73.07, 63.97)| |Z|Feralas|
-T The Writhing Deep |QID|4135| |N|Zukk'ash Pod in The Writhing Deep (73.07, 63.97) (72.09, 63.70)| |Z|Feralas| |OBJ|767|
+T The Writhing Deep |QID|4135| |N|Zukk'ash Pod in The Writhing Deep. Go to the bottom of the spiral, take the Southwest cave entrance and then turn right at the first fork (73.1, 64) (72.08, 64.6) (72.1, 63.8)| |Z|Feralas| |OBJ|767|
 A Freed from the Hive |QID|4265| |N|Zukk'ash Pod in The Writhing Deep (72.09, 63.70)| |Z|Feralas| |OBJ|767|
 C Freed from the Hive |QID|4265| |N|Free Raschal the Courier in The Writhing Deep, just wait until the quest is complete (72.06, 63.65)| |Z|Feralas|
 
@@ -99,7 +99,7 @@ R Rut'theran Village |QID|3661| |N|Travel to Rut'theran Village (29.35, 41.42) (
 T Handle With Care |QID|3022| |N|Erelas Ambersky in Rut'theran Village (55.50, 92.05)| |Z|Teldrassil|
 A Favored of Elune? |QID|3661| |N|Erelas Ambersky in Rut'theran Village (55.50, 92.15)| |Z|Teldrassil|
 T In Search of Knowledge |QID|2939| |N|Daryn Lightwind in Rut'theran Village (55.43, 92.24)| |Z|Teldrassil|
-A Feralas: A History |QID|2940| |N|Click on book Feralas: A History in Rut'theran Village (55.23, 91.46)| |Z|Teldrassil| |OBJ|559|
+A Feralas: A History |QID|2940| |N|Click on book Feralas: A History in Rut'theran Village. On the opposite side of the house, on the floor in front of the bookshelves (55.23, 91.46)| |Z|Teldrassil| |OBJ|559|
 T Feralas: A History |QID|2940| |N|Daryn Lightwind in Rut'theran Village (55.42, 92.19)| |Z|Teldrassil|
 A The Borrower |QID|2941| |N|Daryn Lightwind in Rut'theran Village (55.42, 92.19)| |Z|Teldrassil|
 
