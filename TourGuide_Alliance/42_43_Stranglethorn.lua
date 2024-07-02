@@ -77,6 +77,7 @@ N Draenethyst Shard |QID|1373| |N|Withdraw Draenethyst Shard from the bank. Tick
 N Goblin Rumors |QID|1117| |N|Store Goblin Rumors to the bank (26.57, 76.56)| |Z|Stranglethorn Vale| |L|5804| |O|
 N Bag of Water Elemental Bracers |QID|602| |N|Store Bag of Water Elemental Bracers to the bank (26.57, 76.56)| |Z|Stranglethorn Vale| |L|3960| |O|
 N Encrusted Tail Fin |QID|1107| |N|Store Encrusted Tail Fin to the bank (26.57, 76.56)| |Z|Stranglethorn Vale| |L|5796| |O|
+N Carefully Folded Note |QID|610| |N|Store Carefully Folded Note| |L|4098| |O|
 
 N Guide Complete |N|Tick to continue to the next guide|
 

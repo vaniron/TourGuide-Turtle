@@ -5,16 +5,15 @@ R Booty Bay |QID|348| |N|Travel to Booty Bay (27.78, 77.07)| |Z|Stranglethorn Va
 T Deliver to MacKinley |QID|2874| |N|Sea Wolf MacKinley in Booty Bay (27.78, 77.07)| |Z|Stranglethorn Vale|  |O|
 N Drawing Kit |QID|3461| |N|Store Drawing Kit to the bank (26.57, 76.56)| |Z|Stranglethorn Vale|  |L|10445| |O|
 N Standard Issue Flare Gun |QID|3451| |N|Store Standard Issue Flare Gun to the bank (26.57, 76.56)| |Z|Stranglethorn Vale|  |L|10444| |O|
-N Carefully Folded Note |QID|610| |N|Destroy Carefully Folded Note as it is no longer needed| |L|4098| |O|
+N Carefully Folded Note |QID|610| |N|Withdraw Carefully Folded Note| |L|4098| |O|
+
+h The Salty Sailor Tavern |QID|610| |N|Speak to Innkeeper Skindle to set your hearth at The Salty Sailor Tavern (27.05, 77.32)| |Z|Stranglethorn Vale|
+
+T Back to Booty Bay |QID|1118| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.23)|  |O| |Z|Stranglethorn Vale|
 T Ansirem's Key |QID|603| |N|Catelyn the Blade in The Salty Sailor Tavern (27.27, 77.52)| |Z|Stranglethorn Vale|  |O|
 A "Pretty Boy" Duncan |QID|610| |N|Catelyn the Blade in The Salty Sailor Tavern (27.27, 77.52)| |Z|Stranglethorn Vale| |PRE|603|
-h The Salty Sailor Tavern |QID|610| |N|Speak to Innkeeper Skindle The Salty Sailor Tavern (27.05, 77.32)| |Z|Stranglethorn Vale|
-T Back to Booty Bay |QID|1118| |N|Crank Fizzlebub in The Salty Sailor Tavern (27.12, 77.23)|  |O| |Z|Stranglethorn Vale|
-A Up to Snuff |QID|587| |N|Deeg in The Salty Sailor Tavern (26.94, 77.32)| |Z|Stranglethorn Vale|
-
-T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty Bay (27.18, 77.03)|  |O| |Z|Stranglethorn Vale|
 A The Bloodsail Buccaneers (Part 5) |QID|608| |N|Fleet Master Seahorn in Booty Bay (27.20, 76.91)|  |PRE|604| |Z|Stranglethorn Vale|
-A They Call Him Morgan Storm |QID|60152| |N|Baron Revilgaz| |Z|Stranglethorn Vale|
+A They Call Him Morgan the Storm |QID|60152| |N|Baron Revilgaz in Booty Bay (27.2, 76.9)| |Z|Stranglethorn Vale|
 
 A The Captain's Chest |QID|614| |N|Captain Hecklebury Smotts in Booty Bay (26.70, 73.61)| |Z|Stranglethorn Vale|
 
