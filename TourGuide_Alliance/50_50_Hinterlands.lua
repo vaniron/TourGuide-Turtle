@@ -9,6 +9,12 @@ R Wildhammer Keep |QID|3661| |N|Travel to Wildhammer Keep (14.09, 41.56)| |Z|The
 h Wildhammer Keep |QID|3661| |N|Speak to Innkeeper Thulfram and set hearth at Wildhammer Keep (13.52, 44.76) (13.46, 43.97) (13.46, 41.66) (13.91, 42.24)| |Z|The Hinterlands|
 T The Newest Member of the Family |QID|3843| |N|Agnar Beastamer in Wildhammer Keep (14.15, 43.61)| |Z|The Hinterlands| |O|
 A Food for Baby |QID|4297| |N|Agnar Beastamer in Wildhammer Keep (13.81, 43.28)| |Z|The Hinterlands| |PRE|3843|
+A Protecting Aerie Peak |QID|40664| |N|Claira Kindfeather in Wildhammer Keep (16.4, 47.6)| |Z|The Hinterlands|
+
+A Package to Quel'Danil |QID|80392| |N|Take Lieren package to Loania (14.0,44.6)| |Z|The Hinterlands|
+T Package to Quel'Danil |QID|80392| |N|Package to Quel 'Danil (31.1,48.5)| |Z|The Hinterlands|
+A Errand for Quel'Danil |QID|80393| |N|Errand for Quel'Danil (31.1,48.5)| |Z|The Hinterlands|
+A Ritual Secrets of the Witherbark |QID|40607| |N|Ritual Secrets of the Witherbark (31.1,48.5)| |Z|The Hinterlands|
 
 R Shindigger's Camp |TID|1452| |N|Travel to Shindigger's Camp (20.00, 48.33) (26.93, 48.60)| |Z|The Hinterlands| |O|
 T Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger in Shindigger's Camp (26.93, 48.60)| |Z|The Hinterlands| |O|
@@ -16,6 +22,7 @@ T Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger in Shindigger's
 R Valorwind Lake |QID|2641| |N|Travel to Valorwind Lake (40.05, 59.89)| |Z|The Hinterlands|
 N Violet Tragan |QID|2641| |N|Collect Violet Tragan from the mushroom underwater in the middle of Valorwind Lake (40.05, 59.89)| |Z|The Hinterlands| |OBJ|1847|
 
+ 
 R The Altar of Zul |QID|2989| |N|Travel to The Altar of Zul (48.76, 68.35)| |Z|The Hinterlands|
 C The Altar of Zul |QID|2989| |N|Go up to the top of the stair to search The Altar of Zul (48.76, 68.35)| |Z|The Hinterlands|
 
