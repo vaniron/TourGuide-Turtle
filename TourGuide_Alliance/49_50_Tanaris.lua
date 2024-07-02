@@ -7,6 +7,8 @@ T Akiris by the Bundle (Part 2) |QID|623| |N|Privateer Groy in Theramore Isle (6
 
 R Beezil's Wreck |QID|4450.3| |N|Travel to Beezil's Wreck (67.50, 54.75) (55.74, 50.02) (54.34, 51.64)| |Z|Dustwallow Marsh|
 N Overdue Package |QID|4450.3| |N|Collect Overdue Package from the Damaged Crate in Beezil's Wreck (54.04, 55.91)| |Z|Dustwallow Marsh| |OBJ|31|
+T Nat Pagle, Murloc Expert |QID|40545| |N|Nat Pagle in Dustwallow Marsh (58.6, 60.0)| |Z|Dustwallow Marsh|
+A Small Murloc in a Big Pond |QID|40546| |N|Nat Pagle in Dustwallow Marsh (58.6, 60.0)| |Z|Dustwallow Marsh|
 
 R Bloodfen Burrow |TID|625| |N|Travel to Bloodfen Burrow (31.79, 65.78)| |Z|Dustwallow Marsh| |O|
 T Cortello's Riddle |QID|625| |N|Musty scroll in Bloodfen Burrow (31.79, 65.78) (31.13, 66.13)| |Z|Dustwallow Marsh| |O| |OBJ|164|

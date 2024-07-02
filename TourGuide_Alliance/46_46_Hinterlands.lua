@@ -17,6 +17,9 @@ A Ansirem's Key |QID|603| |N|Archmage Ansirem Runeweaver in Dalaran (18.87, 78.4
 R Wildhammer Keep |QID|2877| |N|Travel to Wildhammer Keep (14.82, 44.57)| |Z|The Hinterlands|
 A Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.57)| |Z|The Hinterlands|
 A Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.57)| |Z|The Hinterlands|
+A Cracking the Witherbark |QID|60071| |N|Drakin Swiftaxe in Wildhammer Keep (14.8, 44.4)| |Z|The Hinterlands|
+A Proving A Point |QID|41140| |N|Brok Thunderforge in Wildhammer Keep (10.0, 48.7)| |Z|The Hinterlands|
+
 T To The Hinterlands |QID|1449| |N|Archmage Ansirem Runeweaver in Aerie Peak (11.80, 46.74)| |Z|The Hinterlands|
 A Gryphon Master Talonaxe |QID|1450| |N|Falstad Wildhammer in Aerie Peak (11.90, 46.58)| |Z|The Hinterlands|
 f Aerie Peak |TID|1450| |N|Speak to Guthrum Thunderfist and grab flight path for Aerie Peak (11.09, 46.16)| |Z|The Hinterlands|
@@ -31,6 +34,7 @@ T Rhapsody Shindigger |QID|1451| |N|Rhapsody Shindigger in Shindigger's Camp (26
 A Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger in Shindigger's Camp (26.93, 48.60)| |Z|The Hinterlands|
 N Check First Cage |QID|2988.1| |N|Click First Witherbark Cage in Zun'watha (23.27, 58.71)| |Z|The Hinterlands| |OBJ|676|
 N Check Second Cage |QID|2988.2| |N|Click Second Witherbark Cage in Zun'watha (23.13, 58.73)| |Z|The Hinterlands| |OBJ|676|
+C Cracking the Witherbark |QID|60071| |N|Kill 10 Witherbark Scalper, 10 Witherbark Zealot and 5 Witherbark Venomblood (23.13, 58.73)| |Z|The Hinterlands|
 N Check Third Cage |QID|2988.3| |N|Click Third Witherbark Cage in Hiri'watha (32.00, 57.38)| |Z|The Hinterlands| |OBJ|676|
 C Troll Necklace Bounty |QID|2880| |N|Kill Witherbark Scalper or Witherbark Zealot collect 5 Troll Tribal Necklace in Hiri'watha (32.00, 57.38)| |Z|The Hinterlands|
 A Find OOX-09/HL! |QID|485| |N|Use OOX-09/HL Distress Beacon to accept quest| |Z|The Hinterlands| |U|8704| |O|
@@ -40,13 +44,29 @@ R Agol'watha |QID|2877| |N|Travel to Agol'watha (46.54, 40.46)| |Z|The Hinterlan
 T Find OOX-09/HL! |QID|485| |N|Homing Robot OOX-09/HL in Agol'watha (49.36, 37.63)| |Z|The Hinterlands| |O|
 A Rescue OOX-09/HL! |QID|836| |N|Homing Robot OOX-09/HL in Agol'watha (49.36, 37.63)| |Z|The Hinterlands|
 C Skulk Rock Clean-up |QID|2877| |N|Kill 10 Green Sludge and 10 Jade Ooze in Agol'watha (46.35, 40.24)| |Z|The Hinterlands|
+C Proving A Point |QID|41140| |N|Keep killing Green Sludge and Jade Ooze if you have not already looted 15 Etched Mithril Shard (46.35, 40.24)| |Z|The Hinterlands| |OBJ|41000|
 
 R The Overlook Cliffs |QID|2944| |N|Travel to The Overlook Cliffs (72.36, 66.07)| |Z|The Hinterlands|
-C The Super Snapper FX |QID|2944.1| |N|Use Super Snapper FX on Saltwater Snapjaw in The Overlook Cliffs, you don't need to kill the turtle (72.36, 66.07) (76.72, 60.63) (79.83, 58.12)| |Z|The Hinterlands| |U|9328|
+N As you go... |QID|40540| |N|Kill Saltwater Snapjaw until you have 1 Turtle Meat (72.36, 66.07)| |Z|The Hinterlands| |OBJ|3712|
+C The Super Snapper FX |QID|2944.1| |N|Use Super Snapper FX on the elite turtle Gammerita in The Overlook Cliffs. You don't need to kill the elite, get close enough to take a snap and then run as Gammerita will aggro (72.36, 66.07) (76.72, 60.63) (79.83, 58.12)| |Z|The Hinterlands| |U|9328|
+###
+A An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
+C An Unusual Find |QID|40540| |N|Kill Saltwater Snapjaw until you have 1 Turtle Meat (72.36, 66.07)| |Z|The Hinterlands| |OBJ|3712|
+T An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
+A Family Above All |QID|40541| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
+N Check the Murloc Hut |QID|40541.1| |N|Click Murloc Hut - need to update coords but at the north end of the beach| |Z|The Hinterlands| |OBJ|60383|
+N Check the Murloc Nest |QID|40541.2| |N|Click Murloc Nest - need to update coords but its next to the hut| |Z|The Hinterlands| |OBJ|60384|
+T Family Above All |QID|40541| |N|Murloc Tadpole in The Overlook Cliffs - need to update coords (72.36, 66.07)| |Z|The Hinterlands|
+A Loneliest Murloc in the World |QID|40542| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
 C Favored of Elune? |QID|3661| |N|Collect 15 Wildkin Feather scattered around The Hinterlands| |Z|The Hinterlands| |OBJ|2630|
 
 R Wildhammer Keep |TID|2988| |N|Travel or Hearthstone to Wildhammer Keep (14.82, 44.58)| |Z|The Hinterlands|
+T Cracking the Witherbark |QID|60071| |N|Drakin Swiftaxe in Wildhammer Keep (14.8, 44.4)| |Z|The Hinterlands|
+T Proving A Point |QID|41140| |N|Brok Thunderforge in Wildhammer Keep (10.0, 48.7)| |Z|The Hinterlands|
+T Loneliest Murloc in the World |QID|40542| |N|Falstad Wildhammer in Wildhammer Keep (11.8, 46.8)| |Z|The Hinterlands|
+A Nat Pagle, Murloc Expert |QID|40545| |N|Falstad Wildhammer in Wildhammer Keep (11.8, 46.8)| |Z|The Hinterlands|
 T Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.58)| |Z|The Hinterlands|
+
 T Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.58)| |Z|The Hinterlands|
 T Witherbark Cages |QID|2988| |N|Gryphon Master Talonaxe in Aerie Peak (9.74, 44.50)| |Z|The Hinterlands|
 A The Altar of Zul |QID|2989| |N|Gryphon Master Talonaxe in Aerie Peak (9.74, 44.50)| |Z|The Hinterlands|

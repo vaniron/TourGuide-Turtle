@@ -19,7 +19,8 @@ T A Land Filled with Hatred |QID|5536| |N|Loh'atu in Talrendis Point (11.37, 78.
 R Gadgetzan |OID|2944| |N|Travel to Gadgetzan (52.35, 26.91)| |Z|Tanaris|
 T The Borrower |QID|2941| |N|Curgle Cranklehop in Gadgetzan (52.35, 26.91)| |Z|Tanaris|
 A The Super Snapper FX |QID|2944| |N|Curgle Cranklehop in Gadgetzan (52.35, 26.91)| |Z|Tanaris|
-N Seahorn's Sealed Letter |QID|670| |N|Withdraw Seahorn's Sealed Letter from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|4494| |OO| 
+N Bag of Water Elemental Bracers |QID|602| |N|Withdraw Bag of Water Elemental Bracers from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|3960| |OO|
+N Seahorn's Sealed Letter |QID|670| |N|Withdraw Seahorn's Sealed Letter from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|4494| |OO|
 N Letter of Commendation |QID|1052| |N|Withdraw Letter of Commendation from the bank. Tick this step (52.30, 28.89)| |Z|Tanaris| |L|5539| |OO|
 
 N Guide Complete |N|Tick to continue to the next guide|

@@ -24,6 +24,7 @@ A Rescue OOX-09/HL! |QID|836| |N|Homing Robot OOX-09/HL in The Hinterlands (49.3
 C Rescue OOX-09/HL! |QID|836| |N|Escort Homing Robot OOX-09/HL to the shoreline beyond The Overlook Cliffs. You will be ambushed by 3 level 47 Savage Owlbeast and 3 Trolls, and 1 Wolf on seperate occassions (48.27, 41.23) (48.09, 44.86) (53.37, 44.67) (57.82, 50.14) (61.93, 54.05) (63.18, 56.18) (66.00, 61.13) (72.31, 66.22) (78.99, 61.33)| |Z|The Hinterlands|
 
 R The Overlook Cliffs |QID|580| |N|Travel to The Overlook Cliffs (71.88, 65.44)| |Z|The Hinterlands|
+T Small Murloc in a Big Pond |QID|40546| |N|Murloc Tadpole in The Overlook Cliffs (79.6, 62.6) |Z|The Hinterlands|
 C Whiskey Slim's Lost Grog |QID|580.1| |N|Collect 12 Pupellyverbos Port from the ground near the water around The Overlook Cliffs (79.10, 71.61) (79.14, 64.09) (80.79, 58.88) (82.01, 49.85)| |Z|The Hinterlands| |O|  |OBJ|225|
 T Cortello's Riddle |QID|626| |N|Cortello's Treasure in The Overlook Cliffs (80.82, 46.79)| |Z|The Hinterlands| |OBJ|10|
 
