@@ -9,19 +9,19 @@ R Morgan's Vigil |QID|4449| |N|Travel to Morgan's Vigil (82.70, 63.31)| |Z|Burni
 f Morgan's Vigil |QID|4449| |N|Speak to Borgus Stoutarm and grab flight path for Morgan's Vigil (84.33, 68.29)| |Z|Burning Steppes|
 R Draco'dar |QID|4449| |N|Travel to Draco'dar for the XP (67.80, 48.42) (56.39, 52.55) (58.55, 50.26) (25.60, 51.51)| |Z|Burning Steppes|
 
-R Grimesilt Dig Site |QID|4449| |N|Travel to Grimesilt Dig Site (36.20, 73.44) (65.51, 62.14)| |Z|Searing Gorge|
-A Caught! |QID|4449| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |OBJ|3332|
+R Grimesilt Dig Site |QID|4449| |N|Travel to Grimesilt Dig Site (36.20, 73.44) (59.3, 61.3)| |Z|Searing Gorge|
+A Caught! |QID|4449| |N|Wooden Outhouse in Grimesilt Dig Site (62.5,65.4) (65.51, 62.14)| |Z|Searing Gorge| |OBJ|3332|
 N As you go.. |AYG|3367| |QID|4449| |N|Kill 8 Dark Iron Geologist and collect 15 Silk Cloth|
-A Suntara Stones |QID|3367| |N|Dorius Stonetender in Grimesilt Dig Site (63.26, 60.76)| |Z|Searing Gorge|
-C Suntara Stones |QID|3367| |N|Escort Dorius Stonetender to Dustfire Valley (74.42, 19.25)| |Z|Searing Gorge|
-T Suntara Stones |QID|3367| |N|Singed Letter in Dustfire Valley (74.42, 19.25)| |Z|Searing Gorge| |OBJ|220|
-A Suntara Stones |QID|3368| |N|Singed Letter in Dustfire Valley (74.42, 19.25)| |Z|Searing Gorge| |OBJ|220|
+A Suntara Stones (Part 1)|QID|3367| |N|Dorius Stonetender in Grimesilt Dig Site (63.26, 60.76)| |Z|Searing Gorge|
+C Suntara Stones (Part 1)|QID|3367| |N|Escort Dorius Stonetender to Dustfire Valley (74.42, 19.25)| |Z|Searing Gorge|
+T Suntara Stones (Part 1)|QID|3367| |N|Singed Letter in Dustfire Valley (74.42, 19.25)| |Z|Searing Gorge| |OBJ|220|
+A Suntara Stones (Part 2)|QID|3368| |N|Singed Letter in Dustfire Valley (74.42, 19.25)| |Z|Searing Gorge| |OBJ|220|
 
 C Caught! |QID|4449| |N|Kill 8 Dark Iron Geologist and collect 15 Silk Cloth in Grimesilt Dig Site. Dark Iron Geologist are quite limited in the area, you will have to wait for respawn, just keep grinding other nearby npc while you wait (63.03, 58.88)|  |Z|Searing Gorge|
 T Caught! |QID|4449| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |OBJ|3332|
 A Ledger from Tanaris |QID|4450| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |OBJ|3332|
 N Goodsteel Ledger |QID|4450.1| |N|Collect Goodsteel Ledger on the ground next to the Wooden Outhouse in Grimesilt Dig Site (65.51, 62.17)| |Z|Searing Gorge| |OBJ|2530|
-K Margol the Rager |QID|3181| |N|Kill Margol the Rager and collect Margol's Horn to start a new quest. It's easy elite to solo but you can skip this if you're not able to kill it (69.65, 76.38) (72.81, 73.87)| |L|10000|
+K Margol the Rager |QID|3181| |N|Kill Margol the Rager and collect Margol's Horn to start a new quest. It's easy elite to solo but you can skip this if you're not able to kill it (67.8, 71.0) (69.65, 76.38) (72.81, 73.87)| |L|10000|
 A The Horn of the Beast |QID|3181| |N|Use Margol's Horn to accept quest| |Z|Searing Gorge| |U|10000| |O|
 K Glassweb Spider |QID|4450.2| |N|Kill Glassweb Spider and collect 20 Solid Crystal Leg Shaft in The Sea of Cinders (60.00, 70.26) (61.95, 51.54)| |Z|Searing Gorge|
 
@@ -37,14 +37,14 @@ A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|Wanted/Missing/Lo
 A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|Wanted/Missing/Lost & Found n Thorium Point (37.87, 27.25)| |Z|Searing Gorge|
 A Curse These Fat Fingers |QID|7723| |N|Hansel Heavyhands in Thorium Point (38.55, 27.80)| |Z|Searing Gorge|
 A Fiery Menace! |QID|7724| |N|Hansel Heavyhands in Thorium Point (38.55, 27.80)| |Z|Searing Gorge|
-A Incendosaurs? Whateverosaur is More Like It |QID|7727| |N|Master Smith Burninate in Thorium Point (38.73, 28.44)| |Z|Searing Gorge|
+A Incendosaurs? Whateverosaur is More Like It |QID|7727| |N|Hansel Heavyhands in Thorium Point (38.55, 27.80)| |Z|Searing Gorge|
 A What the Flux? |QID|7722| |N|Master Smith Burninate in Thorium Point (38.46, 28.29)| |Z|Searing Gorge|
 f Thorium Point |QID|3442| |N|Speak to Lanie Reed and grab flight path for Thorium Point (37.8, 30.6)| |Z|Searing Gorge|
 
 R City of Ironforge |QID|3368| |N|Travel to City of Ironforge (71.51, 16.05)| |Z|Ironforge| |PRE|3181|
 N Goodsteel Ledger |QID|4450| |N|Store Goodsteel Ledger to the bank (35.48, 60.70)| |Z|Ironforge| |L|11727| |O|
 N Solid Crystal Leg Shaft |QID|4450| |N|Store Solid Crystal Leg Shaft to the bank (35.48, 60.70)| |Z|Ironforge| |L|11725| |O|
-T Suntara Stones |QID|3368| |N|Curator Thorius in The Library (71.51, 16.05)| |Z|Ironforge|
+T Suntara Stones (Part 2)|QID|3368| |N|Curator Thorius in The Library (71.51, 16.05)| |Z|Ironforge|
 A Dwarven Justice |QID|3371| |N|Curator Thorius in The Library (71.77, 15.82)| |Z|Ironforge|
 h Ironforge |QID|3181| |N|Speak to Innkeeper Firebrew and set hearth in Ironforge (18.41, 51.49)| |Z|Ironforge|
 
