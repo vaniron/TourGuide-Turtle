@@ -48,15 +48,15 @@ T Suntara Stones (Part 2)|QID|3368| |N|Curator Thorius in The Library (71.51, 16
 A Dwarven Justice |QID|3371| |N|Curator Thorius in The Library (71.77, 15.82)| |Z|Ironforge|
 h Ironforge |QID|3181| |N|Speak to Innkeeper Firebrew and set hearth in Ironforge (18.41, 51.49)| |Z|Ironforge|
 
-R Valley of Kings |QID|3181| |N|Travel to Valley of Kings in Loch Modan (18.18, 83.97)| |Z|Loch Modan| |O|
-T The Horn of the Beast |QID|3181| |N|Mountaineer Pebblebitty in Valley of Kings (18.18, 83.97)| |Z|Loch Modan| |O|
+R Valley of Kings - OPTIONAL, check Quest Log for The Horn of the Beast|QID|3181| |N|Travel to Valley of Kings in Loch Modan. Skip the next few quests that (18.18, 83.97)| |Z|Loch Modan| |O|
+T The Horn of the Beast |QID|3181| |N|Mountaineer Pebblebitty in Valley of Kings (18.18, 83.97)| |Z|Loch Modan| |U|10000| |O|
 A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty in Valley of Kings (18.18, 83.97)| |Z|Loch Modan| |PRE|3181|
 
-R City of Ironforge |QID|3368| |N|Travel or Hearthstone to City of Ironforge (71.51, 16.05)| |Z|Ironforge| |PRE|3181| |U|6948|
+R City of Ironforge - OPTIONAL, if you skipped The Horn of the Beast then skip this step also |QID|3368| |N|Travel or Hearthstone to City of Ironforge. Skip this if you did not kill M for Horn (71.51, 16.05)| |Z|Ironforge| |PRE|3181| |U|6948| |O|
 T Proof of Deed |QID|3182| |N|Curator Thorius in Hall of Explorers (70.24, 17.67)| |Z|Ironforge| |PRE|3181|
 A At Last! |QID|3201| |N|Curator Thorius in Hall of Explorers (70.24, 17.67)| |Z|Ironforge| |PRE|3181|
 
-R Valley of Kings |TID|3201| |N|Travel to Valley of Kings in Loch Modan (18.18, 83.97)| |Z|Loch Modan| |PRE|3181|
+R Valley of Kings - OPTIONAL, if you skipped The Horn of the Beast then skip this step also |TID|3201| |N|Travel to Valley of Kings in Loch Modan (18.18, 83.97)| |Z|Loch Modan| |PRE|3181|
 T At Last! |QID|3201| |N|Mountaineer Pebblebitty in Valley of Kings (18.21, 83.99)| |Z|Loch Modan| |PRE|3181|
 
 R Thorium Point |QID|7728| |N|Travel to Thorium Point (32.25, 33.10)| |Z|Searing Gorge|
@@ -108,15 +108,15 @@ N Northern Tower Ablaze |QID|3463.4| |N|Equip Torch of Retribution and click on 
 N Western Tower Ablaze |QID|3463.1| |N|Equip Torch of Retribution and click on Sentry Brazier Western Tower (35.72, 60.69)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
 N Southern Tower Ablaze |QID|3463.2| |N|Equip Torch of Retribution and click on Sentry Brazier Southern Tower in The Cauldron (43.98, 60.91)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
 N Eastern Tower Ablaze |QID|3463.3| |N|Equip Torch of Retribution and click on Sentry Brazier Eastern in The Cauldron (52.71, 57.69) (50.07, 54.86)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
-
+N Unequip Torch of Retribution after completing this quest.
 A The Key to Freedom |QID|4451| |N|Use Grimesilt Outhouse Key to accept quest| |Z|Searing Gorge| |U|11818| |O|
 R Grimesilt Dig Site |QID|4451| |N|Travel to Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |O|
 T The Key to Freedom |QID|4451| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |O| |OBJ|3332|
 
 R Thorium Point |QID|3453| |N|Travel to Thorium Point (39.17, 38.99)| |Z|Searing Gorge| |PRE|3452| |REACH|
 T Set Them Ablaze! |QID|3463| |N|Squire Maltrake in Thorium Point (39.17, 38.99)| |Z|Searing Gorge| |PRE|3452|
-A Trinkets... |QID|3481| |N|Hoard of the Black Dragonflight in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| |OBJ|10|
-T Trinkets... |QID|3481| |N|Hoard of the Black Dragonflight in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| |OBJ|10|
+A Trinkets... |QID|3481| |N|Hoard of the Black Dragonflight in Thorium Point. Click on the chest on the ground to accept the quest (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| |OBJ|10|
+T Trinkets... |QID|3481| |N|Hoard of the Black Dragonflight in Thorium Point. Click on the chest again on the ground to hand the quest in (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452| |OBJ|10|
 
 N Abandon Quest |QID|7701| |N|Abandon 'WANTED: Overseer Maltorius' quest| |O|
 N Abandon Quest |QID|7722| |N|Abandon 'What the Flux?' quest| |O|
