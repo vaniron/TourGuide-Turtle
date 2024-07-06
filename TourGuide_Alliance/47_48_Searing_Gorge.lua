@@ -48,16 +48,16 @@ T Suntara Stones (Part 2)|QID|3368| |N|Curator Thorius in The Library (71.51, 16
 A Dwarven Justice |QID|3371| |N|Curator Thorius in The Library (71.77, 15.82)| |Z|Ironforge|
 h Ironforge |QID|3181| |N|Speak to Innkeeper Firebrew and set hearth in Ironforge (18.41, 51.49)| |Z|Ironforge|
 
-R Valley of Kings - OPTIONAL, check Quest Log for The Horn of the Beast|QID|3181| |N|Travel to Valley of Kings in Loch Modan. Skip the next few quests that (18.18, 83.97)| |Z|Loch Modan| |O|
+R Valley of Kings - OPTIONAL FOLLOW UP for quest line The Horn of the Beast |QID|3181| |N|Travel to Valley of Kings in Loch Modan. Skip this and also the next two steps if you DID NOT kill Margol the Rager and loot The Horn of the Beast (18.18, 83.97)| |Z|Loch Modan| |O|
 T The Horn of the Beast |QID|3181| |N|Mountaineer Pebblebitty in Valley of Kings (18.18, 83.97)| |Z|Loch Modan| |U|10000| |O|
-A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty in Valley of Kings (18.18, 83.97)| |Z|Loch Modan| |PRE|3181|
+A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty in Valley of Kings (18.18, 83.97)| |Z|Loch Modan| |PRE|3181| |O|
 
-R City of Ironforge - OPTIONAL, if you skipped The Horn of the Beast then skip this step also |QID|3368| |N|Travel or Hearthstone to City of Ironforge. Skip this if you did not kill M for Horn (71.51, 16.05)| |Z|Ironforge| |PRE|3181| |U|6948| |O|
-T Proof of Deed |QID|3182| |N|Curator Thorius in Hall of Explorers (70.24, 17.67)| |Z|Ironforge| |PRE|3181|
-A At Last! |QID|3201| |N|Curator Thorius in Hall of Explorers (70.24, 17.67)| |Z|Ironforge| |PRE|3181|
+R City of Ironforge - OPTIONAL FOLLOW UP for quest line The Horn of the Beast |QID|3368| |N|Travel or Hearthstone to City of Ironforge. Skip this if you did not kill Margol, loot the Horn and also skipped the last step. (71.51, 16.05)| |Z|Ironforge| |PRE|3181| |U|6948| |O|
+T Proof of Deed |QID|3182| |N|Curator Thorius in Hall of Explorers (70.24, 17.67)| |Z|Ironforge| |PRE|3181| |O|
+A At Last! |QID|3201| |N|Curator Thorius in Hall of Explorers (70.24, 17.67)| |Z|Ironforge| |PRE|3181| |O|
 
-R Valley of Kings - OPTIONAL, if you skipped The Horn of the Beast then skip this step also |TID|3201| |N|Travel to Valley of Kings in Loch Modan (18.18, 83.97)| |Z|Loch Modan| |PRE|3181|
-T At Last! |QID|3201| |N|Mountaineer Pebblebitty in Valley of Kings (18.21, 83.99)| |Z|Loch Modan| |PRE|3181|
+R Valley of Kings - OPTIONAL FOLLOW UP for quest line The Horn of the Beast |TID|3201| |N|Travel to Valley of Kings in Loch Modan. Skip this if you did not kill Margol, loot the Horn and also skipped the last steps (18.18, 83.97)| |Z|Loch Modan| |PRE|3181|
+T At Last! |QID|3201| |N|Mountaineer Pebblebitty in Valley of Kings (18.21, 83.99)| |Z|Loch Modan| |PRE|3181| |O|
 
 R Thorium Point |QID|7728| |N|Travel to Thorium Point (32.25, 33.10)| |Z|Searing Gorge|
 N As you go... |AYG|3442| |QID|3443| |N|You can complete the quest in any order, click the green waypoint button to switch quests. Priotise killing Elementals for the quest 'The Flawless Flame'|
