@@ -22,7 +22,7 @@ T Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger in Shindigger's
 R Valorwind Lake |QID|2641| |N|Travel to Valorwind Lake (40.05, 59.89)| |Z|The Hinterlands|
 N Violet Tragan |QID|2641| |N|Collect Violet Tragan from the mushroom underwater in the middle of Valorwind Lake (40.05, 59.89)| |Z|The Hinterlands| |OBJ|1847|
 
- 
+
 R The Altar of Zul |QID|2989| |N|Travel to The Altar of Zul (48.76, 68.35)| |Z|The Hinterlands|
 C The Altar of Zul |QID|2989| |N|Go up to the top of the stair to search The Altar of Zul (48.76, 68.35)| |Z|The Hinterlands|
 

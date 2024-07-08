@@ -49,7 +49,7 @@ C Proving A Point |QID|41140| |N|Keep killing Green Sludge and Jade Ooze if you 
 R The Overlook Cliffs |QID|2944| |N|Travel to The Overlook Cliffs (72.36, 66.07)| |Z|The Hinterlands|
 N As you go... |QID|40540| |N|Kill Saltwater Snapjaw until you have 1 Turtle Meat (72.36, 66.07)| |Z|The Hinterlands| |OBJ|3712|
 C The Super Snapper FX |QID|2944.1| |N|Use Super Snapper FX on the elite turtle Gammerita in The Overlook Cliffs. You don't need to kill the elite, get close enough to take a snap and then run as Gammerita will aggro (72.36, 66.07) (76.72, 60.63) (79.83, 58.12)| |Z|The Hinterlands| |U|9328|
-###
+
 A An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
 C An Unusual Find |QID|40540| |N|Kill Saltwater Snapjaw until you have 1 Turtle Meat (72.36, 66.07)| |Z|The Hinterlands| |OBJ|3712|
 T An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|

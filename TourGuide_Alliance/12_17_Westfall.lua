@@ -1,4 +1,4 @@
-|TourGuide:RegisterGuide("Westfall (12-17)", "Loch Modan (17-18)", "Alliance",function()
+TourGuide:RegisterGuide("Westfall (12-17)", "Loch Modan (17-18)", "Alliance",function()
 
 return [[
 
