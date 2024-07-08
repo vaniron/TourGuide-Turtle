@@ -1,6 +1,5 @@
 TourGuide:RegisterGuide("The Hinterlands (46-46)", "Stranglethorn (46-47)", "Alliance",function()
 
-
 return [[
 
 R Faldir's Cove |QID|667| |N|Travel to Faldir's Cove (31.08, 65.63) (21.58, 72.95) (21.59, 75.59) (22.09, 79.73)| |Z|Arathi Highlands| |PRE|669|
@@ -50,14 +49,14 @@ R The Overlook Cliffs |QID|2944| |N|Travel to The Overlook Cliffs (72.36, 66.07)
 N As you go... |QID|40540| |N|Kill Saltwater Snapjaw until you have 1 Turtle Meat (72.36, 66.07)| |Z|The Hinterlands| |OBJ|3712|
 C The Super Snapper FX |QID|2944.1| |N|Use Super Snapper FX on the elite turtle Gammerita in The Overlook Cliffs. You don't need to kill the elite, get close enough to take a snap and then run as Gammerita will aggro (72.36, 66.07) (76.72, 60.63) (79.83, 58.12)| |Z|The Hinterlands| |U|9328|
 
-A An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
+A An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6, 62.6)| |Z|The Hinterlands|
 C An Unusual Find |QID|40540| |N|Kill Saltwater Snapjaw until you have 1 Turtle Meat (72.36, 66.07)| |Z|The Hinterlands| |OBJ|3712|
-T An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
-A Family Above All |QID|40541| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
+T An Unusual Find |QID|40540| |N|Murloc Tadpole in The Overlook Cliffs (79.6, 62.6)| |Z|The Hinterlands|
+A Family Above All |QID|40541| |N|Murloc Tadpole in The Overlook Cliffs (79.6, 62.6)| |Z|The Hinterlands|
 N Check the Murloc Hut |QID|40541.1| |N|Click Murloc Hut - need to update coords but at the north end of the beach| |Z|The Hinterlands| |OBJ|60383|
 N Check the Murloc Nest |QID|40541.2| |N|Click Murloc Nest - need to update coords but its next to the hut| |Z|The Hinterlands| |OBJ|60384|
 T Family Above All |QID|40541| |N|Murloc Tadpole in The Overlook Cliffs - need to update coords (72.36, 66.07)| |Z|The Hinterlands|
-A Loneliest Murloc in the World |QID|40542| |N|Murloc Tadpole in The Overlook Cliffs (79.6 62.6)| |Z|The Hinterlands|
+A Loneliest Murloc in the World |QID|40542| |N|Murloc Tadpole in The Overlook Cliffs (79.6, 62.6)| |Z|The Hinterlands|
 C Favored of Elune? |QID|3661| |N|Collect 15 Wildkin Feather scattered around The Hinterlands| |Z|The Hinterlands| |OBJ|2630|
 
 R Wildhammer Keep |TID|2988| |N|Travel or Hearthstone to Wildhammer Keep (14.82, 44.58)| |Z|The Hinterlands|
