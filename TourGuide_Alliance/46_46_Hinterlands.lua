@@ -68,7 +68,6 @@ T Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle in Wildhammer Keep (14
 
 T Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle in Wildhammer Keep (14.82, 44.58)| |Z|The Hinterlands|
 T Witherbark Cages |QID|2988| |N|Gryphon Master Talonaxe in Aerie Peak (9.74, 44.50)| |Z|The Hinterlands|
-A The Altar of Zul |QID|2989| |N|Gryphon Master Talonaxe in Aerie Peak (9.74, 44.50)| |Z|The Hinterlands|
 
 R City of Ironforge |QID|3448| |N|Travel to Hall of Explorers in City of Ironforge (66.0, 45.2)| |Z|Ironforge| |REACH|
 N Leftwitch's Package |QID|1467| |N|Withdraw Leftwitch's Package from the bank. Tick this step (35.48, 60.70)| |Z|Ironforge| |L|6253| |OO|
