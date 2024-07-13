@@ -22,6 +22,7 @@ N Goodsteel's Balanced Flameberge |QID|4450| |N|Withdraw Goodsteel's Balanced Fl
 N Ironfur Liver |QID|1452| |N|Store Ironfur Liver to the bank (52.30, 28.89)| |L|6258| |O|
 N Groddoc Liver |QID|1452| |N|Store Groddoc Liver to the bank (52.30, 28.89)| |L|6259| |O|
 N Unhatched Sprite Darter Egg |QID|3841| |N|Store Unhatched Sprite Darter Egg to the bank (52.30, 28.89)| |L|11102| |O|
+N A Short Incubation |QID|3842| |N|To complete the quest line A Short Incubation, you will need 2 Elixir of Fortitude. You will be asked to craft or purchase these from the Auction House in a later step. Tick this step|
 T The Super Egg-O-Matic |QID|82| |N|Egg-O-Matic in Gadgetzan (52.4, 27.0)| |L|8564| |O|  |OBJ|356|
 h Gadgetzan |QID|82| |N|Speak to Innkeeper Fizzgrimble and set hearth in Gadgetzan (52.5, 27.9)|
 T Ledger from Tanaris |QID|4450| |N|Krinkle Goodsteel in Gadgetzan (51.47, 28.80)| |O|
@@ -90,13 +91,16 @@ N Ironfur Liver |QID|1452| |N|Withdraw Ironfur Liver from the bank. Tick this st
 N Groddoc Liver |QID|1452| |N|Withdraw Groddoc Liver from the bank. Tick this step (52.30, 28.89)| |L|6259| |OO|
 N Unhatched Sprite Darter Egg |QID|3841| |N|Withdraw Unhatched Sprite Darter Egg from the bank. Tick this step (52.30, 28.89)| |L|11102| |OO|
 N Insect Analysis Report |QID|162| |N|Store Insect Analysis Report to the bank (52.30, 28.89)| |L|8594| |O|
+N A Short Incubation |QID|3842| |N|To complete the quest line A Short Incubation, you will need 2 Elixir of Fortitude. Craft these or purchase from the Auction House in Gadgetzan. This is optional|
 T Safety First (Part 2) |QID|1189| |N|Razzeric in Mirage Raceway (80.33, 76.10)| |Z|Thousand Needles| |PRE|1188|
 T An Orphan Looking For a Home |QID|3841| |N|Quentin in Mirage Raceway (78.33, 74.72)| |Z|Thousand Needles| |O|
 A A Short Incubation |QID|3842| |N|Quentin in Mirage Raceway (78.33, 74.72)| |Z|Thousand Needles| |PRE|3842| |L|3825 2| |O|
 C A Short Incubation |QID|3842| |N|Skip if you don't have 2 Elixir of Fortitude| |Z|Thousand Needles| |PRE|3842|
 T A Short Incubation |QID|3842| |N|Quentin in Mirage Raceway (78.33, 74.72)| |Z|Thousand Needles| |PRE|3842|
 
-N Level 50 Required |N|You should be close to level 50, grind nearby mobs to reach until you reach it|
+N Level 50 Required |N|You should be close to level 50, grind nearby mobs to reach until you reach it. If you completed A Short Incubation quest line (handed in 2 Elixir of Fortitude), don't go far. You will pick up another quest from Quentin before leaving Thousand Needles|
+N ACCEPT TIMED QUEST - The Newest Member of the Family|QID|3843| |N|This quest is a TIMED quest to deliver Fragile Sprite Darter Egg if you completed the previous quest line in the last guide. You have 1 hour to turn it in, do NOT accept if you're going to log out or go AFK. Skip this step| |Z|Thousand Needles| |PRE|3842| |O|
+A The Newest Member of the Family |QID|3843| |N|Quentin in Mirage Raceway (78.33, 74.72)| |Z|Thousand Needles| |PRE|3842| |O|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
