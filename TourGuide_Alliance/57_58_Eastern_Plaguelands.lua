@@ -91,16 +91,14 @@ R Light's Hope Chapel |TID|6021| |N|Travel to Light's Hope Chapel (79.66, 63.62)
 T Zaeldarr the Outcast |QID|6021| |N|Caretaker Alen in Light's Hope Chapel (79.66, 63.62)| |Z|Eastern Plaguelands| 
 T Defenders of Darrowshire |QID|5211| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.79)| |Z|Eastern Plaguelands| 
 A Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold in Light's Hope Chapel (81.51, 58.52)| |Z|Eastern Plaguelands| |L|22525 30| |O| 
---C Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Kill Crypt spiders for 30 Crypt Fiend Parts in Terrorweb Tunnel (7.06, 41.39)| |O| 
+C Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Kill Crypt spiders for 30 Crypt Fiend Parts in Terrorweb Tunnel (7.06, 41.39)| |O| 
 T Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold in Light's Hope Chapel (81.51, 58.52)| |Z|Eastern Plaguelands| |L|22525 30| |O| 
 A Bonescythe Digs |QID|9126| |N|Rohan the Assassin in Light's Hope Chapel (81.44, 58.50)| |Z|Eastern Plaguelands| |L|22526 30| |O| 
 T Bonescythe Digs |QID|9126| |N|Rohan the Assassin in Light's Hope Chapel (81.44, 58.50)| |Z|Eastern Plaguelands| |L|22526 30| |O| 
 
 T Minion's Scourgestones |QID|5510| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12840 20| |O| 
 T Corruptor's Scourgestones |QID|5508| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12843| |O| 
-T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12841 10| |O| 
---A They Call Me "The Rooster" |QID|9141| |N|Dispatch Commander Metz in Light's Hope Chapel (81.01, 57.56)| |Z|Eastern Plaguelands| |L|12844| |O| 
---T They Call Me "The Rooster" |QID|9141| |N|Dispatch Commander Metz in Light's Hope Chapel (81.01, 57.56)| |Z|Eastern Plaguelands| |L|12844| |O| 
+T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12841 10| |O|
 
 R Northdale |QID|5845| |N|Travel to Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 C Of Lost Honor |QID|5845| |N|Collect Symbol of Lost Honor in the middle of the lake in Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
