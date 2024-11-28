@@ -41,7 +41,6 @@ T Duke Nicholas Zverenhoff |QID|6030| |N|Duke Nicholas Zverenhoff in Light's Hop
 T Uncle Carlin |QID|5241| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.84)| |Z|Eastern Plaguelands| 
 A Defenders of Darrowshire |QID|5211| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.84)| |Z|Eastern Plaguelands| 
 f Light's Hope Chapel |QID|5542| |N|Speak to Khaelyn Steelwing and grab flight path for Light's Hope Chapel (81.62, 59.32)| |Z|Eastern Plaguelands| 
---h Light's Hope Chapel |QID|5542| |N|Speak to Jessica Chambers and set hearth in Light's Hope Chapel (81.60, 58.09)| |Z|Eastern Plaguelands| 
 
 N As you go... |AYG|5544| |QID|5544| |N|Kill the required Plaguehound, Frenzied Plaguehound, Carrion Grub in any order|
 K Plaguehound |QID|5542.2| |N|Kill 5 Plaguehound in Eastern Plaguelands (79.18, 68.76) (70.90, 71.41) (64.97, 62.50) (72.41, 54.10)| |Z|Eastern Plaguelands|  
