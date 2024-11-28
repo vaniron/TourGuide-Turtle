@@ -7,7 +7,7 @@
 ## X-Credits: Tekkub
 ## X-Category: Quest
 
-## RequiredDeps: TourGuide-Vanilla
+## RequiredDeps: TourGuide-Turtle
 ## OptionalDeps: Dongle, TomTom
 
 ## LoadManagers: AddonLoader
