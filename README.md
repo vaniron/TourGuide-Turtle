@@ -1,10 +1,9 @@
-# TourGuideVanilla
-*Updated for classic 1.12 servers with sources from other sources*  
-*Tekkub's TourGuide Addon backported for WoW 1.12*
+# TourGuide-Turtle
+Tekkub's TourGuide Addon backported for WoW 1.12 *with tweaks for TurtleWoW*
 
-Highly Recommended Downloads: [**pfQuest**](https://gitlab.com/shagu/pfQuest#downloads) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
+Recommended Downloads: [**pfQuest & pfUI**](https://shagu.org) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
 
-Optional Downloads: [TourGuide_Professions](https://github.com/cralor/TourGuide_Professions/releases/latest)
+Optional addon: [TourGuide_Professions](https://github.com/cralor/TourGuide_Professions/releases/latest)
 
 
 **Features**
@@ -21,3 +20,16 @@ Optional Downloads: [TourGuide_Professions](https://github.com/cralor/TourGuide_
 
 Screenshot of the Guide List, with the Status Frame on the top right.
 ![Image of TourGuide](https://user-images.githubusercontent.com/26133646/36521684-5a62bf9e-1798-11e8-844f-4e682f9feb75.png)
+
+**Contributors**
+* Tekkub
+* Cralor
+* Road-block
+* Rsheep
+* Azgaardian
+* Kyliexx
+* laytya
+* jb6357
+* Ez-mode
+* Gescht
+* Vaniron
