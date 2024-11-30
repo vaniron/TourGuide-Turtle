@@ -29,6 +29,7 @@
 
 	<Script file="40_41_Badlands.lua"/>
 	<Script file="41_42_Swamp_of_Sorrows.lua"/>
+	<Script file="42_43_Gilneas_Horde.lua"/>
 	<Script file="42_43_Stranglethorn_Vale.lua"/>
 	<Script file="43_44_Dustwallow_Marsh.lua"/>
 	<Script file="44_44_Desolace.lua"/>	
