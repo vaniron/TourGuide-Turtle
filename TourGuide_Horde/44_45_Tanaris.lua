@@ -10,7 +10,7 @@ R Gadgetzan |QID|992| |N|Travel to Gadgetzan (50.22, 27.49)| |Z|Tanaris|
 T Tran'rek |QID|2864| |N|Tran'rek in Gadgetzan (51.57, 26.76)| |Z|Tanaris| |O|
 A WANTED: Caliph Scorpidsting |QID|2781| |N|Wanted Poster in Gadgetzan (51.84, 26.99)| |Z|Tanaris|
 A WANTED: Andre Firebeard |QID|2875| |N|Wanted Poster in Gadgetzan (51.84, 26.99)| |Z|Tanaris|
-A Water Pouch Bounty |QID|1707| |N|Chief Engineer Bilgewhizzle in Gadgetzan (52.44, 28.48)| |Z|Tanaris|
+A Water Pouch Bounty |QID|1707| |N|Spigot Operator Luglunket in Gadgetzan (52.47, 28.43)| |Z|Tanaris|
 A Wastewander Justice |QID|1690| |N|Chief Engineer Bilgewhizzle in Gadgetzan (52.44, 28.50)| |Z|Tanaris|
 A Gadgetzan Water Survey |QID|992| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.49)| |Z|Tanaris|
 h Gadgetzan |QID|1190| |N|Speak to Curgle Cranklehop and set hearth in Gadgetzan (52.49, 27.91)| |Z|Tanaris|
