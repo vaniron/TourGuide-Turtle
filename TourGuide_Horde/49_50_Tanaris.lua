@@ -85,7 +85,7 @@ C Rescue OOX-17/TN! |QID|648| |N|Escort Homing Robot OOX-17/TN to Steamwheedle P
 R Gadgetzan |QID|110| |N|Travel or Hearthstone to Gadgetzan (50.20, 27.46)| |Z|Tanaris| |U|6948|
 T The Scrimshank Redemption |QID|10| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.20, 27.46)| |Z|Tanaris|
 A Insect Part Analysis |QID|110| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.20, 27.46)| |Z|Tanaris|
-T Insect Part Analysis |QID|110| |N|Tran'rek in Gadgetzan (50.89, 26.97)| |Z|Tanaris|
+T Insect Part Analysis |QID|110| |N|Alchemist Pestlezugg in Gadgetzan (50.89, 26.97)| |Z|Tanaris|
 A Insect Part Analysis |QID|113| |N|Alchemist Pestlezugg in Gadgetzan (50.89, 26.97)| |Z|Tanaris|
 T Insect Part Analysis |QID|113| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
 A Rise of the Silithid |QID|32| |N|Senior Surveyor Fizzledowser in Gadgetzan (50.22, 27.47)| |Z|Tanaris|
