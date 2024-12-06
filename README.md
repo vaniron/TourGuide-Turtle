@@ -1,3 +1,6 @@
+# For TurtleWoW launcher
+Click Addons - Add new addon - paste this url there: https://github.com/vaniron/TourGuide-Turtle.git
+
 # TourGuide-Turtle
 Tekkub's TourGuide Addon backported for WoW 1.12 *with tweaks for TurtleWoW*
 
