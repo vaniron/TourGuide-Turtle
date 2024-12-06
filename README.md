@@ -18,8 +18,9 @@ Optional addon: [TourGuide_Professions](https://github.com/cralor/TourGuide_Prof
 * Pop out frame for detailed view of quest sequence
 * Automatic mapping of coordinates with TomTom and questgiver locations from pfQuest if installed
 
-Screenshot of the Guide List, with the Status Frame on the top right.
-![Image of TourGuide](https://user-images.githubusercontent.com/26133646/36521684-5a62bf9e-1798-11e8-844f-4e682f9feb75.png)
+Guides list, plus few others didnt make it into the screenshot (Plaguelands, Silithus, Winterspring), too many for one screen xD
+![image](https://github.com/user-attachments/assets/7d655a07-d8b9-48ad-b514-b95fcefb81a8)
+
 
 **Contributors**
 * Tekkub
