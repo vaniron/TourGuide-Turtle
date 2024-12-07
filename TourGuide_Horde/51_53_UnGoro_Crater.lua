@@ -108,7 +108,7 @@ N Power Crystal |QID|4284| |N|Finish collecting 7 of each Red, Blue, Yellow and 
 
 R Fire Plume Ridge |QID|974| |N|Travel to Fire Plume Ridge (52.77, 42.24)| |Z|Un'Goro Crater|
 N As you go... |AYG|974| |QID|4502| |N|Kill Living Blaze and collect 9 Un'Goro Ash|
-C Finding the Source |QID|974| |N|Use Krakle's Thermometer at the hottest area of Fire Plume Ridge (52.77, 42.24) (52.69, 45.36) (51.43, 47.31) (53.91, 47.54) (49.7, 45.8)| |Z|Un'Goro Crater| |U|12472|
+C Finding the Source |QID|974| |N|Use Krakle's Thermometer at the hottest area of Fire Plume Ridge (52.77, 42.24) (52.69, 45.36) (51.43, 47.31) (53.91, 47.54) (49.7, 45.8)| |Z|Un'Goro Crater| |U|7841|
 C Volcanic Activity |QID|4502| |N|Kill Living Blaze and collect 9 Un'Goro Ash in Fire Plume Ridge (49.49, 47.55)| |Z|Un'Goro Crater|
 T Lost! |QID|4492| |N|Ringo in Fire Plume Ridge (54.84, 50.16) (52.61, 51.18) (51.93, 49.87)| |Z|Un'Goro Crater|
 A A Little Help From My Friends |QID|4491| |N|Ringo in Fire Plume Ridge (51.93, 49.87)| |Z|Un'Goro Crater|
