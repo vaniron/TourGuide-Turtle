@@ -47,7 +47,7 @@ A Alien Ecology |QID|3883| |N|Hol'anyee Marshal in Marshal's Refuge (43.90, 7.26
 A Roll the Bones |QID|3882| |N|Spark Nilminer in Marshal's Refuge (43.40, 7.82)| |Z|Un'Goro Crater|
 A Larion and Muigin |QID|4145| |N|Larion in Marshal's Refuge (45.52, 8.70)| |Z|Un'Goro Crater|
 f Marshal's Refuge |QID|4504| |N|Speak to Gryfe and grab flight path for Marshal's Refuge (45.21, 5.84)| |Z|Un'Goro Crater|
-A Williden's Journal |QID|3884| |N|Gryfe in Marshal's Refuge (45.24, 5.85)| |Z|Un'Goro Crater| |L|11116| |O|
+A Williden's Journal |QID|3884| |N|Accept from inventory and bring to Williden Marshal in Marshal's Refuge| |Z|Un'Goro Crater| |L|11116| |O|
 
 N Please Read |QID|4501| |N|As you go... . <b>Collect 7 of each Green, Blue, Yellow and Red Power Crystals<br/><b>Kill any Ooze mobs for 35 Un'Goro Slime Sample for later quest<br/><b>Keep all Un'Goro Soil that you collect, you will need around 45 of these for quests later<br/><b>Don't collect Bloodpetal Sprout, as they don't provide any XP<br/><b>Dinosaur Bone will drop from many different mobs as you do the other quests. Tick this step| |OBJ|2973, 2971, 2972, 2974|
 
