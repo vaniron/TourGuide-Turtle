@@ -50,7 +50,7 @@ C A Taste of Flame (Part 1) |QID|4022| |N|Speak to Cyrus Therepentous with Black
 T A Taste of Flame (Part 1) |QID|4022| |N|Cyrus Therepentous in Slither Rock (95.05, 31.57)| |Z|Burning Steppes| |OID|4023|
 
 R Dreadmaul Rock |QID|3822| |N|Travel to Dreadmaul Rock (76.85, 32.88)| |Z|Burning Steppes|
-T Dreadmaul Rock |QID|3821| |N|Cyrus Therepentous in Dreadmaul Rock, click on Sha'ni Proudtuck's Remains first (76.85, 32.88) (75.87, 38.04) (77.88, 38.34) (79.86, 45.50)| |Z|Burning Steppes|
+T Dreadmaul Rock |QID|3821| |N|Sha'ni Proudtusk in Dreadmaul Rock, click on her skeleton on the altar first (at top of the mountain)| |Z|Burning Steppes|
 A Krom'Grul |QID|3822| |N|Sha'ni Proudtusk in Dreadmaul Rock (79.86, 45.50)| |Z|Burning Steppes|
 C Krom'Grul |QID|3822| |N|Kill Krom'Grul and collect Sha'ni's Nose-Ring in Dreadmaul Rock, he spawns in 1 of 3 cave in Dreadmaul Rock. You can see the cave entrances on your world map (79.73, 47.34)| |Z|Burning Steppes|
 
