@@ -67,7 +67,7 @@ T The Rise of the Machines |QID|4061| |N|Hierophant Theodora Mulvadania in Karga
 A The Rise of the Machines |QID|4062| |N|Hierophant Theodora Mulvadania in Kargath (3.09, 47.89)| |Z|Badlands|
 T The Rise of the Machines |QID|4062| |N|Lotwil Veriatus in The Dustbowl (25.95, 44.91)| |Z|Badlands|
 
-R Valormok |QID|3505| |N|Travel to Valormok in (map:1447) (22.28, 51.50)| |Z|Azshara|
+R Valormok |QID|3505| |N|Travel to Valormok in Azshara (22.28, 51.50)| |Z|Azshara|
 T Betrayed (Part 1) |QID|3504| |N|Ag'tor Bloodfist in Valormok (22.28, 51.48)| |Z|Azshara|
 A Betrayed (Part 2) |QID|3505| |N|Ag'tor Bloodfist in Valormok (22.28, 51.50)| |Z|Azshara|
 
@@ -94,7 +94,7 @@ A Betrayed (Part 4) |QID|3507| |N|Ag'tor Bloodfist in Valormok (22.29, 51.45)| |
 R Legash Encampment |TID|5534| |N|Travel to Legash Encampment (46.22, 39.47) (44.89, 36.56) (53.28, 20.15)| |Z|Azshara|
 T Kim'jael's "Missing" Equipment |QID|5534| |N|Kim'jael, in Legash Encampment (53.44, 21.81)| |Z|Azshara|
 
-N Level 54 |N|Grind to level 54 before you leave (map:1447), kill the Blood Elf Reclaimer and Blood Elf Surveyor for easy grinding (58.31, 28.45)| |Z|Azshara|
+N Level 54 |N|Grind to level 54 before you leave Azshara, kill the Blood Elf Reclaimer and Blood Elf Surveyor for easy grinding (58.31, 28.45)| |Z|Azshara|
 
 R Valley of Honor |TID|3507| |N|Travel to Valley of Honor in Orgrimmar (75.20, 34.21)| |Z|Orgrimmar|
 T Betrayed (Part 4) |QID|3507| |N|Belgrom Rockmaul in Valley of Honor (75.20, 34.21)| |Z|Orgrimmar|
