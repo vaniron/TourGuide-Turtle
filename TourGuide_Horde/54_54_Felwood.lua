@@ -37,12 +37,11 @@ C The Strength of Corruption |QID|4120| |N|Kill 12 Angerclaw Grizzly and 12 Felp
 R Timbermaw Hold |QID|8461| |N|Travel to Timbermaw Hold (64.75, 8.14)| |Z|Felwood|
 A Deadwood of the North |QID|8461| |N|Nafien in Timbermaw Hold (64.75, 8.14)| |Z|Felwood|
 C Deadwood of the North |QID|8461| |N|Kill the required Deadwood Timbermaw in Felpaw Village (62.89, 11.29) (62.69, 7.86) (61.37, 7.42)| |Z|Felwood|
-N (fac:576) |QID|8465| |N|Keep grinding until you're 150 XP to Unfriendly status with (fac:576) (62.89, 11.29) (62.69, 7.86) (61.37, 7.42)| |Z|Felwood|  |FS|576, -3150|
+N Timbermaw Hold |QID|8461| |N|Keep killing furbolgs until you are 150 points from unfriendly reputation with Timbermaw Hold (2850/3000)| |Z|Felwood|
 T Deadwood of the North |QID|8461| |N|Nafien in Timbermaw Hold (64.77, 8.17)| |Z|Felwood|
-T Deadwood of the North |QID|8461| |N|Nafien in Timbermaw Hold (64.40, 14.79) (64.76, 8.19)| |Z|Felwood|
 A Speak to Salfa |QID|8465| |N|Nafien in Timbermaw Hold (64.76, 8.19)| |Z|Felwood|
 
-R Moonglade |TID|5249| |N|Travel to Moonglade (35.76, 72.41)| |Z|Moonglade|
+R Moonglade |TID|5249| |N|Travel north via the tunnel to Moonglade (35.76, 72.41)| |Z|Moonglade|
 f Moonglade |TID|5249| |N|Speak to Faustron and grab flight path for Moonglade (32.14, 66.54)| |Z|Moonglade|
 
 N Guide Complete |N|Tick to continue to the next guide|
