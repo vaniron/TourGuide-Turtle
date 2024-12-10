@@ -18,7 +18,7 @@ T A Call to Arms: The Plaguelands! |QID|5066| |N|Commander Ashlam Valorfist in C
 A Clear the Way |QID|5092| |N|Commander Ashlam Valorfist in Chillwind Camp (42.70, 84.02)| |Z|Western Plaguelands|
 T The Everlook Report |QID|6028| |N|Argent Officer Pureheart in Chillwind Camp (42.97, 83.57)| |Z|Western Plaguelands| |O|
 T Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart in Chillwind Camp (42.97, 83.57)| |Z|Western Plaguelands| |L|12846|
-N Argent Dawn Commission |QID|5092| |N|Equip Argent Dawn Commission, you will need this equipped to collect Scourgestones that you can turn in for (fac:529) reputation| |BUFF|133440|
+N Argent Dawn Commission |QID|5092| |N|Equip Argent Dawn Commission, you will need this equipped to collect Scourgestones that you can turn in for Argent Dawn reputation| |BUFF|133440|
 C Clear the Way |QID|5092| |N|Kill 10 Skeletal Flayer and 10 Slavering Ghoul in Sorrow Hill (50.43, 78.68)| |Z|Western Plaguelands|
 
 R Chillwind Camp |QID|5097| |N|Travel to Chillwind Camp (42.71, 84.04)| |Z|Western Plaguelands|

@@ -32,7 +32,7 @@ A Scarlet Diversions |QID|5096| |N|High Executor Derrington in The Bulwark (83.1
 N Flame in a Bottle |QID|5096| |N|Collect Flame in a Bottle from the Box of Incendiaries in The Bulwark (83.18, 69.05)| |Z|Tirisfal| |L|12814|
 T The Everlook Report |QID|6029| |N|Argent Officer Garush in The Bulwark (83.19, 68.43)| |Z|Tirisfal|
 T Argent Dawn Commission |QID|5405| |N|Argent Officer Garush in The Bulwark (83.19, 68.43)| |Z|Tirisfal| |L|12846|
-N Argent Dawn Commission |QID|5021| |N|Equip Argent Dawn Commission, you will need this equipped to collect Scourgestones that you can turn in for (fac:529) reputation| |BUFF|133440|
+N Argent Dawn Commission |QID|5021| |N|Equip Argent Dawn Commission, you will need this equipped to collect Scourgestones that you can turn in for Argent Dawn reputation| |BUFF|133440|
 A A Plague Upon Thee (Part 1) |QID|5901| |N|Mickey Levine in The Bulwark (83.28, 72.36)| |Z|Tirisfal|
 
 R Felstone Field |QID|5021| |N|Travel to Felstone Field (38.41, 54.06)| |Z|Western Plaguelands|

@@ -57,7 +57,7 @@ f Talonbranch Glade |QID|8461| |N|Speak to Mishellena grab flight path for Talon
 T Speak to Nafien |QID|8462| |N|Nafien in Timbermaw Hold (64.77, 8.11)| |Z|Felwood|
 A Deadwood of the North |QID|8461| |N|Nafien in Timbermaw Hold (64.77, 8.11)| |Z|Felwood|
 C Deadwood of the North |QID|8461| |N|Kill the required Deadwood Timbermaw in Felpaw Village (62.89, 11.29) (62.69, 7.86) (61.37, 7.42)| |Z|Felwood|
-N (fac:576) |QID|8465| |N|Keep grinding until you're 150 XP to Unfriendly status with (fac:576) (62.89, 11.29) (62.69, 7.86) (61.37, 7.42)| |Z|Felwood|  |FS|576, -3150|
+N Timbermaw Hold |QID|8465| |N|Keep killing furbolgs until you are 150 points from unfriendly reputation with Timbermaw Hold (2850/3000)| |Z|Felwood|
 T Deadwood of the North |QID|8461| |N|Nafien in Timbermaw Hold (64.40, 14.79) (64.77, 8.17)| |Z|Felwood|
 A Speak to Salfa |QID|8465| |N|Nafien in Timbermaw Hold (64.77, 8.17)| |Z|Felwood|
 
