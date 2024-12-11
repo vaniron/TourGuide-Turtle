@@ -3,19 +3,19 @@ TourGuide:RegisterGuide("Eastern Plaguelands (56-57)", "Western Plaguelands (57-
 return [[
 
 R Thondroril River |OID|5542| |N|Travel to Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
-A Demon Dogs |QID|5542| |N|Tirion Fordring in Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
-A Blood Tinged Skies |QID|5543| |N|Tirion Fordring in Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
-A Carrion Grubbage |QID|5544| |N|Tirion Fordring in Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
+A Demon Dogs |QID|5542| |N|Tirion Fordring in the northern part Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
+A Blood Tinged Skies |QID|5543| |N|Tirion Fordring in the northern part Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
+A Carrion Grubbage |QID|5544| |N|Tirion Fordring in the northern part Thondroril River (7.57, 43.72)| |Z|Eastern Plaguelands|
 
-R The Marris Stead |OID|6042| |N|Travel to The Marris Stead (26.57, 74.76)| |Z|Eastern Plaguelands|
+R The Marris Stead |OID|6042| |N|Travel south-east to The Marris Stead (26.57, 74.76)| |Z|Eastern Plaguelands|
 A To Kill With Purpose |QID|6022| |N|Nathanos Blightcaller in The Marris Stead (26.57, 74.76)| |Z|Eastern Plaguelands|
 A Un-Life's Little Annoyances |QID|6042| |N|Nathanos Blightcaller in The Marris Stead (26.57, 74.76)| |Z|Eastern Plaguelands|
 A The Ranger Lord's Behest |QID|6133| |N|Nathanos Blightcaller in The Marris Stead (26.57, 74.76)| |Z|Eastern Plaguelands|
 
-R The Undercroft |QID|6024| |N|Travel to The Undercroft (27.91, 85.46)| |Z|Eastern Plaguelands|
-A Hameya's Plea |QID|6024| |N|Torn Scroll in The Undercroft (27.91, 85.46) (27.27, 85.19)| |Z|Eastern Plaguelands| |OBJ|4851|
+R The Undercroft |QID|6024| |N|Travel south to The Undercroft (27.91, 85.46)| |Z|Eastern Plaguelands|
+A Hameya's Plea |QID|6024| |N|Torn Scroll in underground tomb of The Undercroft (27.91, 85.46) (27.27, 85.19)| |Z|Eastern Plaguelands| |OBJ|4851|
 
-R Darrowshire |OID|5241| |N|Travel to Darrowshire (27.89, 85.41) (36.61, 86.59)| |Z|Eastern Plaguelands|
+R Darrowshire |OID|5241| |N|Travel east to village of Darrowshire (27.89, 85.41) (36.61, 86.59)| |Z|Eastern Plaguelands|
 T Sister Pamela |QID|5601| |N|Pamela Redpath in Darrowshire (36.46, 90.78)| |Z|Eastern Plaguelands|
 A Pamela's Doll |QID|5149| |N|Pamela Redpath in Darrowshire (36.46, 90.78)| |Z|Eastern Plaguelands|
 C Pamela's Doll |QID|5149| |N|Find Pamela's Doll's Left Side, Pamela's Doll's Head and Pamela's Doll's Right Side which randomly spawn in the locations of in the houses of Darrowshire. On the looting of these objects a mob may spawn which haunts the doll (38.59, 91.97)|  |Z|Eastern Plaguelands| |L|12887| |OBJ|4232, 4231|
@@ -29,7 +29,7 @@ N As you go... |AYG|5542| |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion
 K Plaguebat |QID|5543.1| |N|Kill 30 Plaguebat in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|
 K Plaguehound Runt |QID|5542.1| |N|Kill 20 Plaguehound Runt in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|
 
-R Light's Hope Chapel |QID|5281| |N|Travel to Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
+R Light's Hope Chapel |QID|5281| |N|Travel east to Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
 A The Restless Souls |QID|5281| |N|Caretaker Alen in Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
 A Zaeldarr the Outcast |QID|6021| |N|Caretaker Alen in Light's Hope Chapel (79.61, 63.22)| |Z|Eastern Plaguelands|
 T Duke Nicholas Zverenhoff |QID|6030| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |O|
