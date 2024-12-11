@@ -36,11 +36,11 @@ N Argent Dawn Commission |QID|5021| |N|Equip Argent Dawn Commission, you will ne
 A A Plague Upon Thee (Part 1) |QID|5901| |N|Mickey Levine in The Bulwark (83.28, 72.36)| |Z|Tirisfal|
 
 R Felstone Field |QID|5021| |N|Travel to Felstone Field (38.41, 54.06)| |Z|Western Plaguelands|
-A Better Late Than Never (Part 1) |QID|5021| |N|Janice Felstone in Felstone Field (38.41, 54.06)| |Z|Western Plaguelands|
-T Better Late Than Never (Part 1) |QID|5021| |N|Janice's Parcel in Felstone Field (38.72, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
+A Better Late Than Never (Part 1) |QID|5021| |N|Janice Felstone in Felstone Field, upstairs in the inn (38.41, 54.06)| |Z|Western Plaguelands|
+T Better Late Than Never (Part 1) |QID|5021| |N|Janice's Parcel in the barn nextdoor (38.72, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
 A Better Late Than Never (Part 2) |QID|5023| |N|Janice's Parcel in Felstone Field (38.72, 55.25)| |Z|Western Plaguelands| |OBJ|4191|
 C Scarlet Diversions |QID|5096| |N|Click on the command tent to set it on fire and use the Scourge Banner next to it in Felstone Field (40.55, 51.95)| |Z|Western Plaguelands| |U|12807| |OBJ|4176|
-T Scarlet Diversions |QID|5096| |N|Argent Officer Garush in The Bulwark (83.14, 68.97)| |Z|Tirisfal|
+T Scarlet Diversions |QID|5096| |N|High Executor Derrington in The Bulwark (83.19, 68.92)| |Z|Tirisfal|
 A The Scourge Cauldrons |QID|5228| |N|High Executor Derrington in The Bulwark (83.14, 68.97)| |Z|Tirisfal|
 T The Scourge Cauldrons |QID|5228| |N|Shadow Priestess Vandis in The Bulwark (83.04, 71.93)| |Z|Tirisfal|
 A Target: Felstone Field |QID|5229| |N|Shadow Priestess Vandis in The Bulwark (83.04, 71.93)| |Z|Tirisfal|
@@ -84,7 +84,7 @@ C Target: Gahrron's Withering |QID|5235| |N|Kill Cauldron Lord Soulwrath and col
 T Target: Gahrron's Withering |QID|5235| |N|Scourge Cauldron in Gahrron's Withering (62.57, 58.65)| |Z|Western Plaguelands| |OBJ|4271|
 A Return to the Bulwark |QID|5236| |N|Scourge Cauldron in Gahrron's Withering (62.57, 58.65)| |Z|Western Plaguelands| |OBJ|4271|
 
-R Thondroril River |N|Travel to Thondroril River (66.58, 39.76) (67.12, 37.67)| |Z|Western Plaguelands|
+R Eastern Plaguelands |N|Travel east to Eastern Plaguelands (66.58, 39.76) (67.12, 37.67)| |Z|Western Plaguelands|
 
 N Guide Complete |N|Tick to continue to the next guide|
 
