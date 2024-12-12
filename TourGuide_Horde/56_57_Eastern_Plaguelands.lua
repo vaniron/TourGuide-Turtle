@@ -89,14 +89,14 @@ T The Ranger Lord's Behest |QID|6133| |N|Nathanos Blightcaller in The Marris Ste
 
 R The Undercroft |QID|6021| |N|Travel to The Undercroft (27.85, 85.37)| |Z|Eastern Plaguelands|
 C Zaeldarr the Outcast |QID|6021| |N|Kill Zaeldarr the Outcast in The Undercroft (27.47, 84.93)| |Z|Eastern Plaguelands|
-T Hameya's Plea |QID|6024| |N|Mount of dirt in The Undercroft (27.84, 85.36)| (28.07, 86.07)| |Z|Eastern Plaguelands| |OBJ|20|
-C Of Forgotten Memories |QID|5781| |N|Click on the Loose Dirt Mount to summon and kill Mercutio Filthgorger to collect Taelan's Hammer. IMPORTANT: Mercutio Filthgorger will spawn first and it is possible for you to pull him away from his bodyguards to solo him, otherwise you won't be able to solo it (28.22, 86.21)| |Z|Eastern Plaguelands|
+T Hameya's Plea |QID|6024| |N|Mount of dirt right behind the tomb, next to a broken cart in The Undercroft (27.84, 85.36)| (28.07, 86.07)| |Z|Eastern Plaguelands| |OBJ|20|
+C Of Forgotten Memories |QID|5781| |N|Click on the Loose Dirt Mount nearby to summon and kill Mercutio Filthgorger to collect Taelan's Hammer. Better to group up for this one. (28.22, 86.21)| |Z|Eastern Plaguelands|
 
-R Thondroril River |OID|5845| |N|Travel to Thondroril River (7.56, 43.69)| |Z|Eastern Plaguelands|
+R Thondroril River |OID|5845| |N|Travel north-west to Thondroril River (7.56, 43.69)| |Z|Eastern Plaguelands|
 T Of Forgotten Memories |QID|5781| |N|Tirion Fordring in Thondroril River (7.56, 43.69)| |Z|Eastern Plaguelands|
 A Of Lost Honor |QID|5845| |N|Tirion Fordring in Thondroril River (7.56, 43.69)| |Z|Eastern Plaguelands|
 
-R Light's Hope Chapel |TID|6021| |N|Travel to Light's Hope Chapel (79.66, 63.62)| |Z|Eastern Plaguelands|
+R Light's Hope Chapel |TID|6021| |N|Travel far east to Light's Hope Chapel (79.66, 63.62)| |Z|Eastern Plaguelands|
 T Zaeldarr the Outcast |QID|6021| |N|Caretaker Alen in Light's Hope Chapel (79.66, 63.62)| |Z|Eastern Plaguelands|
 T Defenders of Darrowshire |QID|5211| |N|Carlin Redpath in Light's Hope Chapel (81.50, 59.79)| |Z|Eastern Plaguelands|
 A Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold in Light's Hope Chapel (81.51, 58.52)| |Z|Eastern Plaguelands| |L|22525 30| |O|
@@ -108,18 +108,18 @@ T Minion's Scourgestones |QID|5510| |N|Duke Nicholas Zverenhoff in Light's Hope 
 T Corruptor's Scourgestones |QID|5508| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12843| |O|
 T Invader's Scourgestones |QID|5509| |N|Duke Nicholas Zverenhoff in Light's Hope Chapel (81.43, 59.84)| |Z|Eastern Plaguelands| |L|12841 10| |O|
 
-R Northdale |QID|5845| |N|Travel to Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
+R Northdale |QID|5845| |N|Travel north to lake Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
 C Of Lost Honor |QID|5845| |N|Collect Symbol of Lost Honor in the middle of the lake in Northdale (71.28, 33.97)| |Z|Eastern Plaguelands|
-T Of Lost Honor |QID|5845| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands|
+T Of Lost Honor |QID|5845| |N|Tirion Fordring in northern part of Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands|
 A Of Love and Family (Part 1) |QID|5846| |N|Tirion Fordring in Thondroril River (7.58, 43.72)| |Z|Eastern Plaguelands|
 
-R Caer Darrow |TID|5846| |N|Travel to Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
-T Of Love and Family (Part 1) |QID|5846| |N|Artist Renfray in Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
+R Caer Darrow |TID|5846| |N|Travel south to Caer Darrow in Western Plaguelands (65.76, 75.36)| |Z|Western Plaguelands|
+T Of Love and Family (Part 1) |QID|5846| |N|Artist Renfray near the docks in Caer Darrow (65.76, 75.36)| |Z|Western Plaguelands|
 
 R Undercity |TID|5023| |N|Travel to Undercity Trade Quarter (69.81, 43.23)| |Z|Undercity| |O|
 T Better Late Than Never (Part 2) |QID|5023| |N|Royal Overseer Bauhaus in Trade Quarter (69.81, 43.23)| |Z|Undercity| |O|
 A The Jeremiah Blues |QID|5049| |N|Royal Overseer Bauhaus in Trade Quarter (69.81, 43.23)| |Z|Undercity| |PRE|5023|
-T The Jeremiah Blues |QID|5049| |N|Jeremiah Payson in Trade Quarter (67.58, 44.04)| |Z|Undercity| |PRE|5023|
+T The Jeremiah Blues |QID|5049| |N|Jeremiah Payson in the center of Trade Quarter (67.58, 44.04)| |Z|Undercity| |PRE|5023|
 A Good Luck Charm |QID|5050| |N|Jeremiah Payson in Trade Quarter (67.58, 44.04)| |Z|Undercity| |PRE|5023|
 
 T A Donation of Runecloth |QID|7818| |N|Ralston Farnsley in Magic Quarter (71.83, 29.15)| |Z|Undercity| |L|14047 60| |O|
