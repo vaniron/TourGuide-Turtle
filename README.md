@@ -1,6 +1,11 @@
 # For TurtleWoW launcher
 Click Addons - Add new addon - paste this url there: https://github.com/vaniron/TourGuide-Turtle.git
 
+# Contact & Donations
+You can add me on discord: **vanironcz**
+
+If you wanna support this fork, you can do so via https://www.paypal.com/donate/?hosted_button_id=FSQQQGRSBDA58
+
 # TourGuide-Turtle
 Tekkub's TourGuide Addon backported for WoW 1.12 *with tweaks for TurtleWoW*
 
