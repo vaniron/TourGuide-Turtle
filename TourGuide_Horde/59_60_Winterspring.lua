@@ -3,20 +3,19 @@ TourGuide:RegisterGuide("Winterspring (59-60)", "Winterspring (59-60)", "Horde",
 
 return [[
 
-T Wild Guardians (Part 2) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |O| 
-R Bloodvenom Post |QID|4741| |N|Travel to Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |PRE|4521| 
+R Bloodvenom Post |QID|4741| |N|Travel to Bloodvenom Post in Felwood (34.72, 52.77)| |Z|Felwood| |PRE|4521|
+T Wild Guardians (Part 1) |QID|4521| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |O|
 A Wild Guardians (Part 2) |QID|4741| |N|Trull Failbane in Bloodvenom Post (34.72, 52.77)| |Z|Felwood| |PRE|4521| 
 
 R Irontree Woods |QID|5086| |N|Travel to Irontree Woods (49.60, 26.06)| |Z|Felwood| |O|
-C Toxic Horrors |QID|5086| |N|Kill Toxic Horror and collect 3 Toxic Horror Droplet in Irontree Woods (49.60, 26.06)| |Z|Felwood| |O| 
-T Speak to Nafien |QID|8462| |N|Nathanos Blightcaller in Timbermaw Hold (64.76, 8.15)| |Z|Felwood| |O| 
+C Toxic Horrors |QID|5086| |N|Kill Toxic Horror and collect 3 Toxic Horror Droplet in Irontree Woods (49.60, 26.06)| |Z|Felwood| |O|
 
-R Nighthaven |TID|6844| |N|Travel to Nighthaven (44.88, 35.58)| |Z|Moonglade| |O|
+R Nighthaven |TID|6844| |N|Travel north to Nighthaven in Moonglade (44.88, 35.58)| |Z|Moonglade| |O|
 T Umber, Archivist |QID|6844| |N|Umber in Nighthaven (44.88, 35.58)| |Z|Moonglade| |O| 
 A Uncovering Past Secrets |QID|6845| |N|Umber in Nighthaven (44.83, 35.71)| |Z|Moonglade| |PRE|6844| 
 T A Reliquary of Purity |QID|5527| |N|Rabine Saturna in Nighthaven (51.69, 45.03)| |Z|Moonglade| |O| 
 T Uncovering Past Secrets |QID|6845| |N|Rabine Saturna in Nighthaven (51.69, 45.03)| |Z|Moonglade| |PRE|6844| 
-T Under the Chitin Was... |QID|1185| |N|Umber in Nighthaven (44.83, 35.71)| |Z|Moonglade|  |PRE|6845| 
+T Under the Chitin Was... |QID|1185| |N|Umber in Nighthaven (44.83, 35.71)| |Z|Moonglade| |PRE|6845|
 
 R Frostfire Hot Springs |TID|5086| |N|Travel to Frostfire Hot Springs in Winterspring (31.28, 45.17)| |Z|Winterspring| |O| |REACH|
 T Toxic Horrors |QID|5086| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |O| 
