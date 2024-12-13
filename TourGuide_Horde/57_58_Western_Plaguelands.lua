@@ -3,10 +3,10 @@ TourGuide:RegisterGuide("Western Plaguelands (57-58)", "Silithus (58-59)", "Hord
 
 return [[
 
-N Switch Guide |OID|5152| |N|Switch and complete (guide:"1422(56-56)#1422(56-56)#1422(56-56)") before starting this guide|
-N Switch Guide |OID|5152| |N|Switch and complete (guide:"1423(56-57)#1423(56-57)#1423(56-57)") before starting this guide|
+N Switch Guide |OID|5152| |N|Switch to and complete guide Western Plaguelands (56-56) before starting this guide|
+N Switch Guide |OID|5152| |N|Switch to and complete guide Eastern Plaguelands (56-57) before starting this guide|
 
-R The Bulwark |TID|5237| |N|Travel to The Bulwark (83.05, 71.91)| |Z|Tirisfal| 
+R The Bulwark |TID|5237| |N|Travel to The Bulwark, east of Undercity (83.05, 71.91)| |Z|Tirisfal|
 T Return to the Bulwark (Part 4) |QID|5236| |N|Shadow Priestess Vandis in The Bulwark (83.05, 71.91)| |Z|Tirisfal| 
 T A Plague Upon Thee (Part 1) |QID|5901| |N|Mickey Levine in The Bulwark (83.28, 72.34)| |Z|Tirisfal| 
 A A Plague Upon Thee (Part 2) |QID|5902| |N|Mickey Levine in The Bulwark (83.28, 72.34)| |Z|Tirisfal| 
@@ -15,8 +15,8 @@ A All Along the Watchtowers |QID|5098| |N|High Executor Derrington in The Bulwar
 
 R Felstone Field |TID|5050| |N|Travel to Felstone Field (38.41, 54.06)| |Z|Western Plaguelands| |O|
 T Good Luck Charm |QID|5050| |N|Janice Felstone in Felstone Field (38.39, 54.06)| |Z|Western Plaguelands| |O| 
-A Two Halves Become One |QID|5051| |N|Janice Felstone in Felstone Field (38.39, 54.06)| |Z|Western Plaguelands| |PRE|5050| 
-K Jabbering Ghoul |QID|5051.1| |N|Kill Jabbering Ghoul and collect Good Luck Other-Half-Charm in Felstone Field (36.81, 58.32)| |Z|Western Plaguelands| |PRE|5050| |L|12722|
+A Two Halves Become One |QID|5051| |N|Janice Felstone upstairs in the inn of Felstone Field (38.39, 54.06)| |Z|Western Plaguelands| |PRE|5050|
+K Jabbering Ghoul |QID|5051.1| |N|Kill Jabbering Ghoul outside on the field and collect Good Luck Other-Half-Charm (36.81, 58.32)| |Z|Western Plaguelands| |PRE|5050| |L|12722|
 C Two Halves Become One |QID|5051| |N|Use Good Luck Other-Half-Charm to create Good Luck Charm in Felstone Field (36.81, 58.32)| |Z|Western Plaguelands| |PRE|5050|
 T Two Halves Become One |QID|5051| |N|Janice Felstone in Felstone Field (38.40, 54.04)| |Z|Western Plaguelands| |PRE|5050| 
 
@@ -42,36 +42,36 @@ R Northridge Lumber Camp |TID|6025| |N|Travel to Northridge Lumber Camp (51.94, 
 T Unfinished Business (Part 3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.94, 28.06)| |Z|Western Plaguelands| 
 
 R The Writhing Haunt |OID|4984| |N|Travel to The Writhing Haunt (53.67, 64.76)| |Z|Western Plaguelands|
-A The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.67, 64.76)| |Z|Western Plaguelands| 
-C The Wildlife Suffers Too |QID|4984| |N|Kill 8 Diseased Wolf in Dalson's Tears (46.17, 39.97) (46.11, 48.10) (50.71, 48.33)| |Z|Western Plaguelands|  
-T The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands| 
-A The Wildlife Suffers Too |QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands| 
-C The Wildlife Suffers Too |QID|4985| |N|Kill 8 Diseased Grizzly in The Writhing Haunt (55.8, 49.1) (54.9, 45.4) (60.3, 52.0) (67.4, 45.8) (65.6, 53.5) (55.8, 63.0)| |Z|Western Plaguelands|  
-T The Wildlife Suffers Too |QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands| 
-A Glyphed Oaken Branch |QID|4987| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands| 
+A The Wildlife Suffers Too (Part 1)|QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.67, 64.76)| |Z|Western Plaguelands|
+C The Wildlife Suffers Too (Part 1)|QID|4984| |N|Kill 8 Diseased Wolf in Dalson's Tears (46.17, 39.97) (46.11, 48.10) (50.71, 48.33)| |Z|Western Plaguelands|
+T The Wildlife Suffers Too (Part 1)|QID|4984| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
+A The Wildlife Suffers Too (Part 2)|QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands| |PRE|4984|
+C The Wildlife Suffers Too (Part 2)|QID|4985| |N|Kill 8 Diseased Grizzly in The Writhing Haunt (55.8, 49.1)| |Z|Western Plaguelands|
+T The Wildlife Suffers Too (Part 2)|QID|4985| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands|
+A Glyphed Oaken Branch |QID|4987| |N|Mulgris Deepriver in The Writhing Haunt (53.70, 64.70)| |Z|Western Plaguelands| |PRE|4985|
 
-R Sorrow Hill |QID|5153| |N|Travel to Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands|
-T Auntie Marlene |QID|5152| |N|Mulgris Deepriver in Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands| 
+R Sorrow Hill |QID|5153| |N|Travel south to Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands|
+T Auntie Marlene |QID|5152| |N|Marlene Redpath upstairs in the building in Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands|
 A A Strange Historian |QID|5153| |N|Marlene Redpath in Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands| 
-C A Strange Historian |QID|5153| |N|Collect Joseph's Wedding Ring from Joseph Redpath's Monument in Sorrow Hill (49.70, 76.68)| |Z|Western Plaguelands| |OBJ|3171|
-N Mark Tower Four |QID|5098.4| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (46.63, 71.26)| |Z|Western Plaguelands| |U|12815|
-N Mark Tower One |QID|5098.1| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (40.00, 71.58)| |Z|Western Plaguelands| |U|12815|
-T A Strange Historian |QID|5153| |N|Chromie in Ruins of Andorhal (39.46, 66.76)| |Z|Western Plaguelands| 
+C A Strange Historian |QID|5153| |N|Collect Joseph's Wedding Ring by clicking the tombstone outside (49.70, 76.68)| |Z|Western Plaguelands| |OBJ|3171|
+N Mark Tower Four |QID|5098.4| |N|Use Beacon Torch between the door way of the south-east Tower in Ruins of Andorhal (46.63, 71.26)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Four marked: 1/1|
+N Mark Tower One |QID|5098.1| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (40.00, 71.58)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower One marked: 1/1|
+T A Strange Historian |QID|5153| |N|Chromie upstairs in the inn of north-west Ruins of Andorhal (39.46, 66.76)| |Z|Western Plaguelands|
 A The Annals of Darrowshire |QID|5154| |N|Chromie in Ruins of Andorhal (39.46, 66.76)| |Z|Western Plaguelands| 
 A A Matter of Time |QID|4971| |N|Chromie in Ruins of Andorhal (39.50, 67.10)| |Z|Western Plaguelands| 
 C The Annals of Darrowshire |QID|5154| |N|Collect Annals of Darrowshire inside the town hall Ruins of Andorhal. TIP: The Fake book will have 50/50 grey and white pages, and the Real book will 100% white pages on its side and brighter book cover (43.40, 69.72)| |Z|Western Plaguelands| |OBJ|558|
-N Mark Tower Two |QID|5098.2| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (42.43, 66.07)| |Z|Western Plaguelands| |U|12815|
-N Mark Tower Three |QID|5098.3| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (44.15, 63.25)| |Z|Western Plaguelands| |U|12815|
-C A Matter of Time |QID|4971| |N|Use Temporal Displacer near the glowing silo to spawn and kill 10 Temporal Parasite in Ruins of Andorhal (45.39, 62.90) (46.34, 62.58) (47.96, 62.44) (47.97, 64.16) (49.99, 66.95)| |Z|Western Plaguelands| |U|12815| 
+N Mark Tower Two |QID|5098.2| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (42.43, 66.07)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Two marked: 1/1|
+N Mark Tower Three |QID|5098.3| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (44.15, 63.25)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Three marked: 1/1|
+C A Matter of Time |QID|4971| |N|Use Temporal Displacer near the glowing silos to spawn and kill 15 Temporal Parasite in Ruins of Andorhal (45.39, 62.90) (46.34, 62.58) (47.96, 62.44) (47.97, 64.16) (49.99, 66.95)| |Z|Western Plaguelands| |U|12815|
 
-T A Matter of Time |QID|4971| |N|Chromie in Ruins of Andorhal (39.45, 66.78)| |Z|Western Plaguelands| 
+T A Matter of Time |QID|4971| |N|Chromie upstairs in the inn of Ruins of Andorhal (39.45, 66.78)| |Z|Western Plaguelands|
 T The Annals of Darrowshire |QID|5154| |N|Chromie in Ruins of Andorhal (39.46, 66.79)| |Z|Western Plaguelands| 
 A Counting Out Time |QID|4972| |N|Chromie in Ruins of Andorhal (39.46, 66.79)| |Z|Western Plaguelands| 
 A Brother Carlin |QID|5210| |N|Chromie in Ruins of Andorhal (39.46, 66.79)| |Z|Western Plaguelands| 
-C Counting Out Time |QID|4972| |N|Collect Andorhal Watch from small lockbox in Ruins of Andorhal (38.88, 68.09) (40.27, 68.22) (40.86, 67.17) (40.36, 66.46) (42.31, 68.73)| |Z|Western Plaguelands| |OBJ|318|
+C Counting Out Time |QID|4972| |N|Collect Andorhal Watches from small lockboxes in Ruins of Andorhal (38.88, 68.09) (40.27, 68.22) (40.86, 67.17) (40.36, 66.46) (42.31, 68.73)| |Z|Western Plaguelands| |OBJ|318|
 T Counting Out Time |QID|4972| |N|Chromie in Ruins of Andorhal (39.45, 66.77)| |Z|Western Plaguelands| 
 
-R The Bulwark |QID|838| |N|Travel to The Bulwark (83.28, 72.34)| |Z|Tirisfal| 
+R The Bulwark |QID|838| |N|Travel to The Bulwark on western border of the zone (83.28, 72.34)| |Z|Tirisfal|
 T A Plague Upon Thee (Part 3) |QID|6390| |N|Mickey Levine in The Bulwark (83.28, 72.34)| |Z|Tirisfal| 
 T All Along the Watchtowers |QID|5098| |N|High Executor Derrington in The Bulwark (83.13, 68.96)| |Z|Tirisfal| 
 A Scholomance |QID|838| |N|High Executor Derrington in The Bulwark (83.13, 68.96)| |Z|Tirisfal| 
@@ -97,7 +97,7 @@ R Thunder Bluff |QID|1123| |N|Travel to Elder Rise (75.70, 31.54)| |Z|Thunder Bl
 C Morrowgrain Research (Part 2) |QID|3786| |N|Use Evergreen Pouch every 10 mins to create Evergreen Herb Casing until you get 10 Morrowgrain| |Z|Thunder Bluff| |O|
 T Morrowgrain Research (Part 2) |QID|3786| |N|Bashana Runetotem in Elder Rise (70.98, 34.03)| |Z|Thunder Bluff| |O| 
 T Glyphed Oaken Branch |QID|4987| |N|Nara Wildmane in Elder Rise (75.70, 31.54)| |Z|Thunder Bluff| 
-T The New Frontier |QID|1004| |N|Nara Wildmane in Elder Rise (78.55, 28.59)| |Z|Thunder Bluff| 
+T The New Frontier |QID|1004| |N|Arch Druid Hamuul Runetotem in Elder Rise (78.55, 28.59)| |Z|Thunder Bluff|
 A Rabine Saturna |QID|1123| |N|Arch Druid Hamuul Runetotem in Elder Rise (78.55, 28.59)| |Z|Thunder Bluff| 
 T A Donation of Mageweave |QID|7822| |N|Rumstag Proudstrider in Thunder Bluff (43.0, 42.7)| |Z|Thunder Bluff| |L|4338 60| |O| 
 T A Donation of Runecloth |QID|7823| |N|Rumstag Proudstrider in Thunder Bluff (43.0, 42.7)| |Z|Thunder Bluff| |L|14047 60| |O| 
