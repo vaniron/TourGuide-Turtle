@@ -55,16 +55,17 @@ R Undercity |TID|4642| |N|Travel to Undercity (47.49, 73.40)| |Z|Undercity|
 N Extended Annals of Darrowshire |QID|5210| |N|Withdraw Extended Annals of Darrowshire from the bank (66.0, 45.2)| |Z|Undercity| |L|13202| |OO| 
 T Melding of Influences |QID|4642| |N|Chemist Fuely in The Apothecarium (47.49, 73.40)| |Z|Undercity| 
 
-R Light's Hope Chapel |QID|5181| |N|Travel to Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
+R Light's Hope Chapel |QID|5181| |N|Travel to Light's Hope Chapel in Eastern Plaguelands (81.51, 59.77)| |Z|Eastern Plaguelands|
 T Brother Carlin |QID|5210| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands| 
-A Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands| 
-N Skull of Horgus |QID|5181.1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |OBJ|4173|
-N Shattered Sword of Marduk |QID|5181.2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |OBJ|4175|
+A Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
+R Blackwood Lake |QID|5181| |N|Travel west to Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands|
+N Skull of Horgus |QID|5181.1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Skull of Horgus: 1/1|
+N Shattered Sword of Marduk |QID|5181.2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Shattered Sword of Marduk: 1/1|
 
-R Light's Hope Chapel |TID|5181| |N|Travel to Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|
+R Light's Hope Chapel |TID|5181| |N|Travel west to Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands| 
 
-R The Marris Stead |QID|6135| |N|Travel to The Marris Stead (26.56, 74.72)| |Z|Eastern Plaguelands|
+R The Marris Stead |QID|6135| |N|Travel south-east to The Marris Stead (26.56, 74.72)| |Z|Eastern Plaguelands|
 A Duskwing, Oh How I Hate Thee... |QID|6135| |N|Nathanos Blightcaller in The Marris Stead (26.56, 74.72)| |Z|Eastern Plaguelands| 
 A The Corpulent One |QID|6136| |N|Nathanos Blightcaller in The Marris Stead (26.72, 74.74)| |Z|Eastern Plaguelands| 
 C Duskwing, Oh How I Hate Thee... |QID|6135| |N|Kill Duskwing and collect Patch of Duskwing's Fur, you will need to group up to complete this quest. This is a popular quest and you should be able to find someone group with, otherwise it is safe to skip (31.14, 72.03)| |Z|Eastern Plaguelands|  
