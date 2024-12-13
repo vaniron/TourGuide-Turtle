@@ -63,7 +63,7 @@ C Are We There, Yeti? (part 2)|QID|977| |N|Kill Ice Thistle Matriarch or Ice Thi
 R Everlook |QID|977| |N|Travel to Everlook (60.89, 37.64)| |Z|Winterspring|
 T Are We There, Yeti? (part 2)|QID|977| |N|Umi Rumplesnicker in Everlook (60.88, 37.63)| |Z|Winterspring|
 A Are We There, Yeti? (part 3)|QID|5163| |N|Umi Rumplesnicker in Everlook (60.9, 37.6)| |Z|Winterspring||PRE|977|
-N Legacki |QID|5163.1| |N|Use Umi's Mechanical Yeti near Legacki in Everlook (61.53, 38.63)| |Z|Winterspring| |U|12928| 
+N Are We There, Yeti? |QID|5163.1| |N|Use Umi's Mechanical Yeti near Legacki in Everlook (61.53, 38.63)| |Z|Winterspring| |Q|Are We There, Yeti?||QO|Scare Legacki: 1/1|
 A The Everlook Report |QID|6029| |N|Gregor Greystone in Everlook inn (61.35, 38.95)| |Z|Winterspring|
 A Duke Nicholas Zverenhoff |QID|6030| |N|Gregor Greystone in Everlook inn (61.35, 38.95)| |Z|Winterspring|
 A Sister Pamela |QID|5601| |N|Jessica Redpath in Everlook (61.29, 38.89)| |Z|Winterspring| 
