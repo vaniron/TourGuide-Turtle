@@ -3,7 +3,7 @@
 ## Title: TourGuide |cff7fff7f -Ace2-|r
 ## Notes: Powerleveling guide framework
 ## Author: cralor
-## Version: 1.1
+## Version: 1.2
 ## X-Credits: Tekkub, Road-block, rsheep
 ## X-Category: Quest
 ## X-Website: https://github.com/cralor/TourGuideVanilla
