@@ -17,7 +17,7 @@ T Dogran's Captivity |QID|1515| |N|Grunt Dogran in Agama'gor (43.32, 47.90)| |C|
 A Love's Gift |QID|1512| |N|Grunt Dogran in Agama'gor (43.32, 47.90)| |C|Warlock| |R|Orc, Troll| |Z|The Barrens|
 T Love's Gift |QID|1512| |N|Gan'rul Bloodeye in Cleft of Shadow (48.16, 45.44)| |C|Warlock| |R|Orc, Troll| |Z|Orgrimmar|
 A The Binding |QID|1513| |N|Gan'rul Bloodeye in Cleft of Shadow (48.16, 45.44)| |C|Warlock| |R|Orc, Troll| |Z|Orgrimmar|
-C The Binding |QID|1513| |N|Using Dogran's Pendant, summon and subdue a (NPC:5677) in Cleft of Shadow (49.47, 50.09)| |C|Warlock| |R|Orc, Troll| |Z|Orgrimmar|
+C The Binding |QID|1513| |N|Using Dogran's Pendant, summon and subdue Summoned Succubus in Cleft of Shadow (49.47, 50.09)| |C|Warlock| |R|Orc, Troll| |Z|Orgrimmar|
 T The Binding |QID|1513| |N|Gan'rul Bloodeye in Cleft of Shadow (48.17, 45.40)| |C|Warlock| |R|Orc, Troll| |Z|Orgrimmar|
 
 A Devourer of Souls |QID|1472| |N|Carendin Halgar in Magic Quarter (84.97, 25.92)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|

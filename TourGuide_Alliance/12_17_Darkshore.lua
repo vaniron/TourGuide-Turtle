@@ -250,7 +250,7 @@ A Trial of the Lake |QID|29| |N|Dendrite Starblaze in Nighthaven (55.91, 31.32)|
 N Shrine Bauble |QID|29| |N|Find the Bauble Container and collect Shrine Bauble in Lake Elune'ara (54.29, 55.75)| |C|Druid| |Z|Moonglade| |L|15877| |OBJ|4871|
 
 R Shrine of Remulos |QID|29| |N|Travel to Shrine of Remulos (36.22, 41.35)| |C|Druid| |Z|Moonglade|
-C Trial of the Lake |QID|29| |N|Use (item:158771) in Shrine of Remulos (36.22, 41.35)| |C|Druid| |Z|Moonglade| |U|15877|
+C Trial of the Lake |QID|29| |N|Use Shrine Bauble in Shrine of Remulos (36.22, 41.35)| |C|Druid| |Z|Moonglade| |U|15877|
 T Trial of the Lake |QID|29| |N|Tajarri in Shrine of Remulos (36.50, 40.18)| |C|Druid| |Z|Moonglade|
 A Trial of the Sea Lion |QID|272| |N|Tajarri in Shrine of Remulos (36.50, 40.18)| |C|Druid| |Z|Moonglade|
 

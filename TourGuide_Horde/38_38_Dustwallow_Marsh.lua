@@ -31,9 +31,9 @@ R Dreadmurk Shore |QID|1177| |N|Travel to Dreadmurk Shore (57.46, 16.47)|
 C Hungry! |QID|1177| |N|Kill the Murlocs and collect 8 Mirefin Head in Dreadmurk Shore (57.46, 16.47)|
 
 R Swamplight Manor |QID|1218| |N|Travel to Swamplight Manor (54.02, 18.81) (56.13, 23.52) (55.43, 26.33)|
-A Marsh Frog Legs |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.33)|
-C (item:33202) |QID|1218| |N|Kill (npc:23979) and collect 10 (item:33202) (55.52,24.96)| |L|33202 10|
-T Marsh Frog Legs |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.33)|
+A Soothing Spices |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.33)|
+C Soothing Spices |QID|1218| |N|Get them from any cooking/trade goods vendor| |L|3713 3|
+T Soothing Spices |QID|1218| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.33)|
 A Jarl Needs Eyes |QID|1206| |N|\Swamp Eye\ Jarl in Swamplight Manor (55.43, 26.33)|
 A The Lost Report |QID|1238| |N|Loose dirt in Swamplight Manor (55.39, 25.91)| |OBJ|498|
 

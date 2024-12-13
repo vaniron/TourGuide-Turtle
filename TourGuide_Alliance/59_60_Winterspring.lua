@@ -23,7 +23,7 @@ h Everlook |QID|4970| |N|Speak to Innkeeper Vizzie and set hearth to Everlook (6
 
 R Frostsaber Rock |QID|4970| |N|Travel to Frostsaber Rock (48.57, 10.37)| |Z|Winterspring|
 A Frostsaber Provisions |QID|4970| |N|Rivern Frostwind in Frostsaber Rock (48.57, 10.37) (49.93, 9.84)| |Z|Winterspring|
-C Frostsaber Provisions |QID|4970| |N|Kill Elder Shardtooth and Chillwind Ravager and collect 5 Shardtooth Meat and (npc:12623) near Frostsaber Rock (59.25, 14.09)| |Z|Winterspring|
+C Frostsaber Provisions |QID|4970| |N|Kill Elder Shardtooth and Chillwind Ravager and collect 5 Shardtooth Meat and 5 Chillwind Meat (59.25, 14.09)| |Z|Winterspring|
 C Chillwind Horns |QID|4809| |N|Kill Chillwind Ravager and collect 8 Uncracked Chillwind Horn near Frostsaber Rock (62.27, 34.04)| |Z|Winterspring| |PRE|4808|
 T Frostsaber Provisions |QID|4970| |N|Rivern Frostwind in Frostsaber Rock (49.93, 9.84)| |Z|Winterspring|
 

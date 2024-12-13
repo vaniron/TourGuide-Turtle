@@ -111,7 +111,7 @@ A The Perfect Stout |QID|315| |N|Rejold Barleybrew in Brewnall Village (30.20, 4
 A Bitter Rivals |QID|310| |N|Marleth Barleybrew in Brewnall Village (30.22, 45.54)|
 
 C The Perfect Stout |QID|315| |N|Collect 6 Shimmerweed dropped by Frostmane Seer and from the Shimmerweed Baskets in the area (40, 43)|
-C A Favor for Evershine |QID|319| |N|Kill 6 Ice Claw Bear, 8 Elder Crag Boar and 8 (npc: 1201) found west of Brewnall Village (28, 48.5)|
+C A Favor for Evershine |QID|319| |N|Kill 6 Ice Claw Bear, 8 Elder Crag Boar and 8 Snow Leopard found west of Brewnall Village (28, 48.5)|
 
 R Brewnall Village |QID|319| |N|Travel to Brewnall Village (30.20, 45.62)|
 T The Perfect Stout |QID|315| |N|Rejold Barleybrew in Brewnall Village (30.20, 45.62)|

@@ -26,7 +26,7 @@ R Magram Village |QID|1374| |N|Travel to Magram Village (66.24, 80.28)| |Z|Desol
 C Khan Jehn |QID|1374| |N|Kill Khan Jehn in Magram Village (66.24, 80.28)| |Z|Desolace|
 
 R Valley of Bones |QID|261| |N|Travel to Valley of Bones (63.91, 90.74)| |Z|Desolace|
-C Ghost-o-plasm Round Up |QID|6134| |N|Clear the area and use (item:33163), kill the Magrami Spectre that appear and collect 8 (item:15849) (63.87, 91.71)| |Z|Desolace|
+C Ghost-o-plasm Round Up |QID|6134| |N|Clear the area, use Crate of Ghost Magnets and kill the Magrami Spectre that appear and collect 8 Ghost-o-plasm (63.87, 91.71)| |Z|Desolace|
 
 R Mannoroc Coven |QID|1488| |N|Travel to Mannoroc Coven (55.85, 77.73)| |Z|Desolace|
 K Lord Azrethoc |QID|1488.1| |N|Kill Lord Azrethoc in Mannoroc Coven, he's an elite but you should be able to solo him (57.19, 79.17)| |Z|Desolace| |PRE|1484|
