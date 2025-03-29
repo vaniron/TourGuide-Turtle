@@ -4,7 +4,7 @@ local hadquest
 
 
 TourGuide.TrackEvents = {"UI_INFO_MESSAGE", "CHAT_MSG_LOOT", "CHAT_MSG_SYSTEM", "QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "ZONE_CHANGED", "ZONE_CHANGED_INDOORS",
-	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD"}
+	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD", "BAG_UPDATE"}
 
 
 function TourGuide:ADDON_LOADED(event, addon)
@@ -133,6 +133,37 @@ function TourGuide:CRAFT_SHOW()
 		self.db.char.petskills[name.. (rank == "" and "" or (" (" .. rank .. ")"))] = true
 	end
 	if self:GetObjectiveInfo() == "PET" then self:UpdateStatusFrame() end
+end
+
+
+function TourGuide:BAG_UPDATE(event)
+	-- Check if this is a LOOT objective
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "LOOT" then return end
+	
+	-- Parse the quest text to get the item count and name
+	local count, item = string.match(quest, "^(%d+)%s+(.+)$")
+	count = tonumber(count) or 1
+	
+	-- Check if we have enough items
+	local itemCount = 0
+	for bag = 0, 4 do
+		for slot = 1, GetContainerNumSlots(bag) do
+			local link = GetContainerItemLink(bag, slot)
+			if link and string.find(link, item) then
+				local _, stackCount = GetContainerItemInfo(bag, slot)
+				itemCount = itemCount + stackCount
+			end
+		end
+	end
+	
+	self:Debug("BAG_UPDATE", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
+	
+	-- If we have enough items, mark the step as complete
+	if itemCount >= count then
+		self:Debug("LOOT objective complete:", quest)
+		self:SetTurnedIn()
+	end
 end
 
 
