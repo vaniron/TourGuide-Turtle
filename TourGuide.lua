@@ -292,6 +292,32 @@ function TourGuide:SetTurnedIn(i, value, noupdate)
 
 	self.turnedin[self.quests[i]] = value
 	self:Debug( string.format("Set turned in %q = %s", self.quests[i], tostring(value)))
+	
+	-- If we're completing the current step, check the next step for LOOT objectives
+	if i == self.current and value and self.current < table.getn(self.actions) then
+		local nextAction, nextQuest = self:GetObjectiveInfo(self.current + 1)
+		self:Debug("Next step: " .. (nextAction or "nil") .. " - " .. (nextQuest or "nil"))
+		
+		-- If next step is a LOOT objective, check if we already have the items
+		if nextAction == "LOOT" then
+			local lootitem, lootqty = self:GetObjectiveTag("L", self.current + 1)
+			self:Debug("LOOT check: " .. (lootitem or "nil") .. " qty: " .. (lootqty or "nil"))
+			
+			-- If we have item tag data, check the player's bags
+			if lootitem and lootqty then
+				lootqty = tonumber(lootqty) or 1
+				local itemCount = self.GetItemCount(lootitem)
+				self:Debug("Item count: " .. itemCount .. " / needed: " .. lootqty)
+				
+				-- If we have enough items, auto-complete the next step too
+				if itemCount >= lootqty then
+					self:Debug("LOOT objective auto-complete: " .. nextQuest)
+					self.turnedin[nextQuest] = true
+				end
+			end
+		end
+	end
+	
 	if not noupdate then self:UpdateStatusFrame()
 	else self.updatedelay = i end
 end
