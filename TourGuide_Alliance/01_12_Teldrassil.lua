@@ -24,14 +24,12 @@ A The Woodland Protector (Part 1) |QID|458| |N|Melithar Staghelm in Aldrassil (5
 A A Good Friend |QID|4495| |N|Dirania Silvershine in Shadowglen (60.83, 42.01)|
 T The Woodland Protector (Part 1) |QID|458| |N|Tarindrella in Shadowglen (57.75, 45.21)|
 A The Woodland Protector (Part 2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
-K Grell |QID|459| |N|Kill Grell located in Shadowglen (56, 45.9) (61.2, 45.9) (56.4, 41.6)|
-L 8 Fel Moss |QID|459| |N|Collect 8 Fel Moss from the Grell you killed| |L|5168 8|
+L 8 Fel Moss |QID|459| |N|Kill Grell located in Shadowglen and collect 8 Fel Moss (56, 45.9) (61.2, 45.9) (56.4, 41.6)| |L|5168 8|
 T The Woodland Protector (Part 2) |QID|459| |N|Tarindrella in Shadowglen (57.75, 45.21)|
 A Webwood Venom |QID|916| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 
 C The Balance of Nature (Part 2) |QID|457| |N|Kill 7 Mangy Nightsaber and 7 Thistle Boar in Shadowglen (60, 37)|
-K Webwood Spider |QID|916| |N|Kill Webwood Spider in the north of Shadowglen (57, 34)|
-L 10 Webwood Venom Sac |QID|916| |N|Collect 10 Webwood Venom Sac from the spiders you killed| |L|5166 10|
+L 10 Webwood Venom Sac |QID|916| |N|Kill Webwood Spider in the north of Shadowglen and collect 10 Webwood Venom Sac (57, 34)| |L|5166 10|
 T A Good Friend |QID|4495| |N|Iverron in Shadowglen (54.60, 32.98)|
 A A Friend in Need |QID|3519| |N|Iverron in Shadowglen (54.60, 32.98)|
 T Webwood Venom |QID|916| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
@@ -91,8 +89,7 @@ A The Relics of Wakening |QID|483| |N|Athridas Bearmantle in Dolanaar (55.95, 57
 T The Emerald Dreamcatcher |QID|2438| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 A Ferocitas the Dream Eater |QID|2459| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 
-K Timberling |QID|918| |N|Kill Timberling around Lake Al'Ameth (59, 72) (56, 65)|
-L 8 Timberling Seed |QID|918| |N|Collect 8 Timberling Seed from the Timberlings you killed| |L|5170 8|
+L 8 Timberling Seed |QID|918| |N|Kill Timberling around Lake Al'Ameth and collect 8 Timberling Seed (59, 72) (56, 65)| |L|5170 8|
 L 12 Timberling Sprout |QID|919| |N|Collect 12 Timberling Sprout from the ground around Lake Al'Ameth (59, 71)| |L|5171 12|
 
 R Dolanaar |TID|932| |N|Travel to Dolanaar (56.20, 61.63)|
@@ -153,16 +150,13 @@ T The Temple of the Moon |QID|2519| |N|Priestess A'moora in Temple of the Moon (
 A Tears of the Moon |QID|2518| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
 
 R Teldrassil |QID|923| |N|Travel to Teldrassil (38.0, 54.7)| |REACH|
-K Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler, consider skipping (x) this quest if the quest rewards Defender Axe or Thornroot Club is useless for your character (38.8, 78.9)|
-K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof and collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
+L 1 Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler, consider skipping (x) this quest if the quest rewards Defender Axe or Thornroot Club is useless for your character (38.8, 78.9)| |L|5175 1|
+L 1 Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof and collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |L|5182 1|
 
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
-K Timberling Mire Beast |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler in Wellspring River (43.65, 34.46)|
-L 5 Mossy Tumor |QID|923| |N|Collect 5 Mossy Tumor from the Timberlings you killed| |L|5172 5|
-K Oakenscowl |QID|2499| |N|Kill Oakenscowl in Lake Al'Ameth. This is a group quest but can be soloed for good XP but you can safely skip this quest if it's too hard (53.55, 74.99)|
-L 1 Gargantuan Tumor |QID|2499| |N|Collect Gargantuan Tumor from Oakenscowl| |L|5173 1|
-K Blackmoss the Fetid |QID|927| |N|Kill Blackmoss the Fetid in Wellspring River. He is a rare NPC, skip if you can't find him (42.7, 36.8) (42.5, 26)|
-L 1 Moss-twined Heart |QID|927| |N|Collect Moss-twined Heart from Blackmoss| |L|5179 1|
+L 5 Mossy Tumor |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler in Wellspring River and collect 5 Mossy Tumor (43.65, 34.46)| |L|5172 5|
+L 1 Gargantuan Tumor |QID|2499| |N|Kill Oakenscowl in Lake Al'Ameth. This is a group quest but can be soloed for good XP but you can safely skip this quest if it's too hard (53.55, 74.99)| |L|5173 1|
+L 1 Moss-twined Heart |QID|927| |N|Kill Blackmoss the Fetid in Wellspring River. He is a rare NPC, skip if you can't find him (42.7, 36.8) (42.5, 26)| |L|5179 1|
 
 R The Oracle Glade |QID|937| |N|Travel to The Oracle Glade (38.3, 34.4)|
 A The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
@@ -176,28 +170,24 @@ T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)
 T The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
 A Teldrassil |QID|940| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
 
-K Ferocitas the Dream Eater |QID|2459.2| |N|Kill Ferocitas the Dream Eater north of Starbreeze Village (69.8, 53.0)|
-L 1 Tallonkai's Jewel |QID|2459.2| |N|Loot Gnarlpine Necklace from Ferocitas and right-click it to get Tallonkai's Jewel| |L|8050 1|
-K 7 Gnarlpine Mystic |QID|2459.1| |N|Kill 7 Gnarlpine Mystic north of Starbreeze Village (69.8, 53.0)|
+L 1 Ferocitas the Dream Eater |QID|2459.2| |N|Kill Ferocitas the Dream Eater north of Starbreeze Village and collect Tallonkai's Jewel (69.8, 53.0)| |L|8050 1|
+L 7 Gnarlpine Mystic |QID|2459.1| |N|Kill 7 Gnarlpine Mystic north of Starbreeze Village (69.8, 53.0)| |L|5166 7|
 
 R Fel Rock |QID|932| |N|Travel to Fel Rock cave north of Dolanaar (53.74, 53.62) (54.61, 52.62)|
-K Lord Melenas |QID|932| |N|Kill Lord Melenas and collect Melenas' Head in Fel Rock (51.27, 50.77)|
-L 1 Melenas' Head |QID|932| |N|Collect Melenas' Head from Lord Melenas| |L|5175 1|
+L 1 Lord Melenas |QID|932| |N|Kill Lord Melenas and collect Melenas' Head in Fel Rock (51.27, 50.77)| |L|5175 1|
 R Dolanaar |TID|932| |N|Exit to Dolanaar (54.61, 52.62) (55.5, 56.9)|
 T Twisted Hatred |QID|932| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 T Ferocitas the Dream Eater |QID|2459| |N|Tallonkai Swiftroot at the top of the tower in Dolanaar (55.5, 56.9)|
 
 A The Road to Darnassus |QID|487| |N|Moon Priestess Amara in Dolanaar (50, 54) (55, 58)|
-K Gnarlpine Ambusher |QID|487| |N|Kill 6 Gnarlpine Ambusher in in Ban'ethil Hollow (45.92, 52.80)|
-L 6 Gnarlpine Ambusher |QID|487| |N|Collect 6 Gnarlpine Ambusher from the mobs you killed| |L|5166 6|
+L 6 Gnarlpine Ambusher |QID|487| |N|Kill 6 Gnarlpine Ambusher in in Ban'ethil Hollow (45.92, 52.80)| |L|5166 6|
 
 R Pools of Arlithrien |QID|933| |N|Travel to Pools of Arlithrien (42.37, 67.12)|
 C Crown of the Earth (Part 4) |QID|933| |N|Use Tourmaline Phial in Pools of Arlithrien (42.37, 67.12)| |U|5621|
 L 3 Fel Cone |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees (57, 63)| |L|3418 3|
 
 R Ban'ethil Barrow Den |QID|483| |N|Travel to Ban'ethil Barrow Den (44.28, 58.08)|
-K Gnarlpine Shaman |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm, the item only drop froms shaman and very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade, consider skipping this quest and the follow up if the rewards is useless for your character (44, 59)|
-L 1 Voodoo Charm |QID|2541| |N|Collect Voodoo Charm from the Gnarlpine Shaman you killed| |L|8149 1|
+L 1 Voodoo Charm |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm, the item only drop froms shaman and very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade, consider skipping this quest and the follow up if the rewards is useless for your character (44, 59)| |L|8149 1|
 L 1 Rune of Nesting |QID|483.4| |N|Head down into the Ban'ethil Barrow Den at the first set of bridges take the left bridge and collect Rune of Nesting from the chest (44.40, 60.62)| |L|5169 1|
 L 1 Black Feather Quill |QID|483.2| |N|Collect Black Feather Quill from the chest across the other bridge (43.76, 61.20)| |L|5170 1|
 L 1 Raven Claw Talisman |QID|483.1| |N|Collect Raven Claw Talisman from the chest (45.51, 58.96) (46.22, 58.21) (45.71, 57.33)| |L|5171 1|
@@ -206,7 +196,7 @@ L 1 Sapphire of Sky |QID|483.3| |N|Collect Sapphire of Sky from the small chest 
 A The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 T The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 A Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
-K Rageclaw |QID|2561| |N|Kill Rageclaw (44.9, 61.5)|
+L 1 Rageclaw |QID|2561| |N|Kill Rageclaw (44.9, 61.5)| |L|5175 1|
 C Druid of the Claw |QID|2561| |N|Use the Voodoo Charm on Rageclaw's body| |U|8149|
 T Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 
@@ -223,12 +213,9 @@ T The Moss-twined Heart |QID|927| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
 R Darnassus |QID|952| |N|Travel to Darnassus (27, 55)|
 
-K Lady Sathrah |QID|2518| |N|Kill Lady Sathrah north of The Oracle Glade (39.28, 25.70)|
-L 1 Silvery Spinnerets |QID|2518| |N|Collect Silvery Spinnerets from Lady Sathrah| |L|8047 1|
-
-K Shade of Elura |QID|1686.2| |N|Kill Shade of Elura in The Long Wash (31.56, 44.87)| |C|Warrior| |Z|Darkshore|
+L 1 Lady Sathrah |QID|2518| |N|Kill Lady Sathrah north of The Oracle Glade and collect Silvery Spinnerets (39.28, 25.70)| |L|8047 1|
 L 8 Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)| |L|5174 8| |C|Warrior| |Z|Darkshore|
-L 1 Elura's Medallion |QID|1686.2| |N|Collect Elura's Medallion from Shade of Elura| |L|5182 1| |C|Warrior| |Z|Darkshore|
+L 1 Elura's Medallion |QID|1686.2| |N|Kill Shade of Elura in The Long Wash and collect Elura's Medallion (31.56, 44.87)| |L|5182 1| |C|Warrior| |Z|Darkshore|
 
 R Cenarion Enclave |QID|2498| |N|Travel to Darnassus (36.88, 21.97)| |Z|Darnassus|
 T Destiny Calls |QID|2242| |N|Syurna in Cenarion Enclave (36.88, 21.97)| |Z|Darnassus| |PRE|2241| |C|Rogue|
@@ -275,7 +262,7 @@ F Auberdine |QID|6342| |N|Speak to Vesprystus in Rut'theran Village and fly to A
 T Flight to Auberdine |QID|6342| |N|Laird in Auberdine (36.77, 44.32)|
 C Body and Heart |QID|6001| |N|Use the Cenarion Lunardust on the on the Moonkin Stone of Auberdine to summon Turak Runetotem (43.48, 45.95)| |C|Druid| |Z|Darkshore|
 
-K Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |C|Warrior| |Z|Darkshore|
+L 1 Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |L|5182 1| |C|Warrior| |Z|Darkshore|
 L 8 Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |L|5174 8| |C|Warrior| |Z|Darkshore|
 C The Shade of Elura |QID|1686| |N|Bring 8 Elunite Ore and the Elura's Medallion to Elanaria in The Long Wash (32.00, 46.34)| |C|Warrior| |Z|Darkshore|
 
