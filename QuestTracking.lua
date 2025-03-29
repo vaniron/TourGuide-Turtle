@@ -171,16 +171,13 @@ function TourGuide:CheckCurrentStepLoot()
     local action, quest = self:GetObjectiveInfo()
     if action ~= "LOOT" then return end
     
-    -- Parse the quest text to get the item count and name
-    local count, item = string.match(quest, "^(%d+)%s+(.+)$")
-    count = tonumber(count) or 1
-    
     -- Look for the item tag to get the item ID
     local lootitem, lootqty = self:GetObjectiveTag("L")
-    if not lootitem then return end
+    if not lootitem or not lootqty then return end
     
     -- Get the current count of the item
-    local itemCount = self.GetItemCount(lootitem)
+    local itemCount = self.GetItemCount and self.GetItemCount(lootitem) or 0
+    lootqty = tonumber(lootqty) or 1
     
     self:Debug("CheckCurrentStepLoot", action, quest, "Item:", lootitem, "Count:", itemCount, "Required:", lootqty)
     
@@ -197,7 +194,9 @@ TourGuide.SetTurnedIn = function(self, ...)
     local result = originalSetTurnedIn(self, ...)
     
     -- After advancing to a new step, check if it's a loot step and if it's already complete
-    self:CheckCurrentStepLoot()
+    if self and type(self.CheckCurrentStepLoot) == "function" then
+        self:CheckCurrentStepLoot()
+    end
     
     return result
 end
