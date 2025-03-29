@@ -1,4 +1,3 @@
-
 local actiontypes = {
 	A = "ACCEPT",
 	C = "COMPLETE",
@@ -16,6 +15,7 @@ local actiontypes = {
 	U = "USE",
 	P = "PET",
 	D = "DIE",
+	L = "LOOT",
 }
 
 

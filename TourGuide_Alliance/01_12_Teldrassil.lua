@@ -39,8 +39,8 @@ T The Balance of Nature (Part 2) |QID|457| |N|Conservator Ilthalaine in Shadowgl
 T A Friend in Need |QID|3519| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 A Iverron's Antidote (Part 1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 
-N 4 Moonpetal Lily |QID|3521.2| |N|Collect 4 Moonpetal Lily found around the edge of the pond in Shadowglen (57, 37)|
-N 7 Hyacinth Mushroom |QID|3521.1| |N|Collect 7 Hyacinth Mushroom found around the bottom of trees or dropped from Grellkin in Shadowglen (57, 37)|
+L 4 Moonpetal Lily |QID|3521.2|
+L 7 Hyacinth Mushroom |QID|3521.1|
 
 R Shadowthread Cave |QID|917| |N|Enter Shadowthread Cave (56.80, 31.65)|
 C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and and collect Webwood Egg near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|

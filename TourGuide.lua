@@ -31,6 +31,7 @@ TourGuide.icons = setmetatable({
 	GETFLIGHTPOINT = "Interface\\Icons\\Ability_Hunter_EagleEye",
 	PET = "Interface\\Icons\\Ability_Hunter_BeastCall02",
 	DIE = "Interface\\AddOns\\TourGuide-Turtle\\media\\dead.tga",
+	LOOT = "Interface\\Icons\\INV_Misc_Bag_10_Blue",
 }, {__index = function() return "Interface\\Icons\\INV_Misc_QuestionMark" end})
 
 local defaults = {
