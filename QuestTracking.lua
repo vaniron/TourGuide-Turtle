@@ -136,12 +136,28 @@ function TourGuide:CRAFT_SHOW()
 end
 
 
-function TourGuide:BAG_UPDATE(event)
+function TourGuide:CheckCurrentStepItems()
 	-- Check if this is a LOOT objective
 	local action, quest = self:GetObjectiveInfo()
 	if action ~= "LOOT" then return end
 	
-	-- Parse the quest text to get the item count and name
+	-- Check if we have specific loot info from the step's tag
+	local lootitem, lootqty = self:GetObjectiveTag("L")
+	if lootitem then
+		lootqty = tonumber(lootqty) or 1
+		local itemCount = self.GetItemCount(lootitem)
+		self:Debug("CheckCurrentStepItems", action, quest, "ItemID:", lootitem, "Count:", itemCount, "Required:", lootqty)
+		
+		-- If we have enough items, mark the step as complete
+		if itemCount >= lootqty then
+			self:Debug("LOOT objective complete:", quest)
+			self:SetTurnedIn()
+			return true
+		end
+		return false
+	end
+	
+	-- Fall back to parsing the quest text (for backward compatibility)
 	local count, item = string.match(quest, "^(%d+)%s+(.+)$")
 	count = tonumber(count) or 1
 	
@@ -157,13 +173,20 @@ function TourGuide:BAG_UPDATE(event)
 		end
 	end
 	
-	self:Debug("BAG_UPDATE", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
+	self:Debug("CheckCurrentStepItems", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
 	
 	-- If we have enough items, mark the step as complete
 	if itemCount >= count then
 		self:Debug("LOOT objective complete:", quest)
 		self:SetTurnedIn()
+		return true
 	end
+	return false
+end
+
+
+function TourGuide:BAG_UPDATE(event)
+	self:CheckCurrentStepItems()
 end
 
 

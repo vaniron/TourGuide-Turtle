@@ -197,6 +197,12 @@ function TourGuide:UpdateStatusFrame()
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
 	local zonename = self:GetObjectiveTag("Z", nextstep) or self.zonename
 	self:Debug( string.format("Progressing to objective \"%s %s\"", action, quest))
+	
+	-- Check if we already have items for the current step (if it's a LOOT step)
+	if action == "LOOT" then
+		self:Debug("Checking if we already have items for this step")
+		self:CheckCurrentStepItems()
+	end
 
 	-- Mapping
 	if (TomTom or Cartographer_Waypoints) and (lastmapped ~= quest or lastmappedaction ~= action) then
