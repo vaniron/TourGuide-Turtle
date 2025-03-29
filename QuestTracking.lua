@@ -166,40 +166,6 @@ function TourGuide:BAG_UPDATE(event)
 	end
 end
 
--- Check if current step's loot requirement is already met
-function TourGuide:CheckCurrentStepLoot()
-    local action, quest = self:GetObjectiveInfo()
-    if action ~= "LOOT" then return end
-    
-    -- Look for the item tag to get the item ID
-    local lootitem, lootqty = self:GetObjectiveTag("L")
-    if not lootitem or not lootqty then return end
-    
-    -- Get the current count of the item
-    local itemCount = self.GetItemCount and self.GetItemCount(lootitem) or 0
-    lootqty = tonumber(lootqty) or 1
-    
-    self:Debug("CheckCurrentStepLoot", action, quest, "Item:", lootitem, "Count:", itemCount, "Required:", lootqty)
-    
-    -- If we have enough items, mark the step as complete
-    if itemCount >= lootqty then
-        self:Debug("LOOT objective already complete:", quest)
-        self:SetTurnedIn()
-    end
-end
-
--- Hook into SetTurnedIn to check the next step when advancing
-local originalSetTurnedIn = TourGuide.SetTurnedIn
-TourGuide.SetTurnedIn = function(self, ...)
-    local result = originalSetTurnedIn(self, ...)
-    
-    -- After advancing to a new step, check if it's a loot step and if it's already complete
-    if self and type(self.CheckCurrentStepLoot) == "function" then
-        self:CheckCurrentStepLoot()
-    end
-    
-    return result
-end
 
 local orig = GetQuestReward
 GetQuestReward = function(a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16,a17,a18,a19,a20)
