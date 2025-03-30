@@ -12,13 +12,60 @@ local db
 function TourGuide:InitializeQuestAutomation()
 	-- Initialize default settings if they don't exist
 	db = self.db.char
-	if db.autoaccept == nil then db.autoaccept = true end
-	if db.autoturnin == nil then db.autoturnin = true end
+	if db.autoaccept == nil then 
+		db.autoaccept = true 
+		self:Debug("Initializing autoaccept to: true")
+	else
+		self:Debug("Found existing autoaccept setting: " .. tostring(db.autoaccept))
+	end
+	
+	if db.autoturnin == nil then 
+		db.autoturnin = true 
+		self:Debug("Initializing autoturnin to: true")
+	else
+		self:Debug("Found existing autoturnin setting: " .. tostring(db.autoturnin))
+	end
+	
+	self:Debug("Quest automation settings - autoaccept: " .. tostring(db.autoaccept) .. ", autoturnin: " .. tostring(db.autoturnin))
 end
 
--- Called when the addon is loaded
+-- Check our registration status for the events
+function TourGuide:VerifyEventRegistration()
+    local events = {"QUEST_GREETING", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE", "GOSSIP_SHOW"}
+    
+    for _, event in ipairs(events) do
+        local isRegistered = self:IsEventRegistered(event)
+        self:Debug("Event " .. event .. " registration status: " .. tostring(isRegistered))
+    end
+end
+
+-- Store the original OnEnable function
+local orig_OnEnable = TourGuide.OnEnable
+
+-- Replace OnEnable with our own that calls the original
 function TourGuide:OnEnable()
-	self:InitializeQuestAutomation()
+    self:Debug("QuestTracking OnEnable called")
+    
+    -- Call the original OnEnable first
+    if orig_OnEnable then
+        self:Debug("Calling original OnEnable")
+        orig_OnEnable(self)
+    end
+    
+    -- Our additional initialization
+    self:Debug("Setting up quest automation")
+    self:InitializeQuestAutomation()
+    
+    -- Explicitly register these events to make sure they're handled
+    self:Debug("Explicitly registering quest automation events")
+    self:RegisterEvent("GOSSIP_SHOW")
+    self:RegisterEvent("QUEST_GREETING")
+    self:RegisterEvent("QUEST_DETAIL") 
+    self:RegisterEvent("QUEST_PROGRESS")
+    self:RegisterEvent("QUEST_COMPLETE")
+    
+    -- Check registration status
+    self:VerifyEventRegistration()
 	-- Other initialization code can go here
 end
 
@@ -31,51 +78,83 @@ end
 
 -- Handle gossip with multiple quests
 function TourGuide:GOSSIP_SHOW()
-	if not db.autoaccept then return end
+	self:Debug("GOSSIP_SHOW event fired")
+	if not db.autoaccept then 
+		self:Debug("Autoaccept disabled, ignoring")
+		return 
+	end
 	
 	local action, quest = self:GetObjectiveInfo()
-	if action ~= "ACCEPT" then return end
+	self:Debug("Current action: " .. (action or "nil") .. ", quest: " .. (quest or "nil"))
+	if action ~= "ACCEPT" then 
+		self:Debug("Current action is not ACCEPT, ignoring")
+		return 
+	end
 	
 	-- Clean up the quest name to match the gossip entries
 	quest = self:CleanQuestText(quest)
 	self:Debug("GOSSIP_SHOW", "Looking for quest:", quest)
 	
+	-- Debug the number of gossip options and quests
+	local numGossipOptions = GetNumGossipOptions()
+	local numAvailableQuests = GetNumGossipAvailableQuests()
+	local numActiveQuests = GetNumGossipActiveQuests()
+	self:Debug("Gossip options: " .. numGossipOptions .. ", Available quests: " .. numAvailableQuests .. ", Active quests: " .. numActiveQuests)
+	
 	-- Look through available quests in gossip
 	local availableQuests = {GetGossipAvailableQuests()}
+	self:Debug("Total gossip data entries: " .. #availableQuests)
+	
 	for i=1, select("#", GetGossipAvailableQuests()) / 6 do -- In 1.12 each quest has 6 return values
 		local questTitle = select((i-1)*6 + 1, GetGossipAvailableQuests())
 		questTitle = self:CleanQuestText(questTitle)
 		
-		self:Debug("Available quest:", questTitle)
+		self:Debug("Available quest #" .. i .. ": " .. (questTitle or "nil"))
 		
 		-- If this gossip option matches our current accept objective
 		if questTitle and quest and string.find(questTitle, quest, 1, true) then
-			self:Debug("Automatically selecting quest:", questTitle)
+			self:Debug("Match found! Automatically selecting quest:", questTitle)
 			SelectGossipAvailableQuest(i)
 			return
+		elseif questTitle and quest then
+			self:Debug("   No match - questTitle: '" .. questTitle .. "', quest: '" .. quest .. "'")
 		end
 	end
+	
+	self:Debug("No matching quest found in gossip")
 end
 
 -- Auto-accept a quest when shown in detail view
 function TourGuide:QUEST_DETAIL()
-	if not db.autoaccept then return end
+	self:Debug("QUEST_DETAIL event fired")
+	if not db.autoaccept then 
+		self:Debug("Autoaccept disabled, ignoring")
+		return 
+	end
 	
 	local action, quest = self:GetObjectiveInfo()
-	if action ~= "ACCEPT" then return end
+	self:Debug("Current action: " .. (action or "nil") .. ", quest: " .. (quest or "nil"))
+	if action ~= "ACCEPT" then 
+		self:Debug("Current action is not ACCEPT, ignoring")
+		return 
+	end
 	
 	-- Get quest title
 	local questTitle = self:CleanQuestText(GetTitleText())
 	quest = self:CleanQuestText(quest)
 	
-	self:Debug("QUEST_DETAIL", questTitle, quest)
+	self:Debug("QUEST_DETAIL", "Quest title:", questTitle, "Looking for:", quest)
 	
 	-- Check if this quest matches our current objective
 	if questTitle and quest and string.find(questTitle, quest, 1, true) then
-		self:Debug("Auto-accepting quest:", questTitle)
+		self:Debug("Match found! Auto-accepting quest:", questTitle)
 		AcceptQuest()
 		return
+	elseif questTitle and quest then
+		self:Debug("   No match - questTitle: '" .. questTitle .. "', quest: '" .. quest .. "'")
 	end
+	
+	self:Debug("Quest not accepted - no match found")
 end
 
 -- Auto-continue a quest that's in progress
