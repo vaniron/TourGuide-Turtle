@@ -42,6 +42,7 @@ GuideListFrame.lua
 ObjectivesFrame.lua
 UnlistedQuest.lua
 QuestTracking.lua
+EventHooks.lua
 
 NilGuide.lua
 
