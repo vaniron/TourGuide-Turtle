@@ -66,6 +66,28 @@ function TourGuide:AutoQuest_GOSSIP_SHOW()
 	end
 end
 
+-- Handle quest greeting screens (NPCs with multiple quests)
+function TourGuide:AutoQuest_QUEST_GREETING()
+	if not db.autoaccept then return end
+	
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "ACCEPT" then return end
+	
+	-- Clean up the quest name to match the gossip entries
+	quest = self:CleanQuestText(quest)
+	
+	-- Look through available quests in the quest greeting frame
+	for i=1, GetNumAvailableQuests() do
+		local questTitle = self:CleanQuestText(GetAvailableTitle(i))
+		
+		-- If this quest matches our current accept objective
+		if questTitle and quest and string.find(questTitle, quest, 1, true) then
+			SelectAvailableQuest(i)
+			return
+		end
+	end
+end
+
 -- Auto-accept a quest when shown in detail view
 function TourGuide:AutoQuest_QUEST_DETAIL()
 	if not db.autoaccept then return end
