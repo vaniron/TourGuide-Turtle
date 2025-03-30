@@ -3,9 +3,10 @@ local L = TourGuide.Locale
 local hadquest
 
 -- Add auto-accept and auto-turnin functionality for the current quest step
-TourGuide.TrackEvents = {"UI_INFO_MESSAGE", "CHAT_MSG_LOOT", "CHAT_MSG_SYSTEM", "QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "ZONE_CHANGED", "ZONE_CHANGED_INDOORS",
-	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD", "BAG_UPDATE",
-	"QUEST_GREETING", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE", "GOSSIP_SHOW"}
+-- Don't replace the TrackEvents table, just add our events to it
+for _, event in ipairs({"QUEST_GREETING", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE", "GOSSIP_SHOW"}) do
+    table.insert(TourGuide.TrackEvents, event)
+end
 
 -- Add a setting for auto-quest interaction
 local db
@@ -42,31 +43,35 @@ end
 -- Store the original OnEnable function
 local orig_OnEnable = TourGuide.OnEnable
 
--- Replace OnEnable with our own that calls the original
-function TourGuide:OnEnable()
-    self:Debug("QuestTracking OnEnable called")
+-- Replace OnEnable with our own that calls the original, with proper error handling
+TourGuide.OnEnable = function(self)
+    local status, err = pcall(function()
+        self:Debug("QuestTracking enhanced OnEnable called")
+        
+        -- Call the original OnEnable
+        if orig_OnEnable then
+            self:Debug("Calling original OnEnable")
+            orig_OnEnable(self)
+        end
+        
+        -- Our additional initialization - AFTER original has run
+        self:Debug("Setting up quest automation")
+        self:InitializeQuestAutomation()
+        
+        -- Don't re-register events that the core addon already registered
+        -- Just register any that might be missing
+        if not self:IsEventRegistered("GOSSIP_SHOW") then self:RegisterEvent("GOSSIP_SHOW") end
+        if not self:IsEventRegistered("QUEST_GREETING") then self:RegisterEvent("QUEST_GREETING") end
+        if not self:IsEventRegistered("QUEST_PROGRESS") then self:RegisterEvent("QUEST_PROGRESS") end
+        
+        -- Verify all events are properly registered
+        self:VerifyEventRegistration()
+    end)
     
-    -- Call the original OnEnable first
-    if orig_OnEnable then
-        self:Debug("Calling original OnEnable")
-        orig_OnEnable(self)
+    if not status then
+        -- If there was an error, log it and continue
+        DEFAULT_CHAT_FRAME:AddMessage("|cffff0000TourGuide Error:|r " .. tostring(err))
     end
-    
-    -- Our additional initialization
-    self:Debug("Setting up quest automation")
-    self:InitializeQuestAutomation()
-    
-    -- Explicitly register these events to make sure they're handled
-    self:Debug("Explicitly registering quest automation events")
-    self:RegisterEvent("GOSSIP_SHOW")
-    self:RegisterEvent("QUEST_GREETING")
-    self:RegisterEvent("QUEST_DETAIL") 
-    self:RegisterEvent("QUEST_PROGRESS")
-    self:RegisterEvent("QUEST_COMPLETE")
-    
-    -- Check registration status
-    self:VerifyEventRegistration()
-	-- Other initialization code can go here
 end
 
 -- Helper function to clean up quest text comparisons
