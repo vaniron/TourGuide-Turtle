@@ -457,3 +457,43 @@ GetQuestReward = function(a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16
 
 	return orig(a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16,a17,a18,a19,a20)
 end
+
+-- Direct debug helper - completely independent of TourGuide
+local debugFrame = CreateFrame("Frame", "TourGuideQuestDebugFrame")
+local function DirectDebug(msg)
+    DEFAULT_CHAT_FRAME:AddMessage("|cffff9900TG Direct Debug:|r " .. msg, 1, 0.7, 0)
+end
+
+-- Set up a simple event handler
+debugFrame:SetScript("OnEvent", function(self, event, ...)
+    DirectDebug("EVENT FIRED: " .. event)
+    
+    if event == "GOSSIP_SHOW" then
+        local numAvailableQuests = GetNumGossipAvailableQuests()
+        DirectDebug("Available quests: " .. numAvailableQuests)
+        
+        -- Get current objective
+        local action, quest
+        if TourGuide.GetObjectiveInfo then
+            action, quest = TourGuide:GetObjectiveInfo()
+            DirectDebug("Current objective - action: " .. (action or "nil") .. ", quest: " .. (quest or "nil"))
+        else
+            DirectDebug("GetObjectiveInfo not found on TourGuide!")
+        end
+    end
+    
+    if event == "QUEST_DETAIL" then
+        local title = GetTitleText() or "nil"
+        DirectDebug("Quest detail shown: " .. title)
+    end
+end)
+
+-- Register for all relevant events
+debugFrame:RegisterEvent("GOSSIP_SHOW")
+debugFrame:RegisterEvent("QUEST_DETAIL")
+debugFrame:RegisterEvent("QUEST_GREETING")
+debugFrame:RegisterEvent("QUEST_PROGRESS")
+debugFrame:RegisterEvent("QUEST_COMPLETE")
+
+-- Print a message to confirm this code ran
+DirectDebug("Quest tracking debug frame initialized")
