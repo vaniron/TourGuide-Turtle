@@ -2,76 +2,34 @@ local TourGuide = TourGuide
 local L = TourGuide.Locale
 local hadquest
 
--- Add auto-accept and auto-turnin functionality for the current quest step
--- Don't replace the TrackEvents table, just add our events to it
-for _, event in ipairs({"QUEST_GREETING", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE", "GOSSIP_SHOW"}) do
-    table.insert(TourGuide.TrackEvents, event)
-end
+-- The original TourGuide TrackEvents
+TourGuide.TrackEvents = {"UI_INFO_MESSAGE", "CHAT_MSG_LOOT", "CHAT_MSG_SYSTEM", "QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "ZONE_CHANGED", "ZONE_CHANGED_INDOORS",
+	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD", "BAG_UPDATE"}
 
--- Add a setting for auto-quest interaction
+-- Add auto-quest interaction settings
 local db
-function TourGuide:InitializeQuestAutomation()
+local function InitializeQuestAutomation(self)
 	-- Initialize default settings if they don't exist
 	db = self.db.char
-	if db.autoaccept == nil then 
-		db.autoaccept = true 
-		self:Debug("Initializing autoaccept to: true")
-	else
-		self:Debug("Found existing autoaccept setting: " .. tostring(db.autoaccept))
-	end
-	
-	if db.autoturnin == nil then 
-		db.autoturnin = true 
-		self:Debug("Initializing autoturnin to: true")
-	else
-		self:Debug("Found existing autoturnin setting: " .. tostring(db.autoturnin))
-	end
-	
-	self:Debug("Quest automation settings - autoaccept: " .. tostring(db.autoaccept) .. ", autoturnin: " .. tostring(db.autoturnin))
+	if db.autoaccept == nil then db.autoaccept = true end
+	if db.autoturnin == nil then db.autoturnin = true end
 end
 
--- Check our registration status for the events
-function TourGuide:VerifyEventRegistration()
-    local events = {"QUEST_GREETING", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE", "GOSSIP_SHOW"}
-    
-    for _, event in ipairs(events) do
-        local isRegistered = self:IsEventRegistered(event)
-        self:Debug("Event " .. event .. " registration status: " .. tostring(isRegistered))
+-- Hook the original RegisterEvents function
+local orig_PLAYER_ENTERING_WORLD = TourGuide.PLAYER_ENTERING_WORLD
+function TourGuide:PLAYER_ENTERING_WORLD()
+    -- Call the original function first
+    if orig_PLAYER_ENTERING_WORLD then
+        orig_PLAYER_ENTERING_WORLD(self)
     end
-end
-
--- Store the original OnEnable function
-local orig_OnEnable = TourGuide.OnEnable
-
--- Replace OnEnable with our own that calls the original, with proper error handling
-TourGuide.OnEnable = function(self)
-    local status, err = pcall(function()
-        self:Debug("QuestTracking enhanced OnEnable called")
-        
-        -- Call the original OnEnable
-        if orig_OnEnable then
-            self:Debug("Calling original OnEnable")
-            orig_OnEnable(self)
-        end
-        
-        -- Our additional initialization - AFTER original has run
-        self:Debug("Setting up quest automation")
-        self:InitializeQuestAutomation()
-        
-        -- Don't re-register events that the core addon already registered
-        -- Just register any that might be missing
-        if not self:IsEventRegistered("GOSSIP_SHOW") then self:RegisterEvent("GOSSIP_SHOW") end
-        if not self:IsEventRegistered("QUEST_GREETING") then self:RegisterEvent("QUEST_GREETING") end
-        if not self:IsEventRegistered("QUEST_PROGRESS") then self:RegisterEvent("QUEST_PROGRESS") end
-        
-        -- Verify all events are properly registered
-        self:VerifyEventRegistration()
-    end)
     
-    if not status then
-        -- If there was an error, log it and continue
-        DEFAULT_CHAT_FRAME:AddMessage("|cffff0000TourGuide Error:|r " .. tostring(err))
-    end
+    -- Register our additional events after initialization
+    self:RegisterEvent("GOSSIP_SHOW")
+    self:RegisterEvent("QUEST_GREETING")
+    self:RegisterEvent("QUEST_PROGRESS")
+    
+    -- Initialize our settings
+    InitializeQuestAutomation(self)
 end
 
 -- Helper function to clean up quest text comparisons
