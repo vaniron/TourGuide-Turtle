@@ -282,25 +282,20 @@ end
 
 
 function TourGuide:SetTurnedIn(i, value, noupdate)
-	self:Print(string.format("SetTurnedIn called: i=%s, value=%s, noupdate=%s", tostring(i), tostring(value), tostring(noupdate)))
 	if not i then
 		i = self.current
 		value = true
-		self:Print(string.format("SetTurnedIn: i was nil, using current=%d, value=true", self.current))
 	end
 
 	if value then value = true else value = nil end -- Cleanup to minimize savedvar data
 
 	local questName = self.quests[i]
-	self:Print(string.format("SetTurnedIn: Marking quest '%s' (index %d) as turned in = %s", tostring(questName), i, tostring(value)))
 	self.turnedin[questName] = value
 	self:Debug( string.format("Set turned in %q = %s", self.quests[i], tostring(value)))
 
 	if not noupdate then 
-		self:Print("SetTurnedIn: Calling UpdateStatusFrame()")
 		self:UpdateStatusFrame()
 	else 
-		self:Print(string.format("SetTurnedIn: Delaying UpdateStatusFrame (updatedelay=%s)", tostring(i)))
 		self.updatedelay = i 
 	end
 end

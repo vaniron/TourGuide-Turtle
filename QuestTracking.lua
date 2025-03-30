@@ -137,40 +137,34 @@ end
 
 
 function TourGuide:CheckCurrentStepItems()
-	self:Print("CheckCurrentStepItems called")
 	-- Check if this is a LOOT objective
 	local action, quest = self:GetObjectiveInfo()
-	self:Print(string.format("CheckCurrentStepItems: Current step action=%s, quest=%s", tostring(action), tostring(quest)))
-	if action ~= "LOOT" then 
-		self:Print("CheckCurrentStepItems: Not a LOOT step. Returning false.")
-		return false 
-	end -- Return false if not LOOT
+	if action ~= "LOOT" then return false end -- Return false if not LOOT
 	
 	-- Check if we have specific loot info from the step's tag
 	local lootitem, lootqty = self:GetObjectiveTag("L")
-	self:Print(string.format("CheckCurrentStepItems: Got tags lootitem=%s, lootqty=%s", tostring(lootitem), tostring(lootqty)))
 	if lootitem then
 		lootqty = tonumber(lootqty) or 1
 		local itemCount = self.GetItemCount(lootitem)
-		self:Print(string.format("CheckCurrentStepItems: Checking ItemID %s. Found %d, Need %d", tostring(lootitem), itemCount, lootqty))
+		self:Debug("CheckCurrentStepItems", action, quest, "ItemID:", lootitem, "Count:", itemCount, "Required:", lootqty)
 		
 		-- Return true if we have enough items
 		if itemCount >= lootqty then
-			self:Print("CheckCurrentStepItems: ItemID requirement met. Returning true.")
+			self:Debug("LOOT item requirement met (ItemID):", quest)
 			return true
 		end
-		self:Print("CheckCurrentStepItems: ItemID requirement NOT met (Tagged). Continuing...")
-	else
-		self:Print("CheckCurrentStepItems: No ItemID tag found. Falling back to text parsing.")
 	end
 	
 	-- Fall back to parsing the quest text (for backward compatibility)
 	local count, item = string.match(quest, "^(%d+)%s+(.+)$")
-	self:Print(string.format("CheckCurrentStepItems: Parsing text '%s'. Found count=%s, item=%s", tostring(quest), tostring(count), tostring(item)))
 	if not count or not item then 
-		self:Print("CheckCurrentStepItems: Could not parse text requirement. Returning false.")
-		return false 
-	end -- Cannot parse quest text requirement
+		-- Try matching without count (assumes 1)
+		count, item = 1, quest
+		-- Still need a basic check if item is likely just text
+		if string.find(item, "%s") then 
+			return false -- Failed to parse and item contains spaces, likely not a simple item name
+		end
+	end 
 	count = tonumber(count) or 1
 	
 	-- Check if we have enough items
@@ -179,37 +173,30 @@ function TourGuide:CheckCurrentStepItems()
 		for slot = 1, GetContainerNumSlots(bag) do
 			local link = GetContainerItemLink(bag, slot)
 			-- Use string match on the link to be more precise than find
-			if link and string.match(link, "item%:%d+%:%d+%:%d+%:%d+%:%d+%:%d+%:%d+%:%d+:"..item.."$") then
-			--if link and string.find(link, item) then -- Original less precise check
+			-- Match item:id:...:name$  (Item name must be at the very end)
+			if link and string.match(link, "|h%[.-\]|h$") and string.match(link, ":" .. item .. "|h$") then
 				local _, stackCount = GetContainerItemInfo(bag, slot)
 				itemCount = itemCount + stackCount
 			end
 		end
 	end
 	
-	self:Print(string.format("CheckCurrentStepItems: Checking Parsed Item '%s'. Found %d, Need %d", tostring(item), itemCount, count))
+	self:Debug("CheckCurrentStepItems", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
 	
 	-- Return true if we have enough items
 	if itemCount >= count then
-		self:Print("CheckCurrentStepItems: Parsed text requirement met. Returning true.")
+		self:Debug("LOOT item requirement met (Parsed Text):", quest)
 		return true
 	end
-	self:Print("CheckCurrentStepItems: Parsed text requirement NOT met. Returning false.")
 	return false -- Did not meet parsed text requirement
 end
 
 function TourGuide:BAG_UPDATE(event)
-	self:Print(string.format("BAG_UPDATE triggered. Event: %s", tostring(event)))
 	-- Call the check function, but it won't do anything unless the current step is LOOT
-	local shouldComplete = self:CheckCurrentStepItems()
-	self:Print(string.format("BAG_UPDATE: CheckCurrentStepItems returned %s", tostring(shouldComplete)))
-	if shouldComplete then
+	if self:CheckCurrentStepItems() then
 		-- If the check returns true, it means we just got the last item needed
 		-- We need to mark the step complete
-		self:Print("BAG_UPDATE: Calling SetTurnedIn()")
 		self:SetTurnedIn() 
-	else
-		self:Print("BAG_UPDATE: Not calling SetTurnedIn()")
 	end
 end
 
