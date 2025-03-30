@@ -197,12 +197,15 @@ function TourGuide:CheckCurrentStepItems()
 				self:Print("DEBUG: Sample bag item link: " .. tostring(link))
 			end
 			
-			-- Use string match on the link to be more precise than find
-			-- Match item:id:...:name$  (Item name must be at the very end)
-			if link and string.match(link, "|h%[.-\\]|h$") and string.match(link, ":" .. item .. "|h$") then
-				local _, stackCount = GetContainerItemInfo(bag, slot)
-				itemCount = itemCount + stackCount
-				self:Print("DEBUG: Found matching item in bag " .. bag .. " slot " .. slot .. " count " .. stackCount)
+			-- Use string pattern matching on item links
+			if link then
+				-- Extract the item name from the link (which appears between [ and ])
+				local itemName = string.match(link, "%[(.-)%]")
+				if itemName and itemName == item then
+					local _, stackCount = GetContainerItemInfo(bag, slot)
+					itemCount = itemCount + stackCount
+					self:Print("DEBUG: Found matching item '" .. itemName .. "' in bag " .. bag .. " slot " .. slot .. " count " .. stackCount)
+				end
 			end
 		end
 	end
