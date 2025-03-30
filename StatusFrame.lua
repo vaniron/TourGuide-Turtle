@@ -140,45 +140,6 @@ function TourGuide:UpdateStatusFrame()
 			local haslootitem = lootitem and self.GetItemCount(lootitem) >= lootqty
 			local prereqturnedin = prereq and self.turnedin[prereq]
 
-			self:Print(string.format("UpdateStatusFrame Loop: i=%d, action=%s, name=%s, turnedin=%s, logi=%s, complete=%s", i, tostring(action), tostring(name), tostring(turnedin), tostring(logi), tostring(complete)))
-			self:Print(string.format("UpdateStatusFrame Loop: haslootitem=%s (based on ItemID=%s, Qty=%s)", tostring(haslootitem), tostring(lootitem), tostring(lootqty)))
-
-			-- Test for completed objectives and mark them done
-			if action == "SETHEARTH" and self.db.char.hearth == name then 
-				self:Print("UpdateStatusFrame Loop: SETHEARTH complete, calling SetTurnedIn")
-				return self:SetTurnedIn(i, true) 
-			end
-
-			local zonetext, subzonetext, subzonetag = GetZoneText(), GetSubZoneText(), self:GetObjectiveTag("SZ")
-			if (action == "RUN" or action == "FLY" or action == "HEARTH" or action == "BOAT") and (subzonetext == name or subzonetext == subzonetag or zonetext == name or zonetext == subzonetag) then 
-				self:Print("UpdateStatusFrame Loop: Zone match complete, calling SetTurnedIn")
-				return self:SetTurnedIn(i, true) 
-			end
-
-			if action == "KILL" or action == "NOTE" then
-				if not optional and haslootitem then 
-					self:Print("UpdateStatusFrame Loop: KILL/NOTE haslootitem complete, calling SetTurnedIn")
-					return self:SetTurnedIn(i, true) 
-				end
-
-				local quest, questtext = self:GetObjectiveTag("Q", i), self:GetObjectiveTag("QO", i)
-				if quest and questtext then
-					local qi = self:GetQuestLogIndexByName(quest)
-					for lbi=1,GetNumQuestLeaderBoards(qi) do
-						--self:Debug( quest, questtext, qi, GetQuestLogLeaderBoard(lbi, qi))
-						if GetQuestLogLeaderBoard(lbi, qi) == questtext then 
-							self:Print("UpdateStatusFrame Loop: KILL/NOTE leaderboard complete, calling SetTurnedIn")
-							return self:SetTurnedIn(i, true) 
-						end
-					end
-				end
-			end
-
-			if action == "PET" and self.db.char.petskills[name] then 
-				self:Print("UpdateStatusFrame Loop: PET skill learned, calling SetTurnedIn")
-				return self:SetTurnedIn(i, true) 
-			end
-
 			local incomplete
 			if action == "ACCEPT" then incomplete = (not optional or hasuseitem or haslootitem or prereqturnedin) and not logi
 			elseif action == "TURNIN" then incomplete = not optional or logi
@@ -187,7 +148,6 @@ function TourGuide:UpdateStatusFrame()
 			elseif action == "GRIND" then incomplete = needlevel
 			else incomplete = not logi end
 
-			self:Print(string.format("UpdateStatusFrame Loop: Calculated incomplete=%s", tostring(incomplete)))
 			if incomplete then nextstep = i end
 
 			-- Mapping
@@ -210,18 +170,16 @@ function TourGuide:UpdateStatusFrame()
 	local turnedin, logi, complete = self:GetObjectiveStatus(nextstep)
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
 	local zonename = self:GetObjectiveTag("Z", nextstep) or self.zonename
-	self:Print( string.format("UpdateStatusFrame: Progressing to objective #%d: action=%s, quest=%s", nextstep, action, quest))
+	self:Debug( string.format("Progressing to objective \"%s %s\"", action, quest))
 
 	-- Check if the new current step is LOOT and if we already have the items
 	if action == "LOOT" then
-		self:Print("UpdateStatusFrame: Current step is LOOT, calling CheckCurrentStepItems...")
+		self:Debug("Current step is LOOT, checking inventory...")
 		if self:CheckCurrentStepItems() then 
 			-- We already have the items, mark this step as turned in
-			self:Print("UpdateStatusFrame: CheckCurrentStepItems returned true. Calling SetTurnedIn() for step " .. nextstep .. ": " .. quest)
+			self:Debug("Items already in inventory for LOOT step. Completing step: " .. quest)
 			self:SetTurnedIn() -- This will trigger UpdateStatusFrame again to find the *next* incomplete step
 			return -- Prevent the rest of the function from running for this completed step
-		else
-			self:Print("UpdateStatusFrame: CheckCurrentStepItems returned false. LOOT step remains active.")
 		end
 	end
 
