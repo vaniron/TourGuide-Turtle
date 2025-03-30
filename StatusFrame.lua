@@ -149,12 +149,6 @@ function TourGuide:UpdateStatusFrame()
 			else incomplete = not logi end
 
 			if incomplete then nextstep = i end
-
-			-- Mapping
-			if (TomTom or Cartographer_Waypoints) and (lastmapped ~= quest or lastmappedaction ~= action) then
-				lastmappedaction, lastmapped = action, quest
-				self:ParseAndMapCoords(qid, action, note, quest, zonename) --, zone)
-			end
 		end
 	end
 	QuestLog_Update()
@@ -164,13 +158,17 @@ function TourGuide:UpdateStatusFrame()
 
 	if not nextstep then return end
 
-	self:SetStatusText(nextstep)
-	self.current = nextstep
 	local action, quest, fullquest = self:GetObjectiveInfo(nextstep)
 	local turnedin, logi, complete = self:GetObjectiveStatus(nextstep)
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
 	local zonename = self:GetObjectiveTag("Z", nextstep) or self.zonename
 	self:Debug( string.format("Progressing to objective \"%s %s\"", action, quest))
+
+	-- Mapping
+	if (TomTom or Cartographer_Waypoints) and (lastmapped ~= quest or lastmappedaction ~= action) then
+		lastmappedaction, lastmapped = action, quest
+		self:ParseAndMapCoords(qid, action, note, quest, zonename) --, zone)
+	end
 
 	-- Check if the new current step is LOOT and if we already have the items
 	if action == "LOOT" then
