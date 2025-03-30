@@ -2,10 +2,172 @@ local TourGuide = TourGuide
 local L = TourGuide.Locale
 local hadquest
 
-
+-- Add auto-accept and auto-turnin functionality for the current quest step
 TourGuide.TrackEvents = {"UI_INFO_MESSAGE", "CHAT_MSG_LOOT", "CHAT_MSG_SYSTEM", "QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "ZONE_CHANGED", "ZONE_CHANGED_INDOORS",
-	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD", "BAG_UPDATE"}
+	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD", "BAG_UPDATE",
+	"QUEST_GREETING", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE", "GOSSIP_SHOW"}
 
+-- Add a setting for auto-quest interaction
+local db
+function TourGuide:InitializeQuestAutomation()
+	-- Initialize default settings if they don't exist
+	db = self.db.char
+	if db.autoaccept == nil then db.autoaccept = true end
+	if db.autoturnin == nil then db.autoturnin = true end
+end
+
+-- Called when the addon is loaded
+function TourGuide:OnEnable()
+	self:InitializeQuestAutomation()
+	-- Other initialization code can go here
+end
+
+-- Helper function to clean up quest text comparisons
+function TourGuide:CleanQuestText(text)
+	if not text then return nil end
+	-- Remove level tags like [32] or [28+]
+	return string.gsub(text, "%[[0-9%+%-]+]%s*", "")
+end
+
+-- Handle gossip with multiple quests
+function TourGuide:GOSSIP_SHOW()
+	if not db.autoaccept then return end
+	
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "ACCEPT" then return end
+	
+	-- Clean up the quest name to match the gossip entries
+	quest = self:CleanQuestText(quest)
+	self:Debug("GOSSIP_SHOW", "Looking for quest:", quest)
+	
+	-- Look through available quests in gossip
+	local availableQuests = {GetGossipAvailableQuests()}
+	for i=1, select("#", GetGossipAvailableQuests()) / 6 do -- In 1.12 each quest has 6 return values
+		local questTitle = select((i-1)*6 + 1, GetGossipAvailableQuests())
+		questTitle = self:CleanQuestText(questTitle)
+		
+		self:Debug("Available quest:", questTitle)
+		
+		-- If this gossip option matches our current accept objective
+		if questTitle and quest and string.find(questTitle, quest, 1, true) then
+			self:Debug("Automatically selecting quest:", questTitle)
+			SelectGossipAvailableQuest(i)
+			return
+		end
+	end
+end
+
+-- Auto-accept a quest when shown in detail view
+function TourGuide:QUEST_DETAIL()
+	if not db.autoaccept then return end
+	
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "ACCEPT" then return end
+	
+	-- Get quest title
+	local questTitle = self:CleanQuestText(GetTitleText())
+	quest = self:CleanQuestText(quest)
+	
+	self:Debug("QUEST_DETAIL", questTitle, quest)
+	
+	-- Check if this quest matches our current objective
+	if questTitle and quest and string.find(questTitle, quest, 1, true) then
+		self:Debug("Auto-accepting quest:", questTitle)
+		AcceptQuest()
+		return
+	end
+end
+
+-- Auto-continue a quest that's in progress
+function TourGuide:QUEST_PROGRESS()
+	if not db.autoturnin then return end
+	
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "TURNIN" then return end
+	
+	-- Get quest title
+	local questTitle = self:CleanQuestText(GetTitleText())
+	quest = self:CleanQuestText(quest)
+	
+	self:Debug("QUEST_PROGRESS", questTitle, quest)
+	
+	-- Check if this quest matches our current objective
+	if questTitle and quest and string.find(questTitle, quest, 1, true) and IsQuestCompletable() then
+		self:Debug("Auto-continuing quest turnin:", questTitle)
+		CompleteQuest()
+		return
+	end
+end
+
+-- Auto-complete a quest and select a reward if necessary
+function TourGuide:QUEST_COMPLETE()
+	if not db.autoturnin then return end
+	
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "TURNIN" then return end
+	
+	-- Get quest title
+	local questTitle = self:CleanQuestText(GetTitleText())
+	quest = self:CleanQuestText(quest)
+	
+	self:Debug("QUEST_COMPLETE", questTitle, quest)
+	
+	-- Check if this quest matches our current objective
+	if questTitle and quest and string.find(questTitle, quest, 1, true) then
+		-- If there is a reward, select the first one
+		if GetNumQuestChoices() > 0 then
+			self:Debug("Auto-selecting first reward for:", questTitle)
+			GetQuestReward(1)
+		else
+			self:Debug("Auto-completing quest:", questTitle)
+			GetQuestReward(0)
+		end
+		return
+	end
+end
+
+-- Update the OptionsFrame with new settings
+local orig_OptionsFrame_Initialize = TourGuide.OptionsFrame_Initialize
+function TourGuide:OptionsFrame_Initialize()
+	-- Call original function
+	if orig_OptionsFrame_Initialize then
+		orig_OptionsFrame_Initialize(self)
+	end
+	
+	-- Add new options
+	local frame = self.optionsframe
+	local offset = -5
+	
+	if frame.lastitem then
+		offset = -frame.lastitem:GetHeight() - 5
+	end
+	
+	-- Create auto-accept checkbox
+	local autoaccept = CreateFrame("CheckButton", nil, frame, "OptionsCheckButtonTemplate")
+	autoaccept:SetPoint("TOPLEFT", frame.lastitem or frame, "BOTTOMLEFT", 0, offset)
+	autoaccept:SetScript("OnClick", function()
+		db.autoaccept = this:GetChecked()
+	end)
+	autoaccept:SetChecked(db.autoaccept)
+	_G[autoaccept:GetName().."Text"]:SetText("Auto-Accept Quests")
+	autoaccept.tooltipText = "Automatically accept quests that match the current step"
+	frame.autoaccept = autoaccept
+	
+	-- Create auto-turnin checkbox
+	local autoturnin = CreateFrame("CheckButton", nil, frame, "OptionsCheckButtonTemplate")
+	autoturnin:SetPoint("TOPLEFT", autoaccept, "BOTTOMLEFT", 0, -5)
+	autoturnin:SetScript("OnClick", function()
+		db.autoturnin = this:GetChecked()
+	end)
+	autoturnin:SetChecked(db.autoturnin)
+	_G[autoturnin:GetName().."Text"]:SetText("Auto-Turn In Quests")
+	autoturnin.tooltipText = "Automatically turn in completed quests that match the current step"
+	frame.autoturnin = autoturnin
+	
+	-- Update last item for further additions
+	frame.lastitem = autoturnin
+end
+TourGuide.OptionsFrame_Initialize = orig_OptionsFrame_Initialize and TourGuide.OptionsFrame_Initialize or TourGuide.OptionsFrame_Initialize
 
 function TourGuide:ADDON_LOADED(event, addon)
 	if addon ~= "Blizzard_TrainerUI" then return end

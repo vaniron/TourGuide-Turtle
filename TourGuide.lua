@@ -127,6 +127,9 @@ function TourGuide:OnEnable() -- PLAYER_LOGIN (2)
 
 	if self.db.char.debug then self:SetDebugging(true)
 	else self:SetDebugging(false)	end
+	
+	-- Initialize quest automation settings
+	self:InitializeQuestAutomation()
 
 	if self.db.char.currentguide == "No Guide" and UnitLevel("player") == 1 and UnitXP("player") == 0 then
 		local startguides = {Orc = "Durotar (1-12)", Troll = "Durotar (1-12)", Tauren = "Mulgore (1-12)", Undead = "Tirisfal Glades (1-12)",
