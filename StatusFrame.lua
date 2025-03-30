@@ -157,7 +157,10 @@ function TourGuide:UpdateStatusFrame()
 	if not nextstep and self:LoadNextGuide() then return self:UpdateStatusFrame() end
 
 	if not nextstep then return end
-
+	
+	self:SetStatusText(nextstep)
+	self.current = nextstep
+	
 	local action, quest, fullquest = self:GetObjectiveInfo(nextstep)
 	local turnedin, logi, complete = self:GetObjectiveStatus(nextstep)
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
