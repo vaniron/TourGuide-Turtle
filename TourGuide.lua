@@ -206,7 +206,9 @@ function TourGuide:PLAYER_ENTERING_WORLD()
 	end
 	-- deferred Enable (PLAYER_LOGIN)
 	if not self.enableDone then
-		for _,event in pairs(self.TrackEvents) do self:RegisterEvent(event) end
+		if self.TrackEvents then
+			for _,event in pairs(self.TrackEvents) do self:RegisterEvent(event) end
+		end
 		self:RegisterEvent("QUEST_COMPLETE", "UpdateStatusFrame")
 		self:RegisterEvent("QUEST_DETAIL", "UpdateStatusFrame")
 		self.TrackEvents = nil
