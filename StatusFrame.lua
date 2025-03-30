@@ -197,11 +197,16 @@ function TourGuide:UpdateStatusFrame()
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
 	local zonename = self:GetObjectiveTag("Z", nextstep) or self.zonename
 	self:Debug( string.format("Progressing to objective \"%s %s\"", action, quest))
-	
-	-- Check if we already have items for the current step (if it's a LOOT step)
+
+	-- Check if the new current step is LOOT and if we already have the items
 	if action == "LOOT" then
-		self:Debug("Checking if we already have items for this step")
-		self:CheckCurrentStepItems()
+		self:Debug("Current step is LOOT, checking inventory...")
+		if self:CheckCurrentStepItems() then 
+			-- We already have the items, mark this step as turned in
+			self:Debug("Items already in inventory for LOOT step. Completing step: " .. quest)
+			self:SetTurnedIn() -- This will trigger UpdateStatusFrame again to find the *next* incomplete step
+			return -- Prevent the rest of the function from running for this completed step
+		end
 	end
 
 	-- Mapping

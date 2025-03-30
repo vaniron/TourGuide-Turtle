@@ -139,7 +139,7 @@ end
 function TourGuide:CheckCurrentStepItems()
 	-- Check if this is a LOOT objective
 	local action, quest = self:GetObjectiveInfo()
-	if action ~= "LOOT" then return end
+	if action ~= "LOOT" then return false end
 	
 	-- Check if we have specific loot info from the step's tag
 	local lootitem, lootqty = self:GetObjectiveTag("L")
@@ -148,17 +148,17 @@ function TourGuide:CheckCurrentStepItems()
 		local itemCount = self.GetItemCount(lootitem)
 		self:Debug("CheckCurrentStepItems", action, quest, "ItemID:", lootitem, "Count:", itemCount, "Required:", lootqty)
 		
-		-- If we have enough items, mark the step as complete
+		-- Return true if we have enough items
 		if itemCount >= lootqty then
-			self:Debug("LOOT objective complete:", quest)
-			self:SetTurnedIn()
+			self:Debug("LOOT item requirement met (ItemID):", quest)
 			return true
 		end
-		return false
+		return false -- Did not meet tagged item requirement
 	end
 	
 	-- Fall back to parsing the quest text (for backward compatibility)
 	local count, item = string.match(quest, "^(%d+)%s+(.+)$")
+	if not count then return false end -- Cannot parse quest text requirement
 	count = tonumber(count) or 1
 	
 	-- Check if we have enough items
@@ -175,20 +175,22 @@ function TourGuide:CheckCurrentStepItems()
 	
 	self:Debug("CheckCurrentStepItems", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
 	
-	-- If we have enough items, mark the step as complete
+	-- Return true if we have enough items
 	if itemCount >= count then
-		self:Debug("LOOT objective complete:", quest)
-		self:SetTurnedIn()
+		self:Debug("LOOT item requirement met (Parsed Text):", quest)
 		return true
 	end
-	return false
+	return false -- Did not meet parsed text requirement
 end
-
 
 function TourGuide:BAG_UPDATE(event)
-	self:CheckCurrentStepItems()
+	-- Call the check function, but it won't do anything unless the current step is LOOT
+	if self:CheckCurrentStepItems() then
+		-- If the check returns true, it means we just got the last item needed
+		-- We need to mark the step complete
+		self:SetTurnedIn() 
+	end
 end
-
 
 local orig = GetQuestReward
 GetQuestReward = function(a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16,a17,a18,a19,a20)
