@@ -3,10 +3,11 @@
 ## Title: TourGuide |cff7fff7f -Ace2-|r
 ## Notes: Powerleveling guide framework
 ## Author: cralor
-## Version: 1.2
-## X-Credits: Tekkub, Road-block, rsheep
+## Version: 1.3
+## X-Credits: Tekkub, Road-block, rsheep, LarsArnth
 ## X-Category: Quest
 ## X-Website: https://github.com/cralor/TourGuideVanilla
+## X-Feature: Auto-detect collected items for LOOT steps (v1.3)
 
 ## SavedVariables: TourGuideAlphaDB
 

@@ -137,31 +137,19 @@ end
 
 
 function TourGuide:CheckCurrentStepItems()
-	-- Print debug info to chat
-	self:Print("DEBUG: CheckCurrentStepItems called")
-	
 	-- Check if this is a LOOT objective
 	local action, quest = self:GetObjectiveInfo()
-	self:Print("DEBUG: Current step - Action: " .. tostring(action) .. ", Quest: " .. tostring(quest))
-	
-	if action ~= "LOOT" then 
-		self:Print("DEBUG: Current step is not a LOOT objective, returning false")
-		return false 
-	end
+	if action ~= "LOOT" then return false end
 	
 	-- Check if we have specific loot info from the step's tag
 	local lootitem, lootqty = self:GetObjectiveTag("L")
-	self:Print("DEBUG: LOOT tag - ItemID: " .. tostring(lootitem) .. ", Qty: " .. tostring(lootqty))
-	
 	if lootitem then
 		lootqty = tonumber(lootqty) or 1
 		local itemCount = self.GetItemCount(lootitem)
-		self:Print("DEBUG: ItemID check - Found: " .. itemCount .. ", Required: " .. lootqty)
 		self:Debug("CheckCurrentStepItems", action, quest, "ItemID:", lootitem, "Count:", itemCount, "Required:", lootqty)
 		
 		-- Return true if we have enough items
 		if itemCount >= lootqty then
-			self:Print("DEBUG: Have enough items based on tag check")
 			self:Debug("LOOT item requirement met (ItemID):", quest)
 			return true
 		end
@@ -169,33 +157,22 @@ function TourGuide:CheckCurrentStepItems()
 	
 	-- Fall back to parsing the quest text (for backward compatibility)
 	local count, item = string.match(quest, "^(%d+)%s+(.+)$")
-	self:Print("DEBUG: Parsing quest text: " .. tostring(quest))
-	self:Print("DEBUG: Parsed count: " .. tostring(count) .. ", item: " .. tostring(item))
-	
 	if not count or not item then 
 		-- Try matching without count (assumes 1)
 		count, item = 1, quest
-		self:Print("DEBUG: No count found, assuming count=1, item=" .. tostring(quest))
-		
 		-- Still need a basic check if item is likely just text
 		if string.find(item, "%s") then 
-			self:Print("DEBUG: Item name contains spaces, likely not a simple item - returning false")
 			return false -- Failed to parse and item contains spaces, likely not a simple item name
 		end
 	end 
 	
 	count = tonumber(count) or 1
-	self:Print("DEBUG: Looking for item: " .. tostring(item) .. ", need: " .. count)
 	
 	-- Check if we have enough items
 	local itemCount = 0
 	for bag = 0, 4 do
 		for slot = 1, GetContainerNumSlots(bag) do
 			local link = GetContainerItemLink(bag, slot)
-			-- Dump the link for the first few items to debug
-			if link and itemCount < 3 then
-				self:Print("DEBUG: Sample bag item link: " .. tostring(link))
-			end
 			
 			-- Use string pattern matching on item links
 			if link then
@@ -204,40 +181,28 @@ function TourGuide:CheckCurrentStepItems()
 				if itemName and itemName == item then
 					local _, stackCount = GetContainerItemInfo(bag, slot)
 					itemCount = itemCount + stackCount
-					self:Print("DEBUG: Found matching item '" .. itemName .. "' in bag " .. bag .. " slot " .. slot .. " count " .. stackCount)
 				end
 			end
 		end
 	end
 	
-	self:Print("DEBUG: Total item count: " .. itemCount .. ", Required: " .. count)
 	self:Debug("CheckCurrentStepItems", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
 	
 	-- Return true if we have enough items
 	if itemCount >= count then
-		self:Print("DEBUG: Have enough items based on text check")
 		self:Debug("LOOT item requirement met (Parsed Text):", quest)
 		return true
 	end
 	
-	self:Print("DEBUG: Not enough items found, returning false")
 	return false -- Did not meet parsed text requirement
 end
 
 function TourGuide:BAG_UPDATE(event)
-	self:Print("DEBUG: BAG_UPDATE triggered - event: " .. tostring(event))
-	
 	-- Call the check function, but it won't do anything unless the current step is LOOT
-	local hasItems = self:CheckCurrentStepItems()
-	self:Print("DEBUG: CheckCurrentStepItems returned: " .. tostring(hasItems))
-	
-	if hasItems then
+	if self:CheckCurrentStepItems() then
 		-- If the check returns true, it means we just got the last item needed
 		-- We need to mark the step complete
-		self:Print("DEBUG: Calling SetTurnedIn()")
 		self:SetTurnedIn() 
-	else
-		self:Print("DEBUG: Not calling SetTurnedIn()")
 	end
 end
 
