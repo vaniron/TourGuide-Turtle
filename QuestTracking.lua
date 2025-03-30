@@ -137,28 +137,40 @@ end
 
 
 function TourGuide:CheckCurrentStepItems()
+	self:Print("CheckCurrentStepItems called")
 	-- Check if this is a LOOT objective
 	local action, quest = self:GetObjectiveInfo()
-	if action ~= "LOOT" then return false end
+	self:Print(string.format("CheckCurrentStepItems: Current step action=%s, quest=%s", tostring(action), tostring(quest)))
+	if action ~= "LOOT" then 
+		self:Print("CheckCurrentStepItems: Not a LOOT step. Returning false.")
+		return false 
+	end -- Return false if not LOOT
 	
 	-- Check if we have specific loot info from the step's tag
 	local lootitem, lootqty = self:GetObjectiveTag("L")
+	self:Print(string.format("CheckCurrentStepItems: Got tags lootitem=%s, lootqty=%s", tostring(lootitem), tostring(lootqty)))
 	if lootitem then
 		lootqty = tonumber(lootqty) or 1
 		local itemCount = self.GetItemCount(lootitem)
-		self:Debug("CheckCurrentStepItems", action, quest, "ItemID:", lootitem, "Count:", itemCount, "Required:", lootqty)
+		self:Print(string.format("CheckCurrentStepItems: Checking ItemID %s. Found %d, Need %d", tostring(lootitem), itemCount, lootqty))
 		
 		-- Return true if we have enough items
 		if itemCount >= lootqty then
-			self:Debug("LOOT item requirement met (ItemID):", quest)
+			self:Print("CheckCurrentStepItems: ItemID requirement met. Returning true.")
 			return true
 		end
-		return false -- Did not meet tagged item requirement
+		self:Print("CheckCurrentStepItems: ItemID requirement NOT met (Tagged). Continuing...")
+	else
+		self:Print("CheckCurrentStepItems: No ItemID tag found. Falling back to text parsing.")
 	end
 	
 	-- Fall back to parsing the quest text (for backward compatibility)
 	local count, item = string.match(quest, "^(%d+)%s+(.+)$")
-	if not count then return false end -- Cannot parse quest text requirement
+	self:Print(string.format("CheckCurrentStepItems: Parsing text '%s'. Found count=%s, item=%s", tostring(quest), tostring(count), tostring(item)))
+	if not count or not item then 
+		self:Print("CheckCurrentStepItems: Could not parse text requirement. Returning false.")
+		return false 
+	end -- Cannot parse quest text requirement
 	count = tonumber(count) or 1
 	
 	-- Check if we have enough items
@@ -166,29 +178,38 @@ function TourGuide:CheckCurrentStepItems()
 	for bag = 0, 4 do
 		for slot = 1, GetContainerNumSlots(bag) do
 			local link = GetContainerItemLink(bag, slot)
-			if link and string.find(link, item) then
+			-- Use string match on the link to be more precise than find
+			if link and string.match(link, "item%:%d+%:%d+%:%d+%:%d+%:%d+%:%d+%:%d+%:%d+:"..item.."$") then
+			--if link and string.find(link, item) then -- Original less precise check
 				local _, stackCount = GetContainerItemInfo(bag, slot)
 				itemCount = itemCount + stackCount
 			end
 		end
 	end
 	
-	self:Debug("CheckCurrentStepItems", action, quest, "Item:", item, "Count:", itemCount, "Required:", count)
+	self:Print(string.format("CheckCurrentStepItems: Checking Parsed Item '%s'. Found %d, Need %d", tostring(item), itemCount, count))
 	
 	-- Return true if we have enough items
 	if itemCount >= count then
-		self:Debug("LOOT item requirement met (Parsed Text):", quest)
+		self:Print("CheckCurrentStepItems: Parsed text requirement met. Returning true.")
 		return true
 	end
+	self:Print("CheckCurrentStepItems: Parsed text requirement NOT met. Returning false.")
 	return false -- Did not meet parsed text requirement
 end
 
 function TourGuide:BAG_UPDATE(event)
+	self:Print(string.format("BAG_UPDATE triggered. Event: %s", tostring(event)))
 	-- Call the check function, but it won't do anything unless the current step is LOOT
-	if self:CheckCurrentStepItems() then
+	local shouldComplete = self:CheckCurrentStepItems()
+	self:Print(string.format("BAG_UPDATE: CheckCurrentStepItems returned %s", tostring(shouldComplete)))
+	if shouldComplete then
 		-- If the check returns true, it means we just got the last item needed
 		-- We need to mark the step complete
+		self:Print("BAG_UPDATE: Calling SetTurnedIn()")
 		self:SetTurnedIn() 
+	else
+		self:Print("BAG_UPDATE: Not calling SetTurnedIn()")
 	end
 end
 

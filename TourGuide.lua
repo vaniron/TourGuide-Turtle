@@ -26,7 +26,6 @@ TourGuide.icons = setmetatable({
 	NOTE = "Interface\\Icons\\INV_Misc_Note_01",
 	GRIND = "Interface\\Icons\\INV_Stone_GrindingStone_05",
 	USE = "Interface\\Icons\\INV_Misc_Bag_08",
-	BUY = "Interface\\Icons\\INV_Misc_Coin_01",
 	BOAT = "Interface\\Icons\\Ability_Druid_AquaticForm",
 	GETFLIGHTPOINT = "Interface\\Icons\\Ability_Hunter_EagleEye",
 	PET = "Interface\\Icons\\Ability_Hunter_BeastCall02",
@@ -283,43 +282,27 @@ end
 
 
 function TourGuide:SetTurnedIn(i, value, noupdate)
+	self:Print(string.format("SetTurnedIn called: i=%s, value=%s, noupdate=%s", tostring(i), tostring(value), tostring(noupdate)))
 	if not i then
 		i = self.current
 		value = true
+		self:Print(string.format("SetTurnedIn: i was nil, using current=%d, value=true", self.current))
 	end
 
 	if value then value = true else value = nil end -- Cleanup to minimize savedvar data
 
-	self.turnedin[self.quests[i]] = value
+	local questName = self.quests[i]
+	self:Print(string.format("SetTurnedIn: Marking quest '%s' (index %d) as turned in = %s", tostring(questName), i, tostring(value)))
+	self.turnedin[questName] = value
 	self:Debug( string.format("Set turned in %q = %s", self.quests[i], tostring(value)))
-	
-	-- If we're completing the current step, check the next step for LOOT objectives
-	if i == self.current and value and self.current < table.getn(self.actions) then
-		local nextAction, nextQuest = self:GetObjectiveInfo(self.current + 1)
-		self:Debug("Next step: " .. (nextAction or "nil") .. " - " .. (nextQuest or "nil"))
-		
-		-- If next step is a LOOT objective, check if we already have the items
-		if nextAction == "LOOT" then
-			local lootitem, lootqty = self:GetObjectiveTag("L", self.current + 1)
-			self:Debug("LOOT check: " .. (lootitem or "nil") .. " qty: " .. (lootqty or "nil"))
-			
-			-- If we have item tag data, check the player's bags
-			if lootitem and lootqty then
-				lootqty = tonumber(lootqty) or 1
-				local itemCount = self.GetItemCount(lootitem)
-				self:Debug("Item count: " .. itemCount .. " / needed: " .. lootqty)
-				
-				-- If we have enough items, auto-complete the next step too
-				if itemCount >= lootqty then
-					self:Debug("LOOT objective auto-complete: " .. nextQuest)
-					self.turnedin[nextQuest] = true
-				end
-			end
-		end
+
+	if not noupdate then 
+		self:Print("SetTurnedIn: Calling UpdateStatusFrame()")
+		self:UpdateStatusFrame()
+	else 
+		self:Print(string.format("SetTurnedIn: Delaying UpdateStatusFrame (updatedelay=%s)", tostring(i)))
+		self.updatedelay = i 
 	end
-	
-	if not noupdate then self:UpdateStatusFrame()
-	else self.updatedelay = i end
 end
 
 

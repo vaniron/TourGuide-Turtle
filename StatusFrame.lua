@@ -140,26 +140,44 @@ function TourGuide:UpdateStatusFrame()
 			local haslootitem = lootitem and self.GetItemCount(lootitem) >= lootqty
 			local prereqturnedin = prereq and self.turnedin[prereq]
 
+			self:Print(string.format("UpdateStatusFrame Loop: i=%d, action=%s, name=%s, turnedin=%s, logi=%s, complete=%s", i, tostring(action), tostring(name), tostring(turnedin), tostring(logi), tostring(complete)))
+			self:Print(string.format("UpdateStatusFrame Loop: haslootitem=%s (based on ItemID=%s, Qty=%s)", tostring(haslootitem), tostring(lootitem), tostring(lootqty)))
+
 			-- Test for completed objectives and mark them done
-			if action == "SETHEARTH" and self.db.char.hearth == name then return self:SetTurnedIn(i, true) end
+			if action == "SETHEARTH" and self.db.char.hearth == name then 
+				self:Print("UpdateStatusFrame Loop: SETHEARTH complete, calling SetTurnedIn")
+				return self:SetTurnedIn(i, true) 
+			end
 
 			local zonetext, subzonetext, subzonetag = GetZoneText(), GetSubZoneText(), self:GetObjectiveTag("SZ")
-			if (action == "RUN" or action == "FLY" or action == "HEARTH" or action == "BOAT") and (subzonetext == name or subzonetext == subzonetag or zonetext == name or zonetext == subzonetag) then return self:SetTurnedIn(i, true) end
+			if (action == "RUN" or action == "FLY" or action == "HEARTH" or action == "BOAT") and (subzonetext == name or subzonetext == subzonetag or zonetext == name or zonetext == subzonetag) then 
+				self:Print("UpdateStatusFrame Loop: Zone match complete, calling SetTurnedIn")
+				return self:SetTurnedIn(i, true) 
+			end
 
 			if action == "KILL" or action == "NOTE" then
-				if not optional and haslootitem then return self:SetTurnedIn(i, true) end
+				if not optional and haslootitem then 
+					self:Print("UpdateStatusFrame Loop: KILL/NOTE haslootitem complete, calling SetTurnedIn")
+					return self:SetTurnedIn(i, true) 
+				end
 
 				local quest, questtext = self:GetObjectiveTag("Q", i), self:GetObjectiveTag("QO", i)
 				if quest and questtext then
 					local qi = self:GetQuestLogIndexByName(quest)
 					for lbi=1,GetNumQuestLeaderBoards(qi) do
-						self:Debug( quest, questtext, qi, GetQuestLogLeaderBoard(lbi, qi))
-						if GetQuestLogLeaderBoard(lbi, qi) == questtext then return self:SetTurnedIn(i, true) end
+						--self:Debug( quest, questtext, qi, GetQuestLogLeaderBoard(lbi, qi))
+						if GetQuestLogLeaderBoard(lbi, qi) == questtext then 
+							self:Print("UpdateStatusFrame Loop: KILL/NOTE leaderboard complete, calling SetTurnedIn")
+							return self:SetTurnedIn(i, true) 
+						end
 					end
 				end
 			end
 
-			if action == "PET" and self.db.char.petskills[name] then return self:SetTurnedIn(i, true) end
+			if action == "PET" and self.db.char.petskills[name] then 
+				self:Print("UpdateStatusFrame Loop: PET skill learned, calling SetTurnedIn")
+				return self:SetTurnedIn(i, true) 
+			end
 
 			local incomplete
 			if action == "ACCEPT" then incomplete = (not optional or hasuseitem or haslootitem or prereqturnedin) and not logi
@@ -169,17 +187,13 @@ function TourGuide:UpdateStatusFrame()
 			elseif action == "GRIND" then incomplete = needlevel
 			else incomplete = not logi end
 
+			self:Print(string.format("UpdateStatusFrame Loop: Calculated incomplete=%s", tostring(incomplete)))
 			if incomplete then nextstep = i end
 
-			if action == "COMPLETE" and logi and self.db.char.trackquests then
-				local j = i
-				repeat
-					action = self:GetObjectiveInfo(j)
-					turnedin, logi, complete = self:GetObjectiveStatus(j)
-					if action == "COMPLETE" and logi and not complete then if not IsQuestWatched(logi) then AddQuestWatch(logi) end-- Watch if we're in a 'COMPLETE' block
-					elseif action == "COMPLETE" and logi then RemoveQuestWatch(logi) end -- or unwatch if done
-					j = j + 1
-				until action ~= "COMPLETE"
+			-- Mapping
+			if (TomTom or Cartographer_Waypoints) and (lastmapped ~= quest or lastmappedaction ~= action) then
+				lastmappedaction, lastmapped = action, quest
+				self:ParseAndMapCoords(qid, action, note, quest, zonename) --, zone)
 			end
 		end
 	end
@@ -196,25 +210,20 @@ function TourGuide:UpdateStatusFrame()
 	local turnedin, logi, complete = self:GetObjectiveStatus(nextstep)
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
 	local zonename = self:GetObjectiveTag("Z", nextstep) or self.zonename
-	self:Debug( string.format("Progressing to objective \"%s %s\"", action, quest))
+	self:Print( string.format("UpdateStatusFrame: Progressing to objective #%d: action=%s, quest=%s", nextstep, action, quest))
 
 	-- Check if the new current step is LOOT and if we already have the items
 	if action == "LOOT" then
-		self:Debug("Current step is LOOT, checking inventory...")
+		self:Print("UpdateStatusFrame: Current step is LOOT, calling CheckCurrentStepItems...")
 		if self:CheckCurrentStepItems() then 
 			-- We already have the items, mark this step as turned in
-			self:Debug("Items already in inventory for LOOT step. Completing step: " .. quest)
+			self:Print("UpdateStatusFrame: CheckCurrentStepItems returned true. Calling SetTurnedIn() for step " .. nextstep .. ": " .. quest)
 			self:SetTurnedIn() -- This will trigger UpdateStatusFrame again to find the *next* incomplete step
 			return -- Prevent the rest of the function from running for this completed step
+		else
+			self:Print("UpdateStatusFrame: CheckCurrentStepItems returned false. LOOT step remains active.")
 		end
 	end
-
-	-- Mapping
-	if (TomTom or Cartographer_Waypoints) and (lastmapped ~= quest or lastmappedaction ~= action) then
-		lastmappedaction, lastmapped = action, quest
-		self:ParseAndMapCoords(qid, action, note, quest, zonename) --, zone)
-	end
-
 
 	local newtext = (quest or "???")..(note and " [?]" or "")
 
@@ -229,6 +238,7 @@ function TourGuide:UpdateStatusFrame()
 		f2:SetPoint(f2anchor, f, f2anchor, 0, 0)
 		f2:SetAlpha(1)
 		icon2:SetTexture(icon:GetTexture())
+		icon2:SetTexCoord(4/48, 44/48, 4/48, 44/48)
 		text2:SetText(text:GetText())
 		f2:Show()
 	end
