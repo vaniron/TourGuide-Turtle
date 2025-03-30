@@ -2,35 +2,39 @@ local TourGuide = TourGuide
 local L = TourGuide.Locale
 local hadquest
 
--- The original TourGuide TrackEvents
-TourGuide.TrackEvents = {"UI_INFO_MESSAGE", "CHAT_MSG_LOOT", "CHAT_MSG_SYSTEM", "QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "ZONE_CHANGED", "ZONE_CHANGED_INDOORS",
-	"MINIMAP_ZONE_CHANGED", "ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED", "CRAFT_SHOW", "PLAYER_DEAD", "BAG_UPDATE"}
-
 -- Add auto-quest interaction settings
 local db
-local function InitializeQuestAutomation(self)
-	-- Initialize default settings if they don't exist
-	db = self.db.char
-	if db.autoaccept == nil then db.autoaccept = true end
-	if db.autoturnin == nil then db.autoturnin = true end
-end
 
--- Hook the original RegisterEvents function
-local orig_PLAYER_ENTERING_WORLD = TourGuide.PLAYER_ENTERING_WORLD
-function TourGuide:PLAYER_ENTERING_WORLD()
-    -- Call the original function first
-    if orig_PLAYER_ENTERING_WORLD then
-        orig_PLAYER_ENTERING_WORLD(self)
+-- Create a frame to handle initialization and event registration
+local autoQuestFrame = CreateFrame("Frame")
+autoQuestFrame:SetScript("OnEvent", function(self, event, ...)
+    if event == "PLAYER_LOGIN" then
+        -- Initialize settings
+        db = TourGuide.db.char
+        if db.autoaccept == nil then db.autoaccept = true end
+        if db.autoturnin == nil then db.autoturnin = true end
+        
+        -- Register our events directly with this frame
+        self:RegisterEvent("GOSSIP_SHOW")
+        self:RegisterEvent("QUEST_GREETING")
+        self:RegisterEvent("QUEST_DETAIL")
+        self:RegisterEvent("QUEST_PROGRESS")
+        self:RegisterEvent("QUEST_COMPLETE")
+    elseif event == "GOSSIP_SHOW" then
+        TourGuide:AutoQuest_GOSSIP_SHOW()
+    elseif event == "QUEST_GREETING" then
+        TourGuide:AutoQuest_QUEST_GREETING()
+    elseif event == "QUEST_DETAIL" then
+        TourGuide:AutoQuest_QUEST_DETAIL()
+    elseif event == "QUEST_PROGRESS" then
+        TourGuide:AutoQuest_QUEST_PROGRESS()
+    elseif event == "QUEST_COMPLETE" then
+        TourGuide:AutoQuest_QUEST_COMPLETE()
     end
-    
-    -- Register our additional events after initialization
-    self:RegisterEvent("GOSSIP_SHOW")
-    self:RegisterEvent("QUEST_GREETING")
-    self:RegisterEvent("QUEST_PROGRESS")
-    
-    -- Initialize our settings
-    InitializeQuestAutomation(self)
-end
+end)
+
+-- Register for PLAYER_LOGIN to initialize after addon is fully loaded
+autoQuestFrame:RegisterEvent("PLAYER_LOGIN")
 
 -- Helper function to clean up quest text comparisons
 function TourGuide:CleanQuestText(text)
@@ -39,89 +43,49 @@ function TourGuide:CleanQuestText(text)
 	return string.gsub(text, "%[[0-9%+%-]+]%s*", "")
 end
 
--- Handle gossip with multiple quests
-function TourGuide:GOSSIP_SHOW()
-	self:Debug("GOSSIP_SHOW event fired")
-	if not db.autoaccept then 
-		self:Debug("Autoaccept disabled, ignoring")
-		return 
-	end
+-- Handle gossip with multiple quests - renamed to avoid conflicts
+function TourGuide:AutoQuest_GOSSIP_SHOW()
+	if not db.autoaccept then return end
 	
 	local action, quest = self:GetObjectiveInfo()
-	self:Debug("Current action: " .. (action or "nil") .. ", quest: " .. (quest or "nil"))
-	if action ~= "ACCEPT" then 
-		self:Debug("Current action is not ACCEPT, ignoring")
-		return 
-	end
+	if action ~= "ACCEPT" then return end
 	
 	-- Clean up the quest name to match the gossip entries
 	quest = self:CleanQuestText(quest)
-	self:Debug("GOSSIP_SHOW", "Looking for quest:", quest)
-	
-	-- Debug the number of gossip options and quests
-	local numGossipOptions = GetNumGossipOptions()
-	local numAvailableQuests = GetNumGossipAvailableQuests()
-	local numActiveQuests = GetNumGossipActiveQuests()
-	self:Debug("Gossip options: " .. numGossipOptions .. ", Available quests: " .. numAvailableQuests .. ", Active quests: " .. numActiveQuests)
 	
 	-- Look through available quests in gossip
-	local availableQuests = {GetGossipAvailableQuests()}
-	self:Debug("Total gossip data entries: " .. #availableQuests)
-	
 	for i=1, select("#", GetGossipAvailableQuests()) / 6 do -- In 1.12 each quest has 6 return values
 		local questTitle = select((i-1)*6 + 1, GetGossipAvailableQuests())
 		questTitle = self:CleanQuestText(questTitle)
 		
-		self:Debug("Available quest #" .. i .. ": " .. (questTitle or "nil"))
-		
 		-- If this gossip option matches our current accept objective
 		if questTitle and quest and string.find(questTitle, quest, 1, true) then
-			self:Debug("Match found! Automatically selecting quest:", questTitle)
 			SelectGossipAvailableQuest(i)
 			return
-		elseif questTitle and quest then
-			self:Debug("   No match - questTitle: '" .. questTitle .. "', quest: '" .. quest .. "'")
 		end
 	end
-	
-	self:Debug("No matching quest found in gossip")
 end
 
 -- Auto-accept a quest when shown in detail view
-function TourGuide:QUEST_DETAIL()
-	self:Debug("QUEST_DETAIL event fired")
-	if not db.autoaccept then 
-		self:Debug("Autoaccept disabled, ignoring")
-		return 
-	end
+function TourGuide:AutoQuest_QUEST_DETAIL()
+	if not db.autoaccept then return end
 	
 	local action, quest = self:GetObjectiveInfo()
-	self:Debug("Current action: " .. (action or "nil") .. ", quest: " .. (quest or "nil"))
-	if action ~= "ACCEPT" then 
-		self:Debug("Current action is not ACCEPT, ignoring")
-		return 
-	end
+	if action ~= "ACCEPT" then return end
 	
 	-- Get quest title
 	local questTitle = self:CleanQuestText(GetTitleText())
 	quest = self:CleanQuestText(quest)
 	
-	self:Debug("QUEST_DETAIL", "Quest title:", questTitle, "Looking for:", quest)
-	
 	-- Check if this quest matches our current objective
 	if questTitle and quest and string.find(questTitle, quest, 1, true) then
-		self:Debug("Match found! Auto-accepting quest:", questTitle)
 		AcceptQuest()
 		return
-	elseif questTitle and quest then
-		self:Debug("   No match - questTitle: '" .. questTitle .. "', quest: '" .. quest .. "'")
 	end
-	
-	self:Debug("Quest not accepted - no match found")
 end
 
 -- Auto-continue a quest that's in progress
-function TourGuide:QUEST_PROGRESS()
+function TourGuide:AutoQuest_QUEST_PROGRESS()
 	if not db.autoturnin then return end
 	
 	local action, quest = self:GetObjectiveInfo()
@@ -131,18 +95,15 @@ function TourGuide:QUEST_PROGRESS()
 	local questTitle = self:CleanQuestText(GetTitleText())
 	quest = self:CleanQuestText(quest)
 	
-	self:Debug("QUEST_PROGRESS", questTitle, quest)
-	
 	-- Check if this quest matches our current objective
 	if questTitle and quest and string.find(questTitle, quest, 1, true) and IsQuestCompletable() then
-		self:Debug("Auto-continuing quest turnin:", questTitle)
 		CompleteQuest()
 		return
 	end
 end
 
 -- Auto-complete a quest and select a reward if necessary
-function TourGuide:QUEST_COMPLETE()
+function TourGuide:AutoQuest_QUEST_COMPLETE()
 	if not db.autoturnin then return end
 	
 	local action, quest = self:GetObjectiveInfo()
@@ -152,16 +113,12 @@ function TourGuide:QUEST_COMPLETE()
 	local questTitle = self:CleanQuestText(GetTitleText())
 	quest = self:CleanQuestText(quest)
 	
-	self:Debug("QUEST_COMPLETE", questTitle, quest)
-	
 	-- Check if this quest matches our current objective
 	if questTitle and quest and string.find(questTitle, quest, 1, true) then
 		-- If there is a reward, select the first one
 		if GetNumQuestChoices() > 0 then
-			self:Debug("Auto-selecting first reward for:", questTitle)
 			GetQuestReward(1)
 		else
-			self:Debug("Auto-completing quest:", questTitle)
 			GetQuestReward(0)
 		end
 		return
