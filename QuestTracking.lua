@@ -495,5 +495,26 @@ debugFrame:RegisterEvent("QUEST_GREETING")
 debugFrame:RegisterEvent("QUEST_PROGRESS")
 debugFrame:RegisterEvent("QUEST_COMPLETE")
 
+-- Add a slash command to test if our debug frame is working
+SLASH_TDEBUG1 = "/tdebug"
+SlashCmdList["TDEBUG"] = function(msg)
+    DirectDebug("Debug frame is active - current time: " .. time())
+    
+    -- Check event registration
+    local events = {"GOSSIP_SHOW", "QUEST_DETAIL", "QUEST_GREETING", "QUEST_PROGRESS", "QUEST_COMPLETE"}
+    for _, event in pairs(events) do
+        local isRegistered = debugFrame:IsEventRegistered(event)
+        DirectDebug("Event " .. event .. " registration: " .. tostring(isRegistered))
+    end
+    
+    -- Check current TourGuide objective
+    if TourGuide.GetObjectiveInfo then
+        local action, quest = TourGuide:GetObjectiveInfo()
+        DirectDebug("Current objective - action: " .. (action or "nil") .. ", quest: " .. (quest or "nil"))
+    else
+        DirectDebug("GetObjectiveInfo not found on TourGuide!")
+    end
+end
+
 -- Print a message to confirm this code ran
-DirectDebug("Quest tracking debug frame initialized")
+DirectDebug("Quest tracking debug frame initialized with slash commands")
