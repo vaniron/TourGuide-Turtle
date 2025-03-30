@@ -434,3 +434,49 @@ function TourGuide:DumpLoc()
 		self:Print(s)
 	end
 end
+
+-- Simple direct debug function for quest automation
+function TourGuide:QuestAutoDebug(msg)
+	if not DEFAULT_CHAT_FRAME then return end
+	DEFAULT_CHAT_FRAME:AddMessage("|cffff0000TourGuide Quest Debug:|r " .. tostring(msg), 1, 0.5, 0)
+end
+
+-- Direct hook into original quest functions
+local origQuestDetailOnShow = QuestFrameDetailPanel_OnShow
+QuestFrameDetailPanel_OnShow = function()
+	-- Call original function
+	origQuestDetailOnShow()
+	
+	-- Add our debug
+	TourGuide:QuestAutoDebug("QuestDetail shown - " .. GetTitleText())
+	
+	-- Try to auto-accept if needed
+	local action, quest = TourGuide:GetObjectiveInfo()
+	TourGuide:QuestAutoDebug("Current objective: " .. tostring(action) .. " - " .. tostring(quest))
+	
+	if action == "ACCEPT" and quest then
+		-- Get quest title
+		local questTitle = GetTitleText()
+		local cleanTitle = string.gsub(questTitle or "", "%[[0-9%+%-]+]%s*", "")
+		local cleanObjective = string.gsub(quest or "", "%[[0-9%+%-]+]%s*", "")
+		
+		TourGuide:QuestAutoDebug("Comparing: '" .. cleanTitle .. "' with objective: '" .. cleanObjective .. "'")
+		
+		-- Check for match
+		if string.find(cleanTitle, cleanObjective, 1, true) then
+			TourGuide:QuestAutoDebug("MATCH FOUND! Auto-accepting: " .. cleanTitle)
+			AcceptQuest()
+		end
+	end
+end
+
+-- Test slash command
+SLASH_TGTEST1 = "/tgtest"
+SlashCmdList["TGTEST"] = function(msg)
+	TourGuide:QuestAutoDebug("TourGuide test command received: " .. msg)
+	
+	if msg == "quest" then
+		local action, quest = TourGuide:GetObjectiveInfo()
+		TourGuide:QuestAutoDebug("Current objective: " .. tostring(action) .. " - " .. tostring(quest))
+	end
+end
