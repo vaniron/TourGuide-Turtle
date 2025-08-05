@@ -11,7 +11,7 @@ Tekkub's TourGuide Addon backported for WoW 1.12 *with tweaks for TurtleWoW*
 
 Recommended Downloads: [**pfQuest & pfUI**](https://shagu.org) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
 
-Optional addon: [TourGuide_Professions](https://github.com/cralor/TourGuide_Professions/releases/latest)
+Optional addon: [TourGuide_Professions](https://github.com/Lorwik/TourGuide_Professions)
 
 
 **Features**
