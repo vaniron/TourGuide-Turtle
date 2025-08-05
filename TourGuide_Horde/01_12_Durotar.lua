@@ -58,6 +58,7 @@ T Sting of the Scorpid |QID|789| |N|Gornek in The Den (42.08, 68.35)|
 
 T Vile Familiars |QID|792| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.07)| |OID|1485|
 A Burning Blade Medallion |QID|794| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)|
+A Stalking the Felstalkers |QID|60147| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)|
 A Lazy Peons |QID|5441| |N|Foreman Thazz'ril in Valley of Trials (44.56, 68.65)|
 C Lazy Peons |QID|5441| |N|Use Foreman's Blackjack to wake 5 Lazy Peon in the Valley of Trials (41.29, 72.70) (42.35, 73.20) (44.71, 72.75) (45.09, 69.07) (47.52, 69.34) (45.68, 65.66) (47.13, 65.42)| |U|16114|
 T Lazy Peons |QID|5441| |N|Foreman Thazz'ril in Valley of Trials (44.56, 68.65)|
@@ -66,6 +67,7 @@ N Level 4 Required |QID|823| |N|Kill any nearby enemies until you're level 4 so 
 A Call of Earth |QID|1516| |N|Canaga Earthcaller in Valley of Trials (42.42, 69.16)| |Z|Durotar| |C|Shaman|
 
 R Burning Blade Coven |QID|794| |N|Travel to Burning Blade Coven (44.46, 60.40) (45.33, 56.47)|
+C Stalking the Felstalkers |QID||QID|60147| |N|Kill 10 Felstalkers at the entrance part of the cave. (44.46, 60.40) (45.33, 56.47)|
 C Burning Blade Medallion |QID|794| |N|Follow the waypoint and kill Yarrog Baneshadow and collect Burning Blade Medallion (44.77, 54.53) (43.84, 52.92) (42.94, 52.06) (42.7, 52.9) (42.76, 52.70)|
 C Thazz'ril's Pick |QID|6394| |N|Collect Thazz'ril's Pick in Burning Blade Coven (43.19, 53.80) (43.83, 55.36) (43.7, 53.7)| |OBJ|4992|
 C Call of Earth |QID|1516| |N|Kill Felstalker and collect 2 Felstalker Hoof in Burning Blade Coven (44.47, 54.99)| |Z|Durotar|  |C|Shaman|
@@ -73,8 +75,10 @@ C Call of Earth |QID|1516| |N|Kill Felstalker and collect 2 Felstalker Hoof in B
 H Valley of Trials |QID|2161| |N|Hearth to Valley of Trials| |U|6948|
 T Call of Earth |QID|1516| |N|Canaga Earthcaller in Valley of Trials (42.38, 69.12)| |Z|Durotar| |C|Shaman|
 A Call of Earth |QID|1517| |N|Canaga Earthcaller in Valley of Trials (42.38, 69.12)| |Z|Durotar| |C|Shaman|
+T Stalking the Felstalkers |QID|60147| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)|
 T Burning Blade Medallion |QID|794| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)|
 A Report to Sen'jin Village |QID|805| |N|Zureetha Fargaze in Valley of Trials (42.83, 69.10)|
+N Sell junk |QID|6394| |N|Sell all items you dont need before moving on (42.60, 67.20)|
 T Thazz'ril's Pick |QID|6394| |N|Foreman Thazz'ril in Valley of Trials (44.56, 68.65)|
 N Earth Sapta |TID|1517| |N|Get Earth Sapta from Canaga Earthcaller (42.38, 69.12)| |L|6635| |C|Shaman|
 R Spirit Rock |TID|1517| |N|Travel to Spirit Rock (41.56, 73.26) (40.74, 74.37) (42.60, 75.26) (44.07, 76.26)| |Z|Durotar| |C|Shaman|
