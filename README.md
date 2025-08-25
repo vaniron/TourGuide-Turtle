@@ -9,7 +9,9 @@ If you wanna support this fork, you can do so via https://www.paypal.com/donate/
 # TourGuide-Turtle
 Tekkub's TourGuide Addon backported for WoW 1.12 *with tweaks for TurtleWoW*
 
-Recommended Downloads: [**pfQuest & pfUI**](https://shagu.org) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
+Recommended Downloads: [**pfQuest & pfUI**](https://shagu.org) | [**TomTom-TWOW**](https://github.com/laytya/TomTom-TWOW)
+
+* Adds many features like tracking, map icons etc. and most importantly **arrow to navigate you to next guide point** (needs pfQuest and TomTom)
 
 Optional addon: [TourGuide_Professions](https://github.com/Lorwik/TourGuide_Professions)
 
