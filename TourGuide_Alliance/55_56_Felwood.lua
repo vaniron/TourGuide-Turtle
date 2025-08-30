@@ -20,11 +20,11 @@ N Empty Cursed Ooze Jar |QID|4512| |N|Collect 6 Empty Cursed Ooze Jar from Packa
 N Empty Tainted Ooze Jar |QID|4512| |N|Collect 6 Empty Tainted Ooze Jar from Package of Empty Ooze Containers in your bag| |U|11912| |L|11948|
 K Cursed Ooze |QID|4512.1| |N|Kill Cursed Ooze and use Empty Cursed Ooze Jar to collect 6 Filled Cursed Ooze Jar in Ruins of Constellas (40.14, 67.91)| |Z|Felwood|  |U|11914|
 K Xavathras |QID|4421.4| |N|Kill Xavathras Xavathras in Ruins of Constellas (36.62, 68.46) (33.6, 66.6)| |Z|Felwood|
-C The Corruption of the Jadefire |QID|4421| |N|Kill the required Jadefire Satry in Ruins of Constellas (37.16, 66.88) (37.79, 69.24) (36.62, 68.46)| |Z|Felwood|
+C The Corruption of the Jadefire |QID|4421| |N|Kill the required Jadefire Satyr in Ruins of Constellas (37.16, 66.88) (37.79, 69.24) (36.62, 68.46)| |Z|Felwood|
 
 R Jaedenar |QID|4512| |N|Travel to Jaedenar (42.22, 64.74) (39.94, 55.20)| |Z|Felwood|
 K Tainted Ooze |QID|4512.2| |N|Kill Tainted Ooze and use Empty Tainted Ooze Jar to collect 6 Filled Tainted Ooze Jar in Jaedenar (39.94, 55.20)| |Z|Felwood|  |U|11948|
-C Forces of Jaedenar |QID|5155| |N|Kill the required Jaedenar Satrys in Jaedenar (38.87, 58.76) (37.66, 61.12) (35.40, 60.27)| |Z|Felwood|
+C Forces of Jaedenar |QID|5155| |N|Kill the required Jaedenar Satyrs in Jaedenar (38.87, 58.76) (37.66, 61.12) (35.40, 60.27)| |Z|Felwood|
 
 R Emerald Sanctuary |QID|4906| |N|Travel to Emerald Sanctuary (41.36, 58.32) (51.35, 81.52)| |Z|Felwood|
 T The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind in Emerald Sanctuary (51.35, 81.52)| |Z|Felwood|
@@ -46,8 +46,8 @@ R Jadefire Run |QID|4906| |N|Travel to Jadefire Run (43.21, 21.85)| |Z|Felwood|
 K Xavaric |QID|4906.4| |N|Kill Xavaric in Jadefire Run (42.68, 18.34) (43.05, 15.26) (39.15, 21.70)| |Z|Felwood|
 N Flute of Xavaric |QID|939| |N|Collect Flute of Xavaric from Xavaric (39.15, 21.70)| |Z|Felwood|
 A Flute of Xavaric |QID|939| |N|Use Flute of Xavaric to accept quest| |Z|Felwood| |U|11668|
-N Jadefire Felbind |QID|939.1| |N|Kill Jadefire Satry and collect 5 in Jadefire Run (42.13, 18.70)| |Z|Felwood|
-C Further Corruption |QID|4906| |N|Kill the required Jadefire Satry in Jadefire Run (42.68, 18.34) (43.05, 15.26) (41.65, 19.77)| |Z|Felwood|
+N Jadefire Felbind |QID|939.1| |N|Kill Jadefire Satyr and collect 5 in Jadefire Run (42.13, 18.70)| |Z|Felwood|
+C Further Corruption |QID|4906| |N|Kill the required Jadefire Satyr in Jadefire Run (42.68, 18.34) (43.05, 15.26) (41.65, 19.77)| |Z|Felwood|
 
 R Irontree Woods |QID|4101| |N|Travel to Irontree Woods (51.12, 15.21) (55.19, 17.72)| |Z|Felwood|
 C Cleansing Felwood |QID|4101| |N|Kill Warpwood Moss Flayer and collect 15 Blood Amber in Irontree Woods, (low drop rate) (51.12, 15.21) (55.19, 17.72)| |Z|Felwood|
