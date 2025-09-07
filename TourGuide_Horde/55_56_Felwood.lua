@@ -15,7 +15,7 @@ R Ruins of Constellas |QID|4293| |N|Travel to Ruins of Constellas (40.41, 71.54)
 K Cursed Ooze |QID|4293| |N|Kill Cursed Ooze and start collecting Felwood Slime Sample, you will need about 35 total. Clear both pool area and collect 20 Felwood Slime Sample for now (40.41, 71.54) (40.67, 66.91)| |L|12230 20|
 
 R Jaedenar |QID|5155| |N|Travel to Jaedenar (39.36, 58.17)| |Z|Felwood|
-C Forces of Jaedenar |QID|5155| |N|Kill the required Jaedenar Satrys in Jaedenar (38.87, 58.76) (37.66, 61.12) (35.40, 60.27)| |Z|Felwood|
+C Forces of Jaedenar |QID|5155| |N|Kill the required Jaedenar Satyrs in Jaedenar (38.87, 58.76) (37.66, 61.12) (35.40, 60.27)| |Z|Felwood|
 K Tainted Ooze |QID|4293| |N|Kill Tainted Ooze and finish collecting 35 Felwood Slime Sample in Jaedenar (40.00, 55.02) (40.57, 59.06)| |L|12230 35|
 
 R Bloodvenom Post |QID|5156| |N|Travel to Bloodvenom Post (39.95, 50.72) (34.97, 50.46)| |Z|Felwood|
