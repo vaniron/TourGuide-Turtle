@@ -201,6 +201,8 @@ T The Temple of the Moon |QID|2519| |N|Priestess A'moora in Temple of the Moon (
 A Tears of the Moon |QID|2518| |N|Priestess A'moora in Temple of the Moon (36.55, 86.11)| |Z|Darnassus|
 
 R Teldrassil |QID|923| |N|Travel to Teldrassil (38.0, 54.7)| |REACH|
+
+C Securing Darnassus |QID|40205| |N|Kill 10 Gnarlpine Avenger and 5 Gnarlpine Pathfinder in Gnarlpine Hold (42.5, 78)|
 C Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler. This quest rewards Defender Axe or Thornroot Club. Consider skipping this quest if the rewards are not useful for your character (38.8, 78.9)|
 K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof. Collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
 
@@ -226,7 +228,8 @@ N Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnere
 C Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnerets north of The Oracle Glade (48, 25.9)|
 C Destiny Calls |QID|2242| |N|Find Sethir the Ancient north of The Oracle Glade. While stealthed, use the (spell:921) ability on him from behind to get a book from him (37.21, 23.24)| |C|Rogue| |PRE|2241|
 
-R Cenarion Enclave |QID|2498| |N|Travel to Darnassus (36.88, 21.97)| |Z|Darnassus|
+T Securing Darnassus  |QID|40205| |N|Adaena Oakleaf is above the gate to the left or right (87.0, 35.7)| |R|Night Elf| |Z|Darnassus|
+
 T Destiny Calls |QID|2242| |N|Syurna in Cenarion Enclave (36.88, 21.97)| |Z|Darnassus| |PRE|2241| |C|Rogue|
 T Vorlus Vilehoof |QID|1683| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
 A The Shade of Elura |QID|1686| |N|Elanaria in Darnassus (57.31, 34.62)| |C|Warrior| |Z|Darnassus|
