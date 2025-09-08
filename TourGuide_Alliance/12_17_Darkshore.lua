@@ -2,10 +2,10 @@ TourGuide:RegisterGuide("Darkshore (12-17)", "Loch Modan (17-18)", "Alliance",fu
 
 return [[
 
-N Level 12 Required |N|You need to be at least level 12 to continue this guide, grind until you reach level 12|
-N Linen Cloth |QID|1644| |N|You need at least 10 Linen Cloth to complete the Paladin quest line, grind any Humanoids mobs or purchase later from the auction house| |OID|1778| |L|2589 10| |C|Paladin|
+N Level 12 Required |N|You need to be at least level 12 to continue this guide; Grind until you reach level 12|
+N Linen Cloth |QID|1644| |N|You need at least 10 Linen Cloth to complete the Paladin quest line; grind any Humanoid mobs or purchase later from the auction house| |OID|1778| |L|2589 10| |C|Paladin|
 
-A Tome of Divinity (Part 1) |QID|3681| |N|Brandur Ironhammer, in Hall of Mysteries. You need to be level 12 to get this quest (23.25, 6.34)| |C|Paladin| |R|Human| |O| |Z|Ironforge|
+A Tome of Divinity (Part 1) |QID|3681| |N|Brandur Ironhammer in Hall of Mysteries. You need to be level 12 to get this quest (23.25, 6.34)| |C|Paladin| |R|Human| |O| |Z|Ironforge|
 A Tome of Divinity (Part 1) |QID|2998| |N|Brother Wilhelm in Goldshire. You need to be level 12 to get this quest (41.09, 66.05)| |C|Paladin| |R|Human| |O|
 
 T Tome of Divinity (Part 1) |QID|3681| |N|Duthorian Rall in Cathedral of Light (39.83, 29.82)| |C|Paladin| |R|Human| |Z|Stormwind City| |O|
@@ -44,7 +44,7 @@ N Tome of Divinity |QID|1646| |N|Speak to Tiza Battleforge and collect Tome of D
 A The Tome of Divinity (Part 2) |QID|1646| |N|Use Tome of Divinity to begin quest (27.63, 12.25)| |C|Paladin| |R|Dwarf| |Z|Ironforge| |U|6916|
 T The Tome of Divinity (Part 2) |QID|1646| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 A The Tome of Divinity (Part 3) |QID|1647| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
-T The Tome of Divinity (Part 3) |QID|1647| |N|John Turner in Ironforge, he patrol around the outer ring of Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
+T The Tome of Divinity (Part 3) |QID|1647| |N|John Turner in Ironforge; He patrols around the outer ring of Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 A The Tome of Divinity (Part 4) |QID|1648| |N|John Turner in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 C The Tome of Divinity (Part 4) |QID|1648| |N|Buy 10 Linen Cloth from the Auction House in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity (Part 4) |QID|1648| |N|John Turner in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
@@ -55,7 +55,7 @@ T The Tome of Divinity (Part 6) |QID|1779| |N|Muiredon Battleforge in Hall of My
 A The Tome of Divinity (Part 7) |QID|1783| |N|Muiredon Battleforge in Hall of Mysteries (23.55, 8.33)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 
 R Ironband's Compound |QID|1783| |N|Travel to Ironband's Compound (51.54, 40.12) (78.33, 58.06)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
-N Narm Faulk |QID|1783| |N|Use Symbol of Life to ressurect Narm Faulk| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
+N Narm Faulk |QID|1783| |N|Use Symbol of Life to resurrect Narm Faulk| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 T The Tome of Divinity (Part 7) |QID|1783| |N|Narm Faulk in Ironband's Compound (78.33, 58.06)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 A The Tome of Divinity (Part 8) |QID|1784| |N|Narm Faulk in Ironband's Compound (78.33, 58.06)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 C The Tome of Divinity (Part 8) |QID|1784| |N|Kill a Dark Iron Spy and collect Dark Iron Script in Ironband's Compound (78.10, 59.98)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
@@ -65,12 +65,12 @@ T The Tome of Divinity (Part 8) |QID|1784| |N|Muiredon Battleforge in Hall of My
 A The Tome of Divinity (Part 9) |QID|1785| |N|Muiredon Battleforge in Hall of Mysteries (23.72, 8.61)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity (Part 9) |QID|1785| |N|Tiza Battleforge in Hall of Mysteries (27.51, 12.18)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 
-R The Great Sea |QID|3524| |N|Travel to The Great Sea, this is a shortcut but requires dying and ressurecting in Menethil Harbor (46.57, 41.43) (43.23, 31.80) (30.83, 34.84) (31.01, 32.43) (31.48, 32.30) (31.42, 30.83) (30.88, 30.23) (32.62, 29.12) (32.73, 26.05)| |Z|Dun Morogh| |R|Human, Dwarf, Gnome|
+R The Great Sea |QID|3524| |N|Travel to The Great Sea, this is a shortcut but requires dying and resurrecting in Menethil Harbor (46.57, 41.43) (43.23, 31.80) (30.83, 34.84) (31.01, 32.43) (31.48, 32.30) (31.42, 30.83) (30.88, 30.23) (32.62, 29.12) (32.73, 26.05)| |Z|Dun Morogh| |R|Human, Dwarf, Gnome|
 R Menethil Harbor |QID|3524| |N|You will need to jump off the cliff and resurrect in Menethil Harbor, make sure your character is deep enough that you see Wetlands when you open your World Map| |R|Human, Dwarf, Gnome|
-f Shellei Brondir |QID|3524| |N|Speak to Shellei Brondir and grab flight path in Menethil Harbor (9.52, 59.67)| |Z|Wetlands|
+F Shellei Brondir |QID|3524| |N|Speak to Shellei Brondir and grab flight path in Menethil Harbor (9.52, 59.67)| |Z|Wetlands|
 
 R Auberdine |QID|3524| |N|Travel to Auberdine (36.61, 45.59)|
-f Auberdine |QID|3524| |N|Speak to Caylais Moonfeather and grab flight path for Auberdine (36.4, 45.5)|
+F Auberdine |QID|3524| |N|Speak to Caylais Moonfeather and grab flight path for Auberdine (36.4, 45.5)|
 A Washed Ashore (Part 1) |QID|3524| |N|Gwennyth Bly'Leggonde in Auberdine (36.61, 45.59)|
 T Flight to Auberdine |QID|6342| |N|Laird in Auberdine (36.77, 44.32)|
 A Return to Nessa |QID|6343| |N|Laird in Auberdine (36.77, 44.32)|
@@ -87,7 +87,7 @@ A Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.10, 44.96)|
 B Fishing Pole |QID|1141| |N|Speak to Gubber Blump and train fishing and buy Fishing Pole (36.10, 44.96)| |L|6256|
 B Shiny Bauble |QID|1141| |N|Speak to Gubber Blump buy Shiny Bauble (36.10, 44.96)| |L|6529|
-C The Family and the Fishing Pole |QID|1141| |N|Catch 6 Darkshore Grouper in Auberdine. Equip the Fishing Pole and apply the Shiny Bauble to it. Cast the Fishing spell near the water and click on the bob when you see it moving to catch the fish, keep trying until you complete the quest. This is an easy quest and recommended but you can safely skip it (35.91, 44.98)|
+C The Family and the Fishing Pole |QID|1141| |N|Catch 6 Darkshore Grouper in Auberdine. Equip the Fishing Pole and apply the Shiny Bauble to it. Cast the Fishing spell near the water and click on the bob when you see it moving to catch the fish; Keep trying until you complete the quest. This is an easy quest and recommended but you can safely skip it (35.91, 44.98)|
 T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.07, 44.94)|
 
 A Bashal'Aran (Part 1) |QID|954| |N|Thundris Windweaver in Auberdine (37.41, 40.16)|
@@ -182,8 +182,8 @@ A The Fragments Within |QID|4813| |N|Mysterious Red Crystal in Dark Shore (47.35
 C How Big a Threat? (Part 2) |QID|985| |N|Kill 8 Blackwood Pathfinder (39, 54) and 5 Blackwood Windtalker in the furbolg camp (39, 52)|
 A Beached Sea Turtle (Part 2) |QID|4722| |N|Beached Sea Turtle (37.2, 62.1)| |OBJ|3533|
 A Beached Sea Creature (Part 2) |QID|4728| |N|Beached Sea Creature (36.1, 70.7)| |OBJ|3533|
-C Cleansing of the Infected |QID|2138| |N|Kill 20 Rabid Thistle Bear which are spread throughout the area past Bashal'Ara (48, 30) (39, 66)|
-C Buzzbox 525 |QID|1003| |N|Kill Grizzled Thistle Bear for 4 Grizzled Scalpwhich are found in the Southern area of Darkshore around (42, 83)|
+C Cleansing of the Infected |QID|2138| |N|Kill 20 Rabid Thistle Bear which are spread throughout the area past Bashal'Aran (48, 30) (39, 66)|
+C Buzzbox 525 |QID|1003| |N|Kill Grizzled Thistle Bear for 4 Grizzled Scalp which are found in the Southern area of Darkshore around (42, 83)|
 
 R Twilight Vale |TID|1003| |N|Travel to Twilight Vale (41.38, 80.53)|
 T Buzzbox 525 |QID|1003| |N|Buzzbox 525 in Twilight Vale (41.38, 80.53)| |OBJ|356|
@@ -206,10 +206,10 @@ T How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
 T The Principal Source |QID|6122| |N|Alanndarian Nightsong in Auberdine (37.69, 40.66)| |C|Druid| |Z|Darkshore|
 A Gathering the Cure |QID|6123| |N|Alanndarian Nightsong in Auberdine (37.69, 40.69)| |C|Druid| |Z|Darkshore|
 N Filled Cleansing Bowl |QID|4763| |N|Use Empty Cleansing Bowl at the Moonwell to get Filled Cleansing Bowl in Auberdine (37.8, 44.0)| |U|12346| |L|12347|
-N Blackwood Grain Sample |QID|4763| |N|Collect Blackwood Grain Sample from the barrell in the Fulborg camp (50.67, 35.03)| |L|12342|
+N Blackwood Grain Sample |QID|4763| |N|Collect Blackwood Grain Sample from the barrel in the Furbolg camp (50.67, 35.03)| |L|12342|
 C Tharnariun's Hope |QID|2139| |N|Go to the cave where you will find the Den Mother (level 19) with several level 9-10 cubs (52.40, 35,88) (51.60, 37.38)|
-N Blackwood Nut Sample |QID|4763| |N|Collect Blackwood Nut Sample from the barrell in the Fulborg camp (51.78, 33.56)| |L|12343|
-N Blackwood Fruit Sample |QID|4763| |N|Collect Blackwood Fruit Sample from the barrell in the Fulborg camp (52.90, 33.40)| |L|12341|
+N Blackwood Nut Sample |QID|4763| |N|Collect Blackwood Nut Sample from the barrel in the Furbolg camp (51.78, 33.56)| |L|12343|
+N Blackwood Fruit Sample |QID|4763| |N|Collect Blackwood Fruit Sample from the barrel in the Furbolg camp (52.90, 33.40)| |L|12341|
 C The Blackwood Corrupted |QID|4763| |N|Use the Filled Cleansing Bowl on the bonfire to summon Xabraxxis, kill him and collect the Talisman of Corruption (52.4, 33.4)| |U|12347|
 T The Tower of Althalaxx (Part 1) |QID|965| |N|Balthule Shadowstrike in Dark Shore (54.95, 24.92)|
 A The Tower of Althalaxx (Part 2) |QID|966| |N|Balthule Shadowstrike in Dark Shore (54.95, 24.92)|
