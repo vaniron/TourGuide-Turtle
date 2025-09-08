@@ -65,10 +65,6 @@ T The Tome of Divinity (Part 8) |QID|1784| |N|Muiredon Battleforge in Hall of My
 A The Tome of Divinity (Part 9) |QID|1785| |N|Muiredon Battleforge in Hall of Mysteries (23.72, 8.61)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity (Part 9) |QID|1785| |N|Tiza Battleforge in Hall of Mysteries (27.51, 12.18)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 
-R The Great Sea |QID|3524| |N|Travel to The Great Sea, this is a shortcut but requires dying and resurrecting in Menethil Harbor (46.57, 41.43) (43.23, 31.80) (30.83, 34.84) (31.01, 32.43) (31.48, 32.30) (31.42, 30.83) (30.88, 30.23) (32.62, 29.12) (32.73, 26.05)| |Z|Dun Morogh| |R|Human, Dwarf, Gnome|
-R Menethil Harbor |QID|3524| |N|You will need to jump off the cliff and resurrect in Menethil Harbor, make sure your character is deep enough that you see Wetlands when you open your World Map| |R|Human, Dwarf, Gnome|
-F Shellei Brondir |QID|3524| |N|Speak to Shellei Brondir and grab flight path in Menethil Harbor (9.52, 59.67)| |Z|Wetlands|
-
 R Auberdine |QID|3524| |N|Travel to Auberdine (36.61, 45.59)|
 F Auberdine |QID|3524| |N|Speak to Caylais Moonfeather and grab flight path for Auberdine (36.4, 45.5)|
 A Washed Ashore (Part 1) |QID|3524| |N|Gwennyth Bly'Leggonde in Auberdine (36.61, 45.59)|
