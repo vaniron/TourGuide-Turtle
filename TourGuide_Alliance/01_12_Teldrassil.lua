@@ -262,8 +262,8 @@ A Grove of the Ancients |QID|952| |N|Arch Druid Fandral Staghelm in Cenarion Enc
 R Rut'theran Village |QID|6341| |N|Run through the portal west of the bank (30.5, 41.4)| |Z|Darnassus| |R|Night Elf|
 T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|
 A The Bounty of Teldrassil |QID|6341| |N|Nessa Shadowsong in Rut'theran Village (56.25, 92.36)|
-T The Bounty of Teldrassil |QID|6341| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|
 A A Secret Admirer |QID|40300| |N|Androl Oakhand in Rut'theran Village (55.9, 93.5)|
+T The Bounty of Teldrassil |QID|6341| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|
 A Flight to Auberdine |QID|6342| |N|Vesprystus in Rut'theran Village (58.39, 94.00)|
 
 F Auberdine |QID|6342| |N|Speak to Vesprystus in Rut'theran Village and fly to Auberdine (58.39, 94.00)|
