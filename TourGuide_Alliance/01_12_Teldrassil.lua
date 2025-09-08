@@ -275,7 +275,9 @@ K Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallio
 N Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |C|Warrior| |Z|Darkshore|
 C The Shade of Elura |QID|1686| |N|Bring 8 Elunite Ore and the Elura's Medallion to Elanaria in The Long Wash (32.00, 46.34)| |C|Warrior| |Z|Darkshore|
 
-F Rut'theran Village |QID|6342| |N|Fly to Rut'theran Village (36.3, 45.6)| |C|Druid| |Z|Darkshore|
+F Rut'theran Village |N|Fly to Rut'theran Village (36.3, 45.6)| |C|Druid| |Z|Darkshore|
+F Rut'theran Village |N|Fly to Rut'theran Village (36.3, 45.6)| |C|Warrior| |Z|Darkshore|
+
 R Cenarion Enclave |TID|6001| |N|Travel to Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
 T Body and Heart |QID|6001| |N|Mathrengyl Bearwalker in Cenarion Enclave (34.90, 8.25)| |C|Druid| |Z|Darnassus|
 
