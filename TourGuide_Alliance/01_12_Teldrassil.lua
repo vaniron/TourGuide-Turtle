@@ -269,7 +269,7 @@ A Flight to Auberdine |QID|6342| |N|Vesprystus in Rut'theran Village (58.39, 94.
 F Auberdine |QID|6342| |N|Speak to Vesprystus in Rut'theran Village and fly to Auberdine (58.39, 94.00)|
 T Flight to Auberdine |QID|6342| |N|Laird in Auberdine (36.77, 44.32)|
 
-C Body and Heart |QID|6001| |N|Kill Lunaclaw. Use the Cenarion Moondust on the on the Moonkin Stone of Auberdine to summon it (43.48, 45.95)| |C|Druid| |Z|Darkshore|
+C Body and Heart |QID|6001| |N|Kill Lunaclaw. Use the Cenarion Moondust on the on the Moonkin Stone east of Auberdine to summon it (43.48, 45.95)| |C|Druid| |Z|Darkshore|
 
 K Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |C|Warrior| |Z|Darkshore|
 N Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |C|Warrior| |Z|Darkshore|
