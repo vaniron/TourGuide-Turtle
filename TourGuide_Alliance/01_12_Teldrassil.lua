@@ -222,7 +222,7 @@ T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)
 T The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
 A Teldrassil |QID|940| |N|Sentinel Arynia Cloudsbreak in The Oracle Glade (38.3, 34.4)|
 
-C Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnerets north of The Oracle Glade. There are two spawns. If she isn't' here, tick this step and check the next (39.28, 25.70)|
+N Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnerets north of The Oracle Glade. There are two spawns. If she isn't' here, tick this step and check the next (39.28, 25.70)|
 C Tears of the Moon |QID|2518| |N|Kill Lady Sathrah and collect Silvery Spinnerets north of The Oracle Glade (48, 25.9)|
 C Destiny Calls |QID|2242| |N|Find Sethir the Ancient north of The Oracle Glade. While stealthed, use the (spell:921) ability on him from behind to get a book from him (37.21, 23.24)| |C|Rogue| |PRE|2241|
 
