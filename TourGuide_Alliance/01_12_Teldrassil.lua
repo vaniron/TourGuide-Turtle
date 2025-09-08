@@ -249,7 +249,7 @@ T Return to Denalan |QID|2498| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T The Glowing Fruit |QID|930| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T The Shimmering Frond |QID|931| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
-T The Moss-twined Heart |QID|927| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
+T The Moss-twined Heart |QID|927| |N|Denalan in Lake Al'Ameth. Tick this if you did not kill the rare (60.91, 68.45)|
 
 C Oakenscowl |QID|2499| |N|Kill Oakenscowl and collect Gargantuan Tumor in Lake Al'Ameth. This is a group quest and can be soloed for good XP, but you can safely skip this quest if it's too hard (53.55, 74.99)|
 T Oakenscowl |QID|2499| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
