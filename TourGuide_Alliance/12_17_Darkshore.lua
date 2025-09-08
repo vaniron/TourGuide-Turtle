@@ -231,7 +231,7 @@ N 12 Lunar Fungus |QID|6123.2| |N|Collect 12 Lunar Fungus from the inside the ca
 N 5 Earthroot |QID|6123.1| |N|Gather 5 Earthroot with (spell:2366) in Teldrassil or purchase from the auction house| |C|Druid| |Z|Teldrassil|
 T Gathering the Cure |QID|6123| |N|Alanndarian Nightsong in Auberdine (37.68, 40.67)| |C|Druid| |Z|Darkshore|
 A Curing the Sick |QID|6124| |N|Alanndarian Nightsong in Auberdine (37.71, 40.83)| |C|Druid| |Z|Darkshore|
-C Curing the Sick |QID|6124| |N|Use the Curative Animal Salve on 10 Sickly Deer that are located throughout Darkshore. The deers are very scattered throughout Darkshore and can take a long time to complete this quest (41.6, 46.2) (41.6, 38.4) (43.8, 41.8) (47.0, 42.2) (49.4, 35.2) (45.6, 31.6) (44.6, 28.0) (44.6, 24.6) (52.0, 32.4)| |C|Druid| |Z|Darkshore|
+C Curing the Sick |QID|6124| |N|Use the Curative Animal Salve on 10 Sickly Deer that are located throughout Darkshore. The deer are scattered throughout Darkshore and it can take a long time to complete this quest (41.6, 46.2) (41.6, 38.4) (43.8, 41.8) (47.0, 42.2) (49.4, 35.2) (45.6, 31.6) (44.6, 28.0) (44.6, 24.6) (52.0, 32.4)| |C|Druid| |Z|Darkshore|
 
 R Nighthaven |OID|6125| |N|Travel to Nighthaven (56.26, 30.64)| |C|Druid| |Z|Moonglade|
 T Curing the Sick |QID|6124| |N|Dendrite Starblaze in Nighthaven (56.25, 30.59)| |C|Druid| |Z|Moonglade|
