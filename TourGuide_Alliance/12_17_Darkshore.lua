@@ -81,8 +81,7 @@ A The Red Crystal |QID|4811| |N|Sentinel Glynda Nal'Shea in Auberdine (37.64, 43
 h Auberdine |QID|963| |N|Speak to Innkeeper Shaussiy and set hearth in Auberdine (37, 44.1)|
 A Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.10, 44.96)|
-B Fishing Pole |QID|1141| |N|Speak to Gubber Blump and train fishing and buy Fishing Pole (36.10, 44.96)| |L|6256|
-B Shiny Bauble |QID|1141| |N|Speak to Gubber Blump buy Shiny Bauble (36.10, 44.96)| |L|6529|
+B Fishing Pole |QID|1141| |N|Speak to Gubber Blump, train Fishing and buy a Fishing Pole.  Buy a Shiny Bauble if you can afford it (36.10, 44.96)| |L|6256|
 C The Family and the Fishing Pole |QID|1141| |N|Catch 6 Darkshore Grouper in Auberdine. Equip the Fishing Pole and apply the Shiny Bauble to it. Cast the Fishing spell near the water and click on the bob when you see it moving to catch the fish; Keep trying until you complete the quest. This is an easy quest and recommended but you can safely skip it (35.91, 44.98)|
 T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.07, 44.94)|
 
