@@ -78,7 +78,7 @@ R Auberdine |QID|983| |N|Travel to Auberdine (35.76, 43.68)|
 A For Love Eternal |QID|963| |N|Cerellean Whiteclaw in Auberdine (35.76, 43.68)|
 A Buzzbox 827 |QID|983| |N|Wizbang Cranktoggle in Auberdine (36.98, 44.10)|
 A The Red Crystal |QID|4811| |N|Sentinel Glynda Nal'Shea in Auberdine (37.64, 43.36)|
-h Auberdine |QID|963| |N|Speak to Innkeeper Shaussiy and set hearth in Auberdine (37, 44.1)|
+H Auberdine |QID|963| |N|Speak to Innkeeper Shaussiy and set your hearthstone to Auberdine (37, 44.1)|
 A Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
 A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump in Auberdine (36.10, 44.96)|
 B Fishing Pole |QID|1141| |N|Speak to Gubber Blump, train Fishing and buy a Fishing Pole.  Buy a Shiny Bauble if you can afford it (36.10, 44.96)| |L|6256|
