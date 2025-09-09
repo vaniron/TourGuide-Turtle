@@ -48,7 +48,7 @@ A Skirmish at Echo Ridge |QID|21| |N|Marshal McBride in Northshire Abbey (48.91,
 T Milly Osworth |QID|3903| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
-C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyardsto collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
+C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyards to collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
 C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfoot and collect Garrick's Head. He is surrounded by two guards but both can easily be pulled seperately in Northshire Vineyards (57, 48)|
 T Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Grape Manifest |QID|3905| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
@@ -227,7 +227,7 @@ T Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (75.81, 59.84)| |C|R
 R The Slaughtered Lamb |QID|1689| |N|Travel to The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
 T Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1689| |N|Keep going down the stairs until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
 
 R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |Z|Westfall| |R|Human|
