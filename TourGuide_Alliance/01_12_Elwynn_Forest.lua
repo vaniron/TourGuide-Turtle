@@ -9,7 +9,7 @@ A Eagan Peltskinner |QID|5261| |N|Deputy Willem in Northshire Valley (48.18, 42.
 T Eagan Peltskinner |QID|5261| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 A Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 
-C Kobold Camp Cleanup |QID|7| |N|Kill 10 Kobold Vermin which can be found around the mine in Northshire Valley (49, 35)|
+C Kobold Camp Cleanup |QID|7| |N|Kill 10 Kobold Vermin which can be found around Echo Ridge Mine in Northshire Valley (49, 35)|
 C Wolves Across the Border |QID|33| |N|Kill Young Wolf and Timber Wolf to collect 8 pieces of Tough Wolf Meat (47, 38) (46, 35)|
 
 T Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
@@ -37,7 +37,7 @@ C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug in and around Northshi
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 R Northshire Valley |QID|15| |N|Travel to Northshire Valley (51.63, 36.76)|
-C Investigate Echo Ridge |QID|15| |N|Kill 10 Kobold Worker which can be found around the mine in Northshire Valley (51.63, 36.76)|
+C Investigate Echo Ridge |QID|15| |N|Kill 10 Kobold Worker which can be found around Echo Ridge Mine (51.63, 36.76)|
 
 R Northshire Valley |QID|3904| |N|Travel to Northshire Valley (47.75, 41.97)|
 T Brotherhood of Thieves |QID|18| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
@@ -55,11 +55,13 @@ T Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32
 A Grape Manifest |QID|3905| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
 R Echo Ridge Mine |QID|21| |N|Travel to Echo Ridge Mine (48.71, 27.81)|
-C Skirmish at Echo Ridge |QID|21| |N|Kill 12 Kobold Laborer which can be found around the Echo Ridge Mine (48, 29)|
+C Skirmish at Echo Ridge |QID|21| |N|Kill 12 Kobold Laborer inside Echo Ridge Mine. Work your way to the back of the mine (48, 29)|
+C Down in the Ridge |QID|60145| |N|Kill Snufflesnout in the back of Echo Ridge Mine (50.4, 26.6)|
 
 R Northshire Abbey |QID|54| |N|Travel to Northshire Abbey (47.75, 41.97)|
 T Bounty on Garrick Padfoot |QID|6| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 T Skirmish at Echo Ridge |QID|21| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
+T Down in the Ridge |QID|60145| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 A Report to Goldshire |QID|54| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 T Grape Manifest |QID|3905| |N|Brother Neals in Northshire Abbey (49.46, 41.56)|
 A Rest and Relaxation |QID|2158| |N|Falkhaan Isenstrider in Northshire Valley (45.51, 47.72)|
