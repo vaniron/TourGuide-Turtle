@@ -33,17 +33,18 @@ T Tainted Letter |C|Warlock| |QID|3105| |N|Drusilla La Salle in Northshire Abbey
 A The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 C The Stolen Tome |QID|1598| |N|Collect Powers of the Void from the ground near the tent in Northshire Valley (56.70, 44.01)| |C|Warlock|
-C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug which surround the area to the Southeast across the river to collect 12 Red Burlap Bandana in Northshire Vineyards (54, 45)|
+C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug in and around Northshire Vineyardswhich to collect 12 Red Burlap Bandana (54, 45)|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 R Northshire Valley |QID|15| |N|Travel to Northshire Valley (51.63, 36.76)|
-C Investigate Echo Ridge |QID|15| |N|Kill 10 Kobold Worker which can be found in the mine in Northshire Valley (51.63, 36.76)|
+C Investigate Echo Ridge |QID|15| |N|Kill 10 Kobold Worker which can be found around the mine in Northshire Valley (51.63, 36.76)|
 
 R Northshire Valley |QID|3904| |N|Travel to Northshire Valley (47.75, 41.97)|
 T Brotherhood of Thieves |QID|18| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 A Bounty on Garrick Padfoot |QID|6| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 A Milly Osworth |QID|3903| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 T Investigate Echo Ridge |QID|15| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
+A Down in the Ridge |QID|60145| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 A Skirmish at Echo Ridge |QID|21| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 T Milly Osworth |QID|3903| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
