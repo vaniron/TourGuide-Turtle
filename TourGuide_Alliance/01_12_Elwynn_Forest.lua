@@ -201,7 +201,16 @@ T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37
 A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (60.00, 19.37)| |Z|Westfall|
 A Westfall Stew (Part 1) |QID|36| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
 A Poor Old Blanchy |QID|151| |N|Verna Furlbrow in The Jansen Stead (59.92, 19.45)| |Z|Westfall|
+
+N Chicken Pet |N|Now's a good time to get the chicken pet, if you want it. Tick this step|
+A CLUCK! |QID|3861| |N|Any Chicken; Use the /flap emote on a nearby chicken until it offers a quest (59.92, 19.45)| |Z|Westfall|
+B Chicken Pet |N|Buy Special Chicken Feed from Farmer Saladen|
+T CLUCK! |QID|3861| |N|Any Chicken; Use the /cheer emote on a nearby chicken until it offers a quest turn-in (59.92, 19.45)| |Z|Westfall|
+N Chicken Pet 1 |N|Ensure you pick up the Farm Chicken Egg sitting on the ground. Tick this step|
+N Chicken Pet 2 |N|Use the Westfall Chicken in your inventory to receive the Westfall Chicken pet. Enjoy! - Tick this step|
+
 T Westfall Stew (Part 1) |QID|36| |N|Salma Saldean in Saldean's Farm (56.40, 30.55)| |Z|Westfall|
+
 A Westfall Stew (Part 2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.40, 30.51)| |Z|Westfall|
 A Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.23, 30.89)| |Z|Westfall|
 A The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (56.09, 31.55)| |Z|Westfall|
