@@ -158,7 +158,6 @@ C Red Linen Goods |QID|83| |N|Kill the Defias Bandit in the area to collect 6 Re
 K Defias Bandit |QID|184| |N|Keep killing Defias Bandit until you find Westfall Deed to begin a quest. It's a low drop rate, so skip this if you want (69.99, 80.31)| |L|1972|
 A Furlbrow's Deed |QID|184| |N|Use Westfall Deed to accept quest| |U|1972| |O|
 
-R Stone Cairn Lake |QID|46| |N|Travel to Stone Cairn Lake (79.68, 55.48)|
 T Report to Thomas |QID|71| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 A Deliver Thomas' Report |QID|39| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 T Protect the Frontier |QID|52| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
