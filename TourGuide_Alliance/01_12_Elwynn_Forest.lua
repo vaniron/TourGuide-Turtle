@@ -33,7 +33,7 @@ T Tainted Letter |C|Warlock| |QID|3105| |N|Drusilla La Salle in Northshire Abbey
 A The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 C The Stolen Tome |QID|1598| |N|Collect Powers of the Void from the ground near the tent in Northshire Valley (56.70, 44.01)| |C|Warlock|
-C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug in and around Northshire Vineyards to collect 12 Red Burlap Bandana (54, 45)|
+C Brotherhood of Thieves |QID|18| |N|Kill Defias Thug in and around Northshire Vineyards to collect 12 Red Burlap Bandana (54, 45)|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 R Northshire Valley |QID|15| |N|Travel to Northshire Valley (51.63, 36.76)|
@@ -49,7 +49,7 @@ A Skirmish at Echo Ridge |QID|21| |N|Marshal McBride in Northshire Abbey (48.91,
 T Milly Osworth |QID|3903| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
-C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyards to collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
+C Milly's Harvest |QID|3904| |N|Clear the area around each crate in Northshire Vineyards to collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
 C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfoot and collect Garrick's Head in Northshire Vineyards. He is surrounded by two guards, but both can easily be pulled separately (57, 48)|
 T Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Grape Manifest |QID|3905| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
@@ -82,7 +82,7 @@ A Young Lovers |QID|106| |N|Maybell Maclure in the Maclure Vineyards (43.12, 89.
 T Lost Necklace |QID|85| |N|Billy Maclure in the Maclure Vineyards (43.12, 85.77)|
 A Pie for Billy |QID|86| |N|Billy Maclure in the Maclure Vineyards (43.12, 85.77)|
 
-C Pie for Billy |QID|86| |N|Kill any of the boars surrounding Elywnn Forest to collect 4 Chunk of Boar Meat. Rockhide Boar are easily found around to the south of Goldshire (47, 81)|
+C Pie for Billy |QID|86| |N|Kill any of the boars surrounding Elywnn Forest to collect 4 Chunk of Boar Meat. Rockhide Boars are easily found to the south of Goldshire (47, 81)|
 
 R The Stonefield Farm |QID|84| |N|Travel to The Stonefield Farm (34.5, 84.3)|
 T Pie for Billy |QID|86| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
@@ -240,7 +240,7 @@ A Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (76.47, 60.13)| |C|R
 
 T A Warrior's Training |QID|1638| |N|Harry Burlguard in Old Town (74.24, 37.26)| |C|Warrior| |Z|Stormwind City|
 A Bartleby the Drunk |QID|1639| |N|Harry Burlguard in Old Town (74.24, 37.26)| |C|Warrior| |Z|Stormwind City|
-T Bartleby the Drunk |QID|1639| |N|in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
+T Bartleby the Drunk |QID|1639| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
 A Beat Bartleby |QID|1640| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
 C Beat Bartleby |QID|1640| |N|Beat Bartleby, then talk to him in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
 T Beat Bartleby |QID|1640| |N|Bartleby in Old Town (73.79, 36.31)| |C|Warrior| |Z|Stormwind City|
