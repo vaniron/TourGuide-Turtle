@@ -50,7 +50,7 @@ T Milly Osworth |QID|3903| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
 C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyards to collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
-C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfoot and collect Garrick's Head. He is surrounded by two guards but both can easily be pulled seperately in Northshire Vineyards (57, 48)|
+C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfootand collect Garrick's Head in Northshire Vineyards. He is surrounded by two guards but both can easily be pulled seperately (57, 48)|
 T Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Grape Manifest |QID|3905| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
@@ -121,7 +121,7 @@ N Train First Aid |QID|112| |N|Speak to Michelle Belle and train First Aid. Tick
 R Crystal Lake |QID|112| |N|Travel to Crystal Lake (54, 66)|
 C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner to collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
 K Murlocs |QID|184| |N|Keep killing Murlocs until you find Dirty Old Ring to begin a quest (54, 66)| |L|51855|
-A That Dirty Old Ring |QID|184| |N|Use Dirty Old Ring to accept quest| |U|51855| |O|
+A That Dirty Old Ring |QID|60130| |N|Use Dirty Old Ring to accept quest| |U|51855| |O|
 
 R Jasperlode Mine |QID|76| |N|Travel to Jasperlode Mine (61.70, 53.76)|
 C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.35)|
