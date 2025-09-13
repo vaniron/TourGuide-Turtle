@@ -127,7 +127,7 @@ C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.3
 R Tower of Azora |QID|87| |N|Travel to the Tower of Azora (64.1, 68.6)|
 A Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
 A The Master and the Student |QID|41748| |N|Theocritus at the top of Tower of Azora (65.2, 69.7)|
-C Arcane Emanations |QID|41746| |N|Kill Lesser Arcane Elemental to collect 8 Lesser Arcane Rsidue around the Tower of Azora (64.9, 69.9)|
+C Arcane Emanations |QID|41746| |N|Kill Lesser Arcane Elemental to collect 8 Lesser Arcane Rsidue around the Tower of Azora (64.1, 68.6)|
 T Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
 
 T Further Concerns |QID|35| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
