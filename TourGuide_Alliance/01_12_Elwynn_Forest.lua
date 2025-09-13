@@ -308,7 +308,7 @@ R Goldshire |TID|147| |N|Travel to Goldshire (42.12, 65.96)|
 T Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 
 R Dwarven District |TID|1097| |N|Travel to Dwarven District in Stormwind City (51.75, 12.03)| |Z|Stormwind City|
-T Elmore's Task |QID|1097| |N|Grimand Elmore in Dwarven District (51.75, 12.03)| |Z|Stormwind City|
+T Elmore's Task |QID|1097| |N|Grimand Elmore in Dwarven District (59.75, 33.8)| |Z|Stormwind City|
 A Stormpike's Delivery |QID|353| |N|Grimand Elmore in Dwarven District (51.75, 12.03)| |Z|Stormwind City|
 R Deeprun Tram |QID|6661| |N|In the Dwarven District (70.3, 29.5)| |Z|Stormwind City|
 A Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side. Take the tram to get to the Ironforge side|
