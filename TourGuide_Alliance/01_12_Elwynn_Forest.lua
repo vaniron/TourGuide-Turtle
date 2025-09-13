@@ -77,7 +77,7 @@ H Goldshire |QID|60| |N|Innkeeper Farley in Goldshire (43.78, 65.86)|
 R The Stonefield Farm |QID|85| |N|Travel to The Stonefield Farm (34.5, 84.3)|
 A Lost Necklace |QID|85| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 
-R The Maclure Vineyards |QID|106| |N|Travel to the Maclure Vineyards (43.12, 89.55)|
+R Maclure Vineyards |QID|106| |N|Travel to the Maclure Vineyards (43.12, 89.55)|
 A Young Lovers |QID|106| |N|Maybell Maclure in the Maclure Vineyards (43.12, 89.55)|
 T Lost Necklace |QID|85| |N|Billy Maclure in the Maclure Vineyards (43.12, 85.77)|
 A Pie for Billy |QID|86| |N|Billy Maclure in the Maclure Vineyards (43.12, 85.77)|
@@ -93,7 +93,7 @@ A Speak with Gramma |QID|111| |N|Tommy Joe Stonefield in The Stonefield Farm (29
 T Speak with Gramma |QID|111| |N|Gramma Stonefield in The Stonefield Farm (34.95, 83.84)|
 A Note to William |QID|107| |N|Gramma Stonefield in The Stonefield Farm (34.95, 83.84)|
 
-R The Maclure Vineyards |QID|87| |N|Travel to the Maclure Vineyards (43.12, 85.77)|
+R Maclure Vineyards |QID|87| |N|Travel to the Maclure Vineyards (43.12, 85.77)|
 T Back to Billy |QID|84| |N|Billy Maclure in the Maclure Vineyards (43.12, 85.77)|
 A Goldtooth |QID|87| |N|Billy Maclure in the Maclure Vineyards (43.12, 85.77)|
 
@@ -178,7 +178,7 @@ T The Jasperlode Mine |QID|76| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
 A Westbrook Garrison Needs Help! |QID|239| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
 A Elmore's Task |QID|1097| |N|Smith Argus in Goldshire (42.01, 65.60)|
 
-R The Maclure Vineyards |TID|87| |N|Travel to the Maclure Vineyards (43.12, 89.55)|
+R Maclure Vineyards |TID|87| |N|Travel to the Maclure Vineyards (43.12, 89.55)|
 T The Escape |QID|114| |N|Maybell Maclure in the Maclure Vineyards (43.12, 89.55)|
 T Goldtooth |QID|87| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 
