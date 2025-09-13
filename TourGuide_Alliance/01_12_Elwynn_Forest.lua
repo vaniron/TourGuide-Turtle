@@ -153,6 +153,7 @@ C Protect the Frontier |QID|52| |N|Kill 8 Prowler and 5 Young Forest Bear which 
 R Eastvale Logging Camp |QID|39| |N|Travel to Eastvale Logging Camp (81.45, 66.19)|
 T A Bundle of Trouble |QID|5545| |N|Supervisor Raelen in Eastvale Logging Camp (81.45, 66.19)|
 
+C Princess Must Die! |QID|88| |N|Kill Princess who patrols the area and loot the Brass Collar. She is a level 9 mob who is surrounded by two guards which are level 7 so grouping with another is recommended, you can skip it if you're unable to complete (69, 78)|
 C Red Linen Goods |QID|83| |N|Kill the Defias Bandit in the area to collect 6 Red Linen Bandana (90.09, 80.19) (69.99, 80.31)|
 K Defias Bandit |QID|184| |N|Keep killing Defias Bandit until you find Westfall Deed to begin a quest. It's a low drop rate, so skip this if you want (69.99, 80.31)| |L|1972|
 A Furlbrow's Deed |QID|184| |N|Use Westfall Deed to accept quest| |U|1972| |O|
@@ -181,6 +182,7 @@ A Elmore's Task |QID|1097| |N|Smith Argus in Goldshire (42.01, 65.60)|
 R Maclure Vineyards |TID|87| |N|Travel to the Maclure Vineyards (43.12, 89.55)|
 T The Escape |QID|114| |N|Maybell Maclure in the Maclure Vineyards (43.12, 89.55)|
 T Goldtooth |QID|87| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
+T Princess Must Die! |QID|88| |N|Ma Stonefield in The Stonefield Farm (34.61, 84.43)|
 
 N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10| 
 R Goldshire |QID|1860| |N|Travel or Hearthstone to Goldshire (43.28, 66.22)|
@@ -265,7 +267,7 @@ A Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 
 R Brackwell Pumpkin Patch |QID|147| |N|Travel to Brackwell Pumpkin Patch (71.01, 80.55)|
 C Manhunt |QID|147| |N|Kill Morgan the Collector in Brackwell Pumpkin Patch, you will need to pull the enemies around her first otherwise it is difficult to solo (71.01, 80.55)|
-C Princess Must Die! |QID|88| |N|Kill Princess who patrols the area and loot the Brass Collar. She is a level 9 mob who is surrounded by two guards which are level 7 so grouping with another is recommended, you can skip it if you're unable to complete (69, 78)|
+
 A Bounty on Murlocs |QID|46| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 C Bounty on Murlocs |QID|46| |N|Kill Murlocs and collect 8 Torn Murloc Fin in Stone Cairn Lake (79.68, 55.48)|
 T Bounty on Murlocs |QID|46| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
@@ -281,9 +283,6 @@ T Dead-tooth Jack |QID|1667| |N|Marshal Haggard in Eastvale Logging Camp (84.58,
 
 R Goldshire |TID|147| |N|Travel to Goldshire (42.12, 65.96)|
 T Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
-
-R The Stonefield Farm |TID|88| |N|Travel to The Stonefield Farm (34.61, 84.43)|
-T Princess Must Die! |QID|88| |N|Ma Stonefield in The Stonefield Farm (34.61, 84.43)|
 
 R Three Corners |QID|244| |N|Travel to Three Corners in (map:1433) (15.36, 71.44)| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.36, 71.44)| |Z|Redridge Mountains|
