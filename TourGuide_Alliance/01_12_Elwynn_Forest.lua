@@ -329,11 +329,15 @@ T Protecting the Herd |QID|314| |N|Rudra Amberstill at the Amberstill Ranch (63.
 R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (68.65, 55.95)| |Z|Dun Morogh|
 A The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
 A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at Gol'Bolar Quarry (69.1, 56.3)| |Z|Dun Morogh|
+A Curiosity Leads Us Forward |QID|39001| |N|Prospector Gehn at Gol'Bolar Quarry (69, 54.6)| |Z|Dun Morogh|
+
+C Curiosity Leads Us Forward |QID|390013| |N|Make your way to the back of the cave in Gol'Bolar Quarry. Kill troggs as you go (71.6, 51.1)| |Z|Dun Morogh|
 C The Public Servant |QID|433| |N|Kill 10 Rockjaw Bonesnapper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
 C Those Blasted Troggs! |QID|432| |N|Kill 6 Rockjaw Skullthumper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
+
 T The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
 T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.12, 56.30)| |Z|Dun Morogh|
-
+R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (68.65, 55.95)| |Z|Dun Morogh|
 R Loch Modan |QID|224| |N|Travel to Loch Modan (81.13, 52.98) (82.26, 53.41) (84.42, 51.06) (86.22, 51.32)| |Z|Dun Morogh| |REACH|
 R Loch Modan |QID|224| |N|Travel to Loch Modan (19.76, 62.87)| |Z|Loch Modan|
 A In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint in Valley of Kings (22.00, 73.10)| |Z|Loch Modan|
