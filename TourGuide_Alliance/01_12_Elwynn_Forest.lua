@@ -332,8 +332,8 @@ A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at Gol'Bolar Quarry (69.1
 A Curiosity Leads Us Forward |QID|39001| |N|Prospector Gehn at Gol'Bolar Quarry (69, 54.6)| |Z|Dun Morogh|
 
 C Curiosity Leads Us Forward |QID|390013| |N|Make your way to the back of the cave in Gol'Bolar Quarry. Kill troggs as you go (71.6, 51.1)| |Z|Dun Morogh|
-C The Public Servant |QID|433| |N|Kill 10 Rockjaw Bonesnapper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
-C Those Blasted Troggs! |QID|432| |N|Kill 6 Rockjaw Skullthumper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
+C The Public Servant |QID|433| |N|Make your way out of the cave. Kill 10 Rockjaw Bonesnapper (70.58, 56.69)| |Z|Dun Morogh|
+C Those Blasted Troggs! |QID|432| |N|Kill 6 Rockjaw Skullthumper outside in the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
 
 T The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
 T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.12, 56.30)| |Z|Dun Morogh|
