@@ -50,7 +50,7 @@ T Milly Osworth |QID|3903| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
 C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyards to collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
-C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfootand collect Garrick's Head in Northshire Vineyards. He is surrounded by two guards but both can easily be pulled seperately (57, 48)|
+C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfoot and collect Garrick's Head in Northshire Vineyards. He is surrounded by two guards but both can easily be pulled seperately (57, 48)|
 T Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Grape Manifest |QID|3905| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
