@@ -124,6 +124,10 @@ C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner and collect 4
 R Jasperlode Mine |QID|76| |N|Travel to Jasperlode Mine (61.70, 53.76)|
 C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.35)|
 
+R Tower of Azora |QID|87| |N|Travel to the Tower of Azora (64.1, 68.6)|
+A Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
+A The Master and the Student |QID|41748| |N|Theocritus at the top of Tower of Azora (65.2, 69.7)|
+
 T Further Concerns |QID|35| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 A Find the Lost Guards |QID|37| |N|Guard Thomas in Elwynn Forest (61.79, 54.04) (73.89, 72.18)|
 A Protect the Frontier |QID|52| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
