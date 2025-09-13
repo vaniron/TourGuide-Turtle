@@ -120,6 +120,8 @@ N Train First Aid |QID|112| |N|Speak to Michelle Belle and train First Aid. Tick
 
 R Crystal Lake |QID|112| |N|Travel to Crystal Lake (54, 66)|
 C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner to collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
+K Murlocs |QID|184| |N|Keep killing Murlocs until you find Dirty Old Ring to begin a quest (54, 66)| |L|51855|
+A That Dirty Old Ring |QID|184| |N|Use Dirty Old Ring to accept quest| |U|51855| |O|
 
 R Jasperlode Mine |QID|76| |N|Travel to Jasperlode Mine (61.70, 53.76)|
 C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.35)|
@@ -143,6 +145,8 @@ T Find the Lost Guards |QID|37| |N|A Half-eaten Body in Stone Cairn Lake (72.7, 
 A Discover Rolf's Fate |QID|45| |N|A Half-eaten Body in Stone Cairn Lake (72.7, 60.5)|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse in Stone Cairn Lake (79.8, 55.6)|
 A Report to Thomas |QID|71| |N|Rolf's corpse in Stone Cairn Lake (79.8, 55.6)|
+
+C The Master and the Student |QID|41748| |N|Kill Ralthas and collect Necklace of Azora; He patrols around. You can also collect some Red Linen Bandana here for a later quest (74, 49.4)|
 
 C A Bundle of Trouble |QID|5545| |N|Collect 8 Bundle of Wood near the base of the trees in Stone Cairn Lake (80.25, 60.11)| |OBJ|1248|
 C Protect the Frontier |QID|52| |N|Kill 8 Prowler and 5 Young Forest Bear which can both be found to the east around Eastvale Logging Camp as well as in the southern area across the bridge (81, 62) (83, 78)|
