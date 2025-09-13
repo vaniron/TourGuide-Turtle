@@ -100,7 +100,7 @@ A Goldtooth |QID|87| |N|Billy Maclure in The Maclure Vineyards (43.12, 85.77)|
 R Fargodeep Mine |QID|87| |N|Travel to Fargodeep Mine (38.94, 81.85)|
 C Goldtooth |QID|87| |N|Kill Goldtooth and get Bernice's Necklace in Fargodeep Mine (41.6, 78.8)|
 C The Fargodeep Mine |QID|62| |N|Travel inside The in Fargodeep Mine at to have it investigated (40.60, 81.92)|
-C Gold Dust Exchange |QID|47| |N|Kill the Kobolds surrounding the Fargodeep Mineto collect 10 Gold Dust (39, 80)|
+C Gold Dust Exchange |QID|47| |N|Kill the Kobolds surrounding the Fargodeep Mine to collect 10 Gold Dust (39, 80)|
 C Kobold Candles |QID|60| |N|Kill the Kobolds surrounding the in Fargodeep Mine to collect 8 Large Candle (39, 80)|
 
 R Goldshire |QID|112| |N|Travel or Hearthstone to Goldshire (43.43, 66.05)| |U|6948|
@@ -119,7 +119,7 @@ A Collecting Kelp |QID|112| |N|William Pestle in Goldshire (43.43, 66.05)|
 N Train First Aid |QID|112| |N|Speak to Michelle Belle and train First Aid. Tick this step (43.43, 65.55)|
 
 R Crystal Lake |QID|112| |N|Travel to Crystal Lake (54, 66)|
-C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner and collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
+C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner to collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
 
 R Jasperlode Mine |QID|76| |N|Travel to Jasperlode Mine (61.70, 53.76)|
 C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.35)|
@@ -127,6 +127,8 @@ C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.3
 R Tower of Azora |QID|87| |N|Travel to the Tower of Azora (64.1, 68.6)|
 A Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
 A The Master and the Student |QID|41748| |N|Theocritus at the top of Tower of Azora (65.2, 69.7)|
+C Arcane Emanations |QID|41746| |N|Kill Lesser Arcane Elemental to collect 8 Lesser Arcane Rsidue around the Tower of Azora (64.9, 69.9)|
+T Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
 
 T Further Concerns |QID|35| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 A Find the Lost Guards |QID|37| |N|Guard Thomas in Elwynn Forest (61.79, 54.04) (73.89, 72.18)|
@@ -202,7 +204,7 @@ T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (5
 A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |R|Human| |Z|Westfall|
 T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
 A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
-f Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
+F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City| |R|Human|
 T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City| |R|Human|
