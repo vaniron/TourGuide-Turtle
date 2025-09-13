@@ -318,7 +318,14 @@ T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side|
 R City of Ironforge |QID|433| |N|Go through the portal to exit to City of Ironforge|
 R City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
 
-R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Dun Morogh|
+R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Ironforge|
+
+A The Mercy of Humility |QID|40863| |N|Father Gavin at Misty Pine Refuge (57.7, 44.9)| |Z|Dun Morogh|
+A Protecting the Herd |QID|314| |N|Rudra Amberstill at the Amberstill Ranch (63.1, 49.9)| |Z|Dun Morogh|
+R Path to Vagash |QID|433| |N|Travel here and follow to path to Vagash (59.7, 50.1)| |Z|Dun Morogh|
+C Protecting the Herd |QID|314| |N|Slay Vagash above Amberstill Ranch and collect Fang of Vagash. If he is too hard, skip this quest (61.4, 47.2)| |Z|Dun Morogh|
+T Protecting the Herd |QID|314| |N|Rudra Amberstill at the Amberstill Ranch (63.1, 49.9)| |Z|Dun Morogh|
+
 R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|Dun Morogh|
 A The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
 A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at Gol'Bolar Quarry (69.1, 56.3)| |Z|Dun Morogh|
@@ -346,7 +353,7 @@ F Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thels
 A Rat Catching |QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
 A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
 A Thelsamar Blood Sausages |QID|418| |N|in Stoutlager Inn (34.88, 49.13)| |Z|Loch Modan|
-h Stoutlager Inn |QID|416| |N|Speak to Innkeeper Hearthstove and set hearth to Stoutlager Inn (35.50, 48.42)| |Z|Loch Modan|
+H Stoutlager Inn |QID|416| |N|Speak to Innkeeper Hearthstove and set hearth to Stoutlager Inn (35.50, 48.42)| |Z|Loch Modan|
 
 N As you go... |AYG|1338| |QID|418| |N|Kill any Bears, Spiders and Wolves for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor| |OID|1338|
 C Rat Catching |QID|416| |N|Kill any of the Tunnel Rat enemies collect 12 Tunnel Rat Ear in Silver Stream Mine (29, 43)| |Z|Loch Modan|
