@@ -320,7 +320,6 @@ R City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for
 
 R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Ironforge|
 
-A The Mercy of Humility |QID|40863| |N|Father Gavin at Misty Pine Refuge (57.7, 44.9)| |Z|Dun Morogh|
 A Protecting the Herd |QID|314| |N|Rudra Amberstill at the Amberstill Ranch (63.1, 49.9)| |Z|Dun Morogh|
 R Path to Vagash |QID|433| |N|Travel here and follow to path to Vagash (59.7, 50.1)| |Z|Dun Morogh|
 C Protecting the Herd |QID|314| |N|Slay Vagash above Amberstill Ranch and collect Fang of Vagash. If he is too hard, skip this quest (61.4, 47.2)| |Z|Dun Morogh|
@@ -338,9 +337,6 @@ C Those Blasted Troggs! |QID|432| |N|Kill 6 Rockjaw Skullthumper outside in the 
 T The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
 T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.12, 56.30)| |Z|Dun Morogh|
 T Curiosity Leads Us Forward |QID|39001| |N|Prospector Gehn at Gol'Bolar Quarry (69, 54.6)| |Z|Dun Morogh|
-
-R Above the Quarry |N|Travel above Gol'Bolar Quarry (69.5, 52.1)| |Z|Dun Morogh|
-C The Mercy of Humility |QID|40863| |N|Kill troggs above Gol'Bolar Quarry for The Mercy of Humility (69.5, 52.1)| |Z|Dun Morogh|
 
 R Loch Modan |QID|224| |N|Travel to Loch Modan (81.13, 52.98) (82.26, 53.41) (84.42, 51.06) (86.22, 51.32)| |Z|Dun Morogh| |REACH|
 R Loch Modan |QID|224| |N|Travel to Loch Modan (19.76, 62.87)| |Z|Loch Modan|
