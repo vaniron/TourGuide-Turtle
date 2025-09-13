@@ -226,9 +226,9 @@ F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hi
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City|
 T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (63.23, 74.59)| |Z|Stormwind City|
 T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (77.21, 61)| |Z|Stormwind City|
-A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City|
-T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City|
-A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City|
+A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (77.21, 61)| |Z|Stormwind City|
+T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (56.23, 64.59)| |Z|Stormwind City|
+A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (56.23, 64.59)| |Z|Stormwind City|
 T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder in The Slaughtered Lamb (29.29, 73.99) (25.32, 78.47)| |C|Warlock| |Z|Stormwind City| |QID|1688|
 A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock| |Z|Stormwind City|
 
