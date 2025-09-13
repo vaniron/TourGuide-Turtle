@@ -106,7 +106,7 @@ C Kobold Candles |QID|60| |N|Kill the Kobolds surrounding the in Fargodeep Mine 
 R Goldshire |QID|112| |N|Travel or Hearthstone to Goldshire (43.43, 66.05)| |U|6948|
 T Gold Dust Exchange |QID|47| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 A A Fishy Peril |QID|40| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
-A Forest Ichor Exchaange |QID|41895| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
+A Forest Ichor Exchange |QID|41895| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 T A Fishy Peril |QID|40| |N| Marshal Dughan in Goldshire (42.14, 65.90)|
 A Further Concerns |QID|35| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
 T The Fargodeep Mine |QID|62| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
