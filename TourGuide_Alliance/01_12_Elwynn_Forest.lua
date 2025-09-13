@@ -290,7 +290,7 @@ T Bounty on Murlocs |QID|46| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 
 R Eastvale Logging Camp |TID|59| |N|Travel to Eastvale Logging Camp (79.50, 68.69)|
 T Cloth and Leather Armor |QID|59| |N|Sara Timberlain, in Eastvale Logging Camp (79.50, 68.69)|
-T Culling the Riverpaw |QID|60042| |N|Terry Palin in Eastvale Logging Camp (83, 63.3)|
+T Culling the Riverpaw |QID|60042| |N|Supervisor Raelen in Eastvale Logging Camp (81.4, 66.1)|
 
 T Marshal Haggard |QID|1666| |N|Marshal Haggard in Eastvale Logging Camp (84.61, 69.37)| |C|Warrior|
 A Dead-tooth Jack |QID|1667| |N|Marshal Haggard in Eastvale Logging Camp (84.61, 69.37)| |C|Warrior|
