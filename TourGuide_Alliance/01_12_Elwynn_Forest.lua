@@ -9,7 +9,7 @@ A Eagan Peltskinner |QID|5261| |N|Deputy Willem in Northshire Valley (48.18, 42.
 T Eagan Peltskinner |QID|5261| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 A Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 
-C Kobold Camp Cleanup |QID|7| |N|Kill 10 Kobold Vermin which can be found around the mine in Northshire Valley (49, 35)|
+C Kobold Camp Cleanup |QID|7| |N|Kill 10 Kobold Vermin which can be found around Echo Ridge Mine in Northshire Valley (49, 35)|
 C Wolves Across the Border |QID|33| |N|Kill Young Wolf and Timber Wolf to collect 8 pieces of Tough Wolf Meat (47, 38) (46, 35)|
 
 T Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
@@ -33,32 +33,35 @@ T Tainted Letter |C|Warlock| |QID|3105| |N|Drusilla La Salle in Northshire Abbey
 A The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 C The Stolen Tome |QID|1598| |N|Collect Powers of the Void from the ground near the tent in Northshire Valley (56.70, 44.01)| |C|Warlock|
-C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug which surround the area to the Southeast across the river to collect 12 Red Burlap Bandana in Northshire Vineyards (54, 45)|
+C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug in and around Northshire Vineyards to collect 12 Red Burlap Bandana (54, 45)|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 R Northshire Valley |QID|15| |N|Travel to Northshire Valley (51.63, 36.76)|
-C Investigate Echo Ridge |QID|15| |N|Kill 10 Kobold Worker which can be found in the mine in Northshire Valley (51.63, 36.76)|
+C Investigate Echo Ridge |QID|15| |N|Kill 10 Kobold Worker which can be found around Echo Ridge Mine (51.63, 36.76)|
 
 R Northshire Valley |QID|3904| |N|Travel to Northshire Valley (47.75, 41.97)|
 T Brotherhood of Thieves |QID|18| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 A Bounty on Garrick Padfoot |QID|6| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 A Milly Osworth |QID|3903| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 T Investigate Echo Ridge |QID|15| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
+A Down in the Ridge |QID|60145| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 A Skirmish at Echo Ridge |QID|21| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 T Milly Osworth |QID|3903| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
-C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyardsto collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
-C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfoot and collect Garrick's Head. He is surrounded by two guards but both can easily be pulled seperately in Northshire Vineyards (57, 48)|
+C Milly's Harvest |QID|3904| |N|Clear the area around each crate of Northshire Vineyards to collect 8 of Milly's Harvest (55, 47)| |OBJ|3012|
+C Bounty on Garrick Padfoot |QID|6| |N|Find and kill Garrick Padfoot and collect Garrick's Head in Northshire Vineyards. He is surrounded by two guards but both can easily be pulled seperately (57, 48)|
 T Milly's Harvest |QID|3904| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 A Grape Manifest |QID|3905| |N|Milly Osworth in Northshire Valley (50.69, 39.32)|
 
 R Echo Ridge Mine |QID|21| |N|Travel to Echo Ridge Mine (48.71, 27.81)|
-C Skirmish at Echo Ridge |QID|21| |N|Kill 12 Kobold Laborer which can be found around the Echo Ridge Mine (48, 29)|
+C Skirmish at Echo Ridge |QID|21| |N|Kill 12 Kobold Laborer inside Echo Ridge Mine. Work your way to the back of the mine (48, 29)|
+C Down in the Ridge |QID|60145| |N|Kill Snufflesnout in the back of Echo Ridge Mine (50.4, 26.6)|
 
 R Northshire Abbey |QID|54| |N|Travel to Northshire Abbey (47.75, 41.97)|
 T Bounty on Garrick Padfoot |QID|6| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
 T Skirmish at Echo Ridge |QID|21| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
+T Down in the Ridge |QID|60145| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 A Report to Goldshire |QID|54| |N|Marshal McBride in Northshire Abbey (48.91, 41.60)|
 T Grape Manifest |QID|3905| |N|Brother Neals in Northshire Abbey (49.46, 41.56)|
 A Rest and Relaxation |QID|2158| |N|Falkhaan Isenstrider in Northshire Valley (45.51, 47.72)|
@@ -97,12 +100,13 @@ A Goldtooth |QID|87| |N|Billy Maclure in The Maclure Vineyards (43.12, 85.77)|
 R Fargodeep Mine |QID|87| |N|Travel to Fargodeep Mine (38.94, 81.85)|
 C Goldtooth |QID|87| |N|Kill Goldtooth and get Bernice's Necklace in Fargodeep Mine (41.6, 78.8)|
 C The Fargodeep Mine |QID|62| |N|Travel inside The in Fargodeep Mine at to have it investigated (40.60, 81.92)|
-C Gold Dust Exchange |QID|47| |N|Kill the Kobolds surrounding the Fargodeep Mineto collect 10 Gold Dust (39, 80)|
+C Gold Dust Exchange |QID|47| |N|Kill the Kobolds surrounding the Fargodeep Mine to collect 10 Gold Dust (39, 80)|
 C Kobold Candles |QID|60| |N|Kill the Kobolds surrounding the in Fargodeep Mine to collect 8 Large Candle (39, 80)|
 
 R Goldshire |QID|112| |N|Travel or Hearthstone to Goldshire (43.43, 66.05)| |U|6948|
 T Gold Dust Exchange |QID|47| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 A A Fishy Peril |QID|40| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
+A Forest Ichor Exchaange |QID|41895| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 T A Fishy Peril |QID|40| |N| Marshal Dughan in Goldshire (42.14, 65.90)|
 A Further Concerns |QID|35| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
 T The Fargodeep Mine |QID|62| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
@@ -115,10 +119,18 @@ A Collecting Kelp |QID|112| |N|William Pestle in Goldshire (43.43, 66.05)|
 N Train First Aid |QID|112| |N|Speak to Michelle Belle and train First Aid. Tick this step (43.43, 65.55)|
 
 R Crystal Lake |QID|112| |N|Travel to Crystal Lake (54, 66)|
-C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner and collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
+C Collecting Kelp |QID|112| |N|Kill Murloc and Murloc Streamrunner to collect 4 Crystal Kelp Frond around the Crystal Lake (54, 66)|
+K Murlocs |QID|184| |N|Keep killing Murlocs until you find Dirty Old Ring to begin a quest (54, 66)| |L|51855|
+A That Dirty Old Ring |QID|60130| |N|Use Dirty Old Ring to accept quest| |U|51855| |O|
 
 R Jasperlode Mine |QID|76| |N|Travel to Jasperlode Mine (61.70, 53.76)|
 C The Jasperlode Mine |QID|76| |N|Scout through the Jasperlode Mine (60.45, 50.35)|
+
+R Tower of Azora |QID|87| |N|Travel to the Tower of Azora (64.1, 68.6)|
+A Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
+A The Master and the Student |QID|41748| |N|Theocritus at the top of Tower of Azora (65.2, 69.7)|
+C Arcane Emanations |QID|41746| |N|Kill Lesser Arcane Elemental to collect 8 Lesser Arcane Rsidue around the Tower of Azora (64.1, 68.6)|
+T Arcane Emanations |QID|41746| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
 
 T Further Concerns |QID|35| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 A Find the Lost Guards |QID|37| |N|Guard Thomas in Elwynn Forest (61.79, 54.04) (73.89, 72.18)|
@@ -133,6 +145,8 @@ T Find the Lost Guards |QID|37| |N|A Half-eaten Body in Stone Cairn Lake (72.7, 
 A Discover Rolf's Fate |QID|45| |N|A Half-eaten Body in Stone Cairn Lake (72.7, 60.5)|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse in Stone Cairn Lake (79.8, 55.6)|
 A Report to Thomas |QID|71| |N|Rolf's corpse in Stone Cairn Lake (79.8, 55.6)|
+
+C The Master and the Student |QID|41748| |N|Kill Ralthas and collect Necklace of Azora; He patrols around. You can also collect some Red Linen Bandana here for a later quest (74, 49.4)|
 
 C A Bundle of Trouble |QID|5545| |N|Collect 8 Bundle of Wood near the base of the trees in Stone Cairn Lake (80.25, 60.11)| |OBJ|1248|
 C Protect the Frontier |QID|52| |N|Kill 8 Prowler and 5 Young Forest Bear which can both be found to the east around Eastvale Logging Camp as well as in the southern area across the bridge (81, 62) (83, 78)|
@@ -194,7 +208,7 @@ T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (5
 A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |R|Human| |Z|Westfall|
 T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
 A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
-f Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
+F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City| |R|Human|
 T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City| |R|Human|
@@ -227,7 +241,7 @@ T Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (75.81, 59.84)| |C|R
 R The Slaughtered Lamb |QID|1689| |N|Travel to The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
 T Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25, 78.54)| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1689| |N|Keep going down the stair until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1689| |N|Keep going down the stairs until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
 
 R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |Z|Westfall| |R|Human|
