@@ -72,7 +72,7 @@ A The Fargodeep Mine |QID|62| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
 A Gold Dust Exchange |QID|47| |N|Remy \Two Times\ in Goldshire (42.19, 67.05)|
 A Kobold Candles |QID|60| |N|William Pestle in Goldshire (43.43, 66.05)|
 T Rest and Relaxation |QID|2158| |N|Innkeeper Farley in Goldshire (43.78, 65.86)|
-h Goldshire |QID|60| |N|Innkeeper Farley in Goldshire (43.78, 65.86)|
+H Goldshire |QID|60| |N|Innkeeper Farley in Goldshire (43.78, 65.86)|
 
 R The Stonefield Farm |QID|85| |N|Travel to The Stonefield Farm (34.5, 84.3)|
 A Lost Necklace |QID|85| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
@@ -166,7 +166,11 @@ A Report to Gryan Stoutmantle |QID|109| |N|Guard Thomas in Elwynn Forest (73.96,
 R Eastvale Logging Camp |TID|83| |N|Travel to Eastvale Logging Camp (79.47, 68.75)|
 T Red Linen Goods |QID|83| |N|Sara Timberlain in Eastvale Logging Camp (79.47, 68.75)|
 
+A Culling the Riverpaw|QID|60042| |N|Terry Palin in Eastvale Logging Camp (83, 63.3)|
+
 R Goldshire |QID|1860| |N|Travel or Hearthstone to Goldshire (43.28, 66.22)| |U|6948|
+T That Dirty Old Ring |QID|60130| |N|Zaldimar Wefhellt upstairs in Goldshire Inn (43.28, 66.22)|
+A The Tower of Azora |QID|41747| |N|Zaldimar Wefhellt (43.28, 66.22)|
 T Collecting Kelp |QID|112| |N|William Pestle in Goldshire (43.28, 66.22)|
 A The Escape |QID|114| |N|William Pestle in Goldshire (43.43, 66.05)|
 T Deliver Thomas' Report |QID|39| |N|Marshal Dughan in Goldshire (42.14, 65.90)|
