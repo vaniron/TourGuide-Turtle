@@ -258,7 +258,7 @@ A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25,
 C The Binding |QID|1689| |N|Keep going down the stairs until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
 
-F Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |Z|Westfall|
+F Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (71.4, 72.3)| |Z|Stormwind City|
 T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |R|Human| |Z|Westfall|
 
 R Forest's Edge |QID|11| |N|Travel to Forest's Edge (63.96, 26.68) (25, 86)|
