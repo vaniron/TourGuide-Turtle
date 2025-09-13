@@ -339,7 +339,7 @@ T The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (
 T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow in Gol'Bolar Quarry (69.12, 56.30)| |Z|Dun Morogh|
 T Curiosity Leads Us Forward |QID|39001| |N|Prospector Gehn at Gol'Bolar Quarry (69, 54.6)| |Z|Dun Morogh|
 
-R Above the Quarry |QID|224| |N|Travel above Gol'Bolar Quarry (69.5, 52.1)| |Z|Loch Modan|
+R Above the Quarry |N|Travel above Gol'Bolar Quarry (69.5, 52.1)| |Z|Dun Morogh|
 C The Mercy of Humility |QID|40863| |N|Kill troggs above Gol'Bolar Quarry for The Mercy of Humility (69.5, 52.1)| |Z|Dun Morogh|
 
 R Loch Modan |QID|224| |N|Travel to Loch Modan (81.13, 52.98) (82.26, 53.41) (84.42, 51.06) (86.22, 51.32)| |Z|Dun Morogh| |REACH|
