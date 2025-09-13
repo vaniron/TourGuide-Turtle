@@ -326,7 +326,7 @@ R Path to Vagash |QID|433| |N|Travel here and follow to path to Vagash (59.7, 50
 C Protecting the Herd |QID|314| |N|Slay Vagash above Amberstill Ranch and collect Fang of Vagash. If he is too hard, skip this quest (61.4, 47.2)| |Z|Dun Morogh|
 T Protecting the Herd |QID|314| |N|Rudra Amberstill at the Amberstill Ranch (63.1, 49.9)| |Z|Dun Morogh|
 
-R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|Dun Morogh|
+R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (68.65, 55.95)| |Z|Dun Morogh|
 A The Public Servant |QID|433| |N|Senator Mehr Stonehallow in Gol'Bolar Quarry (68.70, 56.02)| |Z|Dun Morogh|
 A Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow at Gol'Bolar Quarry (69.1, 56.3)| |Z|Dun Morogh|
 C The Public Servant |QID|433| |N|Kill 10 Rockjaw Bonesnapper around the Gol'Bolar Quarry (70.58, 56.69)| |Z|Dun Morogh|
