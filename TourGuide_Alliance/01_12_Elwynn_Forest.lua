@@ -153,7 +153,7 @@ C Protect the Frontier |QID|52| |N|Kill 8 Prowler and 5 Young Forest Bear which 
 R Eastvale Logging Camp |QID|39| |N|Travel to Eastvale Logging Camp (81.45, 66.19)|
 T A Bundle of Trouble |QID|5545| |N|Supervisor Raelen in Eastvale Logging Camp (81.45, 66.19)|
 
-C Princess Must Die! |QID|88| |N|Kill Princess who patrols the area and loot the Brass Collar. She is a level 9 mob who is surrounded by two guards which are level 7 so grouping with another is recommended, you can skip it if you're unable to complete (69, 78)|
+C Princess Must Die! |QID|88| |N|Kill Princess and loot the Brass Collar; She patrols around with two level 7 guards. Find a group if you can; You can skip it if you're unable to complete (69, 78)|
 C Red Linen Goods |QID|83| |N|Kill the Defias Bandit in the area to collect 6 Red Linen Bandana (90.09, 80.19) (69.99, 80.31)|
 K Defias Bandit |QID|184| |N|Keep killing Defias Bandit until you find Westfall Deed to begin a quest. It's a low drop rate, so skip this if you want (69.99, 80.31)| |L|1972|
 A Furlbrow's Deed |QID|184| |N|Use Westfall Deed to accept quest| |U|1972| |O|
@@ -184,7 +184,7 @@ T The Escape |QID|114| |N|Maybell Maclure in the Maclure Vineyards (43.12, 89.55
 T Goldtooth |QID|87| |N|\Auntie\ Bernice Stonefield in The Stonefield Farm (34.5, 84.3)|
 T Princess Must Die! |QID|88| |N|Ma Stonefield in The Stonefield Farm (34.61, 84.43)|
 
-N Level 10 Required |N|You need to be at least level 10 to continue, keep grinding nearby mobs until you reach level 10| 
+N Level 10 Required |N|You need to be at least level 10 to continue; Keep grinding nearby mobs until you reach level 10| 
 R Goldshire |QID|1860| |N|Travel or Hearthstone to Goldshire (43.28, 66.22)|
 A Speak with Jennea |QID|1860| |N|Zaldimar Wefhellt in Goldshire (43.28, 66.22)| |C|Mage|
 A A Warrior's Training |QID|1638| |N|Lyria Du Lac in Goldshire (41.1, 65.8)| |C|Warrior|
@@ -221,7 +221,7 @@ T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (5
 A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |Z|Westfall|
 T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |Z|Westfall|
-F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
+F Sentinel Hill |QID|6261| |N|Speak to Thor and grab the flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (71.4, 72.3)| |Z|Stormwind City|
 T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (63.23, 74.59)| |Z|Stormwind City|
@@ -234,7 +234,7 @@ T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder in The Slaughtered Lamb (29
 A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock| |Z|Stormwind City|
 
 R Brackwell Pumpkin Patch |QID|1688| |N|Travel to Brackwell Pumpkin Patch (71.02, 80.76)| |C|Warlock|
-C Surena Caledon |QID|1688| |N|Kill Surena Caledon and collect Surena's Choker in Brackwell Pumpkin Patch. She is guarded by 2 other enemies, you will need to pull them away (71.02, 80.76)| |C|Warlock|
+C Surena Caledon |QID|1688| |N|Kill Surena Caledon and collect Surena's Choker in Brackwell Pumpkin Patch. Find assistance if you can; She is guarded by 2 other enemies and you will need to pull them away (71.02, 80.76)| |C|Warlock|
 T Seek out SI: 7 |QID|2205| |N|Master Mathias Shaw in SI:7 (75.88, 59.83)| |C|Rogue| |Z|Stormwind City|
 A Snatch and Grab |QID|2206| |N|Master Mathias Shaw in SI:7 (76.47, 60.13)| |C|Rogue| |Z|Stormwind City|
 
@@ -266,7 +266,7 @@ C Riverpaw Gnoll Bounty |QID|11| |N|Collect 8 Painted Gnoll Armband from the Riv
 C Culling the Riverpaw |QID|60042| |N| Kill 10 Riverpaw Outrunner and 10 Riverpaw Runt (25, 86)|
 C Wanted: "Hogger" |QID|176| |N|Kill Hogger and collect Huge Gnoll Claw in Forest's Edge. This is a group quest and safe to skip (26.14, 94.34)|
 
-N Gold Pickup Schedule |QID|123| |N|Kill Gnolls until you find Gold Pickup Schedule to begin a new quest, you can skip this if you can't find it (25, 86)| |L|1307|
+N Gold Pickup Schedule |QID|123| |N|Kill Gnolls until you find Gold Pickup Schedule to begin a new quest; You can skip this if you can't find it (25, 86)| |L|1307|
 A The Collector |QID|123| |N|Use Gold Pickup Schedule to accept quest| |U|1307| |O|
 
 R Westbrook Garrison |TID|11| |N|Travel to Westbrook Garrison (24.26, 74.54)|
@@ -282,14 +282,14 @@ T The Tower of Azora |QID|41747| |N|Antonas Riftgaze in Tower of Azora (64.9, 69
 T The Master and the Student |QID|41748| |N|Theocritus at the top of Tower of Azora (65.2, 69.7)|
 
 R Brackwell Pumpkin Patch |QID|147| |N|Travel to Brackwell Pumpkin Patch (71.01, 80.55)|
-C Manhunt |QID|147| |N|Kill Morgan the Collector in Brackwell Pumpkin Patch, you will need to pull the enemies around her first otherwise it is difficult to solo (71.01, 80.55)|
+C Manhunt |QID|147| |N|Kill Morgan the Collector in Brackwell Pumpkin Patch. Find assistance if you can; He is guarded by 2 other enemies and you will need to pull them away (71.01, 80.55)|
 
 A Bounty on Murlocs |QID|46| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 C Bounty on Murlocs |QID|46| |N|Kill Murlocs and collect 8 Torn Murloc Fin in Stone Cairn Lake (79.68, 55.48)|
 T Bounty on Murlocs |QID|46| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 
 R Eastvale Logging Camp |TID|59| |N|Travel to Eastvale Logging Camp (79.50, 68.69)|
-T Cloth and Leather Armor |QID|59| |N|Sara Timberlain, in Eastvale Logging Camp (79.50, 68.69)|
+T Cloth and Leather Armor |QID|59| |N|Sara Timberlain in Eastvale Logging Camp (79.50, 68.69)|
 T Culling the Riverpaw |QID|60042| |N|Supervisor Raelen in Eastvale Logging Camp (81.4, 66.1)|
 
 T Marshal Haggard |QID|1666| |N|Marshal Haggard in Eastvale Logging Camp (84.61, 69.37)| |C|Warrior|
@@ -301,7 +301,7 @@ T Dead-tooth Jack |QID|1667| |N|Marshal Haggard in Eastvale Logging Camp (84.58,
 R Three Corners |QID|244| |N|Travel to Three Corners in (map:1433) (15.36, 71.44)| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.36, 71.44)| |Z|Redridge Mountains|
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Lakeshire (30.74, 60.06)| |Z|Redridge Mountains|
-F Lakeshire |TID|1097| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains|
+F Lakeshire |TID|1097| |N|Speak to Ariena Stormfeather to and grab the flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains|
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (71.4, 72.3)| |Z|Stormwind City|
 
 R Goldshire |TID|147| |N|Travel to Goldshire (42.12, 65.96)|
@@ -310,13 +310,13 @@ T Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 R Dwarven District |TID|1097| |N|Travel to Dwarven District in Stormwind City (51.75, 12.03)| |Z|Stormwind City|
 T Elmore's Task |QID|1097| |N|Grimand Elmore in Dwarven District (59.75, 33.8)| |Z|Stormwind City|
 A Stormpike's Delivery |QID|353| |N|Grimand Elmore in Dwarven District (51.75, 12.03)| |Z|Stormwind City|
-R Deeprun Tram  |QID|6661| |N|In the Dwarven District (70.3, 29.5)| |Z|Stormwind City|
+R Deeprun Tram |QID|6661| |N|In the Dwarven District (70.3, 29.5)| |Z|Stormwind City|
 A Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun , Ironforge Side. Take the tram to get to the Ironforge side|
 C Deeprun Rat Roundup |QID|6661| |N|Capture 5 Deeprun Rat by using the Rat Catcher's Flute. Lead the rats back to Monty. Don't forget to turn in the flute when you're finished| |U|17117|
 T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side|
 
 R City of Ironforge |QID|433| |N|Go through the portal to exit to City of Ironforge|
-R City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
+R City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab the flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
 
 R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Ironforge|
 
@@ -353,25 +353,25 @@ T In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint i
 A In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
 
 R Thelsamar |QID|416| |N|Travel to Thelsamar (25.27, 67.41) (28.17, 64.71) (33.90, 50.98)| |Z|Loch Modan|
-F Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|
-A Rat Catching |QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
-A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
-A Thelsamar Blood Sausages |QID|418| |N|in Stoutlager Inn (34.88, 49.13)| |Z|Loch Modan|
+F Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab the flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|
+A Rat Catching |QID|416| |N|Mountaineer Kadrell in Thelsamar; He patrols through the town (32.91, 49.53)| |Z|Loch Modan|
+A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell in Thelsamar; He patrols through the town (32.91, 49.53)| |Z|Loch Modan|
+A Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove in Stoutlager Inn (34.88, 49.13)| |Z|Loch Modan|
 H Stoutlager Inn |QID|416| |N|Speak to Innkeeper Hearthstove and set hearth to Stoutlager Inn (35.50, 48.42)| |Z|Loch Modan|
 
 N As you go... |AYG|1338| |QID|418| |N|Kill any Bears, Spiders and Wolves for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor| |OID|1338|
 C Rat Catching |QID|416| |N|Kill any of the Tunnel Rat enemies collect 12 Tunnel Rat Ear in Silver Stream Mine (29, 43)| |Z|Loch Modan|
 
 R Algaz Station |QID|1338| |N|Travel to Algaz Station (24.78, 18.45)| |Z|Loch Modan|
-T Stormpike's Delivery |QID|353| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
-T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
-A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike, in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
+T Stormpike's Delivery |QID|353| |N|Mountaineer Stormpike in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
+T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
+A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike in Algaz Station (24.78, 18.45)| |Z|Loch Modan|
 
-C Thelsamar Blood Sausages |QID|418| |N|Kill any Bears, Spiders and Boars for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor (32.42, 29.97) (37.28, 36.91) (27.30, 28.24)| |Z|Loch Modan|
+C Thelsamar Blood Sausages |QID|418| |N|Kill Bears, Spiders and Boars for 3 Boar Intestines, 3 Bear Meat and 3 Spider Ichor (32.42, 29.97) (37.28, 36.91) (27.30, 28.24)| |Z|Loch Modan|
 
 R Thelsamar |TID|418| |N|Travel to Thelsamar (32.91, 49.53)| |Z|Loch Modan|
-T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove, in Stoutlager Inn (34.83, 49.12)| |Z|Loch Modan|
-T A Rat Catching|QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
+T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove in Stoutlager Inn (34.83, 49.12)| |Z|Loch Modan|
+T A Rat Catching|QID|416| |N|Mountaineer Kadrell in Thelsamar; He patrols around (32.91, 49.53)| |Z|Loch Modan|
 A Ironband's Excavation |QID|436| |N|Jern Hornhelm in Thelsamar (37.25, 47.71)| |Z|Loch Modan|
 
 N Guide Complete |N|Tick to continue to the next guide|
