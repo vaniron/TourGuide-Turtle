@@ -277,6 +277,7 @@ T The Collector |QID|123| |N|Marshal Dughan in Goldshire (42.12, 65.96)| |O|
 T Wanted: "Hogger" |QID|176| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 A Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 
+R Tower of Azora |QID|87| |N|Travel to the Tower of Azora (64.1, 68.6)|
 R Brackwell Pumpkin Patch |QID|147| |N|Travel to Brackwell Pumpkin Patch (71.01, 80.55)|
 C Manhunt |QID|147| |N|Kill Morgan the Collector in Brackwell Pumpkin Patch, you will need to pull the enemies around her first otherwise it is difficult to solo (71.01, 80.55)|
 
