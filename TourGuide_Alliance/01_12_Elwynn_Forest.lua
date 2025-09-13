@@ -218,17 +218,17 @@ C Poor Old Blanchy |QID|151| |N|Start collecting Handful of Oats from Sack of Oa
 
 R Sentinel Hill |QID|6181| |N|Travel to Sentinel Hill (56.3, 47.6)| |Z|Westfall| |REACH|
 T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (56.3, 47.6)| |Z|Westfall| |O|
-A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |R|Human| |Z|Westfall|
-T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
-A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human| |Z|Westfall|
+A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |Z|Westfall|
+T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |Z|Westfall|
+A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 
-R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City| |R|Human|
-T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City| |R|Human|
-T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City| |R|Human|
-A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City| |R|Human|
-T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City| |R|Human|
-A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City| |R|Human|
+R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City|
+T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City|
+T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City|
+A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City|
+T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City|
+A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City|
 T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder in The Slaughtered Lamb (29.29, 73.99) (25.32, 78.47)| |C|Warlock| |Z|Stormwind City| |QID|1688|
 A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock| |Z|Stormwind City|
 
@@ -262,7 +262,9 @@ T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |R|Human| |Z|W
 
 R Forest's Edge |QID|11| |N|Travel to Forest's Edge (63.96, 26.68) (25, 86)|
 C Riverpaw Gnoll Bounty |QID|11| |N|Collect 8 Painted Gnoll Armband from the Riverpaw Outrunner and Riverpaw Runt which can be found to the South (25, 86)|
+C Culling the Riverpaw |QID|60042| |N| Kill 10 Riverpaw Outrunner and 10 Riverpaw Runt (25, 86)|
 C Wanted: "Hogger" |QID|176| |N|Kill Hogger and collect Huge Gnoll Claw in Forest's Edge. This is a group quest and safe to skip (26.14, 94.34)|
+
 N Gold Pickup Schedule |QID|123| |N|Kill Gnolls until you find Gold Pickup Schedule to begin a new quest, you can skip this if you can't find it (25, 86)| |L|1307|
 A The Collector |QID|123| |N|Use Gold Pickup Schedule to accept quest| |U|1307| |O|
 
