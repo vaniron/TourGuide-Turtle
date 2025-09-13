@@ -33,7 +33,7 @@ T Tainted Letter |C|Warlock| |QID|3105| |N|Drusilla La Salle in Northshire Abbey
 A The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 C The Stolen Tome |QID|1598| |N|Collect Powers of the Void from the ground near the tent in Northshire Valley (56.70, 44.01)| |C|Warlock|
-C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug in and around Northshire Vineyardswhich to collect 12 Red Burlap Bandana (54, 45)|
+C Brotherhood of Thieves |QID|18| |N|Kill the Defias Thug in and around Northshire Vineyards to collect 12 Red Burlap Bandana (54, 45)|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle in Northshire Valley (49.87, 42.65)| |C|Warlock|
 
 R Northshire Valley |QID|15| |N|Travel to Northshire Valley (51.63, 36.76)|
