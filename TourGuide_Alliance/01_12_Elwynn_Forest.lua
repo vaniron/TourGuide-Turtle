@@ -316,7 +316,7 @@ C Deeprun Rat Roundup |QID|6661| |N|Capture 5 Deeprun Rat by using the Rat Catch
 T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side|
 
 R City of Ironforge |QID|433| |N|Go through the portal to exit to City of Ironforge|
-F City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
+R City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
 
 R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Dun Morogh|
 R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|Dun Morogh|
