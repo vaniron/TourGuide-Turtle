@@ -10,7 +10,7 @@ T Eagan Peltskinner |QID|5261| |N|Eagan Peltskinner in Northshire Valley (48.92,
 A Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 
 C Kobold Camp Cleanup |QID|7| |N|Kill 10 Kobold Vermin which can be found around Echo Ridge Mine in Northshire Valley (49, 35)|
-C Wolves Across the Border |QID|33| |N|Kill Young Wolf and Timber Wolf to collect 8 pieces of Tough Wolf Meat (47, 38) (46, 35)|
+C Wolves Across the Border |QID|33| |N|Kill nearby wolves to collect 8 pieces of Tough Wolf Meat (47, 38) (46, 35)|
 
 T Wolves Across the Border |QID|33| |N|Eagan Peltskinner in Northshire Valley (48.92, 40.11)|
 A Brotherhood of Thieves |QID|18| |N|Deputy Willem in Northshire Valley (48.18, 42.93)|
