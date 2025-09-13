@@ -278,6 +278,9 @@ T Wanted: "Hogger" |QID|176| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 A Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 
 R Tower of Azora |QID|87| |N|Travel to the Tower of Azora (64.1, 68.6)|
+T The Tower of Azora |QID|41747| |N|Antonas Riftgaze in Tower of Azora (64.9, 69.9)|
+T The Master and the Student |QID|41748| |N|Theocritus at the top of Tower of Azora (65.2, 69.7)|
+
 R Brackwell Pumpkin Patch |QID|147| |N|Travel to Brackwell Pumpkin Patch (71.01, 80.55)|
 C Manhunt |QID|147| |N|Kill Morgan the Collector in Brackwell Pumpkin Patch, you will need to pull the enemies around her first otherwise it is difficult to solo (71.01, 80.55)|
 
