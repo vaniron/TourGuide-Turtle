@@ -258,7 +258,7 @@ A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25,
 C The Binding |QID|1689| |N|Keep going down the stairs until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
 
-F Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (71.4, 72.3)| |Z|Stormwind City|
+R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (71.4, 72.3)| |Z|Stormwind City|
 T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |Z|Westfall|
 
 R Forest's Edge |QID|11| |N|Travel to Forest's Edge (63.96, 26.68) (25, 86)|
@@ -290,6 +290,7 @@ T Bounty on Murlocs |QID|46| |N|Guard Thomas in Elwynn Forest (73.89, 72.18)|
 
 R Eastvale Logging Camp |TID|59| |N|Travel to Eastvale Logging Camp (79.50, 68.69)|
 T Cloth and Leather Armor |QID|59| |N|Sara Timberlain, in Eastvale Logging Camp (79.50, 68.69)|
+T Culling the Riverpaw |QID|60042| |N|Terry Palin in Eastvale Logging Camp (83, 63.3)|
 
 T Marshal Haggard |QID|1666| |N|Marshal Haggard in Eastvale Logging Camp (84.61, 69.37)| |C|Warrior|
 A Dead-tooth Jack |QID|1667| |N|Marshal Haggard in Eastvale Logging Camp (84.61, 69.37)| |C|Warrior|
@@ -297,13 +298,14 @@ K Dead-Tooth Jack |QID|1667| |N|Kill Dead-Tooth Jack and collect Dead-tooth's Ke
 C Dead-tooth Jack |QID|1667| |N|Collect Marshal Haggard's Badge from Dead-tooth Lockbox in Ridgepoint Tower (89.36, 78.85)| |C|Warrior| |OBJ|318|
 T Dead-tooth Jack |QID|1667| |N|Marshal Haggard in Eastvale Logging Camp (84.58, 69.39)| |C|Warrior|
 
-R Goldshire |TID|147| |N|Travel to Goldshire (42.12, 65.96)|
-T Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
-
 R Three Corners |QID|244| |N|Travel to Three Corners in (map:1433) (15.36, 71.44)| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.36, 71.44)| |Z|Redridge Mountains|
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Lakeshire (30.74, 60.06)| |Z|Redridge Mountains|
-f Lakeshire |TID|1097| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains|
+F Lakeshire |TID|1097| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains|
+R Stormwind City |QID|6261| |N|Travel to Stormwind City (71.4, 72.3)| |Z|Stormwind City|
+
+R Goldshire |TID|147| |N|Travel to Goldshire (42.12, 65.96)|
+T Manhunt |QID|147| |N|Marshal Dughan in Goldshire (42.12, 65.96)|
 
 R Dwarven District |TID|1097| |N|Travel to Dwarven District in Stormwind City (51.75, 12.03)| |Z|Stormwind City|
 T Elmore's Task |QID|1097| |N|Grimand Elmore in Dwarven District (51.75, 12.03)| |Z|Stormwind City|
@@ -340,7 +342,7 @@ T In Defense of the King's Lands (Part 1) |QID|224| |N|Mountaineer Cobbleflint i
 A In Defense of the King's Lands (Part 2) |QID|237| |N|Mountaineer Gravelgaw in Valley of Kings (23.52, 76.37)| |Z|Loch Modan|
 
 R Thelsamar |QID|416| |N|Travel to Thelsamar (25.27, 67.41) (28.17, 64.71) (33.90, 50.98)| |Z|Loch Modan|
-f Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|
+F Thelsamar |QID|416| |N|Speak Thorgrum Borrelson and grab flight path for Thelsamar (33.9, 50.9)| |Z|Loch Modan|
 A Rat Catching |QID|416| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
 A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell in Thelsamar, he patrols (32.91, 49.53)| |Z|Loch Modan|
 A Thelsamar Blood Sausages |QID|418| |N|in Stoutlager Inn (34.88, 49.13)| |Z|Loch Modan|
