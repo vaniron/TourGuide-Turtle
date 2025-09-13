@@ -223,12 +223,13 @@ T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |Z|Westfal
 A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)| |Z|Westfall|
 
-R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City|
+R Stormwind City |QID|6261| |N|Travel to Stormwind City (71.4, 72.3)| |Z|Stormwind City|
 T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (63.23, 74.59)| |Z|Stormwind City|
 T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (77.21, 61)| |Z|Stormwind City|
 A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (77.21, 61)| |Z|Stormwind City|
-T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (56.23, 64.59)| |Z|Stormwind City|
-A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (56.23, 64.59)| |Z|Stormwind City|
+A Humble Beginnings |QID|399| |N|Baros Alexston in Cathedral Square (57.7, 47.8) |Z|Stormwind City|
+T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (71.4, 72.3)| |Z|Stormwind City|
+A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (71.4, 72.3)| |Z|Stormwind City|
 T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder in The Slaughtered Lamb (29.29, 73.99) (25.32, 78.47)| |C|Warlock| |Z|Stormwind City| |QID|1688|
 A Surena Caledon |QID|1688| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.32, 78.47)| |C|Warlock| |Z|Stormwind City|
 
@@ -257,7 +258,7 @@ A The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.25,
 C The Binding |QID|1689| |N|Keep going down the stairs until you find the purple summoning circle and use Bloodstone Choker to summon and kill a Summoned Voidwalker in The Slaughtered Lamb (25.06, 79.28) (25.19, 77.33)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder in The Slaughtered Lamb (25.30, 78.60)| |C|Warlock| |Z|Stormwind City|
 
-R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |Z|Westfall| |R|Human|
+F Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |Z|Westfall|
 T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |R|Human| |Z|Westfall|
 
 R Forest's Edge |QID|11| |N|Travel to Forest's Edge (63.96, 26.68) (25, 86)|
@@ -309,7 +310,7 @@ C Deeprun Rat Roundup |QID|6661| |N|Capture 5 Deeprun Rat by using the Rat Catch
 T Deeprun Rat Roundup |QID|6661| |N|Monty in Deeprun Tram, Ironforge Side|
 
 R City of Ironforge |QID|433| |N|Go through the portal to exit to City of Ironforge|
-f City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
+F City of Ironforge |QID|433| |N|Speak to Gryth Thurden and grab flight path for City of Ironforge (55.55, 47.76)| |Z|Ironforge|
 
 R Dun Morogh |QID|433| |N|Run to Dun Morogh (14, 86)| |Z|Dun Morogh|
 R Gol'Bolar Quarry |QID|433| |N|Travel to Gol'Bolar Quarry (56.54, 47.72) (63.39, 54.87) (68.65, 55.95)| |Z|Dun Morogh|
