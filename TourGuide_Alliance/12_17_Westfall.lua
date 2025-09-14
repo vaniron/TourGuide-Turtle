@@ -86,7 +86,7 @@ A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2
 A Red Leather Bandanas |QID|153| |N|Scout Galiaan in Sentinel Hill (54.0, 53.0)|
 T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human|
 A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human|
-f Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)|
+F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)|
 
 
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City| |R|Human|
@@ -116,7 +116,7 @@ N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk y
 C Patrolling Westfall |QID|102.1| |N|Kill Gnolls near The Jansen Stead and collect 8 Gnoll Paw (56.90, 13.43)|
 
 N 3 Murloc Eye |QID|38.2| |N|Kill Murlocs in Longshore and collect 3 Murloc Eye (55.61, 9.02)|
-N Captain Sander's Treasure Map |QID|136| |N|Kill Murlocs until you find Captain Sander's Treasure Map in Longshore. This is a very low drop rate so skip this if you don't get it quickly (56.61, 9.47)|
+N Captain Sander's Treasure Map |QID|136| |N|Kill Murlocs until you find Captain Sander's Treasure Map in Longshore. This is a very low drop rate; You can skip this if you don't get it quickly (56.61, 9.47)|
 A Captain Sander's Hidden Treasure |QID|136| |N|Use Captain Sander's Treasure Map to accept quest| |U|1357| |O|
 
 N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat, these items have low drop rate|
@@ -136,6 +136,7 @@ N 5 Flask of Oil |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect
 N 5 Hops |QID|116| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|1274 5|
 T The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (55.99, 31.28)|
 
+C Humble Beginnings |QID|399| |N|Travel to Alexston Farmstead and collect A Simple Compass from Alexston's Chest (36.1, 54.9)|
 R Moonbrook |QID|13| |N|Travel to Moonbrook (44.01, 69.47)|
 C The People's Militia (Part 2) |QID|13| |N|Kill 15 Defias Pillager and Defias Looter in Moonbrook (44.01, 69.47)|
 
