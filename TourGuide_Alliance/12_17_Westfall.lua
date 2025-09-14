@@ -116,7 +116,7 @@ C Patrolling Westfall |QID|102.1| |N|Kill Gnolls near The Jansen Stead and colle
 
 N 3 Murloc Eye |QID|38.2| |N|Kill Murlocs in Longshore and collect 3 Murloc Eye (55.61, 9.02)|
 N Captain Sander's Treasure Map |QID|136| |N|Kill Murlocs until you find Captain Sander's Treasure Map in Longshore. This is a very low drop rate; You can skip this if you don't get it quickly or buy it from the Auction House (56.61, 9.47)|
-A Captain Sander's Hidden Treasure |QID|136| |N|Use Captain Sander's Treasure Map to accept quest| |U|1357| |O|
+A Captain Sander's Hidden Treasure (Part 1) |QID|136| |N|Use Captain Sander's Treasure Map to accept quest| |U|1357| |O|
 
 N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat, these items have low drop rate|
 R Sentinel Hill |TID|102| |N|Travel to Sentinel Hill (56.36, 47.59)|
@@ -206,17 +206,20 @@ R Westfall Lighthouse |QID|103| |N|Travel to Westfall Lighthouse (30.02, 86.00)|
 A Keeper of the Flame |QID|103| |N|Captain Grayson in Westfall Lighthouse (30.02, 86.00)|
 C Keeper of the Flame |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
 T Keeper of the Flame |QID|103| |N|Captain Grayson in Westfall Lighthouse (29.97, 85.98)|
+A The Coastal Menace |QID|104| |N|Captain Grayson in Westfall Lighthouse (30.02, 86.00)|
+C The Coastal Menace |QID|104| |N|Kill Old Murk-Eye and collect Scale of Old Murk-Eye. He spawns in the camp to the south-west (34.9, 84.9)|
+T The Coastal Menace |QID|104| |N|Captain Grayson in Westfall Lighthouse (30.02, 86.00)|
 
 R Longshore |QID|138| |N|Travel to Longshore (25.91, 47.72)|
-T Captain Sander's Hidden Treasure |QID|136| |N|Captain's footlocker in Longshore (25.91, 47.72)| |OBJ|318|
-A Captain Sander's Hidden Treasure |QID|138| |N|Captain's footlocker in Longshore (27.00, 48.29)| |OBJ|318|
-T Captain Sander's Hidden Treasure |QID|138| |N|Broken Barrel (40.47, 47.90)| |OBJ|9|
-A Captain Sander's Hidden Treasure |QID|139| |N|Broken Barrel (40.48, 47.64)| |OBJ|9|
-T Captain Sander's Hidden Treasure |QID|139| |N|Old Jug in Jangolode Mine (40.68, 17.06)| |OBJ|9|
-A Captain Sander's Hidden Treasure |QID|140| |N|Old Jug in Jangolode Mine (40.68, 17.06)| |OBJ|9|
+T Captain Sander's Hidden Treasure (Part 1) |QID|136| |N|Captain's footlocker in Longshore (25.91, 47.72)| |OBJ|318|
+A Captain Sander's Hidden Treasure (Part 2) |QID|138| |N|Captain's footlocker in Longshore (27.00, 48.29)| |OBJ|318|
+T Captain Sander's Hidden Treasure (Part 2) |QID|138| |N|Broken Barrel (40.47, 47.90)| |OBJ|9|
+A Captain Sander's Hidden Treasure (Part 3) |QID|139| |N|Broken Barrel (40.48, 47.64)| |OBJ|9|
+T Captain Sander's Hidden Treasure (Part 3) |QID|139| |N|Old Jug in Jangolode Mine (40.68, 17.06)| |OBJ|9|
+A Captain Sander's Hidden Treasure (Part 4) |QID|140| |N|Old Jug in Jangolode Mine (40.68, 17.06)| |OBJ|9|
 
 R Longshore |TID|140| |N|Travel to Longshore (26.00, 16.94)|
-T Captain Sander's Hidden Treasure |QID|140| |N|Locked Chest in Longshore (26.00, 16.94)| |OBJ|1|
+T Captain Sander's Hidden Treasure (Part 4) |QID|140| |N|Locked Chest in Longshore (26.00, 16.94)| |OBJ|1|
 
 R Sentinel Hill |OID|14| |N|Travel or Hearthstone to Sentinel Hill (56.32, 47.55)| |U|6948|
 T The Defias Brotherhood (Part 5) |QID|142| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.60)|
@@ -246,7 +249,6 @@ T A Free Lunch |QID|129| |N|Guard Parker in Three Corners (15.43, 71.32)| |Z|Red
 A Visit the Herbalist |QID|130| |N|Tarantula in Three Corners (15.43, 71.32)| |Z|Redridge Mountains|
 
 R Darkshire |QID|116| |N|Travel to Darkshire (77.5, 44.4)| |Z|Duskwood|
-
 
 B Bottle of Moonshine |QID|116.3| |N|Buy Bottle of Moonshine from Barkeep Hann in Darkshire (73.68, 44.08)| |Z|Duskwood|
 f Darkshire |QID|116| |N|Speak to Felicia Maline and grab flight path for Darkshire (77.5, 44.4)| |Z|Duskwood|
