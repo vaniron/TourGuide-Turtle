@@ -115,7 +115,7 @@ N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk y
 C Patrolling Westfall |QID|102.1| |N|Kill Gnolls near The Jansen Stead and collect 8 Gnoll Paw (56.90, 13.43)|
 
 N 3 Murloc Eye |QID|38.2| |N|Kill Murlocs in Longshore and collect 3 Murloc Eye (55.61, 9.02)|
-N Captain Sander's Treasure Map |QID|136| |N|Kill Murlocs until you find Captain Sander's Treasure Map in Longshore. This is a very low drop rate; You can skip this if you don't get it quickly (56.61, 9.47)|
+N Captain Sander's Treasure Map |QID|136| |N|Kill Murlocs until you find Captain Sander's Treasure Map in Longshore. This is a very low drop rate; You can skip this if you don't get it quickly or buy it from the Auction House (56.61, 9.47)|
 A Captain Sander's Hidden Treasure |QID|136| |N|Use Captain Sander's Treasure Map to accept quest| |U|1357| |O|
 
 N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat, these items have low drop rate|
@@ -151,7 +151,7 @@ A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.32, 71.42)| 
 
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Redridge Mountains (30.74, 60.15)| |Z|Redridge Mountains|
 A Assessing the Threat |QID|246| |N|Deputy Feldon in Redridge Mountains (30.68, 59.81)| |Z|Redridge Mountains|
-f Lakeshire |QID|246| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains| |R|Night Elf, Gnome, Dwarf|
+F Lakeshire |QID|246| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains| |R|Night Elf, Gnome, Dwarf|
 A Hilary's Necklace |QID|3741| |N|Shawn in Lake Everstill (29.30, 53.62)| |Z|Redridge Mountains|
 C Hilary's Necklace |QID|3741| |N|Find Hilary's Necklace inside a mud pile underwater in the lake, check around each waypoint (19.3, 51.8) (24.1, 54.6) (26.6, 51.4) (28,56) (33.7, 55.4) (36.7, 54.3)| |Z|Redridge Mountains|
 T Hilary's Necklace |QID|3741| |N|Hilary in Lake Everstill (29.18, 53.49)| |Z|Redridge Mountains|
@@ -161,7 +161,7 @@ A A Free Lunch |QID|129| |N|Darcy in Lakeshire (26.67, 44.20)| |Z|Redridge Mount
 A Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.95, 43.89)| |Z|Redridge Mountains|
 T The Defias Brotherhood (Part 1) |QID|65| |N|Wiley the Black in Lakeshire (26.65, 45.18)| |Z|Redridge Mountains|
 A The Defias Brotherhood (Part 2) |QID|132| |N|Wiley the Black in Lakeshire (26.65, 45.18)| |Z|Redridge Mountains|
-h Lakeshire |QID|129| |N|Speak toInnkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
+H Lakeshire |QID|129| |N|Speak toInnkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
 
 R Sentinel Hill |QID|135| |N|Travel to Sentinel Hill (56.28, 47.53)|
 T The Defias Brotherhood (Part 2) |QID|132| |N|Gryan Stoutmantle in Sentinel Hill (56.28, 47.53)|
@@ -175,8 +175,9 @@ T Stormpike's Order |QID|1338| |N|Furen Longbeard in the Dwarven District (64.6,
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A Drones In Westfall |QID|41390| |N|Renzik /The Shiv/ in SI:7 (78.3, 71.1)| |Z|Stormwind City|
-T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
-A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (64.65, 76.93)| |Z|Stormwind City|
+B Captain Sander's Treasure Map |QID|116.2| |N|This is optional. If you have money to spare, purchase Captain Sander's Treasure Map from the Auction House (61.1, 71)| |Z|Stormwind City| |L|1357|
+T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.8)| |Z|Stormwind City|
+A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.8)| |Z|Stormwind City|
 
 R Goldshire |QID|119| |N|Travel to Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
@@ -194,7 +195,7 @@ T Messenger to Westfall (Part 1) |QID|143| |N|Gryan Stoutmantle in Sentinel Hill
 A Messenger to Westfall (Part 2) |QID|144| |N|Gryan Stoutmantle in Sentinel Hill (56.33, 47.52)|
 T The Defias Brotherhood (Part 4) |QID|141| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.62)|
 A The Defias Brotherhood (Part 5) |QID|142| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.62)|
-h Sentinel Hill |QID|13| |N|Speak to Innkeeper Heather and set hearth to Sentinel Hill (52.84, 53.69)|
+H Sentinel Hill |QID|13| |N|Speak to Innkeeper Heather and set hearth to Sentinel Hill (52.84, 53.69)|
 N 5 Flask of Oil |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
 N 5 Hops |QID|116| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|1274 5|
 
