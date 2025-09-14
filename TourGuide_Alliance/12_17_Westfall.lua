@@ -223,7 +223,7 @@ T Captain Sander's Hidden Treasure (Part 4) |QID|140| |N|Locked Chest in Longsho
 
 R Sentinel Hill |OID|14| |N|Travel or Hearthstone to Sentinel Hill (56.32, 47.55)| |U|6948|
 T The Defias Brotherhood (Part 5) |QID|142| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.60)|
-A The Defias Brotherhood (Part 6) |QID|155| |N|The Defias Traitor in Sentinel Hill, he might not be around if another player already started the quest, you will have to wait for him to respawn (56.29, 47.60)|
+A The Defias Brotherhood (Part 6) |QID|155| |N|The Defias Traitor in Sentinel Hill, he might not be around if another player already started the quest, you will have to wait for him to respawn (55.7, 44.60)|
 C The Defias Brotherhood (Part 6) |QID|155| |N|Escort The The Defias Traitor to discover where VanCleef is hiding . The hard part is when you're approaching the fountain in Moonbrook as The Defias Traitor will end up pulling multiple mobs, possible to solo if there are other players in Moonbrook otherwise safe to skip (57.20, 60.53) (57.75, 64.97) (45.73, 65.02) (42.57, 71.27)|
 
 R The Dagger Hills |QID|14| |N|Travel to The Dagger Hills (52.87, 71.29) (49.60, 77.19) (44.65, 80.27)|
