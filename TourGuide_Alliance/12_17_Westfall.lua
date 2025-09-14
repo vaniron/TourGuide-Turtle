@@ -129,7 +129,7 @@ C Goretusk Liver Pie |QID|22| |N|Kill Young Goretusk and collect 8 Goretusk Live
 R Saldean's Farm |QID|64| |N|Travel to Saldean's Farm (56.42, 30.48)|
 T Westfall Stew (Part 2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.42, 30.48)|
 T Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.42, 30.53)|
-C The Forgotten Heirloom |QID|64| |N|Collect Furlbrow's Pocket Watch from Fulbrow's Wardrobe, the house is guarded by a level 15 mob Benny Blaanco, you don't need to kill him to loot the item. Grind to level 13 if you can't complete this quest and try again (49.38, 19.27)|
+C The Forgotten Heirloom |QID|64| |N|Collect Furlbrow's Pocket Watch from Fulbrow's Wardrobe. The house is guarded by Benny Blaanco, a level 15 mob; you don't need to kill him to loot the item. Grind to level 13 if you can't complete this quest and try again (49.38, 19.27)|
 T The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (59.94, 19.41)|
 C The Killing Fields |QID|9| |N|Kill 20 Harvest Watcher in the 3 farms and also collect 5 Flask of Oil for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|
 N 5 Flask of Oil |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
