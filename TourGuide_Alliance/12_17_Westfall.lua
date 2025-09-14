@@ -238,7 +238,7 @@ T The Defias Brotherhood (Part 6) |QID|155| |N|Gryan Stoutmantle in Sentinel Hil
 
 R Lakeshire |QID|145| |N|Travel to Lakeshire (26.51, 45.33)| |Z|Redridge Mountains|
 T Messenger to Westfall (Part 2) |QID|144| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
-
+A Messenger to Darkshire (Part 1) |QID|146| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
 
 R Lakeridge Highway |QID|246| |N|Travel to Lakeridge Highway (33.37, 67.13)| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelp and collect 6 Underbelly Whelp Scale in Lakeridge Highway (58.1, 76.1)| |Z|Redridge Mountains|
