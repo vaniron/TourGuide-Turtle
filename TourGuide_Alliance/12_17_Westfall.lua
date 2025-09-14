@@ -88,7 +88,6 @@ T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)|
 A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)|
 F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)|
 
-
 R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City|
 T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City|
 T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City|
@@ -171,7 +170,7 @@ A The Defias Brotherhood (Part 3) |QID|135| |N|Gryan Stoutmantle in Sentinel Hil
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
 B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley Of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
 T Humble Beginnings |QID|399| |N|Baros Alexston in Cathedral Square (57.7, 47.9)| |Z|Stormwind City|
-
+T Stormpike's Order |QID|1338| |N|Furen Longbeard in the Dwarven District (64.6, 37.2)| |Z|Stormwind City|
 
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
