@@ -170,6 +170,7 @@ A The Defias Brotherhood (Part 3) |QID|135| |N|Gryan Stoutmantle in Sentinel Hil
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
 B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley Of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
+T Humble Beginnings |QID|399| |N|Baros Alexston in Cathedral Square (58, 48)| |Z|Stormwind City|
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
