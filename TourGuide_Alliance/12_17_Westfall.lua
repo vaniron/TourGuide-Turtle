@@ -174,6 +174,7 @@ T Stormpike's Order |QID|1338| |N|Furen Longbeard in the Dwarven District (64.6,
 
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
+A Drones In Westfall |QID|41390| |N|Renzik /The Shiv/ in SI:7 (78.3, 71.1)| |Z|Stormwind City|
 T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
 A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (64.65, 76.93)| |Z|Stormwind City|
 
