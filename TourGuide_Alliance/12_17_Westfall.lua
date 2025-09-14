@@ -82,22 +82,22 @@ R Sentinel Hill |QID|6181| |N|Travel to Sentinel Hill (56.3, 47.6)||
 T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (56.3, 47.6)| |O|
 A The People's Militia (Part 1) |QID|12| |N|Gryan Stoutmantle in Sentinel Hill (56.37, 47.64)|
 A Patrolling Westfall |QID|102| |N|Captain Danuvin in Sentinel Hill (56.49, 47.49)|
-A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)| |R|Human|
+A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)|
 A Red Leather Bandanas |QID|153| |N|Scout Galiaan in Sentinel Hill (54.0, 53.0)|
-T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human|
-A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)| |R|Human|
+T A Swift Message |QID|6181| |N|Thor in Sentinel Hill (56.54, 52.64)|
+A Continue to Stormwind |QID|6281| |N|Thor in Sentinel Hill (56.54, 52.64)|
 F Sentinel Hill |QID|6261| |N|Speak to Thor and grab flight path for Sentinel Hill (56.54, 52.64)|
 
 
-R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City| |R|Human|
-T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City| |R|Human|
-T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City| |R|Human|
-A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City| |R|Human|
-T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City| |R|Human|
-A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City| |R|Human|
+R Stormwind City |QID|6261| |N|Travel to Stormwind City (56.23, 64.59)| |Z|Stormwind City|
+T Shipment to Stormwind |QID|61| |N|Morgan Pestle in Trade District (56.23, 64.59)| |Z|Stormwind City|
+T Continue to Stormwind |QID|6281| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City|
+A Dungar Longdrink |QID|6261| |N|Osric Strang in Old Town (74.21, 47.53)| |Z|Stormwind City|
+T Dungar Longdrink |QID|6261| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City|
+A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19)| |Z|Stormwind City|
 
-R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)| |R|Human|
-T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)| |R|Human|
+R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)|
+T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)|
 
 C The People's Militia (Part 1) |QID|12| |N|Kill 15 Defias Smuggler and 15 Defias Trapper in Jangolode Mine (48.39, 46.48) (50.92, 40.39) (46.81, 39.49)|  |Z|Westfall|
 C Red Leather Bandanas |QID|153| |N|Collect Red Leather Bandana from Defias enemies (48.39, 46.48) (50.92, 40.39) (46.81, 39.49)|  |Z|Westfall|
@@ -171,6 +171,8 @@ A The Defias Brotherhood (Part 3) |QID|135| |N|Gryan Stoutmantle in Sentinel Hil
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
 B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley Of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
 T Humble Beginnings |QID|399| |N|Baros Alexston in Cathedral Square (57.7, 47.9)| |Z|Stormwind City|
+
+
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (64.04, 75.31)| |Z|Stormwind City|
