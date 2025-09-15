@@ -175,7 +175,7 @@ T Stormpike's Order |QID|1338| |N|Furen Longbeard in the Dwarven District (64.6,
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A Drones In Westfall |QID|41390| |N|Renzik /The Shiv/ in SI:7 (78.3, 71.1)| |Z|Stormwind City|
-B Captain Sander's Treasure Map |QID|116.2| |N|This is optional. If you have money to spare, purchase Captain Sander's Treasure Map from the Auction House (61.1, 71)| |Z|Stormwind City| |L|1357|
+B Captain Sander's Treasure Map |QID|116.2| |N|This is optional. If you didn't already get it and you have money to spare, purchase Captain Sander's Treasure Map from the Auction House (61.1, 71)| |Z|Stormwind City| |L|1357|
 T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.8)| |Z|Stormwind City|
 A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.8)| |Z|Stormwind City|
 
@@ -220,6 +220,7 @@ A Captain Sander's Hidden Treasure (Part 4) |QID|140| |N|Old Jug in Jangolode Mi
 
 R Longshore |TID|140| |N|Travel to Longshore (26.00, 16.94)|
 T Captain Sander's Hidden Treasure (Part 4) |QID|140| |N|Locked Chest in Longshore (26.00, 16.94)| |OBJ|1|
+N Captain Sander's Treasure Map |QID|103| |N|Once you finish the chain, you can sell the map on the Auction House. Tick this step|
 
 R Sentinel Hill |OID|14| |N|Travel or Hearthstone to Sentinel Hill (56.32, 47.55)| |U|6948|
 T The Defias Brotherhood (Part 5) |QID|142| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.60)|
