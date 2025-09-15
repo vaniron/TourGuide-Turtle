@@ -258,6 +258,7 @@ F Darkshire |QID|116| |N|Speak to Felicia Maline and grab flight path for Darksh
 R Lakeshire |TID|122| |N|Travel to Lakeshire (30.75, 59.99)| |Z|Redridge Mountains|
 T Assessing the Threat |QID|246| |N|Deputy Feldon in Redridge Mountains (30.75, 59.99)| |Z|Redridge Mountains|
 T Underbelly Scales |QID|122| |N|Verner Osgood in Lakeshire (31.02, 47.32)| |Z|Redridge Mountains|
+T Messenger to Darkshire (Part 2) |QID|146| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
 T Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.50, 44.11)| |Z|Redridge Mountains|
 
 T Visit the Herbalist |QID|130| |N|Martie Jainrose in Lakeshire (21.89, 46.37)| |Z|Redridge Mountains|
