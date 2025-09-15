@@ -238,7 +238,7 @@ T The Defias Brotherhood (Part 6) |QID|155| |N|Gryan Stoutmantle in Sentinel Hil
 
 R Lakeshire |QID|145| |N|Travel to Lakeshire (26.51, 45.33)| |Z|Redridge Mountains|
 T Messenger to Westfall (Part 2) |QID|144| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
-A Messenger to Darkshire (Part 1) |QID|146| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
+A Messenger to Darkshire (Part 1) |QID|145| |N|Magistrate Solomon in Lakeshire (30.00, 44.41)| |Z|Redridge Mountains|
 
 R Lakeridge Highway |QID|246| |N|Travel to Lakeridge Highway (33.37, 67.13)| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelp and collect 6 Underbelly Whelp Scale in Lakeridge Highway (58.1, 76.1)| |Z|Redridge Mountains|
@@ -251,6 +251,8 @@ A Visit the Herbalist |QID|130| |N|Tarantula in Three Corners (15.43, 71.32)| |Z
 R Darkshire |QID|116| |N|Travel to Darkshire (72.6, 38.3)| |Z|Duskwood|
 
 B Bottle of Moonshine |QID|116.3| |N|Buy Bottle of Moonshine from Barkeep Hann in Darkshire (73.68, 44.08)| |Z|Duskwood|
+T Messenger to Darkshire (Part 1) |QID|145| |N|Lord Ello Ebonlocke in Darkshire (71.9, 46.4)| |Z|Duskwood|
+A Messenger to Darkshire (Part 2) |QID|146| |N|Lord Ello Ebonlocke in Darkshire (71.9, 46.4)| |Z|Duskwood|
 F Darkshire |QID|116| |N|Speak to Felicia Maline and grab flight path for Darkshire (77.5, 44.4)| |Z|Duskwood|
 
 R Lakeshire |TID|122| |N|Travel to Lakeshire (30.75, 59.99)| |Z|Redridge Mountains|
