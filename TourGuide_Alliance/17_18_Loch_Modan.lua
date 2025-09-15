@@ -13,7 +13,7 @@ R Thelsamar |QID|436| |N|Travel to Thelsamar (33.9, 50.9)|
 F Thelsamar |QID|436| |N|Speak to Thorgrum Borrelson and grab flight point for Thelsamar (33.9, 50.9)|
 T Rat Catching |Z|Loch Modan| |QID|416| |N|Mountaineer Kadrell in Thelsamar (34.94, 47.04)| |Z|Loch Modan|
 A Ironband's Excavation |QID|436| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)|
-H Stoutlager Inn |TID|436| |N|Speak to Miran and set hearth at Stoutlager Inn (35.53, 48.41)|
+H Stoutlager Inn |TID|436| |N|Speak to Innkeeper Hearthstove and set hearth at Stoutlager Inn (35.53, 48.41)|
 
 R Ironband's Excavation Site |QID|298| |N|Travel to Ironband's Excavation Site (64.83, 66.59)|
 T Ironband's Excavation |QID|436| |N|Magmar Fellhew in Ironband's Excavation Site (64.83, 66.59)|
