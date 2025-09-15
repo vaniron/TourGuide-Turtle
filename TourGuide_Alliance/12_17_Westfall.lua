@@ -2,10 +2,10 @@ TourGuide:RegisterGuide("Westfall (12-17)", "Loch Modan (17-18)", "Alliance",fun
 
 return [[
 
-N Level 12 Required |N|You need to be at least level 12 to continue this guide, grind until you reach level 12|
-N Linen Cloth |QID|1644| |N|You need at least 10 Linen Cloth to complete the Paladin quest line, grind any Humanoids mobs or purchase later from the auction house| |OID|1778| |L|2589 10| |C|Paladin|
+N Level 12 Required |N|You need to be at least level 12 to continue this guide; Grind until you reach level 12|
+N Linen Cloth |QID|1644| |N|You need at least 10 Linen Cloth to complete the Paladin quest line. Grind any Humanoid mobs or purchase from the auction house for later| |OID|1778| |L|2589 10| |C|Paladin|
 
-A Tome of Divinity (Part 1) |QID|3681| |N|Brandur Ironhammer, in Hall of Mysteries. You need to be level 12 to get this quest (23.25, 6.34)| |C|Paladin| |R|Human| |O| |Z|Ironforge|
+A Tome of Divinity (Part 1) |QID|3681| |N|Brandur Ironhammer in Hall of Mysteries. You need to be level 12 to get this quest (23.25, 6.34)| |C|Paladin| |R|Human| |O| |Z|Ironforge|
 A Tome of Divinity (Part 1) |QID|2998| |N|Brother Wilhelm in Goldshire. You need to be level 12 to get this quest (41.09, 66.05)| |C|Paladin| |R|Human| |O|
 
 T Tome of Divinity (Part 1) |QID|3681| |N|Duthorian Rall in Cathedral of Light (39.83, 29.82)| |C|Paladin| |R|Human| |Z|Stormwind City| |O|
@@ -44,7 +44,7 @@ N Tome of Divinity |QID|1646| |N|Speak to Tiza Battleforge and collect Tome of D
 A The Tome of Divinity (Part 2) |QID|1646| |N|Use Tome of Divinity to begin quest (27.63, 12.25)| |C|Paladin| |R|Dwarf| |Z|Ironforge| |U|6916|
 T The Tome of Divinity (Part 2) |QID|1646| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 A The Tome of Divinity (Part 3) |QID|1647| |N|Tiza Battleforge in Hall of Mysteries (27.63, 12.25)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
-T The Tome of Divinity (Part 3) |QID|1647| |N|John Turner in Ironforge, he patrol around the outer ring of Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
+T The Tome of Divinity (Part 3) |QID|1647| |N|John Turner in Ironforge; He patrols around the outer ring of Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 A The Tome of Divinity (Part 4) |QID|1648| |N|John Turner in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 C The Tome of Divinity (Part 4) |QID|1648| |N|Buy 10 Linen Cloth from the Auction House in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity (Part 4) |QID|1648| |N|John Turner in Ironforge (23.35, 62.64)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
@@ -55,13 +55,13 @@ T The Tome of Divinity (Part 6) |QID|1779| |N|Muiredon Battleforge in Hall of My
 A The Tome of Divinity (Part 7) |QID|1783| |N|Muiredon Battleforge in Hall of Mysteries (23.55, 8.33)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 
 R Ironband's Compound |QID|1783| |N|Travel to Ironband's Compound (51.54, 40.12) (78.33, 58.06)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
-N Narm Faulk |QID|1783| |N|Use Symbol of Life to ressurect Narm Faulk| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
+N Narm Faulk |QID|1783| |N|Use Symbol of Life to resurrect Narm Faulk| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 T The Tome of Divinity (Part 7) |QID|1783| |N|Narm Faulk in Ironband's Compound (78.33, 58.06)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 A The Tome of Divinity (Part 8) |QID|1784| |N|Narm Faulk in Ironband's Compound (78.33, 58.06)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 C The Tome of Divinity (Part 8) |QID|1784| |N|Kill a Dark Iron Spy and collect Dark Iron Script in Ironband's Compound (78.10, 59.98)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 
-R Hall of Mysteries |QID|1785| |N|Travel to Hall of Mysteries (23.56, 8.38)| |Z|Ironforge| |C|Paladin| |R|Dwarf|
-T The Tome of Divinity (Part 8) |QID|1784| |N|Muiredon Battleforge in Hall of Mysteries (23.56, 8.38)| |C|Paladin| |R|Dwarf| |Z|Ironforge| |Z|Ironforge|
+R Hall of Mysteries |QID|1785| |N|Travel to Hall of Mysteries (23.56, 8.38)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
+T The Tome of Divinity (Part 8) |QID|1784| |N|Muiredon Battleforge in Hall of Mysteries (23.56, 8.38)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 A The Tome of Divinity (Part 9) |QID|1785| |N|Muiredon Battleforge in Hall of Mysteries (23.72, 8.61)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity (Part 9) |QID|1785| |N|Tiza Battleforge in Hall of Mysteries (27.51, 12.18)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 
@@ -77,9 +77,9 @@ A Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.23, 30.89)|
 A The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (56.0, 31.2)|
 C Poor Old Blanchy |QID|151| |N|Start collecting Handful of Oats from Sack of Oats on the ground in Saldean's Farm. Try to get 3-4 Handful of Oats and tick this step to complete later (56.9, 19,3)| |L|1528 4|
 
-N As you go... |AYG|6181| |QID|22| |N|Always kill and loot Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat, these items have low drop rate|
+N As you go... |AYG|6181| |QID|22| |N|Always kill and loot Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat. These items have low drop rate|
 R Sentinel Hill |QID|6181| |N|Travel to Sentinel Hill (56.3, 47.6)||
-T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (56.3, 47.6)| |O|
+T Report to Gryan Stoutmantle |QID|109| |N|Gryan Stoutmantle in Sentinel Hill (56.3, 47.6)|
 A The People's Militia (Part 1) |QID|12| |N|Gryan Stoutmantle in Sentinel Hill (56.37, 47.64)|
 A Patrolling Westfall |QID|102| |N|Captain Danuvin in Sentinel Hill (56.49, 47.49)|
 A A Swift Message |QID|6181| |N|Quartermaster Lewis in Sentinel Hill (56.9, 47.2)|
@@ -98,7 +98,7 @@ A Return to Lewis |QID|6285| |N|Dungar Longdrink in Trade District (66.31, 62.19
 R Sentinel Hill |QID|353| |N|Dungar Longdrink in Trade District (56.9, 47.2)|
 T Return to Lewis |QID|6285| |N|Quartermaster Lewis (56.9, 47.2)|
 
-C The People's Militia (Part 1) |QID|12| |N|Kill 15 Defias Smuggler and 15 Defias Trapper in Jangolode Mine (48.39, 46.48) (50.92, 40.39) (46.81, 39.49)|  |Z|Westfall|
+C The People's Militia (Part 1) |QID|12| |N|Kill 15 Defias Smuggler and 15 Defias Trapper (48.39, 46.48) (50.92, 40.39) (46.81, 39.49)|  |Z|Westfall|
 C Red Leather Bandanas |QID|153| |N|Collect Red Leather Bandana from Defias enemies (48.39, 46.48) (50.92, 40.39) (46.81, 39.49)|  |Z|Westfall|
 
 R Sentinel Hill |OID|13| |N|Travel to Sentinel Hill (53.99, 52.98)|
@@ -110,7 +110,7 @@ N As you go... |AYG|151| |QID| |N|Kill Harvest Golem and collect 3 Okra and 5 Ho
 C Poor Old Blanchy |QID|151| |N|Collect 8 Handful of Oats from Sack of Oats on the ground in Saldean's Farm and The Molsen Farm (46.03, 38.32) (56.9, 19,3)|   |OBJ|252|
 T Poor Old Blanchy |QID|151| |N|Verna Furlbrow in The Jansen Stead (59.91, 19.37)|
 K Harvest Golem |QID|38.4| |N|Kill Harvest Golem and collect 3 Okra in Saldean's Farm. Also collect 5 Hops for a later quest (56.24, 35.47)|
-K Harvest Golem |QID|116| |N|Kill Harvest Golem and collect 5 Okra for a later quest in Saldean's Farm (56.24, 35.47)| |L|1274 5|
+K Harvest Golem |QID|116| |N|Kill Harvest Golem and collect 5 Okra in Saldean's Farm for a later quest (56.24, 35.47)| |L|1274 5|
 N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat, these items have low drop rate|
 C Patrolling Westfall |QID|102.1| |N|Kill Gnolls near The Jansen Stead and collect 8 Gnoll Paw (56.90, 13.43)|
 
@@ -122,17 +122,17 @@ N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk y
 R Sentinel Hill |TID|102| |N|Travel to Sentinel Hill (56.36, 47.59)|
 T Patrolling Westfall |QID|102| |N|Captain Danuvin in Sentinel Hill (56.36, 47.59)|
 
-C Westfall Stew (Part 2) |QID|38| |N|Kill Young Goretusk and Young Fleshripper and collect 3 Goretusk Snout and 3 Stringy Vulture Meat scatterred in Westfall (53.51, 39.61) (61.11, 36.65) (51.85, 17.30) (46.56, 19.45)|
-C Goretusk Liver Pie |QID|22| |N|Kill Young Goretusk and collect 8 Goretusk Liver scatterred in Westfall (53.51, 39.61) (61.11, 36.65) (51.85, 17.30) (46.56, 19.45)|
+C Westfall Stew (Part 2) |QID|38| |N|Kill Young Goretusk and Young Fleshripper and collect 3 Goretusk Snout and 3 Stringy Vulture Meat throughout Westfall (53.51, 39.61) (61.11, 36.65) (51.85, 17.30) (46.56, 19.45)|
+C Goretusk Liver Pie |QID|22| |N|Kill Young Goretusk and collect 8 Goretusk Liver throughout Westfall (53.51, 39.61) (61.11, 36.65) (51.85, 17.30) (46.56, 19.45)|
 
 R Saldean's Farm |QID|64| |N|Travel to Saldean's Farm (56.42, 30.48)|
 T Westfall Stew (Part 2) |QID|38| |N|Salma Saldean in Saldean's Farm (56.42, 30.48)|
 T Goretusk Liver Pie |QID|22| |N|Salma Saldean in Saldean's Farm (56.42, 30.53)|
 C The Forgotten Heirloom |QID|64| |N|Collect Furlbrow's Pocket Watch from Fulbrow's Wardrobe. The house is guarded by Benny Blaanco, a level 15 mob; you don't need to kill him to loot the item. Grind to level 13 if you can't complete this quest and try again (49.38, 19.27)|
 T The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow in The Jansen Stead (59.94, 19.41)|
-C The Killing Fields |QID|9| |N|Kill 20 Harvest Watcher in the 3 farms and also collect 5 Flask of Oil for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|
-N 5 Flask of Oil |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
-N 5 Hops |QID|116| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|1274 5|
+C The Killing Fields |QID|9| |N|Kill 20 Harvest Watcher in the 3 farms. Collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|
+N 5 Flask of Oil |QID|103| |N|Collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
+N 5 Hops |QID|116| |N|Collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|1274 5|
 T The Killing Fields |QID|9| |N|Farmer Saldean in Saldean's Farm (55.99, 31.28)|
 
 C Humble Beginnings |QID|399| |N|Travel to Alexston Farmstead and collect A Simple Compass from Alexston's Chest (36.1, 54.9)|
@@ -151,9 +151,9 @@ A Encroaching Gnolls |QID|244| |N|Guard Parker in Three Corners (15.32, 71.42)| 
 
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon in Redridge Mountains (30.74, 60.15)| |Z|Redridge Mountains|
 A Assessing the Threat |QID|246| |N|Deputy Feldon in Redridge Mountains (30.68, 59.81)| |Z|Redridge Mountains|
-F Lakeshire |QID|246| |N|Speak to Ariena Stormfeather to and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains| |R|Night Elf, Gnome, Dwarf|
+F Lakeshire |QID|246| |N|Speak to Ariena Stormfeather and grab flight path for Lakeshire (30.59, 59.47)| |Z|Redridge Mountains| |R|Night Elf, Gnome, Dwarf|
 A Hilary's Necklace |QID|3741| |N|Shawn in Lake Everstill (29.30, 53.62)| |Z|Redridge Mountains|
-C Hilary's Necklace |QID|3741| |N|Find Hilary's Necklace inside a mud pile underwater in the lake, check around each waypoint (19.3, 51.8) (24.1, 54.6) (26.6, 51.4) (28,56) (33.7, 55.4) (36.7, 54.3)| |Z|Redridge Mountains|
+C Hilary's Necklace |QID|3741| |N|Find Hilary's Necklace inside a mud pile underwater in the lake; Check around each waypoint (19.3, 51.8) (24.1, 54.6) (26.6, 51.4) (28,56) (33.7, 55.4) (36.7, 54.3)| |Z|Redridge Mountains|
 T Hilary's Necklace |QID|3741| |N|Hilary in Lake Everstill (29.18, 53.49)| |Z|Redridge Mountains|
 A The Price of Shoes |QID|118| |N|Verner Osgood in Lakeshire (30.82, 47.39)| |Z|Redridge Mountains|
 A Messenger to Stormwind (Part 1) |QID|120| |N|Magistrate Solomon in Lakeshire (30.01, 44.33)| |Z|Redridge Mountains|
@@ -161,14 +161,14 @@ A A Free Lunch |QID|129| |N|Darcy in Lakeshire (26.67, 44.20)| |Z|Redridge Mount
 A Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.95, 43.89)| |Z|Redridge Mountains|
 T The Defias Brotherhood (Part 1) |QID|65| |N|Wiley the Black in Lakeshire (26.65, 45.18)| |Z|Redridge Mountains|
 A The Defias Brotherhood (Part 2) |QID|132| |N|Wiley the Black in Lakeshire (26.65, 45.18)| |Z|Redridge Mountains|
-H Lakeshire |QID|129| |N|Speak toInnkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
+H Lakeshire |QID|129| |N|Speak to Innkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
 
 R Sentinel Hill |QID|135| |N|Travel to Sentinel Hill (56.28, 47.53)|
 T The Defias Brotherhood (Part 2) |QID|132| |N|Gryan Stoutmantle in Sentinel Hill (56.28, 47.53)|
 A The Defias Brotherhood (Part 3) |QID|135| |N|Gryan Stoutmantle in Sentinel Hill (56.28, 47.53)|
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
-B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley Of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
+B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
 T Humble Beginnings |QID|399| |N|Baros Alexston in Cathedral Square (57.7, 47.9)| |Z|Stormwind City|
 T Stormpike's Order |QID|1338| |N|Furen Longbeard in the Dwarven District (64.6, 37.2)| |Z|Stormwind City|
 
@@ -176,8 +176,8 @@ T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A Drones In Westfall |QID|41390| |N|Renzik /The Shiv/ in SI:7 (78.3, 71.1)| |Z|Stormwind City|
 B Captain Sander's Treasure Map |QID|116.2| |N|This is optional. If you have money to spare, purchase Captain Sander's Treasure Map from the Auction House (61.1, 71)| |Z|Stormwind City| |L|1357|
-T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.8)| |Z|Stormwind City|
-A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.8)| |Z|Stormwind City|
+T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.8)| |Z|Stormwind City|
+A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.8)| |Z|Stormwind City|
 
 R Goldshire |QID|119| |N|Travel to Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
@@ -196,23 +196,23 @@ A Messenger to Westfall (Part 2) |QID|144| |N|Gryan Stoutmantle in Sentinel Hill
 T The Defias Brotherhood (Part 4) |QID|141| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.62)|
 A The Defias Brotherhood (Part 5) |QID|142| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.62)|
 H Sentinel Hill |QID|13| |N|Speak to Innkeeper Heather and set hearth to Sentinel Hill (52.84, 53.69)|
-N 5 Flask of Oil |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
-N 5 Hops |QID|116| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|1274 5|
+N 5 Flask of Oil |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms. Collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
+N 5 Hops |QID|116| |N|Kill 20 Harvest Watcher in the 3 farms. Collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|1274 5|
 
 R Moonbrook |QID|142| |N|Travel to Moonbrook (44.01, 69.47)|
 C The Defias Brotherhood (Part 5) |QID|142| |N|Kill Defias Messenger and collect A Mysterious Message, he should be near the road entrance to Moonbrook (45.72, 68.02)|
 
 R Westfall Lighthouse |QID|103| |N|Travel to Westfall Lighthouse (30.02, 86.00)|
 A Keeper of the Flame |QID|103| |N|Captain Grayson in Westfall Lighthouse (30.02, 86.00)|
-C Keeper of the Flame |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms and collect 5 Flask of Oil for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
+C Keeper of the Flame |QID|103| |N|Kill 20 Harvest Watcher in the 3 farms. Collect 5 Flask of Oil and 5 Hops for a later quest (50.94, 21.84) (44.73, 35.25) (53.41, 31.97)|  |L|814 5|
 T Keeper of the Flame |QID|103| |N|Captain Grayson in Westfall Lighthouse (29.97, 85.98)|
 A The Coastal Menace |QID|104| |N|Captain Grayson in Westfall Lighthouse (30.02, 86.00)|
 C The Coastal Menace |QID|104| |N|Kill Old Murk-Eye and collect Scale of Old Murk-Eye. He spawns in the camp to the south-west (34.9, 84.9)|
 T The Coastal Menace |QID|104| |N|Captain Grayson in Westfall Lighthouse (30.02, 86.00)|
 
 R Longshore |QID|138| |N|Travel to Longshore (25.91, 47.72)|
-T Captain Sander's Hidden Treasure (Part 1) |QID|136| |N|Captain's footlocker in Longshore (25.91, 47.72)| |OBJ|318|
-A Captain Sander's Hidden Treasure (Part 2) |QID|138| |N|Captain's footlocker in Longshore (27.00, 48.29)| |OBJ|318|
+T Captain Sander's Hidden Treasure (Part 1) |QID|136| |N|Captain's Footlocker in Longshore (25.91, 47.72)| |OBJ|318|
+A Captain Sander's Hidden Treasure (Part 2) |QID|138| |N|Captain's Footlocker in Longshore (27.00, 48.29)| |OBJ|318|
 T Captain Sander's Hidden Treasure (Part 2) |QID|138| |N|Broken Barrel (40.47, 47.90)| |OBJ|9|
 A Captain Sander's Hidden Treasure (Part 3) |QID|139| |N|Broken Barrel (40.48, 47.64)| |OBJ|9|
 T Captain Sander's Hidden Treasure (Part 3) |QID|139| |N|Old Jug in Jangolode Mine (40.68, 17.06)| |OBJ|9|
@@ -223,13 +223,13 @@ T Captain Sander's Hidden Treasure (Part 4) |QID|140| |N|Locked Chest in Longsho
 
 R Sentinel Hill |OID|14| |N|Travel or Hearthstone to Sentinel Hill (56.32, 47.55)| |U|6948|
 T The Defias Brotherhood (Part 5) |QID|142| |N|Gryan Stoutmantle in Sentinel Hill (56.29, 47.60)|
-A The Defias Brotherhood (Part 6) |QID|155| |N|The Defias Traitor in Sentinel Hill. He might not be around if another player already started the quest, you will have to wait for him to respawn (55.7, 44.60)|
-C The Defias Brotherhood (Part 6) |QID|155| |N|Escort The The Defias Traitor to discover where VanCleef is hiding. The hard part is when you're approaching the fountain in Moonbrook as he will end up pulling mobs. Safe to skip if you're not able to complete it (57.20, 60.53) (57.75, 64.97) (45.73, 65.02) (42.57, 71.27)|
+A The Defias Brotherhood (Part 6) |QID|155| |N|The Defias Traitor in Sentinel Hill. He might not be around if another player already started the quest; You will have to wait for him to respawn (55.7, 44.60)|
+C The Defias Brotherhood (Part 6) |QID|155| |N|Escort the Defias Traitor to discover where VanCleef is hiding. The hard part is when you're approaching the fountain in Moonbrook as he will end up pulling mobs. Safe to skip if you're not able to complete it (57.20, 60.53) (57.75, 64.97) (45.73, 65.02) (42.57, 71.27)|
 
 R The Dagger Hills |QID|14| |N|Travel to The Dagger Hills (52.87, 71.29) (49.60, 77.19) (44.65, 80.27)|
 A Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills, kill your way towards the quest giver (44.65, 80.27)|
 T Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills (44.65, 80.27)|
-N Keg of Thunderbrew Lager |QID|116.1| |N|You should receive from Grimbooze Thunderbrew by turning in 'Thunderbrew' quest (44.65, 80.27)| |L|1262|
+N Keg of Thunderbrew Lager |QID|116.1| |N|Grimbooze Thunderbrew provides this by turning in 'Thunderbrew' quest (44.65, 80.27)| |L|1262|
 C The People's Militia (Part 3) |QID|14| |N|Kill the required Defias enemies in The Dagger Hills (49.60, 77.19)|
 
 R Sentinel Hill |TID|14| |N|Travel to Sentinel Hill (56.32, 47.55)| |U|6948|
@@ -242,7 +242,7 @@ A Messenger to Darkshire (Part 1) |QID|145| |N|Magistrate Solomon in Lakeshire (
 
 R Lakeridge Highway |QID|246| |N|Travel to Lakeridge Highway (33.37, 67.13)| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelp and collect 6 Underbelly Whelp Scale in Lakeridge Highway (58.1, 76.1)| |Z|Redridge Mountains|
-C Assessing the Threat |QID|246| |N|Kill 10 Redridge Mongrel and 6 Redridge Poacher which can be found to the south in Lakeridge Highway (15.19, 63.42) (29.93, 80.80)| |Z|Redridge Mountains|
+C Assessing the Threat |QID|246| |N|Kill 10 Redridge Mongrel and 6 Redridge Poacher; They can be found to the south in Lakeridge Highway (15.19, 63.42) (29.93, 80.80)| |Z|Redridge Mountains|
 
 R Three Corners |OID|130| |N|Travel to Three Corners (15.43, 71.32)| |Z|Redridge Mountains|
 T A Free Lunch |QID|129| |N|Guard Parker in Three Corners (15.43, 71.32)| |Z|Redridge Mountains|
