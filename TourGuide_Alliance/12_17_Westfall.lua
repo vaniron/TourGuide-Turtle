@@ -248,10 +248,10 @@ R Three Corners |OID|130| |N|Travel to Three Corners (15.43, 71.32)| |Z|Redridge
 T A Free Lunch |QID|129| |N|Guard Parker in Three Corners (15.43, 71.32)| |Z|Redridge Mountains|
 A Visit the Herbalist |QID|130| |N|Tarantula in Three Corners (15.43, 71.32)| |Z|Redridge Mountains|
 
-R Darkshire |QID|116| |N|Travel to Darkshire (77.5, 44.4)| |Z|Duskwood|
+R Darkshire |QID|116| |N|Travel to Darkshire (72.6, 38.3)| |Z|Duskwood|
 
 B Bottle of Moonshine |QID|116.3| |N|Buy Bottle of Moonshine from Barkeep Hann in Darkshire (73.68, 44.08)| |Z|Duskwood|
-f Darkshire |QID|116| |N|Speak to Felicia Maline and grab flight path for Darkshire (77.5, 44.4)| |Z|Duskwood|
+F Darkshire |QID|116| |N|Speak to Felicia Maline and grab flight path for Darkshire (77.5, 44.4)| |Z|Duskwood|
 
 R Lakeshire |TID|122| |N|Travel to Lakeshire (30.75, 59.99)| |Z|Redridge Mountains|
 T Assessing the Threat |QID|246| |N|Deputy Feldon in Redridge Mountains (30.75, 59.99)| |Z|Redridge Mountains|
