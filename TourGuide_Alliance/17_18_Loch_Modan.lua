@@ -3,9 +3,6 @@ TourGuide:RegisterGuide("Loch Modan (17-18)", "Redridge Mountains (18-20)", "All
 
 return [[
 
-R Menethil Harbor |QID|307| |N|Travel to Menethil Harbor (9.6, 59.6)| |Z|Wetlands| |R|Night Elf|
-F Wetlands |QID|307| |N|Speak to Shellei Brondir and grab flight path for Menethil Harbor (9.6, 59.6)| |Z|Wetlands| |R|Night Elf|
-R Algaz Station |QID|307| |N|Follow the road to Algaz Station in Loch Modan (11.29, 53.52) (14.44, 45.60) (23.13, 43.43) (32.16, 39.21) (37.35, 36.79) (49.79, 39.21) (56.26, 52.75) (57.88, 61.70) (57.71, 69.11) (54.39, 72.04)| |Z|Wetlands| |R|Night Elf| |REACH|
 R Algaz Station |QID|307| |N|Travel to Algaz Station in Loch Modan (24.67, 18.25)|
 A Filthy Paws |QID|307| |N|Mountaineer Stormpike in Algaz Station (24.67, 18.25)|
 A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike in Algaz Station (24.67, 18.25)|
