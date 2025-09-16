@@ -16,7 +16,7 @@ T Redridge Rendezvous |QID|2281| |N|Lucius in Lake Everstill (28.10, 52.13)| |C|
 A Alther's Mill |QID|2282| |N|Lucius in Lake Everstill (28.10, 52.13)| |C|Rogue|
 
 R Alther's Mill |QID|2282| |N|Travel to Alther's Mill (51.99, 44.92)| |C|Rogue|
-C Alther's Mill |QID|2282| |N|Use (spell:1804) on the practice boxes until you reach about level 75 lock pick then open the Lucius's Lockbox to collect Token of Thievery in Alther's Mill (51.99, 44.92)| |C|Rogue|
+C Alther's Mill |QID|2282| |N|Use (spell:1804) on the practice boxes until you reach about level 75 Lockpicking then open the Lucius's Lockbox to collect Token of Thievery in Alther's Mill (51.99, 44.92)| |C|Rogue|
 
 R Lake Everstill |TID|2282| |N|Travel to Lake Everstill (28.17, 52.08)| |Z|Redridge Mountains| |C|Rogue|
 T Alther's Mill |QID|2282| |N|Lucius in Lake Everstill (28.17, 52.08)| |C|Rogue|
