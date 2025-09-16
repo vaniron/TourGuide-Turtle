@@ -16,7 +16,7 @@ T Redridge Rendezvous |QID|2281| |N|Lucius in Lake Everstill (28.10, 52.13)| |C|
 A Alther's Mill |QID|2282| |N|Lucius in Lake Everstill (28.10, 52.13)| |C|Rogue|
 
 R Alther's Mill |QID|2282| |N|Travel to Alther's Mill (51.99, 44.92)| |C|Rogue|
-C Alther's Mill |QID|2282| |N|Use (spell:1804) on the pratice boxes until you reach about level 75 lock pick then open the Lucius's Lockbox to collect Token of Thievery in Alther's Mill (51.99, 44.92)| |C|Rogue|
+C Alther's Mill |QID|2282| |N|Use (spell:1804) on the practice boxes until you reach about level 75 lock pick then open the Lucius's Lockbox to collect Token of Thievery in Alther's Mill (51.99, 44.92)| |C|Rogue|
 
 R Lake Everstill |TID|2282| |N|Travel to Lake Everstill (28.17, 52.08)| |Z|Redridge Mountains| |C|Rogue|
 T Alther's Mill |QID|2282| |N|Lucius in Lake Everstill (28.17, 52.08)| |C|Rogue|
@@ -35,14 +35,14 @@ A Hilary's Necklace |QID|3741| |N|Shawn in Lake Everstill (29.33, 53.49)|
 A Selling Fish |QID|127| |N|Dockmaster Baren in Lakeshire (27.68, 47.38)|
 A A Free Lunch |QID|129| |N|Darcy in Redridge Mountains (27.08, 45.13)|
 A Dry Times |QID|116| |N|Barkeep Daniels in Lakeshire (26.50, 44.11)| |Z|Redridge Mountains|
-h Lakeshire |QID|92| |N|Speak toInnkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
+h Lakeshire |QID|92| |N|Speak to Innkeeper Brianna and set hearth to Lakeshire (27.01, 44.90)| |Z|Redridge Mountains|
 A Redridge Goulash |QID|92| |N|Chef Breanna in Lakeshire (22.70, 43.88)|
 A The Price of Shoes |QID|118| |N|Verner Osgood in Lakeshire (30.82, 47.39)| |Z|Redridge Mountains|
 A Messenger to Stormwind (Part 1) |QID|120| |N|Magistrate Solomon in Lakeshire (30.01, 44.33)| |Z|Redridge Mountains|
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
-T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.7)| |Z|Stormwind City|
-A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley Of Heroes (69.2, 82.7)| |Z|Stormwind City|
+T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.7)| |Z|Stormwind City|
+A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.7)| |Z|Stormwind City|
 
 R Goldshire |QID|119| |N|Travel to Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
@@ -57,7 +57,7 @@ T Messenger to Stormwind (Part 2) |QID|121| |N|Magistrate Solomon in Lakeshire (
 K Great Goretusk |QID|92| |N|Kill Great Goretusk and collect 5 Great Goretusk Snout to the west of the lake (16.5, 49.6)| |L|2296 5|
 C Hilary's Necklace |QID|3741| |N|Find Hilary's Necklace inside a mud pile underwater in the lake, check around each waypoint (19.3, 51.8) (24.1, 54.6) (26.6, 51.4) (28,56) (33.7, 55.4) (36.7, 54.3)|
 C The Lost Tools |QID|125| |N|You can find Oslow's Toolbox in the Sunken Chest underwater (41.4, 54.7)|
-C Selling Fish |QID|127| |N|Kill the Murloc Shorestriker, Murloc Minor Tidecaller and Murloc Flesheater in the water, collect 10 Spotted Sunfish<br/><b>Also keep all Murloc Fin that you find|
+C Selling Fish |QID|127| |N|Kill the Murloc Shorestriker, Murloc Minor Tidecaller and Murloc Flesheater in the water and collect 10 Spotted Sunfish. Keep 8 Murloc Fin|
 N Murloc Fin|QID|150| |N|Keep killing Murloc Shorestriker, Murloc Minor Tidecaller, Murloc Flesheater to collect 8 Murloc Fin for a quest 'Murloc Poachers' later| |T| |L|1468 8|
 
 R Lakeshire |QID|125| |N|Travel to Lakeshire (32.18, 48.84)| |REACH|
@@ -73,7 +73,7 @@ K Tarantula |QID|92.3| |N|Kill Tarantula and collect 5 Crisp Spider Meat in Thre
 
 R Lakeridge Highway |QID|92| |N|Travel to Lakeridge Highway (30.88, 83.20)|
 C Assessing the Threat |QID|246| |N|Kill 10 Redridge Mongrel and 6 Redridge Poacher which can be found to the south in Lakeridge Highway (30.88, 83.20) (41.98, 72.88)|
-K Dire Condor |QID|92.2| |N|Kill Dire Condor and get 5 pieces of Tough Condor Meat<br/><b>Tip: also kill Black Dragon Whelp in the area for easy XP (59.10, 77.17)| |L|1080 5|
+K Dire Condor |QID|92.2| |N|Kill Dire Condor and get 5 pieces of Tough Condor Meat. Tip: Also kill Black Dragon Whelp in the area for easy XP (59.10, 77.17)| |L|1080 5|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelp and collect 6 Underbelly Whelp Scale in Lakeridge Highway (33.37, 67.13)| |Z|Redridge Mountains|
 
 R Lakeshire |QID|131| |N|Travel to Lakeshire (30.74, 60.15)| |REACH|
@@ -119,10 +119,11 @@ N Please Read |QID|2609| |N|It's optional to complete the Touch of Zanzil quest 
 B Simple Wildflowers |QID|2609.1| |N|Buy Simple Wildflowers from Bernard Gump in The Canals (65.13, 60.05) (64.19, 61.12)| |Z|Stormwind City| |C|Rogue|
 B Leaded Vial |QID|2609.2| |N|Buy Leaded Vial from Edna Mullby in Trade District (58.10, 60.64)| |Z|Stormwind City| |C|Rogue|
 N Spool of Light Chartreuse Silk Thread |QID|2609.4| |N|Collect Spool of Light Chartreuse Silk Thread from the floor inside the shop, it's near the crate on the left hand side as you walk in (39.97, 46.23)| |Z|Stormwind City| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Billibub Cogspinner in Dwarven District. This is a limited supply item and may not be available, tick this step to try another vendor (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Loslor Rudge in Steelgrill's Depot. This is a limited supply item and may not be available, tick this step to try another vendor (50.08, 49.36)| |Z|Dun Morogh| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Gearcutter Cogspinner in Tinker Town. This is a limited supply item and may not be available, tick this step to try another vendor (67.87, 42.69)| |Z|Ironforge| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Neal Allen in Menethil Keep. This is a limited supply item and may not be available, tick this step to try another vendor (10.78, 56.73)| |Z|Wetlands| |C|Rogue|
+B Bronze Tube |QID|2609.3| |N|It is easiest to purchase Bronze Tube from the Auction House, but it may be more expensive. Tick this step to try vendors (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
+B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Billibub Cogspinner in Dwarven District. This is a limited supply item and may not be available. Tick this step to try another vendor (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
+B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Loslor Rudge in Steelgrill's Depot. This is a limited supply item and may not be available. Tick this step to try another vendor (50.08, 49.36)| |Z|Dun Morogh| |C|Rogue|
+B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Gearcutter Cogspinner in Tinker Town. This is a limited supply item and may not be available. Tick this step to try another vendor (67.87, 42.69)| |Z|Ironforge| |C|Rogue|
+B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Neal Allen in Menethil Keep. This is a limited supply item and may not be available. Tick this step to try another vendor (10.78, 56.73)| |Z|Wetlands| |C|Rogue|
 T The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil in SI:7 (78.02, 58.87)| |Z|Stormwind City| |C|Rogue|
 U Eau de Mixilpixil |N|Use Eau de Mixilpixil to cure the (spell:9991) debuff| |U|8432| |C|Rogue|
 
