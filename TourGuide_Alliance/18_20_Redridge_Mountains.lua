@@ -114,7 +114,7 @@ A The Touch of Zanzil |QID|2608| |N|Doc Mixilpixil in SI:7 (77.97, 58.97)| |Z|St
 C The Touch of Zanzil |QID|2608| |N|Type "/Lay" to lay down to be examined by Doc Mixilpixil (77.97, 58.97)| |Z|Stormwind City| |C|Rogue|
 T The Touch of Zanzil |QID|2608| |N|Doc Mixilpixil in SI:7 (77.98, 58.90)| |Z|Stormwind City| |C|Rogue|
 A The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil in SI:7 (77.98, 58.90)| |Z|Stormwind City| |C|Rogue|
-N Please Read |QID|2609| |N|It's optional to complete the Touch of Zanzil quest if you can find a Druid, Priest or Paladin to dispel the (spell:9991) debuff. Dwarf can use (spell:20594) racial to remove the poison, otherwise you will need to complete the quest to get the cure. All the mats for the quest can be found in Stormwind but the Bronze Tube is a limited item and may not be available to purchase. Tick to continue| |C|Rogue|
+N Please Read |QID|2609| |N|It's optional to complete the Touch of Zanzil quest if you can find a Druid, Priest, or Paladin to dispel the (spell:9991) debuff. Dwarf can use (spell:20594) racial to remove the poison, otherwise you will need to complete the quest to get the cure. All the mats for the quest can be found in Stormwind but the Bronze Tube is a limited item and may not be available to purchase. Tick to continue| |C|Rogue|
 
 B Simple Wildflowers |QID|2609.1| |N|Buy Simple Wildflowers from Bernard Gump in The Canals (65.13, 60.05) (64.19, 61.12)| |Z|Stormwind City| |C|Rogue|
 B Leaded Vial |QID|2609.2| |N|Buy Leaded Vial from Edna Mullby in Trade District (58.10, 60.64)| |Z|Stormwind City| |C|Rogue|
