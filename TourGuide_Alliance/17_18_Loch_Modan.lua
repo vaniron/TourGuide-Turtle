@@ -69,7 +69,6 @@ R City of Ironforge |TID|301| |N|Travel to City of Ironforge (55.60, 47.94)| |Z|
 N Letter to Delgren |QID|967| |N|Store Letter to Delgren to the bank (35.48, 60.70)| |Z|Ironforge| |L|5354| |O|
 N Fandral's Message |QID|952| |N|Store Fandral's Message to the bank (35.48, 60.70)| |Z|Ironforge| |L|5390| |O|
 F The Great Forge |TID|301| |N|Speak to Gryth Thurden and grab flight path for The Great Forge (55.60, 47.94)| |Z|Ironforge|
-A Speak with Shoni |QID|2041| |N|Gnoarn in Ironforge (69.4, 50.6)| |Z|Ironforge|
 T Report to Ironforge |QID|301| |N|Prospector Stormpike in The Library (74.31, 12.16)| |Z|Ironforge|
 
 N Guide Complete |N|Tick to continue to the next guide|
