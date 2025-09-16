@@ -123,7 +123,7 @@ B Bronze Tube |QID|2609.3| |N|It is easiest to purchase Bronze Tube from the Auc
 B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Billibub Cogspinner in Dwarven District. This is a limited supply item and may not be available. Tick this step to try another vendor (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
 B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Loslor Rudge in Steelgrill's Depot. This is a limited supply item and may not be available. Tick this step to try another vendor (50.08, 49.36)| |Z|Dun Morogh| |C|Rogue|
 B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Gearcutter Cogspinner in Tinker Town. This is a limited supply item and may not be available. Tick this step to try another vendor (67.87, 42.69)| |Z|Ironforge| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Neal Allen in Menethil Keep. This is a limited supply item and may not be available. Tick this step to try another vendor (10.78, 56.73)| |Z|Wetlands| |C|Rogue|
+B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Neal Allen in Menethil Keep. This is a limited supply item and may not be available. (10.78, 56.73)| |Z|Wetlands| |C|Rogue|
 T The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil in SI:7 (78.02, 58.87)| |Z|Stormwind City| |C|Rogue|
 U Eau de Mixilpixil |N|Use Eau de Mixilpixil to cure the (spell:9991) debuff| |U|8432| |C|Rogue|
 
