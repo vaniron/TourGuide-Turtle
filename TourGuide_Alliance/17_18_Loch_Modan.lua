@@ -53,7 +53,7 @@ A Report to Ironforge |QID|301| |N|Jern Hornhelm in Thelsamar (37.17, 47.55)|
 T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove in Stoutlager Inn (34.88, 49.18)| |Z|Loch Modan|
 
 R Grizzlepaw Ridge |QID|271| |N|Travel to Grizzlepaw Ridge (39.98, 66.87)|
-C Vyrin's Revenge (Part 1) |QID|271| |N|Kill Ol' Sooty in the cave at the top of the mountain and collect Ol' Sooty's Head in Grizzlepaw Ridge. This can be difficult to solo; It's safe to abandon and skip all Vyrin's Revenge quests (39.98, 66.87) (40.89, 63.06) (40.06, 61.55)|
+C Vyrin's Revenge (Part 1) |QID|271| |N|Kill Ol' Sooty and collect Ol' Sooty's Head in the cave at Grizzlepaw Ridge. This can be difficult to solo; It's safe to abandon and skip all Vyrin's Revenge quests (39.98, 66.87) (40.89, 63.06) (40.06, 61.55)|
 
 R The Farstrider Lodge |QID|531| |N|Travel to The Farstrider Lodge (81.84, 61.77)|
 T Crocolisk Hunting |QID|385| |N|Marek Ironheart in The Farstrider Lodge (81.84, 61.77)|
