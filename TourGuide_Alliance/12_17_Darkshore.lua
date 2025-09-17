@@ -122,7 +122,7 @@ T Bashal'Aran (Part 3) |QID|956| |N|Asterion in Bashal'Aran (44.20, 36.30)|
 A Bashal'Aran (Part 4) |QID|957| |N|Asterion in Bashal'Aran (44.20, 36.30)|
 N As you go... |AYG|984| |QID|1002| |N|Kill Moonstalker cats when you see them for 6 Moonstalker Fang|
 C The Red Crystal |QID|4811| |N|Find the Red Crystal to the east of Auberdine on the Mountain's border (47.3, 48.7)|
-C How Big a Threat? (Part 1) |QID|984| |N|Find a corrupt furbolg camp in Darkshore, you just need to reach the waypoint to complete the quest (39.92, 53.62)|
+C How Big a Threat? (Part 1) |QID|984| |N|Find a corrupt furbolg camp in Darkshore; You just need to reach the waypoint to complete the quest (39.92, 53.62)|
 
 R Twilight Vale |QID|953| |N|Travel to Twilight Vale (40.30, 59.68)|
 A The Fall of Ameth'Aran |QID|953| |N|Sentinel Tysha Moonblade in Twilight Vale (40.30, 59.68)|
