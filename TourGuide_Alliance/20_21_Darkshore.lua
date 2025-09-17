@@ -45,7 +45,7 @@ R Auberdine |QID|4740| |N|Travel to Auberdine (37.21, 44.27)|
 A WANTED: Murkdeep! |QID|4740| |N|Wanted Poster in Auberdine (37.21, 44.27)|
 A How Big a Threat? (Part 1) |QID|984| |N|Terenthis in Auberdine (39.35, 43.46)|
 A The Absent Minded Prospector (Part 1) |QID|729| |N|Archaeologist Hollee in Auberdine (37.48, 41.85)|
-C How Big a Threat? (Part 1) |QID|984| |N|Find a corrupt furbolg camp in Darkshore, you just need to reach the waypoint to complete the quest (39.92, 53.62)|
+C How Big a Threat? (Part 1) |QID|984| |N|Find a corrupt furbolg camp in Darkshore; You just need to reach the waypoint to complete the quest (39.92, 53.62)|
 T How Big a Threat? (Part 1) |QID|984| |N|Terenthis in Auberdine (39.35, 43.46)|
 A How Big a Threat? (Part 2) |QID|985| |N|Terenthis in Auberdine (39.35, 43.46)|
 A Cave Mushrooms |QID|947| |N|Barithras Moonshade in Auberdine (37.32, 43.66)|
