@@ -140,27 +140,6 @@ function TourGuide:UpdateStatusFrame()
 			local haslootitem = lootitem and self.GetItemCount(lootitem) >= lootqty
 			local prereqturnedin = prereq and self.turnedin[prereq]
 
-			-- Test for completed objectives and mark them done
-			if action == "SETHEARTH" and self.db.char.hearth == name then return self:SetTurnedIn(i, true) end
-
-			local zonetext, subzonetext, subzonetag = GetZoneText(), GetSubZoneText(), self:GetObjectiveTag("SZ")
-			if (action == "RUN" or action == "FLY" or action == "HEARTH" or action == "BOAT") and (subzonetext == name or subzonetext == subzonetag or zonetext == name or zonetext == subzonetag) then return self:SetTurnedIn(i, true) end
-
-			if action == "KILL" or action == "NOTE" then
-				if not optional and haslootitem then return self:SetTurnedIn(i, true) end
-
-				local quest, questtext = self:GetObjectiveTag("Q", i), self:GetObjectiveTag("QO", i)
-				if quest and questtext then
-					local qi = self:GetQuestLogIndexByName(quest)
-					for lbi=1,GetNumQuestLeaderBoards(qi) do
-						self:Debug( quest, questtext, qi, GetQuestLogLeaderBoard(lbi, qi))
-						if GetQuestLogLeaderBoard(lbi, qi) == questtext then return self:SetTurnedIn(i, true) end
-					end
-				end
-			end
-
-			if action == "PET" and self.db.char.petskills[name] then return self:SetTurnedIn(i, true) end
-
 			local incomplete
 			if action == "ACCEPT" then incomplete = (not optional or hasuseitem or haslootitem or prereqturnedin) and not logi
 			elseif action == "TURNIN" then incomplete = not optional or logi
@@ -170,17 +149,6 @@ function TourGuide:UpdateStatusFrame()
 			else incomplete = not logi end
 
 			if incomplete then nextstep = i end
-
-			if action == "COMPLETE" and logi and self.db.char.trackquests then
-				local j = i
-				repeat
-					action = self:GetObjectiveInfo(j)
-					turnedin, logi, complete = self:GetObjectiveStatus(j)
-					if action == "COMPLETE" and logi and not complete then if not IsQuestWatched(logi) then AddQuestWatch(logi) end-- Watch if we're in a 'COMPLETE' block
-					elseif action == "COMPLETE" and logi then RemoveQuestWatch(logi) end -- or unwatch if done
-					j = j + 1
-				until action ~= "COMPLETE"
-			end
 		end
 	end
 	QuestLog_Update()
@@ -189,9 +157,10 @@ function TourGuide:UpdateStatusFrame()
 	if not nextstep and self:LoadNextGuide() then return self:UpdateStatusFrame() end
 
 	if not nextstep then return end
-
+	
 	self:SetStatusText(nextstep)
 	self.current = nextstep
+	
 	local action, quest, fullquest = self:GetObjectiveInfo(nextstep)
 	local turnedin, logi, complete = self:GetObjectiveStatus(nextstep)
 	local note, useitem, optional, qid = self:GetObjectiveTag("N", nextstep), self:GetObjectiveTag("U", nextstep), self:GetObjectiveTag("O", nextstep), self:GetObjectiveTag("QID", nextstep)
@@ -204,6 +173,16 @@ function TourGuide:UpdateStatusFrame()
 		self:ParseAndMapCoords(qid, action, note, quest, zonename) --, zone)
 	end
 
+	-- Check if the new current step is LOOT and if we already have the items
+	if action == "LOOT" then
+		self:Debug("Current step is LOOT, checking inventory...")
+		if self:CheckCurrentStepItems() then 
+			-- We already have the items, mark this step as turned in
+			self:Debug("Items already in inventory for LOOT step. Completing step: " .. quest)
+			self:SetTurnedIn() -- This will trigger UpdateStatusFrame again to find the *next* incomplete step
+			return -- Prevent the rest of the function from running for this completed step
+		end
+	end
 
 	local newtext = (quest or "???")..(note and " [?]" or "")
 
@@ -218,6 +197,7 @@ function TourGuide:UpdateStatusFrame()
 		f2:SetPoint(f2anchor, f, f2anchor, 0, 0)
 		f2:SetAlpha(1)
 		icon2:SetTexture(icon:GetTexture())
+		icon2:SetTexCoord(4/48, 44/48, 4/48, 44/48)
 		text2:SetText(text:GetText())
 		f2:Show()
 	end
