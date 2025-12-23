@@ -178,7 +178,7 @@ C The Venture Co. |QID|764| |N|Kill 14 Venture Co. Worker and 6 Venture Co. Supe
 C Rites of the Earthmother (Part 3) |QID|776| |N|Find and kill a kodo Arra'chea east of Thunder Bluff in The Golden Plains (49, 19) (52, 10) (54, 35)|
 
 R Southern Barrens |QID|6002| |N|Travel to Southern Barrens (42.00, 60.84)| |C|Druid| |Z|The Barrens|
-C Body and Heart |QID|6002| |N|Use the Cenarion Lunardust on the Moonkin Stone between Mulgore and the Barrens to summon Turak Runetotem in Southern Barrens (42.00, 60.84)| |C|Druid| |Z|The Barrens|
+C Body and Heart |QID|6002| |N|Kill Lunaclaw. Use the Cenarion Lunardust on the Moonkin Stone between Mulgore and the Barrens to summon it (42.00, 60.84)| |C|Druid| |Z|The Barrens|
 
 R Bloodhoof Village |QID|759| |N|Travel to Bloodhoof Village (48.50, 60.46)|
 T Thunderhorn Cleansing |QID|758| |N|Mull Thunderhorn in Bloodhoof Village (48.50, 60.46)|
