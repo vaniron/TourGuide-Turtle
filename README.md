@@ -15,8 +15,10 @@ Recommended Downloads:
 * **Arrow to navigate you to next guide point**
 * you have to disable arrow from pfQuest as its showing closest quest, not optimal path - TomTom is integrated directly to TourGuide and shoudl be used instead
 
-[**pfQuest & pfUI**](https://shagu.org)
+[**pfQuest**](https://github.com/shagu/pfQuest) + [**pfQuest-turtle**](https://github.com/shagu/pfQuest-turtle)
 * pfQuest adds many features like tracking, map icons etc.
+
+[**pfUI**](https://github.com/shagu/pfUI)
 * pfUI provides so much more, overall UI overhaul but all features can be tweaked and disabled if you dont like them
 
 Optional addon: [TourGuide_Professions](https://github.com/Lorwik/TourGuide_Professions)
