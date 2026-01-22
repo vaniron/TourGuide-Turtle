@@ -3,6 +3,7 @@
 	<Script file="01_12_TirisfalGlades.lua"/>
 	<Script file="01_12_Mulgore.lua"/>
 	<Script file="01_12_Durotar.lua"/>
+	<Script file="01_12_BlackstoneIsland.lua"/>
 	<Script file="12_20_Barrens.lua"/>
 	<Script file="12_20_Silverpine_Forest.lua"/>
 
@@ -32,7 +33,7 @@
 	<Script file="42_43_Gilneas_Horde.lua"/>
 	<Script file="42_43_Stranglethorn_Vale.lua"/>
 	<Script file="43_44_Dustwallow_Marsh.lua"/>
-	<Script file="44_44_Desolace.lua"/>	
+	<Script file="44_44_Desolace.lua"/>
 	<Script file="44_45_Tanaris.lua"/>
 	<Script file="45_46_Feralas.lua"/>
 	<Script file="46_47_Azshara.lua"/>
@@ -57,6 +58,6 @@
 	<Script file="57_58_Western_Plaguelands.lua"/>
 	<Script file="58_59_Silithus.lua"/>
 	<Script file="59_60_Winterspring.lua"/>
-	
+	<Script file="Onyxia_Attunement_Horde.lua"/>
 </Ui>
 

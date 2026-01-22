@@ -55,5 +55,5 @@
 	<Script file="57_58_Western_Plaguelands.lua"/>
 	<Script file="58_59_Silithus.lua"/>
 	<Script file="59_60_Winterspring.lua"/>
-	
+	<Script file="Onyxia_Attunement_Alliance.lua"/>	
 </Ui>
